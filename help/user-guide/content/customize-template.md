@@ -3,9 +3,9 @@ title: Vorlagen anpassen
 description: Erfahren Sie, wie Sie eine benutzerdefinierte Vorlage für GenStudio erstellen.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,8 @@ ht-degree: 0%
 
 Sie können Ihre HTML-Vorlagen für GenStudio mithilfe der Vorlagensprache _Handlebars_ anpassen. Die Handlebars-Syntax verwendet regulären Text mit doppelten Klammern als Inhaltsplatzhalter. Informationen zur Vorbereitung Ihrer Vorlage finden Sie unter [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) im _Handlebars-Sprachleitfaden_ .
 
-## Vorlagenstruktur
-
 <!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->
-
-Wenn Sie noch keine HTML-Vorlage für GenStudio haben, können Sie die Struktur Ihrer E-Mail mit den HTML-Tags `DOCTYPE`, `html`, `head` und `body` definieren. Sie können CSS-Stile einbeziehen, um das Erscheinungsbild Ihrer E-Mail anzupassen.
+-->If you do not have an HTML template ready to use in GenStudio, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
 
 ```html
 <!DOCTYPE html>
@@ -35,13 +31,15 @@ Wenn Sie noch keine HTML-Vorlage für GenStudio haben, können Sie die Struktur 
 </html>
 ```
 
+Siehe [Vorlagenbeispiele](#template-examples).
+
 >[!TIP]
 >
->Fügen Sie in den nächsten Abschnitten Platzhalter für E-Mail-Felder hinzu, blenden Sie unnötige Elemente aus der Vorschau aus und verwalten Sie Links zu statischen Inhalten. Sobald Ihre Vorlage fertig ist, können Sie sie [in GenStudio](use-templates.md#upload-a-template) hochladen und mit der Generierung personalisierter E-Mails auf der Basis Ihrer benutzerdefinierten Vorlage beginnen.
+>Fügen Sie in den nächsten Abschnitten Platzhalter für E-Mail-Felder hinzu, sehen Sie Beispielvorlagen, blenden Sie unnötige Elemente aus der Vorschau aus und verwalten Sie Links zu statischen Inhalten. Sobald Ihre Vorlage fertig ist, können Sie sie [in GenStudio](use-templates.md#upload-a-template) hochladen und mit der Generierung personalisierter E-Mails auf der Basis Ihrer benutzerdefinierten Vorlage beginnen.
 
 ## Inhalts-Platzhalter
 
-Im Kopf- oder Textkörper der Vorlage können Sie die Handlebars-Syntax verwenden, um Platzhalter für Inhalte einzufügen, für die GenStudio die E-Mail mit dem tatsächlichen Inhalt füllen muss. GenStudio erkennt und interpretiert die Inhaltsplatzhalter automatisch basierend auf dem Feldnamen.
+Im Kopf- oder Textkörper einer Vorlage können Sie die Handlebars-Syntax verwenden, um Platzhalter für Inhalte einzufügen, für die GenStudio die Vorlage mit dem tatsächlichen Inhalt füllen muss. GenStudio erkennt und interpretiert die Inhaltsplatzhalter automatisch basierend auf dem Feldnamen.
 
 Beispielsweise können Sie mit `{{ headline }}` angeben, wo die Überschrift der E-Mail platziert werden soll:
 
@@ -49,27 +47,68 @@ Beispielsweise können Sie mit `{{ headline }}` angeben, wo die Überschrift der
 <div>{{ headline }}</div>
 ```
 
+### Feldnamen
+
 Die maximal zulässige Anzahl von Feldern in einer benutzerdefinierten Vorlage beträgt zwanzig.
 
-**Erkannte Feldnamen**:
+#### Erkannte Feldnamen
+
+In der folgenden Tabelle sind die Feldnamen aufgeführt, die von GenStudio für die Population erkannt werden.
 
 | Feld | Rolle | Kanalvorlage |
 | -------------- | ---------------------- | -------------------- |
-| `pre_header` | Pre-Header | email |
-| `headline` | Überschrift | email<br>Social-Anzeige |
-| `body` | Textkopie | email<br>Social-Anzeige |
-| `cta` | Aktionsaufruf | email<br>Social-Anzeige |
-| `on_image_text` | Im Bildtext | Social Advertising |
-| `image` | Bild | email<br>Social-Anzeige |
-| `brand_logo` | Logo der ausgewählten Marke | Social Advertising |
+| `pre_header` | Pre-Header | email (empfohlen) |
+| `headline` | Überschrift | email (empfohlen)<br>Meta-Anzeige |
+| `body` | Textkopie | email (empfohlen)<br>Meta-Anzeige |
+| `cta` | Aktionsaufruf | email (empfohlen)<br>Meta-Anzeige |
+| `on_image_text` | Im Bildtext | Metaanzeige (empfohlen) |
+| `image` | Bild | email (empfohlen)<br>Meta-Anzeige (empfohlen) |
+| `brand_logo` | Logo der ausgewählten Marke | Meta-Anzeige |
 
->[!IMPORTANT]
+GenStudio füllt bestimmte Felder automatisch in Vorlagen aus, sodass es nicht erforderlich ist, sie in Ihre Vorlagenentwürfe aufzunehmen:
+
+* Feld `subject` (E-Mail-Vorlage)
+* Felder `headline`, `body` und `CTA` (Meta-Anzeigenvorlage)
+
+>[!WARNING]
 >
->GenStudio stellt die E-Mail-Vorlage während des [!DNL Create]-Prozesses automatisch mit dem Feld &quot;`subject`&quot;bereit. Daher ist es nicht erforderlich, das Betrefffeld in Ihre E-Mail-Vorlage aufzunehmen.
+>Bei Instagram-Anzeigen erscheint die generierte Überschrift nicht im endgültigen Erlebnis.
 
-+++Beispiel: Grundlegende Vorlage
+#### Manuelle Feldnamen
 
-Im Folgenden finden Sie ein Beispiel für eine HTML-Vorlage für E-Mails. Der Kopf enthält einfache Inline-CSS für die Formatierung. Der Hauptteil enthält einen Platzhalter `pre-header`, `headline` und `image`, der von GenStudio zum Einfügen von Inhalten während des E-Mail-Generierungsprozesses verwendet wird.
+Alle anderen Feldnamen werden als manuell ausgefüllte Felder behandelt. Wenn ein Abschnitt bearbeitbar sein soll, fügen Sie im Bereich, den Sie bearbeiten möchten, doppelte Klammern hinzu.
+
+> Beispiel: ``{{customVariable}}`` (customVariable ist der manuell bearbeitbare Abschnitt)
+
+## Abschnitte oder Gruppen
+
+_Abschnitte_ informieren GenStudio darüber, dass Felder in diesem Abschnitt einen hohen Grad an Kohärenz erfordern. Durch diese Beziehung kann die KI Inhalte generieren, die mit den kreativen Elementen im Abschnitt übereinstimmen.
+
+Verwenden Sie ein Präfix Ihrer Wahl im Feldnamen, um anzugeben, dass ein Feld Teil eines Abschnitts oder einer Gruppe ist.
+
+Sie können beispielsweise Inhalte in einem hervorgehobenen Bereich markieren:
+
+* `spotlight_headline`
+* `spotlight_body`
+
+Jeder Abschnitt kann nur einen Feldtyp aufweisen. Im obigen Beispiel darf das Präfix `spotlight` nur ein `spotlight_headline` -Feld enthalten.
+
+Eine Vorlage kann aus bis zu drei Bereichen bestehen:
+
+* `headline`
+* `body`
+* `spotlight_headline`
+* `spotlight_body`
+* `news_headline`
+* `news_body`
+
+GenStudio versteht, dass `spotlight_headline` enger mit `spotlight_body` als mit `news_body` verwandt ist.
+
+## Vorlagenbeispiele
+
++++Beispiel: E-Mail-Vorlage mit einem Abschnitt
+
+Im Folgenden finden Sie ein Beispiel für eine HTML-Vorlage für eine E-Mail, die nur einen Bereich enthält. Der Kopf enthält einfache Inline-CSS für die Formatierung. Der Hauptteil enthält einen `pre-header`-, `headline`- und `image` [Platzhalter](#content-placeholders) für die Verwendung durch GenStudio zum Einfügen von Inhalten während des E-Mail-Generierungsprozesses.
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
@@ -99,35 +138,9 @@ Im Folgenden finden Sie ein Beispiel für eine HTML-Vorlage für E-Mails. Der Ko
 
 +++
 
-### Hintergrundbild
++++Beispiel: E-Mail-Vorlage mit mehreren Abschnitten
 
-Beim Entwerfen einer Anzeige für Meta ist es wichtig, ein Hintergrundbild zu verwenden, das durch Text und eine Markenlogo-Überlagerung ergänzt wird. Um eine korrekte Skalierung des Bildes zu gewährleisten, müssen für Meta-Anzeigenvorlagen `aspect ratio` angegeben werden. In diesem Kontext können Sie nur ein Bildfeld angeben.
-
-## Abschnitte oder Gruppen
-
-_Abschnitte_ bieten eine Möglichkeit, GenStudio darüber zu informieren, dass Felder, die zu einem Abschnitt gehören, einen hohen Grad an Kohärenz erfordern. Durch diese Beziehung kann die KI Inhalte generieren, die mit den kreativen Elementen im Abschnitt übereinstimmen. Eine Vorlage kann bis zu drei Abschnitte enthalten.
-
-Verwenden Sie ein Präfix Ihrer Wahl im Feldnamen, um anzugeben, dass dieses Feld Teil eines Abschnitts oder einer Gruppe ist. Sie können beispielsweise Inhalte in einem hervorgehobenen Bereich markieren. Sie können den Inhalt für diesen Bereich mit einem gemeinsamen Präfix identifizieren:
-
-- `spotlight_headline`
-- `spotlight_body`
-
-Jeder Abschnitt kann nur einen Feldtyp aufweisen. Beispielsweise kann die obige Beispielgruppe mit dem Präfix `spotlight` nur ein Feld `spotlight_headline` aufweisen.
-
-Wenn Sie mehrere Abschnitte haben (maximal drei):
-
-- `headline`
-- `body`
-- `spotlight_headline`
-- `spotlight_body`
-- `news_headline`
-- `news_body`
-
-GenStudio versteht, dass `spotlight_headline` enger mit `spotlight_body` als mit `news_body` verwandt ist.
-
-+++Beispiel: Vorlage mit mehreren Abschnitten
-
-Im Beispiel oben ist dieselbe HTML-Vorlage zu sehen, jedoch mit zwei weiteren Abschnitten. Der Kopf enthält Inline-CSS zum Formatieren eines Pods. Der Text verwendet zwei Pods mit Inhalts-Platzhaltern, die ein Präfix verwenden.
+Im Beispiel oben ist dieselbe HTML-Vorlage zu sehen, jedoch mit zwei weiteren Abschnitten. Der Kopf enthält Inline-CSS zum Formatieren einer Gruppe. Der Hauptteil verwendet zwei Gruppen mit [Inhalts-Platzhaltern](#content-placeholders), die ein Präfix verwenden.
 
 ```handlebars {line-numbers="true" highlight="33"}
 <!DOCTYPE html>
@@ -177,11 +190,67 @@ Im Beispiel oben ist dieselbe HTML-Vorlage zu sehen, jedoch mit zwei weiteren Ab
 
 +++
 
++++Beispiel: Meta-Anzeigenvorlage
+
+Im Folgenden finden Sie ein grundlegendes Beispiel für eine Meta-Anzeigenvorlage. Der Kopf enthält Inline-CSS für die Formatierung. Der Hauptteil verwendet [Inhalts-Platzhalter](#content-placeholders) mit einem Präfix.
+
+```handlebars {line-numbers="true" highlight="33"}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adobe</title>
+    <style>
+        .ad-container {
+            width: 300px;
+            border: 1px solid #ddd;
+            padding: 16px;
+            font-family: Arial, sans-serif;
+        }
+        .ad-image {
+            width: 100%;
+            height: auto;
+        }
+        .ad-headline {
+            font-size: 18px;
+            font-weight: bold;
+            margin: 12px 0;
+        }
+        .ad-body {
+            font-size: 14px;
+            margin: 12px 0;
+        }
+        .ad-cta {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<div class="ad-container">
+    <img src="{{ image }}" alt="Ad Image" class="ad-image">
+    <div class="ad-headline">"{{ headline }}"</div>
+    <div class="ad-body">"{{ body }}"</div>
+    <a href="(https://example.com)" class="ad-cta">"{{ CTA }}"</a>
+</div>
+
+</body>
+</html>
+```
+
++++
+
 ## Vorschau der Vorlage
 
-E-Mail-Vorlagen enthalten manchmal spezielle Inhalte, die für die Vorschau in GenStudio nicht erforderlich sind. Sie können die Sichtbarkeit dieses Inhalts mithilfe von integrierten Helfern steuern, bei denen es sich um spezielle Ausdrücke in der Vorlagensprache Handlebars handelt, mit denen bestimmte Aktionen durchgeführt werden können.
+Mit integrierten Helfern (speziellen Ausdrücken in der Vorlagensprache Handlebars, die bestimmte Aktionen durchführen) können Sie die Sichtbarkeit von speziellen Inhalten steuern. Sie können beispielsweise Tracking-Parameter zu Links in der exportierten Vorlage hinzufügen, während Sie die Vorschau-Links sauber halten.
 
-Der `_genStudio.browser` -Wert wird beim Rendern einer Vorlage festgelegt und der `genStudio.export` -Wert wird beim Exportieren einer Vorlage festgelegt. Sie können festlegen, dass bestimmte Inhalte oben in den E-Mails mit einem bedingten Wrapper eingefügt werden, z. B. wenn die Vorlage für den Export verwendet wird:
+Der `_genStudio.browser` -Wert wird beim Rendern einer Vorlage festgelegt und der `genStudio.export` -Wert wird beim Exportieren einer Vorlage festgelegt. Sie können bestimmte Inhalte über einen bedingten Wrapper oben in einer E-Mail einfügen, z. B. wenn die Vorlage für den Export verwendet wird:
 
 ```handlebars
 {{#if _genStudio.export}}
@@ -189,7 +258,7 @@ Der `_genStudio.browser` -Wert wird beim Rendern einer Vorlage festgelegt und de
 {{/if}}
 ```
 
-Ein weiteres Beispiel könnte sein, die Verwendung von Trackingcodes bei der Vorschau einer E-Mail-Vorlage in GenStudio zu verhindern. In diesem Beispiel wird gezeigt, wie Tracking-Parameter zu Links in der exportierten Vorlage hinzugefügt werden, während die Vorschau-Links sauber gehalten werden:
+Ein weiteres Beispiel könnte sein, die Verwendung von Trackingcodes bei der Vorschau einer Vorlage in GenStudio zu verhindern. In diesem Beispiel wird gezeigt, wie Tracking-Parameter zu Links in der exportierten Vorlage hinzugefügt werden, während die Vorschau-Links sauber gehalten werden:
 
 ```handlebars
 <a class="button" {{#if _genStudio.browser }}
