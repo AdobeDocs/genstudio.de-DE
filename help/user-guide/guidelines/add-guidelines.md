@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie in Adobe [!DNL GenStudio] Richtlinien hinzuf�
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: 3693d7dc3b9ee5c4b6c22bdc373f3c78bded4bef
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '913'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Klicken Sie im linken Navigationsbereich auf **[!DNL Brands]**. Wählen Sie im B
 
 Sie können Ihre eigenen Markendokumente hochladen, um eine neue Marke in GenStudio zu füllen.
 
-Unter [[!DNL Brands]](/help/user-guide/guidelines/brands.md) finden Sie ein Beispiel-Markenhandbuch.
+Siehe [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
 
 **So laden Sie Markendokumente hoch**:
 
@@ -110,7 +110,7 @@ Siehe [[!DNL Products]](products.md).
    1. Wählen Sie auf der Registerkarte _Galerie_ ein Bild aus der Galerie aus.
 1. Klicken Sie auf **[!UICONTROL Bild verwenden]**.
 
-   Um Ihren erstellten [!DNL Products] anzuzeigen, klicken Sie auf den Pfeil nach hinten oben im Bereich _Produkt_ , um zur Startseite _[!DNL Products]_zurückzukehren.
+   Um Ihren erstellten [!DNL Products] anzuzeigen, klicken Sie auf den Pfeil nach hinten oben in der Ansicht _Produkt_ , um zur Startseite _[!DNL Products]_zurückzukehren.
 
 ### Verwalten von [!DNL Products]
 
@@ -137,7 +137,7 @@ Siehe [[!DNL Personas]](personas.md).
    1. Wählen Sie auf der Registerkarte _Galerie_ ein Bild aus der Galerie aus.
 1. Klicken Sie auf **[!UICONTROL Bild verwenden]**.
 
-Um den von Ihnen erstellten [!DNL Personas] anzuzeigen, klicken Sie auf den nach hinten gerichteten Pfeil neben dem Bereich _Persona_ , um zur Startseite von _[!DNL Personas]_zurückzukehren.
+Um den von Ihnen erstellten [!DNL Personas] anzuzeigen, klicken Sie auf den nach hinten gerichteten Pfeil neben der Ansicht _Persona_ , um zur Startseite _[!DNL Personas]_zurückzukehren.
 
 ### Verwalten von [!DNL Personas]
 

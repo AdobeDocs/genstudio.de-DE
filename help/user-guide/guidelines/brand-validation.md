@@ -2,7 +2,7 @@
 title: Markenvalidierung in GenStudio
 description: Erfahren Sie, wie das integrierte Markenvalidierungssystem in GenStudio funktioniert.
 feature: Brands Service, Guidelines
-source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -30,11 +30,11 @@ Klicken Sie auf das Symbol, um zu sehen, welche Richtlinien mit Ihrer Marke konf
 
 Siehe [Verbessern der Markenausrichtung](#improve-brand-alignment).
 
-## Bedienfeld &quot;Markenvalidierung&quot;
+## Fenster zur Markenvalidierung
 
-Das Bedienfeld _Markenvalidierung_ enthält detaillierte Informationen zur Markenvalidierung und bietet Aufschluss über Verbesserungsmöglichkeiten für jedes Variantenfragment.
+Das _Fenster zur Markenvalidierung_ enthält detaillierte Informationen zur Markenvalidierung und bietet Aufschluss über Verbesserungsmöglichkeiten für jedes Variantenfragment.
 
-Im Bereich _Markenvalidierung_ werden Informationen zu folgenden Themen angezeigt:
+Das _Fenster zur Markenvalidierung_ enthält Informationen zu:
 
 * **E-Mail**:
    * Betreffzeilenfragment
@@ -53,13 +53,13 @@ Siehe [Verbessern der Markenausrichtung](#improve-brand-alignment).
 
 ### Filter
 
-Im Bereich _Markenvalidierung_ können Sie filtern, welche Richtlinien angezeigt werden. Klicken Sie auf das Filtersymbol oben im Bedienfeld, um Folgendes anzuzeigen:
+Im _Bedienfeld zur Markenvalidierung_ können Sie filtern, welche Richtlinien angezeigt werden. Klicken Sie auf das Filtersymbol oben im Bedienfeld, um Folgendes anzuzeigen:
 
 * **Fehlgeschlagene Richtlinien**—_Fehlgeschlagene Richtlinien anzeigen_ zeigt nur die Richtlinien an, die die Markenvalidierung nicht bestanden haben.
 * **Alle Richtlinien**—_Fehlgeschlagene und übergebene Richtlinien anzeigen_ zeigt alle Richtlinien an, anhand derer die Varianten gemessen werden.
 * **Übergebene Richtlinien**—_Vorgegebene Richtlinien anzeigen_ zeigt nur die Richtlinien an, die die Markenvalidierung bestanden haben.
 
-<!-- The _Brand Validation panel_ has different areas of focus for each content channel:
+<!-- The _Brand validation panel_ has different areas of focus for each content channel:
 
 * Email - brand voice and channel compliance
 * Images - application photography restrictions and other considerations -->

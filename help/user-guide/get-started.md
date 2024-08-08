@@ -3,9 +3,9 @@ title: Erste Schritte mit GenStudio
 description: Erfahren Sie, wie Sie Ihre GenStudio einrichten, um neue markenorientierte Marketinginhalte zu generieren.
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
-source-git-commit: 2501d1e36f76d1534a735b9147fb42f762a665e8
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '1066'
+source-wordcount: '1049'
 ht-degree: 9%
 
 ---
@@ -74,7 +74,7 @@ In der folgenden Tabelle sind die standardmäßigen GenStudio-Mitwirkerberechtig
 
 ### Administratoren
 
-Admin-Benutzer erstellen und weisen Benutzer einer der von GenStudio unterstützten Rollen zu. Sie können einzelnen Erstellern oder Mitwirkenden bei Bedarf neue Berechtigungen zuweisen. Die wichtigste Aufgabe besteht darin, die ersten Onboarding-Aufgaben durchzuführen, die Ihr Unternehmen auf die Bereitstellung von GenStudio vorbereiten.
+**Administratoren** erstellen und weisen Benutzer einer der von GenStudio unterstützten Rollen zu. Sie können einzelnen Erstellern oder Mitwirkenden bei Bedarf neue Berechtigungen zuweisen. Die wichtigste Aufgabe besteht darin, die ersten Onboarding-Aufgaben durchzuführen, die Ihr Unternehmen auf die Bereitstellung von GenStudio vorbereiten.
 
 In der folgenden Tabelle sind die standardmäßigen Systemadministratorberechtigungen für GenStudio aufgeführt:
 
@@ -93,7 +93,7 @@ In der folgenden Tabelle sind die standardmäßigen Systemadministratorberechtig
 
 Systemadministratoren bereiten die GenStudio-Umgebung ihres Unternehmens für Ersteller und Mitwirkende vor, um Kampagnen-Assets zu erstellen. Zu diesen vorbereitenden Aufgaben gehören:
 
-1. [Richten Sie die Richtlinien ](./guidelines/overview.md) für [!DNL Brands], [!DNL Products] und [!DNL Personas] ein. Einrichten der Schlüsselbausteine des Firmennamens **[Richtlinien hinzufügen](./guidelines/overview.md)** ([!DNL Brands], [!DNL Products] und [!DNL Personas]) für GenStudio. Die Einrichtung der wichtigsten Bausteine der Markenidentität Ihres Unternehmens ist eine wesentliche Voraussetzung für die Arbeit von GenStudio-Erstellern und -Mitarbeitern. Sie können entweder Markenrichtlinien-Dokumente hochladen oder manuell Markeninformationen eingeben.
+1. [Fügen Sie Führungslinien für [!DNL Brands], [!DNL Products] und [!DNL Personas] hinzu. ](./guidelines/overview.md) Die Einrichtung der wichtigsten Bausteine der Markenidentität Ihres Unternehmens ist eine wesentliche Voraussetzung für die Arbeit von GenStudio-Erstellern und -Mitarbeitern. Sie können entweder Markenrichtlinien-Dokumente hochladen oder manuell Markeninformationen eingeben.
    * **Bereiten Sie Ihre Führungslinien-Dokumente vor**. Je beschreibender und umfassender Ihre Markenrichtlinien sind, desto besser ist die Ausgabe von GenStudio. Binden Sie kurze Beispiele für Funktionen ein, die Sie für Ihre Marke als wesentlich erachten, und fügen Sie Verhaltensbeschreibungen hinzu, die Sie aus der Inhaltserstellung in GenStudio ausschließen möchten. GenStudio extrahiert Informationen aus diesen hochgeladenen Dokumenten und beginnt mit der Markenbildung. Informationen wie die Richtlinien zur Markensprache, zum Kanal und zu Bildern werden mit GenStudio gefüllt, das jede Richtlinie aus Ihren hochgeladenen Dokumenten zusammenstellt.
    * **Bearbeiten oder ergänzen Sie bei Bedarf die Felder der Markenrichtlinien**. Umfassende Markenrichtlinien bilden die Grundlage für das Verständnis der Marke Ihres Unternehmens durch GenStudio. Nachdem GenStudio die benötigten Informationen aus Ihren Markenrichtlinien-Dokumenten extrahiert hat, werden Sie aufgefordert, die extrahierten Informationsfelder manuell zu bearbeiten oder auszufüllen. Geben Sie die einzelnen Produktschwerpunktbereiche für die Inhaltserstellung an, indem Sie eine &quot;[!DNL Product]&quot;hinzufügen. [!DNL Personas] Richtlinien helfen bei der Erstellung von Inhalten für definierte Kundensegmente.
 

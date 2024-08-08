@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '779'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Um mit der Erstellung eines neuen E-Mail-Erlebnisses zu beginnen, verwenden Sie 
 **So wählen Sie eine E-Mail-Vorlage aus**:
 
 1. Klicken Sie in &quot;_[!DNL Create]_&quot;unter &quot;_&quot;Was möchten Sie heute erstellen&quot;auf &quot;**[!UICONTROL E-Mail]**&quot;.Abschnitt &quot;_&quot;.
-1. Schalten Sie in der Ansicht _Vorlage auswählen_ den Filter _Kanäle_ auf **[!UICONTROL E-Mail]** um.
 1. Verwenden Sie die Suchoption neben _Filter_ , um eine bestimmte E-Mail-Vorlage zu finden.
 1. Klicken Sie auf , um eine E-Mail-Vorlage auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
@@ -53,7 +52,7 @@ Wenn Sie alle Parameter hinzugefügt haben, können Sie den Eingabebereich reduz
 
 ## Eingabeaufforderung eingeben
 
-Nachdem Richtlinien ausgewählt wurden, erstellen Sie eine Eingabeaufforderung mit natürlicher Sprache, um Inhalte für Ihr neues E-Mail-Erlebnis zu generieren.
+Nachdem Richtlinien ausgewählt wurden, erstellen Sie eine Eingabeaufforderung mit natürlicher Sprache, um Inhalte für Ihr neues E-Mail-Erlebnis zu generieren. Detaillierte Eingabeaufforderungen führen zu einer höheren Qualität als vage oder unbeschreibliche Aufforderungen.
 
 Weitere Informationen zum Schreiben von Eingabeaufforderungen finden Sie unter [Gültige Eingabeaufforderungen schreiben](/help/user-guide/effective-prompts.md) .
 
@@ -62,7 +61,7 @@ Weitere Informationen zum Schreiben von Eingabeaufforderungen finden Sie unter [
 1. Geben Sie in das Eingabeaufforderungsfeld _&quot;Beschreiben Sie die Erlebnisse, die Sie generieren möchten&quot;_ eine Eingabeaufforderung ein.
 1. Klicken Sie auf **[!UICONTROL Erzeugen]**.
 
-Standardmäßig werden vier generierte Varianten generiert und auf der Arbeitsfläche angezeigt - alle basierend auf der Eingabeaufforderung, den Richtlinien und dem hinzugefügten Inhalt.
+Standardmäßig werden vier Varianten generiert und auf der Arbeitsfläche angezeigt, die alle durch die Eingabeaufforderung, die Richtlinien und den hinzugefügten Inhalt angeregt werden.
 
 ## Erstellte E-Mails überarbeiten
 
@@ -70,6 +69,7 @@ Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Co
 
 **So überarbeiten Sie generierte Varianten**:
 
+* **Um den Namen des E-Mail-Entwurfs zu bearbeiten, klicken Sie oben auf der Arbeitsfläche in den Titel _Unbenannter Entwurf_ und geben Sie einen neuen Titel ein.**
 * **Um eine E-Mail manuell zu bearbeiten**, doppelklicken Sie auf eines der E-Mail-Fragmente (z. B. Betreffzeile, Kopfzeile oder Textkopie) und bearbeiten Sie es nach Bedarf.
 
   Die Betreffzeile und die Preheader erfordern nur einen Klick, um sie zu bearbeiten, während die Kopfzeile, die Textkopie und der Aktionsaufruf einen Doppelklick erfordern.

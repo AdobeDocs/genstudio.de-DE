@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '890'
+source-wordcount: '887'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ Verwenden Sie eine verfügbare Vorlage, um das Framework für Ihre Inhalte berei
 **So wählen Sie eine Meta-Anzeigenvorlage aus**:
 
 1. Klicken Sie in &quot;_[!DNL Create]_&quot;unter &quot;_&quot;Was möchten Sie heute erstellen, auf &quot;**[!UICONTROL Metaanzeigen]**&quot;.Abschnitt &quot;_&quot;.
-1. Schalten Sie in der Ansicht _Vorlage auswählen_ den Filter _Kanäle_ auf **[!UICONTROL Metaanzeigen]** um.
 1. Verwenden Sie die Suchoption neben _Filter_ , um eine bestimmte Meta-Anzeigenvorlage zu finden.
-1. Klicken Sie auf eine Vorlage oder aktivieren Sie die Auswahl mehrerer Vorlagen und klicken Sie auf **[!UICONTROL Verwenden]**. Wenn Sie mehrere Vorlagen auswählen, werden beim Generieren der Varianten alle ausgewählten Vorlagen verwendet, um Ihnen Optionen zur Verfügung zu stellen.
+1. Klicken Sie auf , um eine Vorlage auszuwählen, und klicken Sie auf **[!UICONTROL Use]**.
 
    Diese Aktion öffnet die Arbeitsfläche, die zentrale Anlaufstelle für die Inhaltserstellung.
 
@@ -53,7 +52,7 @@ Wenn Sie die Parameter hinzugefügt haben, können Sie den Eingabebereich reduzi
 
 ## Eingabeaufforderung eingeben
 
-Nachdem Richtlinien ausgewählt wurden, erstellen Sie eine Eingabeaufforderung mit natürlicher Sprache, um Inhalte für Ihr neues Meta-Anzeigenerlebnis zu generieren.
+Nachdem Richtlinien ausgewählt wurden, erstellen Sie eine Eingabeaufforderung mit natürlicher Sprache, um Inhalte für Ihr neues Meta-Anzeigenerlebnis zu generieren. Detaillierte Eingabeaufforderungen führen zu einer höheren Qualität als vage oder unbeschreibliche Aufforderungen.
 
 Weitere Informationen zum Schreiben von Eingabeaufforderungen finden Sie unter [Gültige Eingabeaufforderungen schreiben](/help/user-guide/effective-prompts.md) .
 
@@ -62,7 +61,7 @@ Weitere Informationen zum Schreiben von Eingabeaufforderungen finden Sie unter [
 1. Geben Sie in das Eingabeaufforderungsfeld _&quot;Beschreiben Sie die Erlebnisse, die Sie generieren möchten&quot;_ eine Eingabeaufforderung ein.
 1. Klicken Sie auf **[!UICONTROL Erzeugen]**.
 
-Standardmäßig werden vier generierte Varianten generiert und auf der Arbeitsfläche angezeigt - alle basierend auf der Eingabeaufforderung, den Richtlinien und dem hinzugefügten Inhalt.
+Standardmäßig werden vier Varianten generiert und auf der Arbeitsfläche angezeigt, die alle durch die Eingabeaufforderung, die Richtlinien und den hinzugefügten Inhalt angeregt werden.
 
 ## Kanal &quot;Meta-Anzeigen&quot;auswählen
 
@@ -76,6 +75,7 @@ Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Co
 
 **So überarbeiten Sie generierte Varianten**:
 
+* **Um den Namen des Meta-Anzeigenentwurfs zu bearbeiten, klicken Sie auf den Titel _Unbenannter Entwurf_ oben auf der Arbeitsfläche und geben Sie einen neuen Titel ein.**
 * **Um eine Metadatenanzeige manuell zu bearbeiten**, doppelklicken Sie auf eines der Anzeigenfragmente (z. B. die Betreffzeile, Kopfzeile oder Textkopie) und bearbeiten Sie es nach Bedarf.
 
   Die Betreffzeile und die Preheader erfordern nur einen Klick, um sie zu bearbeiten, während die Kopfzeile und die Textkopie einen Doppelklick erfordern.
@@ -93,7 +93,7 @@ Um die generierten Anzeigen zu optimieren und die strikte Einhaltung der Markeni
 1. Um die Details der Fragmente und Richtlinien abzurufen, die verbessert werden müssen, klicken Sie auf **[!UICONTROL Überprüfen]** _oder_ und klicken Sie auf das Markenvalidierungssymbol in der oberen Menüleiste, um das [_Markenvalidierungsfenster_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) zu öffnen.
 
 1. Schalten Sie durch die einzelnen Anzeigen, um zu sehen, wie Sie den generierten Inhalt verbessern können, um markengerechter zu werden.
-1. [Passen Sie E-Mails manuell an](#revise-generated-emails), um sicherzustellen, dass Ihre Anzeigen eng mit Ihrer Marke abgestimmt sind.
+1. [Überarbeiten Sie Anzeigen manuell](#revise-generated-meta-ads), um sicherzustellen, dass Ihre Anzeigen eng mit Ihrer Marke abgestimmt sind.
 
 Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).
 

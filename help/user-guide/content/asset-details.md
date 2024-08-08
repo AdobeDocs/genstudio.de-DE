@@ -2,10 +2,10 @@
 title: Asset-Details
 description: GenStudio speichert genehmigte Inhalte mit Rich-Metadaten, um die Suche und das Performance-Tracking zu ermöglichen.
 feature: Attributes, Assets
-source-git-commit: ba7dced9e62f797cd43a0bd8d8263828ec5c3d5e
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 7%
+source-wordcount: '402'
+ht-degree: 6%
 
 ---
 
@@ -46,8 +46,8 @@ In der folgenden Tabelle werden die Metadaten (Asset-Details) aufgeführt, die S
 | ------------- | ----------- | -------- | -------- |
 | Kampagnenname (Projektname) | Mit Assets erfasste und gespeicherte Standard-Metadaten | J | N |
 | Markenname | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) wurde zu GenStudio hinzugefügt und zur Verwendung veröffentlicht | J | N |
-| Produkte | [[!DNL Products]](/help/user-guide/guidelines/products.md) zur Verwendung zu GenStudio hinzugefügt | J | N |
-| Personen | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) zur Verwendung zu GenStudio hinzugefügt | J | N |
+| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) zur Verwendung zu GenStudio hinzugefügt | J | N |
+| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) zur Verwendung zu GenStudio hinzugefügt | J | N |
 | Kanäle | Inhaltstypen in GenStudio, für die das Asset verwendet wird, z. B. E-Mail- und Metadatenanzeigen | J | N |
 | Zeitrahmen | Zeitraum, für den das Asset verwendet wurde, z. B. Quartal, Saison, Jahr usw. Beispiel: `Winter 2023` | J | N |
 | Region | Regionen, für die das Asset verwendet wird. Beispiele: `North America`, `APAC`, `Italy` | J | N |
@@ -66,7 +66,7 @@ In der folgenden Tabelle werden die Metadaten (Asset-Details) aufgeführt, die S
 
 >[!TIP]
 >
->Sie können Asset-Details auch über [!DNL Insights] anzeigen. Insights bietet Nutzungsstatistiken und Leistungskontexte über Erlebnisse hinweg. Wählen Sie in _[!DNL Insights]_den Abschnitt **[!UICONTROL Assets]**aus.
+>Sie können Asset-Details auch über [!DNL Insights] anzeigen. [!DNL Insights] bietet Nutzungsstatistiken und Leistungskontext für alle Erlebnisse. Wählen Sie in _[!DNL Insights]_den Abschnitt **[!UICONTROL Assets]**aus.
 
 <!-- ## History
 

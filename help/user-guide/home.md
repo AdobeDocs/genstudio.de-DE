@@ -1,9 +1,9 @@
 ---
 title: Adobe GenStudio-Benutzerhandbuch
 description: Erfahren Sie, wie Sie mit GenStudio und generativer KI Ihre Inhaltsversorgungskette personalisieren können.
-source-git-commit: 43b059fe65a06b1cb6bba03c4e811c83af75d6f3
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '178'
 ht-degree: 1%
 
 ---
@@ -11,9 +11,9 @@ ht-degree: 1%
 
 # GenStudio-Benutzerhandbuch
 
-Adobe GenStudio, das auf generativer KI basiert, revolutioniert die Inhaltsversorgungskette und ermöglicht Ihnen die Erstellung, Messung und Verwaltung personalisierter Erlebnisse, die Ihre Markeninhalte verkörpern.
+GenStudio ist eine umfassende Marketing-Lösung, die auf der generativen KI-Technologie von Adobe basiert. Marketingexperten können damit die Inhaltsversorgungskette von der Ideenvorstellung über die Bereitstellung bis hin zur Leistungsmessung optimieren.
 
-Mithilfe von GenStudio können Marketingexperten und Teams mühelos hochwertige Inhalte erstellen und verfeinern, die den Markenrichtlinien entsprechen. GenStudio beschleunigt den Marketing-Lebenszyklus und spart wertvolle Zeit und Ressourcen.
+Mit GenStudio können Unternehmen generative KI nutzen, um die Inhaltserstellung zu beschleunigen, Inhalte einfach zu finden und wiederzuverwenden und erfolgreiche Omnichannel-Kampagnen zu fördern.
 
 ## GenStudio-Funktionen
 

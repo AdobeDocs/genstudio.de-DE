@@ -1,7 +1,7 @@
 ---
 title: Anfordern von Überprüfungen und Genehmigungen
 description: Fordern Sie eine Überprüfung an.
-source-git-commit: c9bd8bf434e493696e674900f403307260a65b02
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Optional: Fügen Sie Kommentare hinzu, um den Fokus des Genehmigers auf bestimmt
 
 Wenn Sie der Ersteller des Inhalts sind, wird in der Arbeitsfläche für den Entwurf die Schaltfläche **[!UICONTROL Genehmigungen verwalten]** angezeigt. Verwenden Sie diese Schaltfläche, um ein Popup zu öffnen, aus dem Sie Genehmiger während des Prüfungs- und Genehmigungsprozesses entfernen oder hinzufügen können.
 
-Die Namen der Genehmiger werden in diesem Bereich mit dem Status &quot;[!DNL Notified]&quot; aufgeführt, nachdem die Genehmigungsanfragen gestartet wurden. Eine Übersicht über die GenStudio-Genehmigungsaufgaben finden Sie unter [Inhalt genehmigen](./approve-content.md) .
+Die Namen der Genehmiger werden in dieser Ansicht mit dem Status &quot;[!DNL Notified]&quot; aufgeführt, nachdem die Genehmigungsanfragen gestartet wurden. Eine Übersicht über die GenStudio-Genehmigungsaufgaben finden Sie unter [Inhalt genehmigen](./approve-content.md) .
 
 
 

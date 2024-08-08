@@ -2,7 +2,7 @@
 title: Inhalt überprüfen und bearbeiten
 description: Erfahren Sie, wie Sie Inhalte iterativ überprüfen und bearbeiten können.
 feature: Approval
-source-git-commit: bb06f20c436c0d2d426c8a07a419536716665a03
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '555'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Ersteller können als Reaktion auf Überprüfungskommentare in Bearbeitung befin
 
 Als benannter Genehmiger können Sie auf verschiedene Arten auf den Inhalt zugreifen, den Sie überprüfen und genehmigen müssen:
 
-* **Greifen Sie direkt über den Link in der Genehmigungsanforderung auf den Entwurf für die Überprüfung zu.** Klicken Sie entweder in der E-Mail-Benachrichtigung zur Genehmigungsanfrage oder in der Benachrichtigung zum Produkt auf den Link Entwurf . GenStudio öffnet eine Arbeitsfläche, auf der das Asset oder Erlebnis angezeigt wird. Der linke Bereich _Asset_-Details enthält einen Bereich für die _Genehmigung_ .
+* **Greifen Sie direkt über den Link in der Genehmigungsanforderung auf den Entwurf für die Überprüfung zu.** Klicken Sie entweder in der E-Mail-Benachrichtigung zur Genehmigungsanfrage oder in der Benachrichtigung zum Produkt auf den Link Entwurf . GenStudio öffnet eine Arbeitsfläche, auf der das Asset oder Erlebnis angezeigt wird. Das Detaillinke Bedienfeld &quot;_Asset_&quot;enthält ein Bedienfeld &quot;_Genehmigung_&quot;.
 
 * **Greifen Sie über die Liste der Genehmigungsanfragen auf den Entwurf für die Überprüfung zu**. Wenn Sie aufgefordert werden, mehrere Inhaltsentwürfe zu überprüfen, enthält Ihre Benachrichtigungs-E-Mail die Schaltfläche **[!UICONTROL Alle Benachrichtigungen anzeigen]** . Klicken Sie auf diese Schaltfläche, um zu einer Seite zu navigieren, auf der alle ausstehenden Überprüfungsanforderungen angezeigt werden.
 
@@ -36,7 +36,7 @@ Sie können Inhalte validieren, wenn Sie eine E-Mail mit einer Validierungsanfra
 
 1. Verwenden Sie den Link in Ihrer In-Produktion-Benachrichtigung oder fordern Sie eine E-Mail an, um zu dem zu überprüfenden Inhalt zu navigieren. GenStudio zeigt die Inhaltsarbeitsfläche an.
 
-1. Die Asset-Arbeitsfläche enthält oben rechts die Schaltfläche &quot;**[!UICONTROL Überprüfen und genehmigen]**&quot;. Klicken Sie auf diese Schaltfläche, um den Bereich _Genehmigungen_ für dieses Asset zu öffnen.
+1. Die Asset-Arbeitsfläche enthält oben rechts die Schaltfläche &quot;**[!UICONTROL Überprüfen und genehmigen]**&quot;. Klicken Sie auf diese Schaltfläche, um das Bedienfeld _Genehmigungen_ für dieses Asset zu öffnen.
 
 ## Änderungen anfordern
 

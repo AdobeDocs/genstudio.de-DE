@@ -2,7 +2,7 @@
 title: Publish-genehmigte Inhalte
 description: Erfahren Sie, wie Sie genehmigte Inhalte veröffentlichen.
 feature: Approval, Content
-source-git-commit: 6da5eb91db34e3b91430d513f3af5de1cd380222
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Anschließend können Sie den Entwurf abschließen, indem Sie ihn mit den entspr
 
 ## Nach Veröffentlichung
 
-Alle GenStudio-Benutzer können in [!DNL Content] auf genehmigte Assets oder Erlebnisse zugreifen. Im Bereich Asset-Details wird der Upload- und Validierungsverlauf des Assets identifiziert. Diese Attribute identifizieren gespeicherte Inhalte:
+Alle GenStudio-Benutzer können in [!DNL Content] auf genehmigte Assets oder Erlebnisse zugreifen. Im Bereich &quot;Asset-Details&quot;wird der Upload- und Validierungsverlauf des Assets angezeigt. Diese Attribute identifizieren gespeicherte Inhalte:
 
 * **Upload-Datum**: Identifiziert das Datum, an dem der Inhalt hochgeladen wurde.
 * **Hochgeladen von**: Identifiziert den GenStudio-Asset-Ersteller.

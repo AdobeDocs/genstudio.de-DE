@@ -2,7 +2,7 @@
 title: Arbeiten mit Vorlagen
 description: Erfahren Sie, wie Sie mit Vorlagen ansprechende Erlebnisse in GenStudio erstellen können.
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '443'
 ht-degree: 2%
@@ -73,7 +73,7 @@ Suchen und verwenden Sie eine vorhandene Vorlage, um Erlebnisse zu erstellen.
 
 1. Wählen Sie in _[!DNL Content]_den Abschnitt **[!UICONTROL Vorlagen]**aus.
 
-   ![Liste der Inhaltsvorlagen](../../assets/content-templates.png)
+   ![Liste der Inhaltsvorlagen](../../assets/content-templates.png){width="650" zoomable="yes"}
 
 1. Wählen Sie eine Vorlage für eine vollständige Ansicht und eine Detailliste aus.
 

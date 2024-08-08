@@ -1,8 +1,8 @@
 ---
-source-git-commit: 82615ff94cf2f0daf83062cf5c6547a2887d010e
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 27%
+source-wordcount: '112'
+ht-degree: 25%
 
 ---
 # GenStudio-Metadatenfelder
@@ -13,8 +13,8 @@ ht-degree: 27%
 | ------------- | ----------- | -------- |
 | Kampagnenname (Projektname) | Mit Assets erfasste und gespeicherte Standard-Metadaten | J | N |
 | Markenname | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) wurde zu GenStudio hinzugefügt und zur Verwendung veröffentlicht. | J | N |
-| Produkte | [[!DNL Products]](/help/user-guide/guidelines/products.md) wurde zur Verwendung zu GenStudio hinzugefügt. | J | N |
-| Personen | [[!DNL Personas]](/help/user-guide/guidelines/personas.md). GenStudio zur Verwendung hinzugefügt. | J | N |
+| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) wurde zur Verwendung zu GenStudio hinzugefügt. | J | N |
+| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md). GenStudio zur Verwendung hinzugefügt. | J | N |
 | Kanäle | Inhaltstypen in GenStudio, für die das Asset verwendet wird, z. B. E-Mail- und Metadatenanzeigen. | J | N |
 | Zeitrahmen | Zeitraum, für den das Asset verwendet wurde, z. B. Quartal, Saison, Jahr usw. Beispiel: `Winter 2023` | J | N |
 | Region | Regionen, für die das Asset verwendet wird. Beispiele: `North America`, `APAC`, `Italy` | J | N |
