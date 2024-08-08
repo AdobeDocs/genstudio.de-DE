@@ -3,9 +3,9 @@ title: Datenspalten für  [!DNL Insights]
 description: Erfahren Sie, was jede Spalte in einem [!DNL Insights] Raster darstellt.
 feature: Attributes, Insights
 recommendations: noDisplay
-source-git-commit: 52a37b83b6f13b16a2234e50827c8d08b9a86680
+source-git-commit: 4d5de6fc053297c823be9005c628dafcecc3f7a7
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '254'
 ht-degree: 3%
 
 ---
@@ -34,4 +34,3 @@ Zu den verfügbaren Spalten gehören:
 | Impressionen | Die Häufigkeit, mit der Kampagnenanzeigen durch registrierte Impressionen für Betrachter angezeigt wurden. |
 | Ziel | Das Ziel einer Kampagne oder eines Projekts. Legen Sie das Ziel bei der Erstellung der Kampagne oder des Projekts fest.<br>Zu den Objektarten gehören: `Awareness`, `Traffic`, `Engagement`, `Leads`, `App promotion`, `Sales` |
 | Ausgeben | Der Gesamtbetrag des in USD für alle Anzeigen innerhalb einer Kampagne ausgegebenen Geldes. |
-| Videowiedergabe | Die Häufigkeit, mit der die Wiedergabe eines Videos begann. Das Video kann wiedergegeben werden, wenn die automatische Wiedergabe eines Videos beginnt oder wenn jemand klickt, um das Video abzuspielen. |

@@ -2,9 +2,9 @@
 title: Überblick über [!DNL Create]
 description: Schnelles Generieren leistungsstarker On-Brand-Inhalte mit generativer KI in GenStudio [!DNL Create].
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
-source-git-commit: d7de679ce310dcdcec4a1b5ea814b2ca8b1fc413
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '481'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ Mit GenStudio [!DNL Create] können Sie Inhalte für die folgenden Kanäle gener
 <!-- * Social media images and ads
 * Display ads -->
 
-Zusammen mit den Vorteilen von GenStudio [guidelines](/help/user-guide/guidelines/overview.md), [content](/help/user-guide/content/overview.md), [Reviews und Validierungen](/help/user-guide/approvals/overview.md) und [Insights](/help/user-guide/insights/overview.md) erleichtert [!DNL Create] die Erstellung wirkungsvoller markenorientierter Marketinginhalte.
+Zusammen mit den Vorteilen von GenStudio [guidelines](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products] und [!DNL Personas]—[content](/help/user-guide/content/overview.md), [Reviews und Validierungen](/help/user-guide/approvals/overview.md) und [Insights](/help/user-guide/insights/overview.md) erleichtert [!DNL Create] die Erstellung wirkungsvoller markenorientierter Marketinginhalte.
 
 ## [!DNL Create]-Anwendungsfälle 
 
@@ -46,25 +46,23 @@ Zusammen mit den Vorteilen von GenStudio [guidelines](/help/user-guide/guideline
          <strong>Re-use existing content</strong>
          </a>
       </div>
-   </td> -->
+   </td>
    <td align="center" valign="top" width="100">
-      <a href="/help/user-guide/create/generate-variants.md">
-      <img alt="Generieren von Inhaltsvarianten" src="../../assets/icons/icon-template.svg" width="35">
+      <a href="../create/generate-variants.md">
+      <img alt="Generate variants of approved content" src="../../assets/icons/icon-template.svg" width="35">
       </a>
       <div>
          <a href="../create/generate-variants.md">
-         <strong> Generieren von Inhaltsvarianten</strong>
+         <strong>Generate variants of approved content</strong>
          </a>
       </div>
-   </td>
+   </td> -->
 </tr>
 </table>
 
-GenStudio [!DNL Create] erfüllt diese Anwendungsfälle:
-
-* **Neuen Inhalt erstellen** - Verwenden Sie in diesem Anwendungsfall definierte [Führungslinien](/help/user-guide/guidelines/overview.md) ([!DNL Brands], [!DNL Products] und [!DNL Personas]) und inspirierende Inhalte, um die Erstellung markenorientierter Inhalte zu beeinflussen.
-<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content. -->
-* **Varianten des Inhalts generieren** - Generieren Sie in diesem Anwendungsfall Inhaltsvarianten basierend auf einer Ziel-[Kundenperson](/help/user-guide/guidelines/personas.md). Diese Funktion ermöglicht die Erprobung und Erkennung leistungsstarker Inhalte und ermöglicht die kanalübergreifende Konvertierung von Inhalten (z. B. Konvertieren einer E-Mail in eine Display-Anzeige).
+Mit GenStudio können Marketingexperten **neue Marketinginhalte erstellen**. Verwenden Sie in diesem Anwendungsfall definierte [Führungslinien](/help/user-guide/guidelines/overview.md) und inspirierende Bilder, um die Erstellung markenorientierter Inhalte zu unterstützen.
+<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content. 
+* **Generate variants of approved content** - In this use case, [generate variations of content that is approved by stakeholders](generate-variants.md) and published to [!DNL Content]. -->
 
 ## [!DNL Create] Funktionen
 
@@ -72,46 +70,39 @@ GenStudio [!DNL Create] integriert verschiedene Komponenten von GenStudio, um Be
 
 ### Entwürfe
 
-Rufen Sie im Abschnitt _Zuletzt verwendete Arbeit_ von [!DNL Create] alle letzten Entwürfe auf und verwalten Sie sie. [Generieren Sie Varianten](/help/user-guide/create/generate-variants.md) früherer Entwürfe oder ergänzen Sie Ihre Arbeit und bereiten Sie sie für die Veröffentlichung in [[!DNL Content]](/help/user-guide/content/overview.md) vor.
+Rufen Sie im Abschnitt _Zuletzt verwendete Arbeit_ von [!DNL Create] alle letzten Entwürfe auf und verwalten Sie sie. Sehen Sie sich Ihre vorherigen Arbeiten an und schließen Sie sie ab, um sie für die Veröffentlichung in [[!DNL Content]](/help/user-guide/content/overview.md) vorzubereiten.
+
+Gestartete Entwürfe werden automatisch gespeichert. Wenn Sie zurück zur Startseite von [!DNL Create] navigieren, wird der Abschnitt _Zuletzt verwendete Arbeit_ mit Ihren neuesten Entwürfen aktualisiert. Für jeden Entwurf können Sie sehen, ob er _genehmigt_ wurde oder sich noch im Formular _Entwurf_ befindet.
 
 ### Vorlagen
 
-Greifen Sie auf markengenehmigte Vorlagen zu, um Inhalte über mehrere Kanäle im Abschnitt _Zuletzt verwendete Vorlagen_ von [!DNL Create] zu generieren. Verwenden Sie Vorlagen, um den Inhaltserstellungsprozess zu starten und mit einer definierten Markenidentität im Einklang zu bleiben.
+Nachdem Sie in der Dropdownliste &quot;_Was möchten Sie heute erstellen&quot;ausgewählt haben, welchen Inhaltskanal Sie erstellen möchten?_ können Sie auf markengenehmigte Vorlagen zugreifen, um sie bei der Inhaltserstellung zu verwenden. Verwenden Sie Vorlagen, um den Inhaltserstellungsprozess zu starten und mit einer definierten Markenidentität im Einklang zu bleiben.
 
-Vorlagen werden [ erstellt und in  [!DNL Content]](/help/user-guide/content/overview.md) gespeichert, sind jedoch in [!DNL Create] verfügbar.
-
-Siehe [[!DNL Content]](/help/user-guide/content/overview.md).
+Vorlagen werden [ hochgeladen und in  [!DNL Content]](/help/user-guide/content/overview.md) gespeichert und sind in [!DNL Create] verfügbar.
 
 ### Eingabeaufforderungen
 
-[Das Erstellen effektiver Eingabeaufforderungen](/help/user-guide/effective-prompts.md) ist ein wichtiger Teil des Generierungsprozesses in [!DNL Create]. Um neue Inhalte zu erstellen oder Varianten von Inhalten zu generieren, schreiben Sie eine Eingabeaufforderung, die den Inhalt (oder das Erlebnis) beschreibt, den/das Sie generieren möchten.
+[Das Erstellen effektiver Eingabeaufforderungen](/help/user-guide/effective-prompts.md) ist ein wichtiger Teil des Generierungsprozesses in [!DNL Create].
 
-Schreiben Sie Aufforderungen, fügen Sie _Parameter_ hinzu, fügen Sie eine beschreibende Eingabeaufforderung in den Eingabeaufforderungsbereich ein und klicken Sie dann auf **[!UICONTROL Erzeugen]**.
-
-Siehe [Effektive Eingabeaufforderungen](/help/user-guide/effective-prompts.md).
+Geben Sie zum Erstellen neuer KI-generierter Inhalte eine [beschreibende Eingabeaufforderung](/help/user-guide/effective-prompts.md) ein, die den Kontext oder das Erlebnis beschreibt, das Sie generieren möchten, sowie [Führungslinien](/help/user-guide/guidelines/overview.md) und [_Parameter_](#parameters) im Eingabeaufforderungsbereich und klicken Sie auf **[!UICONTROL Erzeugen]**.
 
 ### Parameter
 
-Im Eingabeaufforderungsbereich können Sie _Parameter_ wie [!DNL Brands], [!DNL Products] und [!DNL Personas] (GenStudio-Richtlinien) oder _Inhalt_ (Bilder und Videos) hinzufügen, um das generierte Erlebnis zu gestalten.
+Im Eingabeaufforderungsbereich können Sie _Parameter_ wie [!DNL Brands], [!DNL Products] und [!DNL Personas] (GenStudio-Richtlinien) oder Assets hinzufügen, um das generierte Erlebnis zu gestalten.
 
->[!NOTE]
->
->Hochgeladene Bilder und Videos in _Parameter_ werden in generierten Varianten verwendet und informieren über den für Varianten generierten Kopierinhalt (Text).
+In _Parameter_ hochgeladene Bilder werden in generierten Varianten verwendet und geben den für Varianten generierten Kopierinhalt (Text) an.
 
-Diese hinzugefügten Parameter fügen [guidelines](/help/user-guide/guidelines/overview.md) und Assets in den Generierungsprozess ein, um sicherzustellen, dass der Inhalt an die umfassende Identität einer Marke angepasst und relevante Bilder verwendet werden. Es wird empfohlen, Ihrer GenStudio Richtlinien hinzuzufügen und diese während der Inhaltserstellung zu verwenden, da sie die Erstellung von geeigneten Inhalten auf der Marke erheblich verbessern.
+Diese hinzugefügten Parameter fügen [guidelines](/help/user-guide/guidelines/overview.md) und Assets in den Generierungsprozess ein, um sicherzustellen, dass der Inhalt an die umfassende Identität einer Marke angepasst wird. Es wird empfohlen, Ihrer GenStudio Richtlinien hinzuzufügen und diese während der Inhaltserstellung zu verwenden, da sie die Erstellung von geeigneten Inhalten auf der Marke erheblich verbessern.
 
 ### Markenvalidierung
 
-GenStudio führt eine Markenvalidierung für verschiedene Aspekte der Markenidentität durch (wie in [Richtlinien](/help/user-guide/guidelines/overview.md) definiert). Informationen zur Markenvalidierung stehen für jeden generierten Inhalt zur Verfügung und geben an, ob die Markenrichtlinien eingehalten wurden. Mithilfe dieser Informationen können Sie Ihr generiertes Erlebnis überarbeiten oder verbessern, um es besser an Ihre Marke anzupassen.
-
-Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).
-
+GenStudio führt eine Markenvalidierung für verschiedene Aspekte der Markenidentität durch (wie in [Richtlinien](/help/user-guide/guidelines/overview.md) definiert). [Informationen zur Markenvalidierung](/help/user-guide/guidelines/brand-validation.md) sind für jeden generierten Inhalt verfügbar und geben an, ob die Markenrichtlinien eingehalten wurden und ob Text und Bilder einheitlich sind. Mithilfe dieser Informationen können Sie Ihr generiertes Erlebnis überarbeiten oder verbessern, um es besser an Ihre Marke anzupassen.
 
 ### Überprüfungen und Genehmigungen
 
-Sorgfältige Überprüfung und Validierung von Inhalten anhand von Markenrichtlinien, Produktdokumentation und ausgewählten Kundensegmenten mit dem integrierten Überprüfungs- und Genehmigungsprozess von [!DNL Create's]. Führen Sie Überprüfungen durch, verfolgen Sie Überprüfungskommentare und erhalten Sie während des Erstellungsprozesses Genehmigungen.
+Überprüfen Sie Prüfungen, verfolgen Sie Überprüfungskommentare und erhalten Sie Genehmigungen während des Erstellungsprozesses mit der integrierten Funktion [Bewertungen und Genehmigungen](/help/user-guide/approvals/overview.md) .
 
-Siehe [Überprüfungen und Genehmigungen](/help/user-guide/approvals/overview.md).
+Nachdem Sie die Erstellung von Inhaltsvarianten abgeschlossen haben, senden Sie Ihre Entwürfe zur Genehmigung an die Stakeholder, damit sie in [!DNL Content] gespeichert und in Marketing-Maßnahmen implementiert werden können.
 
 ## Tutorials
 

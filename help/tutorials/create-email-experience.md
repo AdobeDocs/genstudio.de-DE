@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: fa89422db3e1679516a377c9bfd9f05ab6e63428
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '846'
+source-wordcount: '757'
 ht-degree: 0%
 
 ---
@@ -29,45 +29,40 @@ Um mit der Erstellung eines neuen E-Mail-Erlebnisses zu beginnen, verwenden Sie 
 1. Klicken Sie in &quot;_[!DNL Create]_&quot;unter &quot;_&quot;Was möchten Sie heute erstellen&quot;auf &quot;**[!UICONTROL E-Mail]**&quot;.Abschnitt &quot;_&quot;.
 1. Schalten Sie in der Ansicht _Vorlage auswählen_ den Filter _Kanäle_ auf **[!UICONTROL E-Mail]** um.
 1. Verwenden Sie die Suchoption neben _Filter_ , um eine bestimmte E-Mail-Vorlage zu finden.
-1. Klicken Sie auf eine E-Mail-Vorlage auswählen oder wählen Sie mehrere E-Mail-Vorlagen aus und klicken Sie auf **[!UICONTROL Verwenden]**. Wenn Sie mehrere Vorlagen auswählen, werden beim Generieren der Varianten alle ausgewählten Vorlagen verwendet, um Ihnen Optionen zur Verfügung zu stellen.
+1. Klicken Sie auf , um eine E-Mail-Vorlage auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
    Die Arbeitsfläche, das Epizentrum der Inhaltserstellung, wird angezeigt.
 
 ## Parameter hinzufügen
 
-Das Hinzufügen von Richtlinienparametern ersetzt den Inhaltserstellungsvorgang und ist ein integraler Vorbereitungsschritt für die Generierung eines E-Mail-Erlebnisses.
+Durch das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview.md) und Assets in _Parameter_ im Eingabeaufforderungsbereich wird der Inhaltserstellungsvorgang überschrieben. Dies ist ein integraler Vorbereitungsschritt für die Generierung eines E-Mail-Erlebnisses.
 
 **Hinzufügen von Parametern und Assets**:
 
-1. Klicken Sie auf das Symbol _Parameter_ , um die Parameteroptionen zu erweitern und Verweisparameter und Assets hinzuzufügen.
-1. Wählen Sie im Abschnitt _Parameter_ Richtlinien - Marke, Persona und Produkt - aus, um die Inhaltserstellung zu informieren.
+1. Klicken Sie auf das Symbol _Parameter_ , um den Eingabeaufforderungsbereich zu erweitern.
+1. Wählen Sie im Abschnitt _Parameter_ die Richtlinien [!DNL Brands], [!DNL Personas] und [!DNL Products] aus, um die Inhaltserstellung zu informieren.
 
    Wenn in diesen Menüs keine Marken, Rollen oder Produkte verfügbar sind, fügen Sie Ihrem GenStudio ](/help/user-guide/guidelines/add-guidelines.md) Richtlinien hinzu.[
 
-1. Fügen Sie im Abschnitt _Inhalt_ Inhalt hinzu, der im Erlebnis *und* verwendet werden soll, um die Inhaltserstellung zu beeinflussen. Es gibt drei Möglichkeiten, Assets hinzuzufügen:
-   * Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** , um Assets (Bilder oder Videos) auszuwählen, die bereits in [!DNL Content] veröffentlicht wurden. Verwenden Sie die Filter, um die Suchergebnisse weiter einzugrenzen.
+1. Klicken Sie auf **[!UICONTROL Inhalt auswählen]** , um Inhalte hinzuzufügen, die im Erlebnis *und* verwendet werden sollen, um die Inhaltserstellung zu beeinflussen.
+   * Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** , um Assets (Bilder) auszuwählen, die bereits in [!DNL Content] veröffentlicht wurden. Verwenden Sie die Filter, um die Suchergebnisse weiter einzugrenzen.
    * Klicken Sie auf **[!UICONTROL Hochladen]** , um Ihre Dateien zu durchsuchen und Assets zur Verwendung auszuwählen. Neben dem Durchsuchen Ihres Geräts können Sie auch aus Microsoft OneDrive oder Dropbox importieren.
    * Ziehen Sie Assets per Drag-and-Drop in den Abschnitt _Inhalt_ .
 
-   Wenn Sie Assets aus GenStudio-Inhalten auswählen, wählen Sie aus Assets aus, die bereits in [[!DNL Content]](/help/user-guide/content/overview.md) gespeichert wurden. Sie können nach Kanal, Produkt, Sprache und mehr filtern, um die benötigten Assets schnell zu finden.
+Wenn Sie alle Parameter hinzugefügt haben, können Sie den Eingabebereich reduzieren, indem Sie erneut auf das Symbol _Parameter_ klicken.
 
-Wenn Sie die Parameter hinzugefügt haben, können Sie die Abschnitte *Parameter* und *Inhalt* reduzieren, indem Sie erneut auf das Symbol _Parameter_ klicken.
-
-## Eingabeaufforderung verwenden
+## Eingabeaufforderung eingeben
 
 Nachdem Richtlinien ausgewählt wurden, erstellen Sie eine Eingabeaufforderung mit natürlicher Sprache, um Inhalte für Ihr neues E-Mail-Erlebnis zu generieren.
 
 Weitere Informationen zum Schreiben von Eingabeaufforderungen finden Sie unter [Gültige Eingabeaufforderungen schreiben](/help/user-guide/effective-prompts.md) .
 
-**So verwenden Sie eine Eingabeaufforderung**:
+**So geben Sie eine Eingabeaufforderung ein**:
 
 1. Geben Sie in das Eingabeaufforderungsfeld _&quot;Beschreiben Sie die Erlebnisse, die Sie generieren möchten&quot;_ eine Eingabeaufforderung ein.
-   <!-- If the prompt box is not visible, click **[!UICONTROL Open to prompt]** to expand it. -->
-
-<!-- 1. Optionally, click one of the prompt suggestions visible just above the prompt text box. Clicking a suggestion auto-fills the suggested prompt in the prompt box. -->
 1. Klicken Sie auf **[!UICONTROL Erzeugen]**.
 
-Standardmäßig werden vier generierte Varianten auf der Arbeitsfläche angezeigt, die alle durch die Eingabeaufforderung, die Richtlinien und den hinzugefügten Inhalt angeregt werden.
+Standardmäßig werden vier generierte Varianten generiert und auf der Arbeitsfläche angezeigt - alle basierend auf der Eingabeaufforderung, den Richtlinien und dem hinzugefügten Inhalt.
 
 ## Erstellte E-Mails überarbeiten
 
@@ -85,15 +80,13 @@ Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Co
 
 Um die generierten E-Mails zu optimieren und die strikte Einhaltung der Markenidentität sicherzustellen, nutzen Sie die Leistungsfähigkeit des [_Markenrichtlinien-Kontrollkästchens_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - eine Zusammenfassung der Markenausrichtung für eine Variante - und des [_Markenvalidierungs-Panels_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) -, das umfassende Details zur Markenvalidierung anzeigt und Verbesserungsbereiche beleuchtet.
 
-Sie können einzelne E-Mail-Fragmente manuell bearbeiten oder [verfeinerte Varianten](/help/user-guide/create/generate-variants.md) des Anfangsergebnisses generieren, um eine Ausrichtung an Ihrer Marke zu erreichen.
-
 **Überprüfen der Markenausrichtung**:
 
 1. Klicken Sie auf das Symbol [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) für eine Variante und sehen Sie sich eine Zusammenfassung der Leistung dieser Variante an, wenn sie mit Ihrer Marke verglichen wird.
 1. Um die Details der Fragmente und Richtlinien abzurufen, die verbessert werden müssen, klicken Sie auf **[!UICONTROL Überprüfen]** _oder_ und klicken Sie auf das Markenvalidierungssymbol in der oberen Menüleiste, um das [_Markenvalidierungsfenster_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) zu öffnen.
 
 1. Schalten Sie durch die einzelnen E-Mails, um zu sehen, wie Sie den generierten Inhalt verbessern können, um markengerechter zu sein.
-1. [Passen Sie E-Mails manuell an](#revise-generated-emails) oder [generieren Sie Varianten](/help/user-guide/create/generate-variants.md), um sicherzustellen, dass Ihre E-Mails eng mit Ihrer Marke abgestimmt sind.
+1. [Manuelles Überarbeiten von E-Mails](#revise-generated-emails), um sicherzustellen, dass Ihre E-Mails eng mit Ihrer Marke abgestimmt sind.
 
 Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).
 

@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie in Adobe [!DNL GenStudio] Richtlinien hinzuf�
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: 121a567a6a45f6d17caa621e323cdc3a4aa3dcb4
+source-git-commit: 3693d7dc3b9ee5c4b6c22bdc373f3c78bded4bef
 workflow-type: tm+mt
 source-wordcount: '913'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Das Hinzufügen von Richtlinien zu GenStudio ist ein wichtiger Schritt im Erstel
 
 ## Hinzufügen von [!DNL Brands]
 
-Um eine Marke zu GenStudio hinzuzufügen, können Sie [ein Markenhandbuch hochladen](#upload-brand-guidelines) oder [manuell eine Marke erstellen](#manually-add-brand), indem Sie Richtlinien auswählen und Ihre Markendetails eingeben. [Publish eine Marke](#publish-brand) bis [!DNL Content], um sie für die Generierung von Varianten verfügbar zu machen.
+Um eine Marke zu GenStudio hinzuzufügen, können Sie [ein Markenhandbuch hochladen](#upload-brand-guidelines) oder [manuell eine Marke erstellen](#manually-add-brand), indem Sie Richtlinien auswählen und Ihre Markendetails eingeben. [Publish eine Marke](#publish-brand) bis [!DNL Content], um sie für die zukünftige Inhaltserstellung verfügbar zu machen.
 
 Klicken Sie im linken Navigationsbereich auf **[!DNL Brands]**. Wählen Sie im Bedienfeld _[!DNL Brands]_die Option **Marke hinzufügen**aus.
 
@@ -82,7 +82,7 @@ Bevor Sie Ihre Marke veröffentlichen, klicken Sie durch die Abschnitte _Markenr
 
 Wenn die Marke veröffentlicht wird, erscheint ein Banner, das bestätigt, dass Ihre Marke bereit zur Verwendung ist: &quot;*Marke veröffentlicht und für die Verwendung verfügbar*&quot;.
 
-Die veröffentlichte Marke ist jetzt für die Erzeugung von Varianten in _[!DNL Create]_oder_[!DNL Content]_ verfügbar.
+Die veröffentlichte Marke ist jetzt für die Verwendung in _[!DNL Create]_oder_[!DNL Content]_ verfügbar.
 
 ### Verwalten von [!DNL Brands]
 

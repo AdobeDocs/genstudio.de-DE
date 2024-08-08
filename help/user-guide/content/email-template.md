@@ -3,9 +3,9 @@ title: E-Mail-Vorlage für GenStudio vorbereiten
 description: Erfahren Sie, wie Sie eine benutzerdefinierte E-Mail-Vorlage für GenStudio erstellen.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,9 @@ Siehe [Anatomie einer Vorlage](/help/user-guide/content/use-templates.md#anatomy
 
 Bevor Sie eine Meta-Anzeigenvorlage vorbereiten, stellen Sie sicher, dass Sie Ihrer GenStudio [Führungslinien](/help/user-guide/guidelines/overview.md) hinzugefügt und umfassende Informationen für relevante Marken bereitgestellt haben. Die [Markenrichtlinien](/help/user-guide/guidelines/brands.md) beeinflussen den generierten Inhalt direkt.
 
-> **Beispiel**: Wenn der Hauptteil einer E-Mail-Vorlage 500 Zeichen nicht überschreiten soll, fügen Sie diese Anforderung den [Kanalrichtlinien](/help/user-guide/guidelines/brands.md#channel-guidelines) für das Feld &quot;Hauptteil&quot;hinzu.
+**Beispiel**: Wenn der Hauptteil einer E-Mail-Vorlage 500 Zeichen nicht überschreiten soll, fügen Sie diese Anforderung den [Kanalrichtlinien](/help/user-guide/guidelines/brands.md#channel-guidelines) für das Feld &quot;Hauptteil&quot;hinzu.
+
+Wenn GenStudio keine Richtlinien hinzugefügt werden, werden Standardwerte verwendet.
 
 ## E-Mail-Vorlage kodieren
 

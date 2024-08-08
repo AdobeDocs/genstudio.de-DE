@@ -3,9 +3,9 @@ title: Vorlagen anpassen
 description: Erfahren Sie, wie Sie eine benutzerdefinierte Vorlage für GenStudio erstellen.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 1b5b12615c52823aa2f1c10ad704e3fc0dabb1e9
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '809'
 ht-degree: 0%
 
 ---
@@ -73,6 +73,12 @@ GenStudio füllt bestimmte Felder automatisch in Vorlagen aus, sodass es nicht e
 >[!WARNING]
 >
 >Bei Instagram-Anzeigen erscheint die generierte Überschrift nicht im endgültigen Erlebnis.
+
+#### Feldname für Markenlogo
+
+Verwenden Sie zum Hinzufügen eines Markenlogos zu Ihrer Vorlage den folgenden Code, um das Standardlogo wiederzugeben:
+
+```{{#if brand_logo}}{{brand_logo}}{{else}} encoded inline logo {{/if}}```
 
 #### Manuelle Feldnamen
 

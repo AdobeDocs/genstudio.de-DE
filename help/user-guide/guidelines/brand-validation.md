@@ -2,9 +2,9 @@
 title: Markenvalidierung in GenStudio
 description: Erfahren Sie, wie das integrierte Markenvalidierungssystem in GenStudio funktioniert.
 feature: Brands Service, Guidelines
-source-git-commit: d7de679ce310dcdcec4a1b5ea814b2ca8b1fc413
+source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
 workflow-type: tm+mt
-source-wordcount: '603'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ Im Bereich _Markenvalidierung_ können Sie filtern, welche Richtlinien angezeigt
 
 ## Markenausrichtung verbessern
 
-Um die Effektivität des generierten Inhalts zu maximieren und eine einheitliche Markenidentität zu gewährleisten, verwenden Sie die Prüfung der _Markenrichtlinien_ und das Bedienfeld _Markenvalidierung_. Sie können bestimmte Fragmente manuell ändern oder [raffinierte Varianten generieren](/help/user-guide/create/generate-variants.md), um sie an Ihre [Markenrichtlinien](brands.md) anzupassen.
+Um die Effektivität des generierten Inhalts zu maximieren und eine einheitliche Markenidentität zu gewährleisten, verwenden Sie die Prüfung der _Markenrichtlinien_ und das Bedienfeld _Markenvalidierung_. Sie können bestimmte Fragmente manuell ändern, um sie an Ihre [Markenrichtlinien](brands.md) anzupassen.
 
 **Verbessern der Markenausrichtung für generierte Inhaltsvarianten**:
 

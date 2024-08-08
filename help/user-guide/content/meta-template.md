@@ -3,9 +3,9 @@ title: Vorbereiten einer Meta-Anzeigenvorlage für GenStudio
 description: Erfahren Sie, wie Sie eine benutzerdefinierte Meta-Anzeigenvorlage für GenStudio erstellen.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
