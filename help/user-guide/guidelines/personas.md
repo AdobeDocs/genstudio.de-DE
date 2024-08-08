@@ -2,9 +2,9 @@
 title: GenStudio [!DNL Personas]
 description: GenStudio [!DNL Personas] sind eine wahre Darstellung Ihrer Kundensegmente, um deren Interessen, Schmerzpunkte, Voreinstellungen und Verhaltenseigenschaften zu erfassen.
 feature: Personas Service, Guidelines
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: 21d0c7c6aab6f4d81fc4376251e85eb2d4be3f25
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,9 @@ In diesen Richtlinien werden die einzelnen Kategorien von Richtlinien und zugeh�
 
 In der folgenden Tabelle sind die einzelnen Kategorien von [!DNL Personas] -Richtlinien und die zugehörigen Beispiele aufgeführt.
 
-| Führungskategorie | Leitlinienbeispiele |
-| ------------------| :---------- |
-| Beschreibung | `Brand Uno's Curious Jobseekers are curious about finding a job within their immediate area and need assistance with learning how to find applicable positions, interviewing successfully, and researching transportation options. This prep work will prepare the Curious Jobseeker to take the next step in applying to fitting job opportunities and entering the interview process with confidence.` |
-| Messaging-Voreinstellungen | `Curious Jobseekers respond to communications and marketing messaging when they feel the Empower Outreach program's capabilities are affordable and successful in helping them obtain the job they desire. They enjoy visuals/graphics and short punchy headlines crafted to get their attention.` |
+| Führungskategorie | Leitlinienbeispiele | Best Practices |
+| ------------------| :---------- |-------------|
+| Personenname | Stellt ein bestimmtes Zielgruppensegment dar, für das die erzeugten Marketingmaterialien zugeschnitten sind | Fügen Sie einen klaren und präzisen Personennamen hinzu.<br><br>_Beispiele_: &quot;CMOs of Retail&quot;, &quot;Prospective Nursing Students&quot;, &quot;New Savings Account Clients&quot; |
+| Beschreibung | Kurze Zusammenfassung zur Definition der wichtigsten Merkmale, Anforderungen und Verhaltensweisen | Verwenden Sie eine einheitliche Sprache, um die Persona und die eindeutige Zielgruppensegmentierung (1-2 Sätze) klar zu beschreiben.<br><br>Konzentrieren Sie sich auf die Faktoren, durch die dieses Zielgruppensegment bestimmt wird (Anforderungen, Hauptmerkmale usw.).<br><br>Beschreibungen sollten kurz sein und keine tiefen demografischen Daten oder zusätzlichen Informationen enthalten. |
+| Messaging-Voreinstellungen | Klare Zusammenfassung der bevorzugten Kommunikationsstile, die bei einer bestimmten Rolle Resonanz finden | Definieren Sie einzigartige Messaging-Anforderungen und -Motivationen von Persona, wobei Sie sich darauf konzentrieren, wie Personen Nachrichten empfangen und mit ihnen interagieren.<br><br>Geben Sie bestimmte Messaging-Voreinstellungen in der Liste an (jedes Listenelement 1-2 Sätze).<br><br>Begrenzen Sie die Liste auf insgesamt 10 Sätze oder weniger und stellen Sie sicher, dass die wichtigsten Informationen hervorgehoben sind.<br><br>_Beispiel_: &quot;Messaging-Voreinstellungen für technisch versierte Profis:<li>Bevorzugt eine knappe, jargon-freie Kommunikation.</li><li>Reagiert positiv auf datengesteuerte Einblicke und umsetzbare Ratschläge.</li><li>Bevorzugt Visualisierungen wie Infografiken und Diagramme, um komplexe Informationen schnell zu erfassen.<li><li>Werte Transparenz mit ehrlichem, unkompliziertem Ansatz.</li>„ |
+| Zusätzliche Details | Erfassen wichtiger Informationen für die Erstellung personalisierter Inhalte | Geben Sie zusätzliche Details (1-3 Sätze) an, die für die Personalisierung von Inhalten unerlässlich sind, und stellen Sie sicher, dass Informationen direkt zur Effektivität von Inhalten beitragen.<br><br>Konzentrieren Sie sich auf Klarheit und Kürze. |

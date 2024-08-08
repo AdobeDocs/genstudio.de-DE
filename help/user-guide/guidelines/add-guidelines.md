@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie in Adobe [!DNL GenStudio] Richtlinien hinzuf�
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: fa89422db3e1679516a377c9bfd9f05ab6e63428
+source-git-commit: 121a567a6a45f6d17caa621e323cdc3a4aa3dcb4
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -62,7 +62,6 @@ Sie können manuell Markendetails hinzufügen, anstatt vorhandene Markendokument
 
    Klicken Sie optional auf **[!UICONTROL Kategorie hinzufügen]** , um eine benutzerdefinierte Führungskategorie hinzuzufügen, z. B. Fotos oder Illustrationen.
 
-1. Fügen Sie Logos im Abschnitt _Logos_ hinzu.
 1. Klicken Sie in den Titel _Neue Marke_ und geben Sie einen beschreibenden Markennamen ein.
 
 Um Ihren erstellten [!DNL Brands] anzuzeigen, klicken Sie auf den Pfeil nach hinten oben im Bedienfeld _Marke_ , um zur Startseite _[!DNL Brands]_zurückzukehren.
@@ -105,6 +104,7 @@ Siehe [[!DNL Products]](products.md).
 1. Klicken Sie auf **[!UICONTROL Unbenannt]** und geben Sie einen Namen für die [!DNL Product] ein.
 1. Klicken Sie auf _Beschreibung_ und geben Sie eine Beschreibung dieses [!DNL Product] ein.
 1. Klicken Sie auf _Wertvorschlag_ und geben Sie Details zum Produktwert ein.
+1. Klicken Sie auf _Zusätzliche Details_ und geben Sie Details ein, die für die Erstellung personalisierter Inhalte wichtig sind.
 1. Um die Miniaturansicht zu bearbeiten, bewegen Sie den Mauszeiger über die Miniaturansicht und wählen Sie im Aktionsmenü Miniaturansicht die Option **[!UICONTROL Miniatur bearbeiten]** aus.
    1. Laden Sie ein neues Bild hoch oder entfernen Sie das vorhandene hochgeladene Bild auf der Registerkarte _Hochladen_ .
    1. Wählen Sie auf der Registerkarte _Galerie_ ein Bild aus der Galerie aus.
@@ -131,6 +131,7 @@ Siehe [[!DNL Personas]](personas.md).
 1. Klicken Sie auf **[!UICONTROL Unbenannt]** und geben Sie einen Namen für die [!DNL Persona] ein.
 1. Klicken Sie auf _Beschreibung_ und geben Sie eine Beschreibung dieses [!DNL Persona] ein.
 1. Klicken Sie auf _Messaging Preferences_ und geben Sie die Nachrichtendetails für die [!DNL Persona] ein.
+1. Klicken Sie auf _Zusätzliche Details_ und geben Sie Details ein, die für die Erstellung personalisierter Inhalte wichtig sind.
 1. Um die Miniaturansicht zu bearbeiten, bewegen Sie den Mauszeiger über die Miniaturansicht und wählen Sie im Menü _Aktionen für Miniaturansichten_ die Option **[!UICONTROL Miniaturansicht bearbeiten]** aus.
    1. Laden Sie ein neues Bild hoch oder entfernen Sie das vorhandene hochgeladene Bild auf der Registerkarte _Hochladen_ .
    1. Wählen Sie auf der Registerkarte _Galerie_ ein Bild aus der Galerie aus.
