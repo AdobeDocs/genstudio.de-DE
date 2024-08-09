@@ -1,7 +1,7 @@
 ---
 title: Adobe GenStudio-Benutzerhandbuch
 description: Erfahren Sie, wie Sie mit GenStudio und generativer KI Ihre Inhaltsversorgungskette personalisieren können.
-source-git-commit: f5b353ac807b5676fbeda593a3827c960facda3a
+source-git-commit: 214f54bcc15eb8d0c3b766784ac911790a8fb351
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 1%
@@ -123,3 +123,4 @@ Mit GenStudio können Unternehmen generative KI nutzen, um die Inhaltserstellung
    </p>
 </td>
 </table>
+
