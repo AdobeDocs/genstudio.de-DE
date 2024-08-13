@@ -2,9 +2,9 @@
 title: Effektive Eingabeaufforderungen schreiben
 description: Erfahren Sie, wie Sie effektive Eingabeaufforderungen für GenStudio schreiben.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: d7de679ce310dcdcec4a1b5ea814b2ca8b1fc413
+source-git-commit: 5e17996ee3a86cf664ee468d6b9cf178c8853992
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '483'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 Die Kommunikation mit der generativen KI ist für eine effektive Arbeit in GenStudio unerlässlich.
 
-GenStudio bietet eine generative KI-Eingabeaufforderung, sobald es möglich ist, ein Asset zu erstellen oder zu ändern. Die Komponenten einer effektiven Eingabeaufforderung sollten beschreibende Sprache, Beispiele und Informationen enthalten, die nicht über Ihre konfigurierten Richtlinien bereitgestellt werden.
+GenStudio bietet eine generative KI-Eingabeaufforderung, sobald es möglich ist, ein Asset zu ändern. Die Komponenten einer effektiven Eingabeaufforderung sollten beschreibende Sprache, Beispiele und Informationen enthalten, die nicht über Ihre konfigurierten Richtlinien bereitgestellt werden.
 
-Als Best Practice sollten Sie GenStudio mit [guidelines](/help/user-guide/guidelines/overview.md) mit Ihren Markeninformationen versorgen. Anschließend können Sie die generative KI vollständig nutzen, um markenorientierte Inhalte zu erstellen.
+Als Best Practice sollten Sie GenStudio mit [Richtlinien](/help/user-guide/guidelines/overview.md) mit Ihren Markeninformationen versorgen. Anschließend können Sie die generative KI vollständig nutzen, um markenorientierte Inhaltserlebnisse zu erstellen.
 
 ## Beschreibende Sprache
 

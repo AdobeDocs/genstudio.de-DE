@@ -1,18 +1,20 @@
 ---
 title: Adobe GenStudio-Benutzerhandbuch
-description: Erfahren Sie, wie Sie mit GenStudio und generativer KI Ihre Inhaltsversorgungskette personalisieren können.
-source-git-commit: 214f54bcc15eb8d0c3b766784ac911790a8fb351
+description: Marketing-Experten und kreative Kreativinhalte mit GenStudio, der Adobe AI-First-Anwendung, die Self-Service-Zugriff auf Markeninhalte mit Enterprise-Limits und Governance für leistungsstarke Erlebnisse bietet.
+source-git-commit: a0646480c863f9776aa7dfe1ef17eb9d23f269ea
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 1%
+source-wordcount: '234'
+ht-degree: 0%
 
 ---
 
 # GenStudio-Benutzerhandbuch
 
-GenStudio ist eine umfassende Marketing-Lösung, die auf der generativen KI-Technologie von Adobe basiert. Marketingexperten können damit die Inhaltsversorgungskette von der Ideenvorstellung über die Bereitstellung bis hin zur Leistungsmessung optimieren.
+Adobe GenStudio ist eine KI-gestützte Plattform, mit der Unternehmen eigenständig Marketing-Inhalte generieren und verwalten können, die ihren Markenstandards entsprechen, Unternehmensrichtlinien einhalten und nahtlos eine wirkungsvolle Marketingstrategie unterstützen.
 
-Mit GenStudio können Unternehmen generative KI nutzen, um die Inhaltserstellung zu beschleunigen, Inhalte einfach zu finden und wiederzuverwenden und erfolgreiche Omnichannel-Kampagnen zu fördern.
+Mit GenStudio können Marketingexperten und Kreativprofis den Inhaltserstellungsprozess optimieren, um Marketinginhalte zu erstellen, die ansprechend, kulturell relevant und auf bestimmte Zielgruppen zugeschnitten sind. Gleichzeitig werden hohe Qualität und Markenintegrität gewahrt.
+
+Durch die Nutzung der KI-Technologie bietet GenStudio eine umfassende Palette von Tools, die die Komplexität der Inhaltserstellung und -verwaltung vereinfachen, sodass Kreative sich auf Innovationen konzentrieren können.
 
 ## GenStudio-Funktionen
 
@@ -28,7 +30,7 @@ Mit GenStudio können Unternehmen generative KI nutzen, um die Inhaltserstellung
          </a>
       </div>
       <p>
-         <em>Aufforderungen zum Erstellen mit beschreibender Sprache, Marken-Assets und anderen Kriterien.</em>
+         <em>Entwerfen Sie beschreibende Aufforderungen, die digitale On-brand-Erlebnisse generieren.</em>
       </p>
    </td>
    <td valign="top">
@@ -41,7 +43,7 @@ Mit GenStudio können Unternehmen generative KI nutzen, um die Inhaltserstellung
          </a>
       </div>
       <p>
-         <em>Erstellen Sie performante On-Marke-Bilder und -Inhalte.</em>
+         <em>Erstellen Sie performante, On-Marke-E-Mails und Meta-Anzeigen.</em>
       </p>
    </td>
    <td valign="top">
@@ -54,7 +56,7 @@ Mit GenStudio können Unternehmen generative KI nutzen, um die Inhaltserstellung
          </a>
       </div>
       <p>
-         <em>Überprüfen und genehmigen Sie Kampagnenkomponenten und Marken-Assets.</em>
+         <em>Organisieren Sie die optimierte Überprüfung und Genehmigung von Marketing-Assets.</em>
       </p>
    </td>
    <td valign="top">
@@ -80,7 +82,7 @@ Mit GenStudio können Unternehmen generative KI nutzen, um die Inhaltserstellung
          </a>
       </div>
       <p>
-         <em>Optimieren Sie die Inhaltsleistung basierend auf der Echtzeit-Nutzung.</em>
+         <em>Analysieren Sie die Effektivität des Inhalts von Paid-Media-Kanälen.</em>
       </p>
    </td>
 </tr>
@@ -97,7 +99,7 @@ Mit GenStudio können Unternehmen generative KI nutzen, um die Inhaltserstellung
       </a>
    </div>
    <p>
-      <em>Erfahren Sie, wie Sie GenStudio Richtlinien hinzufügen.</em>
+      <em>Erfahren Sie, wie Sie GenStudio Richtlinien - Marken, Produkte und Personas - hinzufügen.</em>
    </p>
 </td>
 <td valign="top">
