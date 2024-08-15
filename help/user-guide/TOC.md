@@ -4,10 +4,10 @@ breadcrumb-title: Benutzerhandbuch
 user-guide-description: Erfahren Sie, wie Sie schnell Assets innerhalb der Marke finden und generieren, Varianten erstellen und Erlebnisse basierend auf Einblicken in die Inhaltsleistung in Echtzeit optimieren können.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 33f53659894bc53e9a8e0740b0fff5621907bf15
+source-git-commit: 61f5e585eb1965b35a28a2825f50bb0953d87f2a
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 11%
+source-wordcount: '113'
+ht-degree: 13%
 
 ---
 
@@ -52,3 +52,6 @@ ht-degree: 11%
    + [Insights - Übersicht](insights/overview.md)
    + [Kanalkonto verbinden](insights/connect-channel.md)
    + [Datenspalten](insights/data-columns.md)
++ Versionshinweise {#beta-release-notes}
+   + [Versionshinweise](beta-release-notes.md)
+
