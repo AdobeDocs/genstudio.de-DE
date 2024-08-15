@@ -3,9 +3,9 @@ title: Vorlagen anpassen
 description: Erfahren Sie, wie Sie eine benutzerdefinierte Vorlage für GenStudio erstellen.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: d7d11077d35a4c1924e4be456c00b1fae24e0a1b
+source-git-commit: 5c43cf2014c1f93bdb9988ddefb503630714e522
 workflow-type: tm+mt
-source-wordcount: '808'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ In der folgenden Tabelle sind die Feldnamen aufgeführt, die von GenStudio für 
 | `cta` | Aktionsaufruf | email (empfohlen)<br>Meta-Anzeige |
 | `on_image_text` | Im Bildtext | Metaanzeige (empfohlen) |
 | `image` | Bild | email (empfohlen)<br>Meta-Anzeige (empfohlen) |
-| `brand_logo` | Logo der ausgewählten Marke | Meta-Anzeige |
+| `brand_logo` | Logo der ausgewählten Marke | email<br>Meta-Anzeige |
 
 GenStudio füllt bestimmte Felder automatisch in Vorlagen aus, sodass es nicht erforderlich ist, sie in Ihre Vorlagenentwürfe aufzunehmen:
 
@@ -76,15 +76,33 @@ GenStudio füllt bestimmte Felder automatisch in Vorlagen aus, sodass es nicht e
 
 #### Feldname für Markenlogo
 
-Verwenden Sie zum Hinzufügen eines Markenlogos zu Ihrer Vorlage den folgenden Code, um das Standardlogo wiederzugeben:
+Verwenden Sie eine der folgenden Methoden, um ein Markenlogo in Ihre Vorlage einzufügen und das Standardlogo zu rendern.
 
-```{{#if brand_logo}}{{brand_logo}}{{else}} encoded inline logo {{/if}}```
+_Beispiel_:
+
+```bash
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default image>{{/if}}" alt="WKND" style="max-width: 88px; margin: 10px auto; display: block;"> 
+```
+
+_Beispiel_:
+
+```bash
+{{#if brand_logo}}
+
+                    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+
+                {{else}}
+
+                    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+
+                {{/if}}
+```
 
 #### Manuelle Feldnamen
 
 Alle anderen Feldnamen werden als manuell ausgefüllte Felder behandelt. Wenn ein Abschnitt bearbeitbar sein soll, fügen Sie im Bereich, den Sie bearbeiten möchten, doppelte Klammern hinzu.
 
-> Beispiel: ``{{customVariable}}`` (customVariable ist der manuell bearbeitbare Abschnitt)
+_Beispiel_: ``{{customVariable}}`` (`customVariable` ist der manuell bearbeitbare Abschnitt)
 
 ## Abschnitte oder Gruppen
 
