@@ -1,27 +1,27 @@
 ---
-title: Überblick über [!DNL Create]
-description: Schnelles Generieren leistungsstarker On-Brand-Inhalte mit generativer KI in GenStudio [!DNL Create].
+title: Überblick über GenStudio für Performance Marketingexperten [!DNL Create]
+description: Schnelles Generieren leistungsstarker On-Brand-Inhalte mit generativer KI im Adobe GenStudio für Performance-Marketingexperten [!DNL Create].
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
-source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '481'
-ht-degree: 2%
+source-wordcount: '503'
+ht-degree: 1%
 
 ---
 
 
-# GenStudio [!DNL Create]
+# GenStudio für Leistungs-Marketingexperten [!DNL Create]
 
-GenStudio [!DNL Create] nutzt die Leistungsfähigkeit von Adobe GenAI, um Marketingexperten und verteilten Teams die Möglichkeit zu geben, leistungsstarke On-Brand-Erlebnisse zu schaffen.
+GenStudio for Performance Marketers [!DNL Create] nutzt die Leistungsfähigkeit von Adobe GenAI, um Marketingexperten und verteilten Teams die Möglichkeit zu geben, leistungsstarke On-Brand-Erlebnisse zu schaffen.
 
-Mit GenStudio [!DNL Create] können Sie Inhalte für die folgenden Kanäle generieren:
+Mit [!DNL Create] können Sie Inhalte für die folgenden Kanäle generieren:
 
 * E-Mails
 * Meta-Anzeigen
 <!-- * Social media images and ads
 * Display ads -->
 
-Zusammen mit den Vorteilen von GenStudio [guidelines](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products] und [!DNL Personas]—[content](/help/user-guide/content/overview.md), [Reviews und Validierungen](/help/user-guide/approvals/overview.md) und [Insights](/help/user-guide/insights/overview.md) erleichtert [!DNL Create] die Erstellung wirkungsvoller markenorientierter Marketinginhalte.
+Zusammen mit den Vorteilen von [guidelines](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products] und [!DNL Personas]—[content](/help/user-guide/content/overview.md), [Reviews und Validierungen](/help/user-guide/approvals/overview.md) und [Insights](/help/user-guide/insights/overview.md) erleichtert [!DNL Create] die Erstellung wirkungsvoller markenorientierter Marketinginhalte.
 
 ## [!DNL Create]-Anwendungsfälle 
 
@@ -60,13 +60,13 @@ Zusammen mit den Vorteilen von GenStudio [guidelines](/help/user-guide/guideline
 </tr>
 </table>
 
-Mit GenStudio können Marketingexperten **neue Marketinginhalte erstellen**. Verwenden Sie in diesem Anwendungsfall definierte [Führungslinien](/help/user-guide/guidelines/overview.md) und inspirierende Bilder, um die Erstellung markenorientierter Inhalte zu unterstützen.
-<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content. 
+Mit GenStudio für Performance Marketers können Marketing-Experten **neue Marketinginhalte erstellen**. Verwenden Sie in diesem Anwendungsfall definierte [Führungslinien](/help/user-guide/guidelines/overview.md) und inspirierende Bilder, um die Erstellung markenorientierter Inhalte zu unterstützen.
+<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketers and use the power of Adobe generative AI technology to revise and improve existing content. 
 * **Generate variants of approved content** - In this use case, [generate variations of content that is approved by stakeholders](generate-variants.md) and published to [!DNL Content]. -->
 
 ## [!DNL Create] Funktionen
 
-GenStudio [!DNL Create] integriert verschiedene Komponenten von GenStudio, um Benutzer bei der Erstellung von Inhalten zu unterstützen.
+[!DNL Create] integriert verschiedene Komponenten von GenStudio für Performance Marketingexperten, um Benutzer bei der Erstellung von Inhalten zu unterstützen.
 
 ### Entwürfe
 
@@ -88,15 +88,15 @@ Geben Sie zum Erstellen neuer KI-generierter Inhalte eine [beschreibende Eingabe
 
 ### Parameter
 
-Im Eingabeaufforderungsbereich können Sie _Parameter_ wie [!DNL Brands], [!DNL Products] und [!DNL Personas] (GenStudio-Richtlinien) oder Assets hinzufügen, um das generierte Erlebnis zu gestalten.
+Im Eingabeaufforderungsbereich können Sie _Parameter_ wie [!DNL Brands], [!DNL Products] und [!DNL Personas] (Richtlinien) oder Assets hinzufügen, um das generierte Erlebnis zu formen.
 
 In _Parameter_ hochgeladene Bilder werden in generierten Varianten verwendet und geben den für Varianten generierten Kopierinhalt (Text) an.
 
-Diese hinzugefügten Parameter fügen [guidelines](/help/user-guide/guidelines/overview.md) und Assets in den Generierungsprozess ein, um sicherzustellen, dass der Inhalt an die umfassende Identität einer Marke angepasst wird. Es wird empfohlen, Ihrer GenStudio Richtlinien hinzuzufügen und diese während der Inhaltserstellung zu verwenden, da sie die Erstellung von geeigneten Inhalten auf der Marke erheblich verbessern.
+Diese hinzugefügten Parameter fügen [guidelines](/help/user-guide/guidelines/overview.md) und Assets in den Generierungsprozess ein, um sicherzustellen, dass der Inhalt an die umfassende Identität einer Marke angepasst wird. Es wird empfohlen, Ihrer GenStudio Richtlinien für Leistungs-Marketingexperten hinzuzufügen und diese während des Inhaltserstellungsprozesses zu verwenden, da sie die Erstellung geeigneter On-Brand-Inhalte erheblich verbessern.
 
 ### Markenvalidierung
 
-GenStudio führt eine Markenvalidierung für verschiedene Aspekte der Markenidentität durch (wie in [Richtlinien](/help/user-guide/guidelines/overview.md) definiert). [Informationen zur Markenvalidierung](/help/user-guide/guidelines/brand-validation.md) sind für jeden generierten Inhalt verfügbar und geben an, ob die Markenrichtlinien eingehalten wurden und ob Text und Bilder einheitlich sind. Mithilfe dieser Informationen können Sie Ihr generiertes Erlebnis überarbeiten oder verbessern, um es besser an Ihre Marke anzupassen.
+GenStudio for Performance Marketers führt eine Markenvalidierung für verschiedene Aspekte der Markenidentität durch (wie in [Führungslinien](/help/user-guide/guidelines/overview.md) definiert). [Informationen zur Markenvalidierung](/help/user-guide/guidelines/brand-validation.md) sind für jeden generierten Inhalt verfügbar und geben an, ob die Markenrichtlinien eingehalten wurden und ob Text und Bilder einheitlich sind. Mithilfe dieser Informationen können Sie Ihr generiertes Erlebnis überarbeiten oder verbessern, um es besser an Ihre Marke anzupassen.
 
 ### Überprüfungen und Genehmigungen
 

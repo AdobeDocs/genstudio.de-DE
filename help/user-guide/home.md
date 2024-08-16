@@ -1,22 +1,22 @@
 ---
 title: Adobe GenStudio-Benutzerhandbuch
-description: Marketing-Experten und kreative Kreativinhalte mit GenStudio, der Adobe AI-First-Anwendung, die Self-Service-Zugriff auf Markeninhalte mit Enterprise-Limits und Governance für leistungsstarke Erlebnisse bietet.
-source-git-commit: 1e30db88fac8e6d47a845d4eb5d54defcc256244
+description: Ermöglichen Sie Marketingfachleuten und hochkarätigen Kreativen mit GenStudio für Performance Marketers, Adobe AI-First Application, die Self-Service-Zugriff auf Markeninhalte mit Unternehmensgarantien und Governance für leistungsstarke Erlebnisse bietet.
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
 
-# GenStudio-Benutzerhandbuch
+# Benutzerhandbuch zu Adobe GenStudio für Performance Marketingexperten
 
-Adobe GenStudio ist eine KI-gestützte Plattform, mit der Unternehmen eigenständig Marketing-Inhalte generieren und verwalten können, die ihren Markenstandards entsprechen, Unternehmensrichtlinien einhalten und nahtlos eine wirkungsvolle Marketingstrategie unterstützen.
+Adobe GenStudio for Performance Marketers ist eine KI-gestützte Plattform, mit der Unternehmen eigenständig Marketing-Inhalte generieren und verwalten können, die ihren Markenstandards entsprechen, Unternehmensrichtlinien einhalten und nahtlos eine wirkungsvolle Marketingstrategie unterstützen.
 
-Mit GenStudio können Marketingexperten und Kreativprofis den Inhaltserstellungsprozess optimieren, um Marketinginhalte zu erstellen, die ansprechend, kulturell relevant und auf bestimmte Zielgruppen zugeschnitten sind. Gleichzeitig werden hohe Qualität und Markenintegrität gewahrt.
+Mit GenStudio für Performance Marketingexperten können Marketingexperten und Kreativprofis den Inhaltserstellungsprozess optimieren, um Marketinginhalte zu erstellen, die ansprechend, kulturell relevant und auf bestimmte Zielgruppen zugeschnitten sind. Gleichzeitig werden hohe Qualität und Markenintegrität gewahrt.
 
-Durch die Nutzung der KI-Technologie bietet GenStudio eine umfassende Palette von Tools, die die Komplexität der Inhaltserstellung und -verwaltung vereinfachen, sodass Kreative sich auf Innovationen konzentrieren können.
+Durch die Nutzung der KI-Technologie bietet GenStudio for Performance Marketers eine umfassende Suite von Tools, die die Komplexität der Inhaltserstellung und -verwaltung vereinfachen, sodass Kreative sich auf Innovationen konzentrieren können.
 
-## GenStudio-Funktionen
+## Funktionen
 
 <table style="table-layout:fixed">
 <tr style="border: 0;">
@@ -99,7 +99,7 @@ Durch die Nutzung der KI-Technologie bietet GenStudio eine umfassende Palette vo
       </a>
    </div>
    <p>
-      <em>Erfahren Sie, wie Sie GenStudio Richtlinien - Marken, Produkte und Personas - hinzufügen.</em>
+      <em>Erfahren Sie, wie Sie GenStudio Richtlinien - Marken, Produkte und Personas - für Performance-Marketer hinzufügen.</em>
    </p>
 </td>
 <td valign="top">

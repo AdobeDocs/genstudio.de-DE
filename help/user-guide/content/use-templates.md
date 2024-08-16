@@ -1,10 +1,10 @@
 ---
 title: Arbeiten mit Vorlagen
-description: Erfahren Sie, wie Sie mit Vorlagen ansprechende Erlebnisse in GenStudio erstellen können.
+description: Erfahren Sie, wie Sie mit Vorlagen ansprechende Erlebnisse in Adobe GenStudio für Performance-Marketer erstellen können.
 feature: Templates, Content
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: b383295810d4bd1b37227cf689ee76687e940f03
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '459'
 ht-degree: 2%
 
 ---
@@ -17,8 +17,8 @@ GenStudio-Vorlagen sind unverzichtbar, damit Inhaltsersteller schnell konsistent
 In diesem Handbuch finden Sie detaillierte Informationen zu folgenden Themen:
 
 * Vorbereiten einer [E-Mail-Vorlage](email-template.md) oder einer Meta-Anzeigenvorlage
-* [Vorlagen anpassen](customize-template.md) für GenStudio
-* [ Vorlagen hochladen](#upload-a-template) in GenStudio
+* [Anpassen von Vorlagen](customize-template.md) für GenStudio for Performance Marketerstudio
+* [Hochladen von Vorlagen](#upload-a-template) in GenStudio für Performance Marketingexperten
 * [Verwenden von Vorlagen zum Erstellen von Erlebnissen](#use-a-template)
 
 ## Anatomie einer Vorlage
@@ -38,11 +38,11 @@ Das grundlegende Vorlagendesign umfasst die folgenden Elemente:
 
 >[!NOTE]
 > 
->Es wird empfohlen, bestimmte Felder in den Inhalt jedes Kanals einzuschließen, um sicherzustellen, dass GenStudio Text für Platzhalter für Inhalte generieren kann. Siehe [Erkannte Feldnamen ](customize-template.md#recognized-field-names) , um zu sehen, welche Felder zur Aufnahme empfohlen werden.
+>Es wird empfohlen, dass Sie bestimmte Felder in den Inhalt jedes Kanals einschließen, um sicherzustellen, dass GenStudio for Performance Marketers Text für Inhaltsplatzhalter generieren kann. Siehe [Erkannte Feldnamen ](customize-template.md#recognized-field-names) , um zu sehen, welche Felder zur Aufnahme empfohlen werden.
 
 ## Vorlage hochladen
 
-GenStudio akzeptiert Vorlagen im HTML-Format.
+GenStudio for Performance Marketers akzeptiert Vorlagen im HTML-Format.
 
 **So fügen Sie eine Vorlage hinzu**:
 
@@ -80,7 +80,6 @@ Suchen und verwenden Sie eine vorhandene Vorlage, um Erlebnisse zu erstellen.
 >[!TIP]
 >
 >Vollständige Tutorials mit Vorlagen finden Sie unter [[!DNL Create] ein E-Mail-Erlebnis](/help/tutorials/create-email-experience.md) oder [[!DNL Create] ein Meta-Anzeigenerlebnis](/help/tutorials/create-meta-ad.md) .
-
 <!--  The create button in Content Template view does not work yet.
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
 -->

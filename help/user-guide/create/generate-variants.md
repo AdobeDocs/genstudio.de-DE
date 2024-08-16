@@ -1,12 +1,12 @@
 ---
-title: Generieren von Varianten von GenStudio-Inhalten
-description: Erfahren Sie, wie Sie Varianten des erstellten Inhalts in Adobe [!DNL GenStudio] generieren.
+title: Generieren von Varianten von Adobe GenStudio für Performance Marketers-Inhalte
+description: Erfahren Sie, wie Sie Varianten von erstellten Inhalten in Adobe GenStudio für Performance Marketers generieren.
 feature: Content, Brands Service, Variant Generation, Content Generation
 role: User
 level: Beginner
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Beim Generieren von Varianten haben Sie die Möglichkeit, neue [Führungslinien]
 
 ## E-Mail
 
-Standardmäßig erzeugt GenStudio vier E-Mail-Varianten. Sie können manuell geändert oder neu generiert werden, indem Sie eine Mischung aus neuen Eingabeaufforderungen und _Parametern_ verwenden, um stilistische Ziele oder Markenbefolgung zu erreichen.
+GenStudio for Performance Marketers generiert standardmäßig vier E-Mail-Varianten. Sie können manuell geändert oder neu generiert werden, indem Sie eine Mischung aus neuen Eingabeaufforderungen und _Parametern_ verwenden, um stilistische Ziele oder Markenbefolgung zu erreichen.
 
 **So ändern Sie generierte E-Mail-Varianten:**
 

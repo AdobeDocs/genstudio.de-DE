@@ -2,9 +2,9 @@
 title: Inhalt überprüfen und bearbeiten
 description: Erfahren Sie, wie Sie Inhalte iterativ überprüfen und bearbeiten können.
 feature: Approval
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '570'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Prüfungs- und Genehmigungsprozesse, an denen mehrere Prüfer beteiligt sind, können zeitaufwendig sein. Der Zyklus der Inhaltsüberprüfung, der Inhaltsüberarbeitung als Reaktion auf Überprüfungskommentare und der anschließenden Überprüfung geänderter Inhalte kann sich oft wiederholen.
 
-Die generativen KI-Funktionen von GenStudio beschleunigen diese kritischen iterativen Phasen des Inhaltserstellungs- und -überprüfungsprozesses. Autoren von Inhalten können auf Überprüfungsanfragen reagieren, indem sie schnell Entwürfe mit Eingabeaufforderungen bearbeiten. In-Produkt-Benachrichtigungen benachrichtigen die Prüfer unverzüglich darüber, dass der Entwurf überarbeitet wurde, und können Änderungen überprüfen. Je mehr Prüfer und Prüfzyklen die Inhaltsentwicklung erfordert, desto größer sind die Vorteile, die GenStudio bietet.
+Die generativen KI-Funktionen von GenStudio for Performance Marketers beschleunigen diese kritischen iterativen Phasen des Inhaltserstellungs- und -überprüfungsprozesses. Autoren von Inhalten können auf Überprüfungsanfragen reagieren, indem sie schnell Entwürfe mit Eingabeaufforderungen bearbeiten. In-Produkt-Benachrichtigungen benachrichtigen die Prüfer unverzüglich darüber, dass der Entwurf überarbeitet wurde, und können Änderungen überprüfen. Je mehr Validierer und Überprüfungszyklen die Inhaltsentwicklung erfordert, desto größer sind die Vorteile, die GenStudio für Performance Marketingexperten bietet.
 
 ## Iterative Entwurfsbearbeitung
 
@@ -24,7 +24,7 @@ Ersteller können als Reaktion auf Überprüfungskommentare in Bearbeitung befin
 
 Als benannter Genehmiger können Sie auf verschiedene Arten auf den Inhalt zugreifen, den Sie überprüfen und genehmigen müssen:
 
-* **Greifen Sie direkt über den Link in der Genehmigungsanforderung auf den Entwurf für die Überprüfung zu.** Klicken Sie entweder in der E-Mail-Benachrichtigung zur Genehmigungsanfrage oder in der Benachrichtigung zum Produkt auf den Link Entwurf . GenStudio öffnet eine Arbeitsfläche, auf der das Asset oder Erlebnis angezeigt wird. Das Detaillinke Bedienfeld &quot;_Asset_&quot;enthält ein Bedienfeld &quot;_Genehmigung_&quot;.
+* **Greifen Sie direkt über den Link in der Genehmigungsanforderung auf den Entwurf für die Überprüfung zu.** Klicken Sie entweder in der E-Mail-Benachrichtigung zur Genehmigungsanfrage oder in der Benachrichtigung zum Produkt auf den Link Entwurf . GenStudio for Performance Marketers öffnet eine Arbeitsfläche, auf der das Asset oder Erlebnis angezeigt wird. Das Detaillinke Bedienfeld &quot;_Asset_&quot;enthält ein Bedienfeld &quot;_Genehmigung_&quot;.
 
 * **Greifen Sie über die Liste der Genehmigungsanfragen auf den Entwurf für die Überprüfung zu**. Wenn Sie aufgefordert werden, mehrere Inhaltsentwürfe zu überprüfen, enthält Ihre Benachrichtigungs-E-Mail die Schaltfläche **[!UICONTROL Alle Benachrichtigungen anzeigen]** . Klicken Sie auf diese Schaltfläche, um zu einer Seite zu navigieren, auf der alle ausstehenden Überprüfungsanforderungen angezeigt werden.
 
@@ -34,7 +34,7 @@ Sie können Inhalte validieren, wenn Sie eine E-Mail mit einer Validierungsanfra
 
 **So überprüfen Sie Inhalt**:
 
-1. Verwenden Sie den Link in Ihrer In-Produktion-Benachrichtigung oder fordern Sie eine E-Mail an, um zu dem zu überprüfenden Inhalt zu navigieren. GenStudio zeigt die Inhaltsarbeitsfläche an.
+1. Verwenden Sie den Link in Ihrer In-Produktion-Benachrichtigung oder fordern Sie eine E-Mail an, um zu dem zu überprüfenden Inhalt zu navigieren. GenStudio for Performance Marketers zeigt die Inhaltsarbeitsfläche an.
 
 1. Die Asset-Arbeitsfläche enthält oben rechts die Schaltfläche &quot;**[!UICONTROL Überprüfen und genehmigen]**&quot;. Klicken Sie auf diese Schaltfläche, um das Bedienfeld _Genehmigungen_ für dieses Asset zu öffnen.
 
@@ -42,7 +42,7 @@ Sie können Inhalte validieren, wenn Sie eine E-Mail mit einer Validierungsanfra
 
 Sie können vorgeschlagene Änderungen auflisten oder Fragen zum Entwurf im Bereich _Genehmigung_ des Inhalts stellen. Der Entwurfsstatus **Erfordert Arbeit erforderlich** informiert den Ersteller des Inhalts darüber, dass Änderungen angefordert werden.
 
-Dieser Prozess der Überprüfung, der Änderung an den Ersteller des Inhalts und der anschließenden Überprüfung des Inhalts und des erneuten Versands zur Genehmigung ist äußerst iterativ. In diesem Teil des Zyklus sehen Sie die zeitsparenden Funktionen von GenStudio.
+Dieser Prozess der Überprüfung, der Änderung an den Ersteller des Inhalts und der anschließenden Überprüfung des Inhalts und des erneuten Versands zur Genehmigung ist äußerst iterativ. In diesem Teil des Zyklus sehen Sie die zeitsparenden Funktionen von GenStudio für Performance Marketingexperten.
 
 **So fordern Sie Änderungen an**:
 

@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '779'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # E-Mail-Erlebnis erstellen
 
-In diesem Tutorial erfahren Sie, wie Sie mit GenStudio [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich) Erlebnisse für Marken-E-Mails erstellen.
+In diesem Tutorial erfahren Sie, wie Sie mit GenStudio for Performance Marketers [[!DNL Create]](/help/user-guide/create/overview.md) (Paintbrush-Symbol im linken Navigationsbereich) Erlebnisse mit Marken-E-Mails erstellen.
 
-Um ein effektives E-Mail-Erlebnis zu schaffen, sollten Sie [GenStudio](/help/user-guide/guidelines/add-guidelines.md) Richtlinien hinzufügen und die [Grundlagen der Erstellung einer Eingabeaufforderung](/help/user-guide/effective-prompts.md) aufpolieren, bevor Sie beginnen.
+Um ein effektives E-Mail-Erlebnis zu schaffen, sollten Sie GenStudio Richtlinien für Performance-Marketingexperten hinzufügen](/help/user-guide/guidelines/add-guidelines.md) und die [Grundlagen für die Erstellung einer Eingabeaufforderung](/help/user-guide/effective-prompts.md) aufpolieren, bevor Sie beginnen.[
 
 ## Vorlage auswählen
 
@@ -41,7 +41,7 @@ Durch das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview
 1. Klicken Sie auf das Symbol _Parameter_ , um den Eingabeaufforderungsbereich zu erweitern.
 1. Wählen Sie im Abschnitt _Parameter_ die Richtlinien [!DNL Brands], [!DNL Personas] und [!DNL Products] aus, um die Inhaltserstellung zu informieren.
 
-   Wenn in diesen Menüs keine Marken, Rollen oder Produkte verfügbar sind, fügen Sie Ihrem GenStudio ](/help/user-guide/guidelines/add-guidelines.md) Richtlinien hinzu.[
+   Wenn in diesen Menüs keine Marken, Rollen oder Produkte verfügbar sind, fügt [Ihrer GenStudio Richtlinien für Performance Marketers hinzu](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Klicken Sie auf **[!UICONTROL Inhalt auswählen]** , um Inhalte hinzuzufügen, die im Erlebnis *und* verwendet werden sollen, um die Inhaltserstellung zu beeinflussen.
    * Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** , um Assets (Bilder) auszuwählen, die bereits in [!DNL Content] veröffentlicht wurden. Verwenden Sie die Filter, um die Suchergebnisse weiter einzugrenzen.

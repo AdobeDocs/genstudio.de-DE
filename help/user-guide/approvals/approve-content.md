@@ -2,9 +2,9 @@
 title: Inhalt validieren
 description: Erfahren Sie, wie Sie Inhalte genehmigen.
 feature: Approval
-source-git-commit: 0d6eff35e66d3657aa4f5fda65f91f0caab4a7e1
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -24,5 +24,5 @@ Wenn der Inhaltsentwurf den Standards Ihres Unternehmens und Ihren Erwartungen e
 
 1. Ändern Sie den Entwurfsstatus von **Erforderliche Arbeit** in **Genehmigt**.
 
-Deine Arbeit als Genehmiger ist erledigt. GenStudio benachrichtigt den Verfasser des Genehmigungsentwurfs. Unter [Publish-Inhalt](./publish-content.md) finden Sie einen Überblick über den Speichervorgang in [!DNL Content] oder _Veröffentlichung_.
+Deine Arbeit als Genehmiger ist erledigt. GenStudio for Performance Marketers warnt den Verfasser Ihrer Genehmigung. Unter [Publish-Inhalt](./publish-content.md) finden Sie einen Überblick über den Speichervorgang in [!DNL Content] oder _Veröffentlichung_.
 

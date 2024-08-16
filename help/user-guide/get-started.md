@@ -1,50 +1,50 @@
 ---
-title: Erste Schritte mit GenStudio
-description: Erfahren Sie, wie Sie Ihre GenStudio einrichten, um neue markenorientierte Marketinginhalte zu generieren.
+title: Erste Schritte mit Adobe GenStudio für Performance Marketingexperten
+description: Erfahren Sie, wie Sie Ihre GenStudio für Performance Marketingexperten einrichten, um neue markenorientierte Marketinginhalte zu generieren.
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '1049'
-ht-degree: 9%
+source-wordcount: '1117'
+ht-degree: 8%
 
 ---
 
 
-# Erste Schritte mit GenStudio
+# Erste Schritte mit Adobe GenStudio für Performance Marketingexperten
 
-GenStudio ist eine umfassende Plattform zum Erstellen, Auswerten und Verwalten von Marketing-Erlebnissen, die Ihre Markenidentität widerspiegeln und berücksichtigen.
+GenStudio for Performance Marketers ist eine umfassende Plattform zum Erstellen, Auswerten und Verwalten von Marketing-Erlebnissen, die Ihre Markenidentität widerspiegeln und berücksichtigen.
 
-Der Zugriff der Stakeholder auf die vielen Funktionen wird durch zugewiesene Benutzerrollen gesteuert. Ihre zugewiesene Benutzerrolle bestimmt die Aufgaben, die Sie in GenStudio ausführen können. Ein GenStudio-Administrator legt Ihre Berechtigungen fest, die in Ihrer Begrüßungs-E-Mail definiert sind.
+Der Zugriff der Stakeholder auf die vielen Funktionen wird durch zugewiesene Benutzerrollen gesteuert. Ihre zugewiesene Benutzerrolle bestimmt die Aufgaben, die Sie in GenStudio für Performance Marketingexperten ausführen können. Ein Administrator legt Ihre Berechtigungen fest, die in Ihrer Begrüßungs-E-Mail definiert sind.
 
-Wenn Sie mit generativen KI-basierten Tools noch nicht vertraut sind oder sich lediglich für die Grundprinzipien von GenStudio interessieren, finden Sie weitere Informationen unter [GenStudio-Konzepte](concepts.md) und [Effektive Eingabeaufforderungen schreiben](effective-prompts.md).
+Wenn Sie mit generativen KI-basierten Tools noch nicht vertraut sind oder sich einfach nur für die Kernprinzipien von GenStudio für Performance Marketers interessieren, finden Sie weitere Informationen unter [Konzepte](concepts.md) und [Effektive Eingabeaufforderungen schreiben](effective-prompts.md).
 
-## GenStudio-Benutzerrollen
+## Benutzerrollen
 
 Die Erstellung und Bereitstellung moderner Marketing-Kampagnen erfordert die Zusammenarbeit zwischen Interessenträgern mit unterschiedlichen Verantwortlichkeiten und Kenntnissen.
 
-Drei Arten von GenStudio-Benutzerrollen unterstützen diese Vielfalt von Organisationsrollen. Berechtigungen sind auf jeden dieser Benutzertypen zugeschnitten und unterstützen die Verantwortlichkeiten der einzelnen Benutzer in der Marketing-Organisation.
+Diese Vielfalt von Organisationsrollen wird von drei Benutzerrollen unterstützt, die GenStudio für Performance Marketers bietet. Berechtigungen sind auf jeden dieser Benutzertypen zugeschnitten und unterstützen die Verantwortlichkeiten der einzelnen Benutzer in der Marketing-Organisation.
 
 **Die drei Benutzerrollentypen sind**:
 
-* **Ersteller** verwenden die generativen KI-Funktionen von GenStudio, um Marketing-Kampagnen-Assets zu erstellen, Inhaltsüberprüfungen und -genehmigungen anzufordern und genehmigte Entwürfe dieses Inhalts zu veröffentlichen. Alle GensStudio-Benutzer können auf ein Asset zugreifen und es verwenden, nachdem es vom Ersteller im Inhalt gespeichert wurde.
+* **Ersteller** verwenden die generativen KI-Funktionen von GenStudio für Performance Marketers, um Marketing-Kampagnen-Assets zu erstellen, Inhaltsüberprüfung und -genehmigung anzufordern und genehmigte Entwürfe zu veröffentlichen. Alle GensStudio-Benutzer können auf ein Asset zugreifen und es verwenden, nachdem es vom Ersteller im Inhalt gespeichert wurde.
 
-* **Mitwirkende** sind der breiteste Bereich von GenStudio-Benutzern. Mitwirkende können GenStudio-Inhalte anzeigen und genehmigen. Dies ist ein wesentlicher Bestandteil des Workflows, der sicherstellt, dass von Ihnen generierte Inhalte den Anforderungen und Standards Ihres Unternehmens entsprechen.
+* **Mitwirkende** sind der breiteste Bereich von GenStudio für Performance Marketers-Benutzer. Mitwirkende können Inhalte anzeigen und genehmigen. Dies ist ein wesentlicher Bestandteil des Workflows, der sicherstellt, dass von Ihnen generierte Inhalte den Anforderungen und Standards Ihres Unternehmens entsprechen.
 
-* **Systemadministratoren** verfügen über die umfassendsten Berechtigungen in GenStudio. Systemadministratoren können Benutzer und Inhalte aus Genstudio hinzufügen und löschen. Administratoren führen die grundlegende Onboarding-Aufgabe aus, die darin besteht, die grundlegenden Limits für die Erstellung und Implementierung von Kampagnen-Assets zu definieren. Administratoren implementieren diese Limits, indem sie Marken- und organisationsspezifische Informationen wie [Markenrichtlinien](/help/user-guide/guidelines/overview.md) hochladen.
+* **Systemadministratoren** verfügen über die umfassendsten Berechtigungen innerhalb von GenStudio für Performance Marketers. Systemadministratoren können Benutzer und Inhalte hinzufügen und löschen. Administratoren führen die grundlegende Onboarding-Aufgabe aus, die darin besteht, die grundlegenden Limits für die Erstellung und Implementierung von Kampagnen-Assets zu definieren. Administratoren implementieren diese Limits, indem sie Marken- und organisationsspezifische Informationen wie [Markenrichtlinien](/help/user-guide/guidelines/overview.md) hochladen.
 
 >[!NOTE]
->Bevor Benutzer in diese Rollen aufgenommen werden, muss ein Administrator in der Adobe Admin Console als Superuser benannt werden, um einmalige Einrichtungsaufgaben durchzuführen. Diese Superuser-Rolle funktioniert nur im Kontext der Adobe Admin Console. In der Benutzeroberfläche der GenStudio-Plattform spielt sie keine Rolle. Bei GenStudio-Rollenzuweisungen gibt es kein Superuser-Konzept.
+>Bevor Benutzer in diese Rollen aufgenommen werden, muss ein Administrator in der Adobe Admin Console als Superuser benannt werden, um einmalige Einrichtungsaufgaben durchzuführen. Diese Superuser-Rolle funktioniert nur im Kontext der Adobe Admin Console. In der Benutzeroberfläche der GenStudio für die Performance Marketers-Plattform ist sie nicht relevant. In GenStudio gibt es kein Superuser-Konzept für Rollenzuweisungen in Performance Marketers.
 
 ### Ersteller
 
-**Ersteller** verfügen über die Kernberechtigungen, die zum Erstellen von GenStudio [!DNL Brands]-, [!DNL Campaigns]- und [!DNL Content]-Assets erforderlich sind. Sie können auch von ihnen erstellte Assets bearbeiten und löschen. GenStudio unterstützt die schnelle Erstellung von Hunderten von Inhaltselementen. Diese Benutzer können Inhaltsfragmente oder ganze Erlebnisse generieren, die diskrete Teile genehmigter Inhalte orchestrieren, um die Anforderungen spezifischer Marketing-Kampagnen zu erfüllen.
+**Ersteller** verfügen über die Kernberechtigungen, die zum Erstellen von GenStudio für Performance Marketers [!DNL Brands], [!DNL Campaigns] und [!DNL Content]-Assets erforderlich sind. Sie können auch von ihnen erstellte Assets bearbeiten und löschen. GenStudio for Performance Marketers unterstützt die schnelle Erstellung von Hunderten von Inhaltselementen. Diese Benutzer können Inhaltsfragmente oder ganze Erlebnisse generieren, die diskrete Teile genehmigter Inhalte orchestrieren, um die Anforderungen spezifischer Marketing-Kampagnen zu erfüllen.
 
-Ersteller interagieren mit den generativen KI-Technologien von GenStudio über _Eingabeaufforderung_. Der Eingabeaufforderungsbereich von GenStudio auf der Arbeitsfläche bietet Tools zum Platzieren von Eingabeaufforderungen im Kontext der Richtlinien einer bestimmten Kampagne. Die Qualität und der Erfolg des erstellten Inhalts hängen daher teilweise von der Qualität der Markenrichtlinien ab, die Ihr Unternehmen hochgeladen hat, und von der Spezifität Ihrer Eingabeaufforderung.
+Ersteller interagieren mit GenStudio für die generativen KI-Technologien von Performance Marketers durch _Eingabeaufforderung_. Der Eingabeaufforderungsbereich auf der Arbeitsfläche bietet Tools, um Eingabeaufforderungen im Kontext der Richtlinien einer bestimmten Kampagne zu platzieren. Die Qualität und der Erfolg des erstellten Inhalts hängen daher teilweise von der Qualität der Markenrichtlinien ab, die Ihr Unternehmen hochgeladen hat, und von der Spezifität Ihrer Eingabeaufforderung.
 
 Siehe [Effektive Eingabeaufforderungen schreiben](effective-prompts.md).
 
-In der folgenden Tabelle sind die standardmäßigen GenStudio-Erstellungsberechtigungen aufgeführt:
+In der folgenden Tabelle werden die standardmäßigen Autorenberechtigungen angezeigt:
 
 | Funktion | Erstellen | Update | Löschen | Anzeigen |
 |-----------|----------------|----------------|----------------|----------------|
@@ -58,9 +58,9 @@ In der folgenden Tabelle sind die standardmäßigen GenStudio-Erstellungsberecht
 
 ### Mitwirkende
 
-**Mitwirkende** können Assets in GenStudio anzeigen, aber diese Assets nicht erstellen, bearbeiten oder löschen. Mitwirkende sind Akteure, die für den Erfolg des Überprüfungs- und Genehmigungsprozesses für GenStudio-Inhalte unerlässlich sind, aber keine Inhalte erstellen oder direkt bearbeiten müssen. Juristische Fachleute und Manager von Schöpfern sind Beispiele für potenzielle Mitwirkende. GenStudio-Mitwirkende sind möglicherweise berechtigt, Assets in anderen Creative Cloud-Produkten zu erstellen und anzuzeigen.
+**Mitwirkende** können Assets in GenStudio für Performance Marketers anzeigen, aber diese Assets nicht erstellen, bearbeiten oder löschen. Mitwirkende sind Akteure, die für den Erfolg des Überprüfungs- und Genehmigungsprozesses für Inhalte unerlässlich sind, aber keine Inhalte erstellen oder direkt bearbeiten müssen. Juristische Fachleute und Manager von Schöpfern sind Beispiele für potenzielle Mitwirkende. Mitwirkende von GenStudio for Performance Marketers können möglicherweise berechtigt sein, Assets in anderen Creative Cloud-Produkten zu erstellen und anzuzeigen.
 
-In der folgenden Tabelle sind die standardmäßigen GenStudio-Mitwirkerberechtigungen aufgeführt:
+In der folgenden Tabelle werden die Standardberechtigungen für Mitwirkende angezeigt:
 
 | Funktion | Erstellen | Update | Löschen | Anzeigen |
 |-----------|----------------|----------------|----------------|----------------|
@@ -74,9 +74,9 @@ In der folgenden Tabelle sind die standardmäßigen GenStudio-Mitwirkerberechtig
 
 ### Administratoren
 
-**Administratoren** erstellen und weisen Benutzer einer der von GenStudio unterstützten Rollen zu. Sie können einzelnen Erstellern oder Mitwirkenden bei Bedarf neue Berechtigungen zuweisen. Die wichtigste Aufgabe besteht darin, die ersten Onboarding-Aufgaben durchzuführen, die Ihr Unternehmen auf die Bereitstellung von GenStudio vorbereiten.
+**Administratoren** erstellen und weisen Benutzer einer der vom GenStudio for Performance Marketers unterstützten Rollen zu. Sie können einzelnen Erstellern oder Mitwirkenden bei Bedarf neue Berechtigungen zuweisen. Ihre wichtigste Aufgabe besteht darin, die ersten Onboarding-Aufgaben abzuschließen, die Ihr Unternehmen auf die Bereitstellung von GenStudio für Performance Marketingexperten vorbereiten.
 
-In der folgenden Tabelle sind die standardmäßigen Systemadministratorberechtigungen für GenStudio aufgeführt:
+In der folgenden Tabelle werden die standardmäßigen Systemadministratorberechtigungen angezeigt:
 
 | Funktion | Erstellen | Update | Löschen | Anzeigen |
 |-----------|----------------|----------------|----------------|----------------|
@@ -89,18 +89,18 @@ In der folgenden Tabelle sind die standardmäßigen Systemadministratorberechtig
 | [!DNL Reviews and approvals] | ja | ja | ja | ja |
 
 
-## Vorbereiten von GenStudio zum Generieren von Inhalten
+## Vorbereiten von GenStudio für Leistungs-Marketingexperten zum Generieren von Inhalten
 
-Systemadministratoren bereiten die GenStudio-Umgebung ihres Unternehmens für Ersteller und Mitwirkende vor, um Kampagnen-Assets zu erstellen. Zu diesen vorbereitenden Aufgaben gehören:
+Systemadministratoren bereiten die GenStudio-Umgebung ihrer Organisation für Performance-Marketer für Ersteller und Mitwirkende vor, um Kampagnen-Assets zu erstellen. Zu diesen vorbereitenden Aufgaben gehören:
 
-1. [Fügen Sie Führungslinien für [!DNL Brands], [!DNL Products] und [!DNL Personas] hinzu. ](./guidelines/overview.md) Die Einrichtung der wichtigsten Bausteine der Markenidentität Ihres Unternehmens ist eine wesentliche Voraussetzung für die Arbeit von GenStudio-Erstellern und -Mitarbeitern. Sie können entweder Markenrichtlinien-Dokumente hochladen oder manuell Markeninformationen eingeben.
-   * **Bereiten Sie Ihre Führungslinien-Dokumente vor**. Je beschreibender und umfassender Ihre Markenrichtlinien sind, desto besser ist die Ausgabe von GenStudio. Binden Sie kurze Beispiele für Funktionen ein, die Sie für Ihre Marke als wesentlich erachten, und fügen Sie Verhaltensbeschreibungen hinzu, die Sie aus der Inhaltserstellung in GenStudio ausschließen möchten. GenStudio extrahiert Informationen aus diesen hochgeladenen Dokumenten und beginnt mit der Markenbildung. Informationen wie die Richtlinien zur Markensprache, zum Kanal und zu Bildern werden mit GenStudio gefüllt, das jede Richtlinie aus Ihren hochgeladenen Dokumenten zusammenstellt.
-   * **Bearbeiten oder ergänzen Sie bei Bedarf die Felder der Markenrichtlinien**. Umfassende Markenrichtlinien bilden die Grundlage für das Verständnis der Marke Ihres Unternehmens durch GenStudio. Nachdem GenStudio die benötigten Informationen aus Ihren Markenrichtlinien-Dokumenten extrahiert hat, werden Sie aufgefordert, die extrahierten Informationsfelder manuell zu bearbeiten oder auszufüllen. Geben Sie die einzelnen Produktschwerpunktbereiche für die Inhaltserstellung an, indem Sie eine &quot;[!DNL Product]&quot;hinzufügen. [!DNL Personas] Richtlinien helfen bei der Erstellung von Inhalten für definierte Kundensegmente.
+1. [Fügen Sie Führungslinien für [!DNL Brands], [!DNL Products] und [!DNL Personas] hinzu. ](./guidelines/overview.md) Die Einrichtung der Schlüsselbausteine der Markenidentität Ihrer Organisation ist eine wesentliche Voraussetzung für die Arbeit von Erstellern und Mitwirkenden. Sie können entweder Markenrichtlinien-Dokumente hochladen oder manuell Markeninformationen eingeben.
+   * **Bereiten Sie Ihre Führungslinien-Dokumente vor**. Je beschreibender und umfassender Ihre Markenrichtlinien sind, desto besser ist die Ausgabe. Binden Sie kurze Beispiele für Funktionen ein, die Sie für Ihre Marke als wesentlich erachten, und fügen Sie Verhaltensbeschreibungen hinzu, die Sie von der Inhaltserstellung ausschließen möchten. GenStudio for Performance Marketers extrahiert Informationen aus diesen hochgeladenen Dokumenten und beginnt mit der Erstellung Ihrer Marke. Informationen wie die Richtlinien zur Markensprache, zum Kanal und zu Bildern werden ausgefüllt, da GenStudio for Performance Marketers jede Richtlinie aus Ihren hochgeladenen Dokumenten zusammenstellt.
+   * **Bearbeiten oder ergänzen Sie bei Bedarf die Felder der Markenrichtlinien**. Umfassende Markenrichtlinien bilden die Grundlage für das Verständnis der Marke Ihres Unternehmens durch GenStudio für Performance Marketingexperten. Nachdem GenStudio for Performance Marketers die benötigten Informationen aus Ihren Markenrichtlinien-Dokumenten extrahiert hat, werden Sie aufgefordert, die extrahierten Informationsfelder manuell zu bearbeiten oder auszufüllen. Geben Sie die einzelnen Produktschwerpunktbereiche für die Inhaltserstellung an, indem Sie eine &quot;[!DNL Product]&quot;hinzufügen. [!DNL Personas] Richtlinien helfen bei der Erstellung von Inhalten für definierte Kundensegmente.
 
    Obwohl die Einrichtung der Markenrichtlinien eines Unternehmens eine einmalige Aktion sein kann, müssen Sie diese Richtlinien möglicherweise überarbeiten und verbessern, basierend auf der Volatilität, dem Wachstum und den sich ändernden Marktbedingungen Ihres Unternehmens.
 
 1. **[Vorlagen hochladen](./content/use-templates.md)**. Vorlagen bieten Tastaturbefehle und beschleunigen die Inhaltserstellung. Eine Vorlage enthält genehmigte Funktionen wie Kopf- und Fußzeilen und legt Limits für die Inhaltserstellung fest. Administratoren laden in der Regel Vorlagen für ihre Organisation hoch und verwalten sie. Ersteller verwenden Vorlagen, um den Inhaltserstellungsprozess innerhalb der festgelegten Grenzen der Organisationsmarke zu starten.
 
-1. **[Hochladen genehmigter Assets](./content/manage-assets.md)**. Genehmigte Assets in GenStudio [!DNL Content] stehen allen GenStudio-Erstellern zur Verfügung. Sie können [!DNL Content] mit Assets testen, die Ersteller zum Erstellen neuer Erlebnisse oder Assets verwenden können.
+1. **[Hochladen genehmigter Assets](./content/manage-assets.md)**. Genehmigte Assets in [!DNL Content] stehen allen GenStudio für Ersteller von Performance Marketers zur Verfügung. Sie können [!DNL Content] mit Assets testen, die Ersteller zum Erstellen neuer Erlebnisse oder Assets verwenden können.
 
-1. **[Verbindung zu einem Meta (Facebook)-Konto herstellen](./insights/connect-channel.md)**. Sie müssen eine Verbindung zwischen GenStudio und den Social-Konten Ihres Unternehmens konfigurieren, um Daten aus Ihren aktiven Marketing-Kampagnen, -Assets und -Erlebnissen zu erhalten. GenStudio [Insights](./insights/overview.md) bietet Tools zur Analyse kanalabgeleiteter Daten.
+1. **[Verbindung zu einem Meta (Facebook)-Konto herstellen](./insights/connect-channel.md)**. Sie müssen eine Verbindung zwischen GenStudio für Performance Marketers und den Social-Konten Ihres Unternehmens konfigurieren, um Daten aus Ihren aktiven Marketing-Kampagnen, -Assets und -Erlebnissen zu erhalten. [[!DNL Insights]](./insights/overview.md) bietet Tools zur Analyse von kanalabgeleiteten Daten.

@@ -1,22 +1,22 @@
 ---
-title: GenStudio [!DNL Products]
-description: GenStudio [!DNL Products] integriert alle Aspekte Ihres Produkts - Bilder, Beschreibungen und Wertvorschläge -, um relevante Inhalte zu erstellen, die die Produktstärken hervorheben und die Konsistenz der Produktnachrichten gewährleisten.
+title: GenStudio für Leistungs-Marketingexperten [!DNL Products]
+description: GenStudio for Performance Marketers [!DNL Products] beinhaltet alle Aspekte Ihres Produkts - Bilder, Beschreibungen und Wertvorschläge -, um relevante Inhalte zu erstellen, die die Produktstärken hervorheben und die Konsistenz von Produktnachrichten gewährleisten.
 feature: Products Service, Guidelines
-source-git-commit: 21d0c7c6aab6f4d81fc4376251e85eb2d4be3f25
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
 
 
-# GenStudio [!DNL Products]
+# GenStudio für Leistungs-Marketingexperten [!DNL Products]
 
-GenStudio [!DNL Products] nutzt ein tiefes Verständnis der Produktspezifikationen, Vorteile und Differenzierungsfaktoren, um wirkungsvolle Inhalte zu erzeugen.
+GenStudio for Performance Marketers [!DNL Products] nutzt ein tiefes Verständnis der Produktspezifikationen, Vorteile und Differenzierungsfaktoren, um wirkungsvolle Inhalte zu generieren.
 
-[!DNL Products] umfasst alle Elemente eines bestimmten Produkts, z. B. Bilder, Beschreibungen und Wertvorschläge, um eine einheitliche Markendarstellung zu erstellen. Die Nutzung der erweiterten Adobe-KI-Technologie, der GenStudio-Richtlinien[[!DNL Brands], [!DNL Products] und [!DNL Personas]](/help/user-guide/guidelines/overview.md) arbeitet zusammen, um überzeugende Inhalte zu generieren, die die Stärken Ihrer Produkte präsentieren und für Konsistenz aller Nachrichten sorgen.
+[!DNL Products] umfasst alle Elemente eines bestimmten Produkts, z. B. Bilder, Beschreibungen und Wertvorschläge, um eine einheitliche Markendarstellung zu erstellen. Die Nutzung der Stärken der erweiterten KI-Technologie, der GenStudio-Richtlinien für Performance-Marketingexperten -[[!DNL Brands], [!DNL Products] und [!DNL Personas]](/help/user-guide/guidelines/overview.md) - arbeitet zusammen, um überzeugende Inhalte zu generieren, die die Produktmerkmale präsentieren und für Konsistenz aller Nachrichten sorgen.
 
-![[!DNL Products] Führungslinien in GenStudio](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
+![[!DNL Products] Richtlinien in GenStudio für Performance-Marketer](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
 
 **So zeigen Sie ein Produkt an oder ändern es**:
 
@@ -24,11 +24,11 @@ GenStudio [!DNL Products] nutzt ein tiefes Verständnis der Produktspezifikation
 1. Um [ einzelne Details anzuzeigen oder ein Produkt zu ändern, klicken Sie auf das Aktionsmenü _[!DNL Products]_und wählen Sie **[!UICONTROL Öffnen]**aus.](add-guidelines.md#manage-products)
 1. Überarbeiten Sie die Produktrichtlinien, indem Sie in ein Textfeld für Führungslinien-Kategorien klicken.
 
-Informationen zum Hinzufügen oder Ändern eines Produkts in GenStudio finden Sie unter [Richtlinien hinzufügen](add-guidelines.md) .
+Unter [Richtlinien hinzufügen](add-guidelines.md) erfahren Sie, wie Sie ein Produkt in GenStudio für Leistungs-Marketingexperten hinzufügen oder ändern.
 
 ## [!DNL Products] Führungslinien
 
-Individuelle Produktrichtlinien geben GenStudio ein klares Bild Ihrer Produkte.
+Individuelle Produktrichtlinien geben GenStudio for Performance Marketers ein klares Bild von Ihren Produkten.
 
 In diesen Richtlinien werden die einzelnen Kategorien von Richtlinien und zugehörige Beispiele beschrieben. Die Beispiele sind Beispieleingaben, die die Ausgabe des generierten Inhalts formen. Verwenden Sie diese, um Ihre [!DNL Products] -Richtlinien zu informieren.
 

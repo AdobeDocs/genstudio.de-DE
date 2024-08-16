@@ -1,20 +1,20 @@
 ---
-title: GenStudio [!DNL Brands]
-description: GenStudio [!DNL Brands] ist eine umfassende Sammlung von Marken-Assets - Marketingkopien, Bilder, Erlebnisse und mehr -, die die Erstellung markenorientierter Inhalte in GenStudio ermöglicht.
+title: GenStudio für Leistungs-Marketingexperten [!DNL Brands]
+description: GenStudio for Performance Marketers [!DNL Brands] sind eine umfassende Sammlung von Marken-Assets - Marketing Copy, Bilder, Erlebnisse und mehr -, die zur Erstellung markenorientierter Inhalte beitragen.
 feature: Brands Service, Guidelines
-source-git-commit: c90cec72bd4cad505b7374e0ae81bafc383102e9
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '778'
+source-wordcount: '800'
 ht-degree: 1%
 
 ---
 
 
-# GenStudio [!DNL Brands]
+# GenStudio für Leistungs-Marketingexperten [!DNL Brands]
 
 Eine Marke unterscheidet eine Organisation, ein Produkt, eine Dienstleistung oder ein Konzept von anderen. Einige Aspekte einer Marke sind objektiv, wie ein Logo, während andere subjektiv sind, wie der Ton der Stimme.
 
-GenStudio nutzt die Vielzahl von Markeninformationen Ihrer Marke, verknüpft diese mit [!DNL Product] - und [!DNL Persona] -Informationen und erstellt eine umfassende Markenidentität. Diese Markenidentität wird verwendet, um die Erstellung von Markeninhalten mithilfe der generativen KI-Technologie von Adobe zu unterstützen.
+GenStudio for Performance Marketers verwendet die Vielzahl von Markeninformationen Ihrer Marke, verknüpft diese mit [!DNL Product] und [!DNL Persona] Informationen und erstellt eine umfassende Markenidentität. Diese Markenidentität wird verwendet, um die Erstellung von Markeninhalten mithilfe der generativen KI-Technologie von Adobe zu unterstützen.
 
 **So zeigen Sie eine Marke an oder ändern sie**:
 
@@ -22,11 +22,11 @@ GenStudio nutzt die Vielzahl von Markeninformationen Ihrer Marke, verknüpft die
 1. Um die Übersichtsinformationen einer Marke anzuzeigen, klicken Sie auf , um eine definierte Marke zu öffnen.
 1. Um einzelne Details anzuzeigen oder eine Marke zu ändern, klicken Sie oben auf **[!UICONTROL Markenrichtlinien für Sprachausgabe]**, **[!UICONTROL Kanalrichtlinien]**, **[!UICONTROL Bildrichtlinien]** oder **[!UICONTROL Logos]** .
 
-Sie können Dokumente zu Markenrichtlinien - bis zu drei PDF- oder DOC-Dateien - in GenStudio hochladen, um automatisch eine Marke zu erstellen. Unter [Richtlinien hinzufügen](add-guidelines.md) erfahren Sie, wie Sie eine Marke zu GenStudio hinzufügen, sie ändern, veröffentlichen und vieles mehr.
+Sie können Markenrichtlinien-Dokumente - bis zu drei PDF- oder DOC-Dateien - in GenStudio hochladen, damit Performance Marketingexperten automatisch eine Marke erstellen können. Unter [Richtlinien hinzufügen](add-guidelines.md) erfahren Sie, wie Sie eine Marke zu GenStudio hinzufügen, um sie für Performance-Marketingexperten zu ändern, zu veröffentlichen und mehr.
 
 ## [!DNL Brands] Führungslinien
 
-Richtlinien geben GenStudio ein klares Bild Ihres markenspezifischen Ansatzes, Ihres Tons, Ihres visuellen Gefühls und mehr.
+Richtlinien vermitteln GenStudio for Performance Marketingexperten ein klares Bild Ihres markenspezifischen Ansatzes, Ihres Tons, Ihres visuellen Gefühls und mehr.
 
 In den folgenden Richtlinien-Abschnitten werden die einzelnen Richtlinien-Kategorien, Beispielrichtlinien und potenzielle Ergebnisse beschrieben. Die Beispiele für Richtlinien sind Beispieleingaben, die die Ergebnisausgabe gestalten (Beispielergebnisse unten) - sie nutzen sie, um Ihre eigenen Markenrichtlinien zu informieren.
 
@@ -72,16 +72,16 @@ You can create your own categories, like Photos, Product, or Illustration imager
 | Color and tone | Specify color or color theme, palette, color interpretation and accessibility | `Use bright and bold color palette, Ensure high contrast` |
 | Lighting   | Describe how highlights and shadows affect different objects| `Use natural light, Avoid using shadows` |
 
-![Image guidelines in GenStudio](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
+![Image guidelines in GenStudio for Performance Marketers](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
 
 ### Logos
 
 Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
-![Logo guidelines in GenStudio](/help/assets/logos.png){width="650" zoomable="yes"} -->
+![Logo guidelines in GenStudio for Performance Marketers](/help/assets/logos.png){width="650" zoomable="yes"} -->
 
 ## Markenvalidierung
 
-In GenStudio spielt die Markenvalidierung im Zusammenhang mit der generativen KI-Funktion von [!DNL Brands], [!DNL Products] und [!DNL Personas] eine entscheidende Rolle. Dadurch wird sichergestellt, dass Ihr gesamter Inhalt mit Ihrer Markenidentität übereinstimmt.
+In GenStudio für Leistungs-Marketingexperten spielt die Markenvalidierung in Verbindung mit den generativen KI-Funktionen [!DNL Brands], [!DNL Products] und [!DNL Personas] eine entscheidende Rolle. Dadurch wird sichergestellt, dass Ihr gesamter Inhalt mit Ihrer Markenidentität übereinstimmt.
 
 Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).

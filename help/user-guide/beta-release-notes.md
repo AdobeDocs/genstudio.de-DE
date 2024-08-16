@@ -1,9 +1,9 @@
 ---
 title: Adobe GenStudio für Performance Marketingexperten - Beta - Versionshinweise
 description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen des Adobe GenStudio für Performance Marketingexperten.
-source-git-commit: cbae3aeb1b8282fb64f2a6405a7ad9e07a48dbbd
+source-git-commit: 75d966e8474687e8e88ccec6fe6a96fda030dbcf
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Adobe GenStudio für Performance Marketingexperten - Beta - Versionshinweise
 
-Diese Hinweise zeigen wichtige Adobe GenStudio-Fehlerbehebungen und Verbesserungen für die am 16. August endende Woche.
+Diese Hinweise zeigen wichtige Adobe GenStudio für Fehlerbehebungen und Verbesserungen von Performance Marketers in der Woche, die am 16. August endet.
 
 ## Highlights
 
@@ -26,8 +26,6 @@ Das Validierungsbedienfeld [!DNL Brand] wurde erweitert, um das Benutzererlebnis
 * **Aktualisierte Benutzeroberfläche zur Markenextraktion**: Die Markenextraktion zeigt jetzt den Abschluss des Extraktionsvorgangs als Prozentsatz an.
 
 * **Inkrementelle Belastung der Marke während der Extraktion**: Die Markenrichtlinien werden jetzt schrittweise in die Benutzeroberfläche geladen.
-
-* **Vereinfachung des Schemas &quot;Richtlinie kopieren&quot;**: Das Feld `unique attributes` und das Feld `frequent keywords` wurden aus dem Schema &quot;Richtlinie kopieren&quot;entfernt und vereinfachen so die Einrichtung der Richtlinie.
 
 ### [!DNL Create]
 
@@ -57,19 +55,8 @@ Diese Version umfasst die folgenden zusätzlichen Fehlerbehebungen.
 
 Die folgenden bekannten Probleme werden durch die GenStudio für Performance Marketers GA-Version behoben.
 
-### Analyse
-
-* Aktionen, die durch die Schaltflächen **[!UICONTROL Vorlagen hinzufügen]** und **[!UICONTROL Hochladen]** ausgelöst werden, werden derzeit nicht verfolgt. <!-- GS-3505 -->
-
 ### [!DNL Insights]
 
 * Videos können nicht von _Assets_ abgespielt werden. <!-- GS-3846 -->
 
 * Benutzer müssen sich zweimal anmelden, wenn sie auch bei Facebook angemeldet sind. **Problemumgehung**: Melden Sie sich vor dem Anmelden bei [!DNL Insights] von Facebook ab.
-
-* Die Werte **Ausgaben auf Kampagnenebene** sind nicht korrekt. Die Daten zwischen Facebook Ads Manager und dem Data Lake sind derzeit nicht konsistent. <!-- GS-3202 -->
-
-### [!DNL Reviews and Approvals]
-
-* Ersteller können Assets nach der Genehmigung vor der Veröffentlichung ändern. Genehmiger werden über diese Änderungen nicht benachrichtigt.
-

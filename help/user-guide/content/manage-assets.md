@@ -2,9 +2,9 @@
 title: Verwalten von Assets und Erlebnissen
 description: Vereinfachen und verbessern Sie die Verwaltung markengenehmigter Assets für die Verwendung und Wiederverwendung in Ihrer Digital Marketing-Journey.
 feature: Content, Assets, Experiences
-source-git-commit: ba7dced9e62f797cd43a0bd8d8263828ec5c3d5e
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Verwalten von Assets und Erlebnissen
 
-GenStudio [!DNL Content] vereinfacht und verbessert die Verwaltung markengenehmigter Assets für die Verwendung und Wiederverwendung in Ihrer Digital Marketing-Journey.
+Adobe GenStudio für Performance Marketers [!DNL Content] vereinfacht und verbessert die Verwaltung markengenehmigter Assets zur Verwendung und Wiederverwendung in Ihrer Digital Marketing-Journey.
 
 ## Hinzufügen von Assets
 
@@ -26,11 +26,11 @@ GenStudio [!DNL Content] vereinfacht und verbessert die Verwaltung markengenehmi
 
 1. Fügen Sie optionale Details wie _Markenname_, _Personas_, _Region_ und _Schlüsselwörter_ im Abschnitt **Mehr Details** hinzu, um die Auffindbarkeit zu verbessern.
 
-   Je mehr Details Sie bereitstellen, umso mehr erleben Sie die robusten Funktionen von GenStudio. Wählen Sie eine oder mehrere Details aus der Liste aus oder geben Sie ggf. eine neue ein, z. B. mit Suchbegriffen. Alle hinzugefügten Details werden unter der Liste angezeigt. Klicken Sie auf **`x`** , um ein Detail zu entfernen.
+   Je mehr Details Sie bereitstellen, umso mehr erleben Sie die robusten Funktionen von GenStudio für Performance Marketingexperten. Wählen Sie eine oder mehrere Details aus der Liste aus oder geben Sie ggf. eine neue ein, z. B. mit Suchbegriffen. Alle hinzugefügten Details werden unter der Liste angezeigt. Klicken Sie auf **`x`** , um ein Detail zu entfernen.
 
    Alle hinzugefügten Details gelten für alle Assets, die in dieser Aktion hinzugefügt werden.
 
-   Siehe [Metadatendetails](/help/user-guide/content/asset-details.md#genstudio-metadata).
+   Siehe [Metadatendetails](/help/user-guide/content/asset-details.md#system-metadata).
 
 1. Klicken Sie auf **[!UICONTROL Assets hinzufügen]**.
 1. Klicken Sie nach Abschluss des Asset-Uploads auf **Fertig**.
@@ -59,7 +59,3 @@ Wenden Sie Filter an und verwenden Sie Metadaten-Tags aus Asset-Details, um Such
 1. Wählen Sie ein Asset für eine vollständige Ansicht und eine Liste mit Details aus.
 
    Klicken Sie auf **[!UICONTROL Herunterladen]** (Pfeil nach unten), um das Asset auf Ihrer lokalen Workstation zu verwenden.
-
-<!-- 
-There is more here, but not ready yet.
--->

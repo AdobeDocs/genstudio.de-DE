@@ -1,20 +1,20 @@
 ---
-title: GenStudio-Konzepte
-description: Adobe GenStudio-Konzepte und -Terminologie.
+title: Adobe GenStudio für Performance Marketingexperten-Konzepte
+description: Erfahren Sie mehr über Adobe GenStudio für Konzepte und Terminologie von Performance Marketers.
 feature: Workflow, Generative AI
-source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
 
-# GenStudio-Konzepte
+# Konzepte
 
-GenStudio ist ein eigenständiges Unternehmensprodukt, das die Lieferkette für Adobe-Inhalte verkörpert, um Marketingkampagnen zu optimieren. Es ist eine Herausforderung, personalisierte, markengenehmigte Inhalte in großem Maßstab zu erstellen, die Effektivität zu überwachen und sich schnell an den sich ständig ändernden Markt anzupassen. GenStudio führt Creative Cloud und Experience Cloud in einer Anwendung zusammen, die generative KI als Leistungsmultiplikator für Enterprise-Marketingteams nutzt.
+GenStudio for Performance Marketers ist ein eigenständiges Unternehmensprodukt, das die Lieferkette von Adobe-Inhalten zur Optimierung von Marketingkampagnen verkörpert. Es ist eine Herausforderung, personalisierte, markengenehmigte Inhalte in großem Maßstab zu erstellen, die Effektivität zu überwachen und sich schnell an den sich ständig ändernden Markt anzupassen. GenStudio for Performance Marketers führt Creative Cloud und Experience Cloud in einer Anwendung zusammen, die generative KI als Leistungsmultiplikator für Enterprise-Marketingteams nutzt.
 
-Mit GenStudio können Sie:
+Mit GenStudio für Performance Marketingexperten können Sie:
 
 - Erstellen von Markeninhalten mit kostenlosen Sprachaufforderungen
 - Zusammenarbeit mit Interessengruppen zur Überprüfung und Genehmigung generierter Inhalte
@@ -23,13 +23,13 @@ Mit GenStudio können Sie:
 
 ## Generische KI-Technologie
 
-GenStudio nutzt die Leistung generativer KI, um den Inhaltserstellungsprozess zu beschleunigen und eine hochwertige Inhaltserstellung zu gewährleisten. Der iterative Lebenszyklus Ihrer kreativen Assets führt zu immer präziseren und markenorientierten Inhalten, die mit Ihrer Zielgruppe übereinstimmen.
+GenStudio for Performance Marketers nutzt die Leistungsfähigkeit der generativen KI, um den Inhaltserstellungsprozess zu beschleunigen und eine hochwertige Inhaltserstellung zu gewährleisten. Der iterative Lebenszyklus Ihrer kreativen Assets führt zu immer präziseren und markenorientierten Inhalten, die mit Ihrer Zielgruppe übereinstimmen.
 
-Beginnen Sie mit einer effektiven Schulung von GenStudio für das Branding, die Kundenpersonals und die Produktbeschreibungen Ihres Unternehmens mithilfe der leistungsstarken Markenrichtlinien-Funktion. Informationen zur Vorbereitung und zum Hochladen dieser Richtlinien finden Sie in der [Übersicht über die Richtlinien](../user-guide/guidelines/overview.md) .
+Beginnen Sie mit einer effektiven Schulung von GenStudio für Performance Marketingexperten für das Branding, die Kundenpersonals und Produktbeschreibungen in Ihrem Unternehmen mithilfe der leistungsstarken Markenrichtlinien-Funktion. Informationen zur Vorbereitung und zum Hochladen dieser Richtlinien finden Sie in der [Übersicht über die Richtlinien](../user-guide/guidelines/overview.md) .
 
-## Lebenszyklus von GenStudio-Inhalten
+## Inhaltslebenszyklus
 
-Die Nachfrage nach hochwertigen Erlebnissen in mehreren Kanälen ist schneller. GenStudio vereinfacht die Inhaltsversorgungskette zu einem gut organisierten Workflow für Marketing-Experten. GenStudio nutzt Adobe-Technologie in jeder Phase des Lebenszyklus.
+Die Nachfrage nach hochwertigen Erlebnissen in mehreren Kanälen ist schneller. GenStudio for Performance Marketers vereinfacht die Inhaltsversorgungskette zu einem gut organisierten Workflow für Marketing-Experten. GenStudio for Performance Marketers nutzt Adobe-Technologie in jeder Phase des Lebenszyklus.
 
 <table style="table-layout:fixed">
 <tr style="border: 0;">

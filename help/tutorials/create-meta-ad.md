@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '887'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # Erstellen eines Meta-Anzeigenerlebnisses
 
-In diesem Tutorial erfahren Sie, wie Sie mit GenStudio [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich) Markenmeta-Anzeigenerlebnisse erstellen.
+In diesem Tutorial erfahren Sie, wie Sie mit GenStudio für Performance Marketers [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich) Markenmeta-Anzeigenerlebnisse erstellen.
 
-Bevor Sie mit der Generierung eines Meta-Anzeigenerlebnisses beginnen, müssen Sie [Führungslinien](/help/user-guide/guidelines/add-guidelines.md) in GenStudio integrieren und sich mit den Grundlagen von [Erstellen einer Eingabeaufforderung](/help/user-guide/effective-prompts.md) vertraut machen.
+Bevor Sie mit der Generierung eines Meta-Anzeigenerlebnisses beginnen, müssen Sie [Richtlinien](/help/user-guide/guidelines/add-guidelines.md) in GenStudio für Performance-Marketingexperten einbinden und sich mit den Grundlagen von [Erstellen einer Eingabeaufforderung](/help/user-guide/effective-prompts.md) vertraut machen.
 
 ## Vorlage auswählen
 
@@ -41,7 +41,7 @@ Das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview.md) u
 1. Klicken Sie auf das Symbol _Parameter_ , um den Eingabeaufforderungsbereich zu erweitern.
 1. Wählen Sie im Abschnitt _Parameter_ die Richtlinien [!DNL Brands], [!DNL Personas] und [!DNL Products] aus, um die Inhaltserstellung zu informieren.
 
-   Wenn in diesen Menüs keine Marken, Rollen oder Produkte verfügbar sind, fügen Sie Ihrem GenStudio ](/help/user-guide/guidelines/add-guidelines.md) Richtlinien hinzu.[
+   Wenn in diesen Menüs keine Marken, Rollen oder Produkte verfügbar sind, fügt [Ihrer GenStudio Richtlinien für Performance Marketers hinzu](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Klicken Sie auf **[!UICONTROL Inhalt auswählen]** , um Inhalte hinzuzufügen, die im Erlebnis *und* verwendet werden sollen, um die Inhaltserstellung zu beeinflussen.
    * Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** , um Assets (Bilder) auszuwählen, die bereits in [!DNL Content] veröffentlicht wurden. Verwenden Sie die Filter, um die Suchergebnisse weiter einzugrenzen.
@@ -120,8 +120,8 @@ Um die generierten Metadatenanzeigen für die aktuelle und zukünftige Verwendun
 
 Weitere Informationen finden Sie unter [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content) .
 
-## Verbinden von Meta mit GenStudio
+## Meta verbinden
 
-Sie können GenStudio mit Meta verbinden, um erweiterte Analysen und [Einblicke](/help/user-guide/insights/overview.md) in die Inhaltsleistung zu erhalten.
+Sie können GenStudio for Performance Marketers mit Meta verbinden, um erweiterte Analysen und [Einblicke](/help/user-guide/insights/overview.md) in die Inhaltsleistung zu erhalten.
 
 Weitere Informationen finden Sie unter [Kanalkonto verbinden](/help/user-guide/insights/connect-channel.md) .

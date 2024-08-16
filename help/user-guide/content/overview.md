@@ -1,18 +1,18 @@
 ---
-title: Überblick über [!DNL Content]
+title: Übersicht über Adobe GenStudio für Performance Marketers [!DNL Content]
 description: Erfahren Sie, wie Sie markengenehmigte Assets in einem intuitiven Portal finden, bearbeiten, wiederverwenden und freigeben können.
 feature: Attributes, Content, Templates
-source-git-commit: 4192f4a34c30267a2556874fed2e5bc5b300c227
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '285'
 ht-degree: 1%
 
 ---
 
 
-# GenStudio [!DNL Content]
+# Adobe GenStudio für Performance Marketers [!DNL Content]
 
-GenStudio [!DNL Content] bietet einen zentralen Speicherort zum Speichern, Suchen und Freigeben aller markengenehmigten Assets, Erlebnisse und Vorlagen. Sie können Inhalte bearbeiten und neu mischen, Einblicke in Inhaltsnutzung und Sentiment erhalten und vorhandene Assets mit generativer KI aktualisieren und wiederverwenden.
+GenStudio for Performance Marketers [!DNL Content] bietet einen zentralen Speicherort zum Speichern, Suchen und Freigeben aller markengenehmigten Assets, Erlebnisse und Vorlagen. Sie können Inhalte bearbeiten und neu mischen, Einblicke in Inhaltsnutzung und Sentiment erhalten und vorhandene Assets mit generativer KI aktualisieren und wiederverwenden.
 
 ## [!DNL Content]-Anwendungsfälle 
 
@@ -65,7 +65,7 @@ GenStudio [!DNL Content] bietet einen zentralen Speicherort zum Speichern, Suche
 
 ## [!DNL Content] Funktionen
 
-GenStudio [!DNL Content] vereinfacht die Verwaltung Ihrer genehmigten Assets und beschleunigt den Inhaltslebenszyklus. In **[!UICONTROL [!DNL Content]]** können Sie leistungsstarke Inhalte suchen, suchen und wiederverwenden oder ein Asset oder Erlebnis auswählen, um mit der Erstellung neuer Varianten für eine zeitlose Kampagne zu beginnen.
+GenStudio for Performance Marketers [!DNL Content] vereinfacht die Verwaltung genehmigter Assets und beschleunigt den Inhaltslebenszyklus. In **[!UICONTROL [!DNL Content]]** können Sie leistungsstarke Inhalte suchen, suchen und wiederverwenden oder ein Asset oder Erlebnis auswählen, um mit der Erstellung neuer Varianten für eine zeitlose Kampagne zu beginnen.
 
 ### Hochladen von Assets
 
@@ -73,7 +73,7 @@ Im Bedienfeld **[!UICONTROL Assets hinzufügen]** können Sie Assets in Ihren lo
 
 ### Suche und Suche nach genehmigten Inhalten
 
-Beim Speichern genehmigter Assets behält [!DNL Content] die Rich-Metadaten, den Generierungskontext und den Prüfverlauf bei. Asset-Details helfen, Suchergebnisse mithilfe von Filter- und Suchzeichenfolgen schnell einzuschränken. GenStudio AI identifiziert und speichert bestimmte Details, wie z. B. Farbe, automatisch. Die Suche nach `blue` im Suchfeld schränkt die Inhaltsliste auf Assets ein, die als blau markiert sind.
+Beim Speichern genehmigter Assets behält [!DNL Content] die Rich-Metadaten, den Generierungskontext und den Prüfverlauf bei. Asset-Details helfen, Suchergebnisse mithilfe von Filter- und Suchzeichenfolgen schnell einzuschränken. Die KI von GenStudio for Performance Marketers identifiziert und speichert bestimmte Details, z. B. Farbe. Die Suche nach `blue` im Suchfeld schränkt die Inhaltsliste auf Assets ein, die als blau markiert sind.
 
 ### Arbeiten mit Vorlagen
 

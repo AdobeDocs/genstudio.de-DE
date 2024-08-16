@@ -1,11 +1,11 @@
 ---
 title: Vorlagen anpassen
-description: Erfahren Sie, wie Sie eine benutzerdefinierte Vorlage für GenStudio erstellen.
+description: Erfahren Sie, wie Sie eine benutzerdefinierte Vorlage für Adobe GenStudio für Performance Marketingexperten erstellen.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9cf7da078e84cf7696f32ca2278aa71b7b1b7cc
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '810'
+source-wordcount: '851'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # Vorlagen anpassen
 
-Passen Sie Ihre HTML-Vorlagen für GenStudio mithilfe der Vorlagensprache _Handlebars_ an. Die Handlebars-Syntax verwendet regulären Text mit doppelten Klammern als Inhaltsplatzhalter. Informationen zur Vorbereitung Ihrer Vorlage finden Sie unter [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) im _Handlebars-Sprachleitfaden_ .
+Passen Sie Ihre HTML-Vorlagen für Adobe GenStudio für Performance Marketingexperten mithilfe der Vorlagensprache _Handlebars_ an. Die Handlebars-Syntax verwendet regulären Text mit doppelten Klammern als Inhaltsplatzhalter. Informationen zur Vorbereitung Ihrer Vorlage finden Sie unter [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) im _Handlebars-Sprachleitfaden_ .
 
 <!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->If you do not have an HTML template ready to use in GenStudio, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
+-->If you do not have an HTML template ready to use in GenStudio for Performance Marketers, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
 
 ```html
 <!DOCTYPE html>
@@ -35,11 +35,11 @@ Siehe [Vorlagenbeispiele](#template-examples).
 
 >[!TIP]
 >
->Fügen Sie in den nächsten Abschnitten Platzhalter für E-Mail-Felder hinzu, sehen Sie Beispielvorlagen, blenden Sie unnötige Elemente aus der Vorschau aus und verwalten Sie Links zu statischen Inhalten. Sobald Ihre Vorlage fertig ist, können Sie sie [in GenStudio](use-templates.md#upload-a-template) hochladen und mit der Generierung personalisierter E-Mails auf der Basis Ihrer benutzerdefinierten Vorlage beginnen.
+>Fügen Sie in den nächsten Abschnitten Platzhalter für E-Mail-Felder hinzu, sehen Sie Beispielvorlagen, blenden Sie unnötige Elemente aus der Vorschau aus und verwalten Sie Links zu statischen Inhalten. Sobald Ihre Vorlage fertig ist, können Sie sie [für Performance Marketers in GenStudio hochladen](use-templates.md#upload-a-template) und mit der Generierung personalisierter E-Mails auf der Grundlage Ihrer benutzerdefinierten Vorlage beginnen.
 
 ## Inhalts-Platzhalter
 
-Im Kopf- oder Textkörper einer Vorlage können Sie die Handlebars-Syntax verwenden, um Platzhalter für Inhalte einzufügen, für die GenStudio die Vorlage mit dem tatsächlichen Inhalt füllen muss. GenStudio erkennt und interpretiert die Inhaltsplatzhalter automatisch basierend auf dem Feldnamen.
+Im Kopf- oder Textkörper einer Vorlage können Sie die Handlebars-Syntax verwenden, um Platzhalter für Inhalte einzufügen, für die Sie von GenStudio verlangen, dass Leistungs-Marketingexperten die Vorlage mit dem tatsächlichen Inhalt füllen. GenStudio für Performance Marketingexperten erkennt und interpretiert die Inhalts-Platzhalter automatisch auf Grundlage des Feldnamens.
 
 Beispielsweise können Sie mit `{{ headline }}` angeben, wo die Überschrift der E-Mail platziert werden soll:
 
@@ -53,7 +53,7 @@ Die maximal zulässige Anzahl von Feldern in einer benutzerdefinierten Vorlage b
 
 #### Erkannte Feldnamen
 
-In der folgenden Tabelle sind die Feldnamen aufgeführt, die von GenStudio für die Population erkannt werden.
+In der folgenden Tabelle sind die Feldnamen aufgeführt, die von GenStudio für Performance Marketers für die Population erkannt werden.
 
 | Feld | Rolle | Kanalvorlage |
 | -------------- | ---------------------- | -------------------- |
@@ -65,7 +65,7 @@ In der folgenden Tabelle sind die Feldnamen aufgeführt, die von GenStudio für 
 | `image` | Bild | email (empfohlen)<br>Meta-Anzeige (empfohlen) |
 | `brand_logo` | Logo der ausgewählten Marke | email<br>Meta-Anzeige |
 
-GenStudio füllt bestimmte Felder automatisch in Vorlagen aus, sodass es nicht erforderlich ist, sie in Ihre Vorlagenentwürfe aufzunehmen:
+GenStudio for Performance Marketers füllt bestimmte Felder automatisch in Vorlagen, sodass es nicht erforderlich ist, sie in Ihre Vorlagenentwürfe aufzunehmen:
 
 * Feld `subject` (E-Mail-Vorlage)
 * Felder `headline`, `body` und `CTA` (Meta-Anzeigenvorlage)
@@ -106,7 +106,7 @@ _Beispiel_: ``{{customVariable}}`` (`customVariable` ist der manuell bearbeitbar
 
 ## Abschnitte oder Gruppen
 
-_Abschnitte_ informieren GenStudio darüber, dass Felder in diesem Abschnitt einen hohen Grad an Kohärenz erfordern. Durch diese Beziehung kann die KI Inhalte generieren, die mit kreativen Elementen im Abschnitt übereinstimmen.
+_Abschnitte_ informieren GenStudio für Performance Marketingexperten darüber, dass Felder in diesem Abschnitt einen hohen Grad an Kohärenz erfordern. Durch diese Beziehung kann die KI Inhalte generieren, die mit kreativen Elementen im Abschnitt übereinstimmen.
 
 Verwenden Sie ein Präfix Ihrer Wahl im Feldnamen, um anzugeben, dass ein Feld Teil eines Abschnitts oder einer Gruppe ist.
 
@@ -126,13 +126,13 @@ Eine Vorlage kann aus bis zu drei Bereichen bestehen:
 * `news_headline`
 * `news_body`
 
-GenStudio versteht, dass `spotlight_headline` enger mit `spotlight_body` als mit `news_body` verwandt ist.
+GenStudio for Performance Marketers erkennt, dass `spotlight_headline` enger mit `spotlight_body` als mit `news_body` verbunden ist.
 
 ## Vorlagenbeispiele
 
 +++Beispiel: E-Mail-Vorlage mit einem Abschnitt
 
-Im Folgenden finden Sie ein Beispiel für eine HTML-Vorlage für eine E-Mail, die nur einen Bereich enthält. Der Kopf enthält einfache Inline-CSS für die Formatierung. Der Hauptteil enthält einen `pre-header`-, `headline`- und `image` [Platzhalter](#content-placeholders) für die Verwendung durch GenStudio zum Einfügen von Inhalten während des E-Mail-Generierungsprozesses.
+Im Folgenden finden Sie ein Beispiel für eine HTML-Vorlage für eine E-Mail, die nur einen Bereich enthält. Der Kopf enthält einfache Inline-CSS für die Formatierung. Der Hauptteil enthält einen `pre-header`-, `headline`- und `image` [Platzhalter](#content-placeholders) für GenStudio, damit Performance Marketers Inhalte während des E-Mail-Generierungsprozesses einfügen können.
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
@@ -293,9 +293,9 @@ Ein weiteres Beispiel könnte sein, die Verwendung von Trackingcodes bei der Vor
 
 ## Statischer Inhalt
 
-E-Mail- und Meta-Vorlagen verknüpfen häufig mit Bildern und CSS-Dateien, die außerhalb von GenStudio gehostet werden. Wenn GenStudio Miniaturansichten für diese Vorlagen oder daraus abgeleitete Erlebnisse generiert, können diese externen Ressourcen ignoriert werden, wenn sie nicht über die richtigen CORS-Kopfzeilen (Cross Origin Resource Sharing) verfügen.
+E-Mail- und Meta-Vorlagen verlinken häufig zu Bildern und CSS-Dateien, die außerhalb von GenStudio für Performance Marketers gehostet werden. Wenn GenStudio for Performance Marketers Miniaturansichten für diese Vorlagen oder die daraus abgeleiteten Erlebnisse generiert, können diese externen Ressourcen ignoriert werden, wenn sie nicht über die richtigen CORS-Header (Cross Origin Resource Sharing) verfügen.
 
 Beachten Sie zwei Optionen, um sicherzustellen, dass diese Ressourcen während des Generierungsprozesses von Miniaturansichten verfügbar sind:
 
-1. **CORS-Header verwenden**: Der Host-Server muss Antworten senden, deren `Access-Control-Allow-Origin`-Header für Produktionsumgebungen auf den Wert `https://experience.adobe.com` eingestellt ist. Auf diese Weise kann GenStudio auf die Ressourcen zugreifen und diese einschließen.
+1. **CORS-Header verwenden**: Der Host-Server muss Antworten senden, deren `Access-Control-Allow-Origin`-Header für Produktionsumgebungen auf den Wert `https://experience.adobe.com` eingestellt ist. Diese Methode ermöglicht es GenStudio für Performance Marketingexperten, auf die Ressourcen zuzugreifen und sie einzuschließen.
 1. **Daten-URLs verwenden**: Betten Sie die externen Ressourcen mithilfe von Daten-URLs direkt in die Vorlage ein. Diese Methode umgeht CORS-Einschränkungen und stellt sicher, dass die Ressourcen während der Erstellung von Miniaturansichten verfügbar sind.
