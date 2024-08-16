@@ -1,9 +1,9 @@
 ---
 title: Adobe GenStudio für Performance Marketingexperten - Beta - Versionshinweise
 description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen beim Adobe GenStudio.
-source-git-commit: 382026b07e123a1e49813b766f69496f6a8f38eb
+source-git-commit: 5505e3fdc78e217dd1eb73ed5bffa5e43d4f3084
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '356'
 ht-degree: 2%
 
 ---
@@ -28,8 +28,6 @@ Das Bedienfeld zur Validierung von Marken wurde erweitert, um das Benutzererlebn
 * _Inkrementelle Belastung der Marke während der Extraktion_: Die Markenrichtlinien werden jetzt schrittweise in die Benutzeroberfläche geladen.
 
 * _Vereinfachung des Schemas &quot;Richtlinie kopieren&quot;_: Das Feld `unique attributes` und das Feld `frequent keywords` wurden aus dem Schema &quot;Richtlinie kopieren&quot;entfernt und vereinfachen so die Einrichtung der Richtlinie.
-
-* _Bildgenerierung: Kategorieauswahl_: Benutzer können jetzt die Bildrichtlinien auswählen, die für die Bildregenerierung spezifisch sind.
 
 ### Erstellen
 
@@ -63,22 +61,15 @@ Die folgenden bekannten Probleme werden durch die GenStudio für Performance Mar
 
 * Aktionen, die durch die Schaltflächen **[!UICONTROL Vorlagen hinzufügen]** und **[!UICONTROL Hochladen]** ausgelöst werden, werden derzeit nicht verfolgt. <!-- GS-3505 -->
 
-### Marke
-
-* Ein Ersteller kann eine Marke erfolgreich veröffentlichen, die Mitglieder der Organisation können die Marke jedoch nicht sehen. <!-- XI-2197 -->
-
-### Erstellen
-
-* Das Zuschneiden von Bildern in Meta-Anzeigen ist inkonsistent. <!-- GS-3739 -->
-
-* Vorlagen, die aus mehreren Gruppen von Seitenelementen bestehen, schlagen bei der Markenvalidierung fehl. <!-- GS-4037 -->
-
 ### Einblicke
 
-* Fehler wegen Zugriffsverweigerung treten mit dem `/admin/addOffer` -Endpunkt (Bereitstellungsdienst) auf. **8/12** aufgelöst. <!-- GS-4047 -->
+* Videos können nicht von _Assets_ abgespielt werden. <!-- GS-3846 -->
+
+* Benutzer müssen sich zweimal anmelden, wenn sie auch bei Facebook angemeldet sind. **Problemumgehung**: Melden Sie sich vor der Anmeldung bei Insights von Facebook ab.
 
 * Die Werte **Ausgaben auf Kampagnenebene** sind nicht korrekt. Die Daten zwischen Facebook Ads Manager und dem Data Lake sind derzeit nicht konsistent. <!-- GS-3202 -->
 
 ### Überprüfungen und Genehmigungen
 
-* Ersteller können Assets nach der Genehmigung ändern, bevor sie sie veröffentlichen. Genehmiger werden über diese Änderungen nicht benachrichtigt.
+* Ersteller können Assets nach der Genehmigung vor der Veröffentlichung ändern. Genehmiger werden über diese Änderungen nicht benachrichtigt.
+
