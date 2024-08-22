@@ -3,9 +3,9 @@ title: E-Mail-Vorlage für Adobe GenStudio für Performance Marketers vorbereite
 description: Erfahren Sie, wie Sie eine benutzerdefinierte E-Mail-Vorlage für Adobe GenStudio für Performance Marketingexperten erstellen.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Siehe [Vorlagenbeispiele](/help/user-guide/content/customize-template.md#templat
 
 Verwenden Sie Ihre E-Mail-Versand- oder Testplattform, um Ihre E-Mail zu testen und sicherzustellen, dass sie über verschiedene E-Mail-Clients und -Geräte hinweg ordnungsgemäß dargestellt wird.
 
-Prüfen Sie, ob Ihre E-Mail-Vorlage Folgendes erfüllt:
+Testen Sie, ob Ihre E-Mail-Vorlage Folgendes erfüllt:
 
 * Layoutanpassungen für verschiedene Bildschirmgrößen mithilfe von CSS-Medienabfragen
 * Die Schaltflächen können angeklickt werden und navigieren zur vorgesehenen Stelle
@@ -48,13 +48,13 @@ Definieren Sie die Bereiche in Ihrer E-Mail-Vorlage, die dynamisch mit Inhalten 
 So definieren Sie generierte Inhaltsbereiche:
 
 * Identifizieren Sie die Textelemente in der Vorlage, die von GenStudio für Performance Marketers automatisch generiert werden sollen, z. B. die Überschrift oder CTA.
-* Passen Sie Ihre HTML-Vorlage an, indem Sie mithilfe der Handblebars-Syntax Platzhalter darin einfügen.
+* Passen Sie Ihre HTML-Vorlage an, indem Sie mithilfe der Handlebars-Syntax Platzhalter darin einfügen.
 
 Siehe [Platzhalter für Inhalte](/help/user-guide/content/customize-template.md#content-placeholders).
 
 ## Vorschau der Vorlage
 
-Steuern Sie die Sichtbarkeit bestimmter Inhaltsbereiche mithilfe von integrierten Helfern. Sie können beispielsweise Tracking-Parameter zu Links in eine exportierte Vorlage einfügen und dabei saubere Vorschaulinks beibehalten.
+Mit integrierten Helfern können Sie die Sichtbarkeit bestimmter Inhaltsbereiche steuern. Sie können beispielsweise Tracking-Parameter zu Links in eine exportierte Vorlage einfügen und dabei saubere Vorschaulinks beibehalten.
 
 Siehe [Vorlagenvorschau](/help/user-guide/content/customize-template.md#template-preview).
 

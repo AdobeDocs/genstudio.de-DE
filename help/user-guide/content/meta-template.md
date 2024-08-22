@@ -3,9 +3,9 @@ title: Vorbereiten einer Meta-Anzeigenvorlage für Adobe GenStudio für Performa
 description: Erfahren Sie, wie Sie eine benutzerdefinierte Meta-Anzeigenvorlage für Adobe GenStudio für Performance Marketingexperten erstellen.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -52,18 +52,18 @@ Definieren Sie die Bereiche in Ihrer E-Mail-Vorlage, die dynamisch mit Inhalten 
 So definieren Sie generierte Inhaltsbereiche:
 
 * Identifizieren Sie die Textelemente in der Vorlage, die von GenStudio für Performance Marketers automatisch generiert werden sollen, z. B. die Überschrift oder CTA.
-* Passen Sie Ihre HTML-Vorlage an, indem Sie mithilfe der Handblebars-Syntax Platzhalter darin einfügen.
+* Passen Sie Ihre HTML-Vorlage an, indem Sie mithilfe der Handlebars-Syntax Platzhalter darin einfügen.
 
 Siehe [Platzhalter für Inhalte](/help/user-guide/content/customize-template.md#content-placeholders).
 
 ## Vorschau der Vorlage
 
-Steuern Sie die Sichtbarkeit bestimmter Inhaltsbereiche mithilfe von integrierten Helfern. Sie können beispielsweise Tracking-Parameter zu Links in eine exportierte Vorlage einfügen und dabei saubere Vorschaulinks beibehalten.
+Mit integrierten Helfern können Sie die Sichtbarkeit bestimmter Inhaltsbereiche steuern. Fügen Sie beispielsweise Tracking-Parameter zu Links in einer exportierten Vorlage hinzu, während Sie saubere Vorschaulinks beibehalten.
 
 Siehe [Vorlagenvorschau](/help/user-guide/content/customize-template.md#template-preview).
 
 ## Hochladen und Verwenden von Vorlagen
 
-Nachdem Ihre Vorlage entworfen, codiert, getestet und in der Vorschau angezeigt wurde, können Sie sie für Performance Marketingexperten in GenStudio hochladen, um neue Marketinginhalte zu generieren.
+Nachdem Ihre Vorlage entworfen, codiert, getestet und in der Vorschau angezeigt wurde, laden Sie sie für Performance Marketingexperten in GenStudio hoch, um neue Marketinginhalte zu generieren.
 
 Siehe [Arbeiten mit Vorlagen](use-templates.md).

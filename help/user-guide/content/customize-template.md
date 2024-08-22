@@ -3,9 +3,9 @@ title: Vorlagen anpassen
 description: Erfahren Sie, wie Sie eine benutzerdefinierte Vorlage für Adobe GenStudio für Performance Marketingexperten erstellen.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 44390d551e638fcff47cff5844fcfda4ed9f98f3
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,7 @@ ht-degree: 0%
 
 Passen Sie Ihre HTML-Vorlagen für Adobe GenStudio für Performance Marketingexperten mithilfe der Vorlagensprache _Handlebars_ an. Die Handlebars-Syntax verwendet regulären Text mit doppelten Klammern als Inhaltsplatzhalter. Informationen zur Vorbereitung Ihrer Vorlage finden Sie unter [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) im _Handlebars-Sprachleitfaden_ .
 
-<!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->If you do not have an HTML template ready to use in GenStudio for Performance Marketers, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
+Wenn Sie keine HTML-Vorlage haben, die in GenStudio für Performance Marketers verwendet werden kann, können Sie mit der Definition der Vorlagenstruktur mit den HTML-Tags `DOCTYPE`, `html`, `head` und `body` beginnen. Im Folgenden finden Sie eine einfache E-Mail-Vorlage mit CSS-Stilen zum Anpassen des Erscheinungsbilds:
 
 ```html
 <!DOCTYPE html>
@@ -30,8 +29,6 @@ Passen Sie Ihre HTML-Vorlagen für Adobe GenStudio für Performance Marketingexp
 </body>
 </html>
 ```
-
-Siehe [Vorlagenbeispiele](#template-examples).
 
 >[!TIP]
 >
@@ -47,13 +44,11 @@ Beispielsweise können Sie mit `{{ headline }}` angeben, wo die Überschrift der
 <div>{{ headline }}</div>
 ```
 
-### Feldnamen
+### Erkannte Feldnamen
 
 Die maximal zulässige Anzahl von Feldern in einer benutzerdefinierten Vorlage beträgt zwanzig.
 
-#### Erkannte Feldnamen
-
-In der folgenden Tabelle sind die Feldnamen aufgeführt, die von GenStudio für Performance Marketers für die Population erkannt werden.
+In der folgenden Tabelle sind die von GenStudio für Performance Marketers für die Population erkannten Feldnamen in Vorlagen aufgeführt.
 
 | Feld | Rolle | Kanalvorlage |
 | -------------- | ---------------------- | -------------------- |
@@ -63,12 +58,12 @@ In der folgenden Tabelle sind die Feldnamen aufgeführt, die von GenStudio für 
 | `cta` | Aktionsaufruf | email (empfohlen)<br>Meta-Anzeige |
 | `on_image_text` | Im Bildtext | Metaanzeige (empfohlen) |
 | `image` | Bild | email (empfohlen)<br>Meta-Anzeige (empfohlen) |
-| `brand_logo` | Logo der ausgewählten Marke | email<br>Meta-Anzeige |
+| `brand_logo` | Logo der ausgewählten Marke<br>Siehe [Feldname](#brand-logo-field-name) für die empfohlene Verwendung. | email<br>Meta-Anzeige |
 
 GenStudio for Performance Marketers füllt bestimmte Felder automatisch in Vorlagen, sodass es nicht erforderlich ist, sie in Ihre Vorlagenentwürfe aufzunehmen:
 
-* Feld `subject` (E-Mail-Vorlage)
-* Felder `headline`, `body` und `CTA` (Meta-Anzeigenvorlage)
+- Feld `subject` (E-Mail-Vorlage)
+- Felder `headline`, `body` und `CTA` (Meta-Anzeigenvorlage)
 
 >[!WARNING]
 >
@@ -76,55 +71,53 @@ GenStudio for Performance Marketers füllt bestimmte Felder automatisch in Vorla
 
 #### Feldname für Markenlogo
 
-Verwenden Sie eine der folgenden Methoden, um ein Markenlogo in Ihre Vorlage einzufügen und das Standardlogo zu rendern.
+Die folgenden Beispiele zeigen zwei Methoden, mit denen das Markenlogo bedingt gerendert, die Quelle überprüft, ein standardmäßiges oder alternatives Logo bereitgestellt wird, falls das Markenlogo nicht verfügbar ist, und einen Stil anwenden:
 
-_Beispiel_:
+_Beispiel_: in der Definition HTML `img src`
 
-```bash
-<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default image>{{/if}}" alt="WKND" style="max-width: 88px; margin: 10px auto; display: block;"> 
+```html
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;"> 
 ```
 
-_Beispiel_:
+_Beispiel_: in einer Handlebars-Bedingung
 
-```bash
+```handlebars
 {{#if brand_logo}}
-
-                    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-
-                {{else}}
-
-                    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-
-                {{/if}}
+    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+    {{else}}
+    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+{{/if}}
 ```
 
 #### Manuelle Feldnamen
 
-Alle anderen Feldnamen werden als manuell ausgefüllte Felder behandelt. Wenn ein Abschnitt bearbeitbar sein soll, fügen Sie im Bereich, den Sie bearbeiten möchten, doppelte Klammern hinzu.
+Alle anderen Feldnamen werden als manuell ausgefüllte Felder behandelt. Um einen bearbeitbaren Abschnitt zu erstellen, fügen Sie um den Abschnittsnamen doppelte Klammern hinzu:
 
-_Beispiel_: ``{{customVariable}}`` (`customVariable` ist der manuell bearbeitbare Abschnitt)
+```handlebars
+{{customVariable}}
+```
 
 ## Abschnitte oder Gruppen
 
-_Abschnitte_ informieren GenStudio für Performance Marketingexperten darüber, dass Felder in diesem Abschnitt einen hohen Grad an Kohärenz erfordern. Durch diese Beziehung kann die KI Inhalte generieren, die mit kreativen Elementen im Abschnitt übereinstimmen.
+_Abschnitte_ informieren GenStudio für Leistungs-Marketingexperten darüber, dass die Felder in diesem Abschnitt einen hohen Grad an Kohärenz erfordern. Durch diese Beziehung kann die KI Inhalte generieren, die mit den kreativen Elementen im Abschnitt übereinstimmen.
 
 Verwenden Sie ein Präfix Ihrer Wahl im Feldnamen, um anzugeben, dass ein Feld Teil eines Abschnitts oder einer Gruppe ist.
 
 Sie können beispielsweise Inhalte in einem hervorgehobenen Bereich markieren:
 
-* `spotlight_headline`
-* `spotlight_body`
+- `spotlight_headline`
+- `spotlight_body`
 
 Jeder Abschnitt kann nur einen Feldtyp aufweisen. Im obigen Beispiel darf das Präfix `spotlight` nur ein `spotlight_headline` -Feld enthalten.
 
 Eine Vorlage kann aus bis zu drei Bereichen bestehen:
 
-* `headline`
-* `body`
-* `spotlight_headline`
-* `spotlight_body`
-* `news_headline`
-* `news_body`
+- `headline`
+- `body`
+- `spotlight_headline`
+- `spotlight_body`
+- `news_headline`
+- `news_body`
 
 GenStudio for Performance Marketers erkennt, dass `spotlight_headline` enger mit `spotlight_body` als mit `news_body` verbunden ist.
 
@@ -263,7 +256,6 @@ Im Folgenden finden Sie ein grundlegendes Beispiel für eine Meta-Anzeigenvorlag
     <div class="ad-body">"{{ body }}"</div>
     <a href="(https://example.com)" class="ad-cta">"{{ CTA }}"</a>
 </div>
-
 </body>
 </html>
 ```
