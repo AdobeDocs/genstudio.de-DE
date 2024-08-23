@@ -1,7 +1,7 @@
 ---
 title: Adobe GenStudio für Performance Marketingexperten - Beta - Versionshinweise
 description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen des Adobe GenStudio für Performance Marketingexperten.
-source-git-commit: 44cee6fa5b543372b1264745dd42ca6d3c754ec5
+source-git-commit: 17d2cb3afd6c3ce8a8c5efe8c5b406f6cdf5aa76
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Die folgenden bekannten Probleme sollen in der GenStudio für Performance Market
 
 ### Bekannte Probleme behoben
 
-* Im Dropdown-Menü Eingabeaufforderung ([!DNL Brands]) wird am Ende der Liste ([!DNL Brands]) während der E-Mail-Erstellung ein Gewinner angezeigt. (Korrektur am 22.8.20) <!-- GS-4077 -->
+* Im Dropdown-Menü Eingabeaufforderung ([!DNL Brands]) wird am Ende der Liste ([!DNL Brands]) während der E-Mail-Erstellung ein Netz angezeigt. (Korrektur am 22.8.20) <!-- GS-4077 -->
 
 ## Frühere Beta-Versionen
 
@@ -51,7 +51,7 @@ Frühere Beta-Versionen umfassten die folgenden Highlights und Fehlerbehebungen.
 
 * Der Seitenname _Erlebnisdetails_ für die Feed-Platzierung gibt jetzt den Facebook- oder Instagram-Feed an. 16.08.2016
 
-* Das Zuschneiden größerer Bilder und Videos ist jetzt konsistent, wenn der Benutzer von der Ansicht _Asset-Übersicht_ zur Ansicht _Asset-Details_ navigiert.  16.08.2016
+* Das Zuschneiden größerer Bilder und Videos ist jetzt konsistent, wenn der Benutzer von der Ansicht _Asset-Übersicht_ zur Ansicht _Asset-Details_ navigiert. 16.08.2016
 
 * Die Anzahl der Suchergebnisse des Bildschirms &quot;Attribute&quot;zeigt nicht mehr &quot;`0 of`&quot;an, bevor sich ein Benutzer anmeldet.  (16.8.19) <!-- GS- 3665 -->
 
