@@ -1,7 +1,7 @@
 ---
 title: Adobe GenStudio für Performance Marketingexperten - Beta - Versionshinweise
 description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen des Adobe GenStudio für Performance Marketingexperten.
-source-git-commit: 071871f91f0624c1bdb3be3f5ed2d9742352afea
+source-git-commit: 44cee6fa5b543372b1264745dd42ca6d3c754ec5
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Die folgenden bekannten Probleme sollen in der GenStudio für Performance Market
 
 ### Bekannte Probleme behoben
 
-* Im Dropdown-Menü &quot;Eingabeaufforderung&quot;([!DNL Brands] ) wird am Ende der Liste ([!DNL Brands] ) während der E-Mail-Erstellung ein Gewinner angezeigt. (Korrektur am 22.8.20) <!-- GS-4077 -->
+* Im Dropdown-Menü Eingabeaufforderung ([!DNL Brands]) wird am Ende der Liste ([!DNL Brands]) während der E-Mail-Erstellung ein Gewinner angezeigt. (Korrektur am 22.8.20) <!-- GS-4077 -->
 
 ## Frühere Beta-Versionen
 
