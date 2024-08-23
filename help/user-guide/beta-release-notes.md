@@ -1,9 +1,9 @@
 ---
 title: Adobe GenStudio für Performance Marketingexperten - Beta - Versionshinweise
 description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen des Adobe GenStudio für Performance Marketingexperten.
-source-git-commit: 72103c750a7708d97be87bed144bfe053ceeaa0f
+source-git-commit: 071871f91f0624c1bdb3be3f5ed2d9742352afea
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,10 @@ Die folgenden bekannten Probleme sollen in der GenStudio für Performance Market
 * Videos können nicht von _Assets_ abgespielt werden. <!-- GS-3846 -->
 
 * Benutzer müssen sich bei einem Kanal-Metaanzeigen-Konto zweimal anmelden, wenn sie auch bei Facebook angemeldet sind. **Problemumgehung**: Melden Sie sich von Facebook ab, bevor Sie sich bei einem Kanal-Metadatenanzeigenkonto anmelden.
+
+### Bekannte Probleme behoben
+
+* Im Dropdown-Menü &quot;Eingabeaufforderung&quot;([!DNL Brands] ) wird am Ende der Liste ([!DNL Brands] ) während der E-Mail-Erstellung ein Gewinner angezeigt. (Korrektur am 22.8.20) <!-- GS-4077 -->
 
 ## Frühere Beta-Versionen
 
