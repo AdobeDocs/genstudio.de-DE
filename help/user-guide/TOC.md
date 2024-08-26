@@ -4,9 +4,9 @@ breadcrumb-title: Benutzerhandbuch
 user-guide-description: Erfahren Sie, wie Sie schnell Assets innerhalb der Marke finden und generieren, Varianten erstellen und Erlebnisse basierend auf Einblicken in die Inhaltsleistung in Echtzeit optimieren können.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 0cd877737f8ed4d38201c832d454795206505de2
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '125'
 ht-degree: 11%
 
 ---
@@ -42,6 +42,7 @@ ht-degree: 11%
    + Vorlagen {#templates}
       + [Arbeiten mit Vorlagen](content/use-templates.md)
       + [Vorlagen anpassen](content/customize-template.md)
+      + [Barrierefreie Vorlagen erstellen](content/accessibility-for-templates.md)
       + [E-Mail-Vorlage vorbereiten](content/email-template.md)
       + [Vorbereiten einer Meta-Anzeigenvorlage](content/meta-template.md)
 + Kampagnen {#campaigns}

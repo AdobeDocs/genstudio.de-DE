@@ -2,9 +2,9 @@
 title: Arbeiten mit Vorlagen
 description: Erfahren Sie, wie Sie mit Vorlagen ansprechende Erlebnisse in Adobe GenStudio für Performance-Marketer erstellen können.
 feature: Templates, Content
-source-git-commit: b383295810d4bd1b37227cf689ee76687e940f03
+source-git-commit: 0cd877737f8ed4d38201c832d454795206505de2
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '473'
 ht-degree: 2%
 
 ---
@@ -12,12 +12,13 @@ ht-degree: 2%
 
 # Arbeiten mit Vorlagen
 
-GenStudio-Vorlagen sind unverzichtbar, damit Inhaltsersteller schnell konsistente On-Brand-Marketing-Inhalte erstellen können. Durch die Verwendung von Vorlagen wird der Zeit- und Arbeitsaufwand für die Erstellung neuer Inhalte erheblich reduziert, da ein Ausgangspunkt mit vorkonfigurierten Layouts und Designelementen bereitgestellt wird.
+GenStudio-Vorlagen ermöglichen es Erstellern von Inhalten, schnell konsistente On-Brand-Marketinginhalte zu erstellen. Durch die Verwendung von Vorlagen wird der Zeit- und Arbeitsaufwand für die Erstellung neuer Inhalte erheblich reduziert, da ein Ausgangspunkt mit vorkonfigurierten Layouts und Designelementen bereitgestellt wird.
 
 In diesem Handbuch finden Sie detaillierte Informationen zu folgenden Themen:
 
 * Vorbereiten einer [E-Mail-Vorlage](email-template.md) oder einer Meta-Anzeigenvorlage
-* [Anpassen von Vorlagen](customize-template.md) für GenStudio for Performance Marketerstudio
+* [Anpassen von Vorlagen](customize-template.md) für GenStudio für Performance Marketers
+* Befolgen Sie die Anleitungen unter [Zugreifbare Vorlagen erstellen](accessibility-for-templates.md)
 * [Hochladen von Vorlagen](#upload-a-template) in GenStudio für Performance Marketingexperten
 * [Verwenden von Vorlagen zum Erstellen von Erlebnissen](#use-a-template)
 
@@ -27,17 +28,17 @@ Das grundlegende Vorlagendesign umfasst die folgenden Elemente:
 
 | Element | Funktion | Kanalvorlage |
 | ------------ | ---------------------- | -------------------- |
-| Preheader | Zwischen 40-50 Zeichen <br>fungiert als sekundäre Betreffzeile, die die Hauptbetreffzeile <br>im Posteingang neben dem Betreff anzeigt, bevor die E-Mail geöffnet wird | email |
+| Preheader | Zwischen 40 und 50 Zeichen <br>fungiert als sekundäre Betreffzeile, die die im Posteingang angezeigte Hauptbetreffzeile <br>vor dem Öffnen der E-Mail neben dem Betreff erweitert | email |
 | Kopfzeile | Der obere Bereich des E-Mail-Empfängers sieht beim Öffnen des E-Mail-Tons <br>Legt den Ton fest und liefert Kontext für den eingeschlossenen Inhalt | email |
 | Überschrift | Erster Inhaltsempfänger sieht <br>Sollte überzeugend sein, Interesse zu erwischen | Meta-Anzeige |
 | body | Hauptinhaltsbereich, in dem die primäre Nachricht übermittelt wird <br>Kann Text, Bilder und andere Medien enthalten | email<br>Meta-Anzeige |
 | CTA | Aktionsaufruf, der den Empfänger dazu ermutigt, bestimmte Maßnahmen zu ergreifen, z. B. das Klicken auf einen Link oder das Beenden eines Kaufs | email<br>Meta-Anzeige |
 | Bilder | Verbessert die visuelle Anziehungskraft <br>Aufschlüsseln von Text <br>Unterstützt die Meldung <br>Sollte qualitativ hochwertig und auffällig sein | email<br>Meta-Anzeige |
-| Fußzeile | Enthält zusätzliche Informationen wie Kontaktdetails, Social-Media-Links, Haftungsausschlüsse und Abmeldeoptionen | email |
+| Fußzeile | Fußbereich mit zusätzlichen Inhalten wie Kontaktdetails, Social-Media-Links, Haftungsausschlüssen und Abmeldeoptionen | email |
 | Textüberlagerung | Text auf einem Bild <br>Sollte Überschrift und Hauptteil unterstützen und verbessern | Meta-Anzeige |
 
 >[!NOTE]
-> 
+>
 >Es wird empfohlen, dass Sie bestimmte Felder in den Inhalt jedes Kanals einschließen, um sicherzustellen, dass GenStudio for Performance Marketers Text für Inhaltsplatzhalter generieren kann. Siehe [Erkannte Feldnamen ](customize-template.md#recognized-field-names) , um zu sehen, welche Felder zur Aufnahme empfohlen werden.
 
 ## Vorlage hochladen
