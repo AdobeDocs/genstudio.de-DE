@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 4745e7cab9cd605c3bc7e93cb610e510566c9302
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '955'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ Weitere Informationen zum Schreiben von Eingabeaufforderungen finden Sie unter [
 **So geben Sie eine Eingabeaufforderung ein**:
 
 1. Geben Sie in das Eingabeaufforderungsfeld _&quot;Beschreiben Sie die Erlebnisse, die Sie generieren möchten&quot;_ eine Eingabeaufforderung ein.
-1. Klicken Sie auf **[!UICONTROL Erzeugen]**.
+1. Klicken Sie auf **[!UICONTROL Generieren]**.
 
 Standardmäßig werden vier Varianten generiert und auf der Arbeitsfläche angezeigt, die alle durch die Eingabeaufforderung, die Richtlinien und den hinzugefügten Inhalt angeregt werden.
 
@@ -68,6 +68,8 @@ Standardmäßig werden vier Varianten generiert und auf der Arbeitsfläche angez
 Beim Generieren einer Meta-Anzeige können Sie zwischen Facebook- und Instagram-Anzeigen wählen.
 
 Schalten Sie die Option Metadaten-Kanal in der oberen Menüleiste in **Facebook** oder **Instagram** um, um die generierten Entwürfe der einzelnen Kanäle zu verwalten.
+
+Bei der Änderung von [Meta-Anzeigen](#revise-generated-meta-ads) können Sie das Seitenverhältnis von Facebook- und Instagram-Anzeigen ändern.
 
 ## Generierte Meta-Anzeigen überarbeiten
 
@@ -81,6 +83,7 @@ Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Co
   Die Betreffzeile und die Preheader erfordern nur einen Klick, um sie zu bearbeiten, während die Kopfzeile und die Textkopie einen Doppelklick erfordern.
 
 * **Um den Aktionsaufruf zu ändern oder auszuwählen**, klicken Sie auf die Schaltfläche Aktionsaufruf und wählen Sie eine verfügbare Schaltfläche aus.
+* **Um Größe und Seitenverhältnis zu ändern**, klicken Sie auf die Schaltfläche _[!UICONTROL Größe ändern]_ (Feld mit einem Schaltflächensymbol auf der linken Seite der Arbeitsfläche) und wählen Sie eine neue Größe und ein neues Seitenverhältnis aus, die für alle Varianten gelten sollen. Die Varianten werden dupliziert und die Größe wird angepasst.
 * **Um eine Metadatenanzeige zu löschen, klicken Sie auf , um den Anzeigentitel auszuwählen (z. B. &quot;Meta 4&quot;), und klicken Sie auf**[!UICONTROL  Variante löschen ]**.**
 
 ## Markenausrichtung überprüfen

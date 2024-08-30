@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 5026afb4eb71df73063559aee34971039511b31a
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '813'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Um ein effektives E-Mail-Erlebnis zu schaffen, sollten Sie GenStudio Richtlinien
 
 ## Vorlage auswählen
 
-Um mit der Erstellung eines neuen E-Mail-Erlebnisses zu beginnen, verwenden Sie eine verfügbare Vorlage, um das Framework für Ihren Inhalt bereitzustellen.
+Um ein neues E-Mail-Erlebnis zu erstellen, verwenden Sie eine verfügbare Vorlage, um das Framework für Ihren Inhalt bereitzustellen.
 
 **So wählen Sie eine E-Mail-Vorlage aus**:
 
@@ -48,6 +48,10 @@ Durch das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview
    * Klicken Sie auf **[!UICONTROL Hochladen]** , um Ihre Dateien zu durchsuchen und Assets zur Verwendung auszuwählen. Neben dem Durchsuchen Ihres Geräts können Sie auch aus Microsoft OneDrive oder Dropbox importieren.
    * Ziehen Sie Assets per Drag-and-Drop in den Abschnitt _Inhalt_ .
 
+>[!NOTE]
+>
+>Wenn Ihre E-Mail-Vorlage mehrere Abschnitte enthält, wählen Sie für jeden E-Mail-Bereich in _E-Mails mit mehreren Abschnitten_ die Option [!DNL Products] und den Inhalt (visuelle Assets) aus. E-Mails mit mehreren Abschnitten unterstützen ein visuelles Asset pro Abschnitt.
+
 Wenn Sie alle Parameter hinzugefügt haben, können Sie den Eingabebereich reduzieren, indem Sie erneut auf das Symbol _Parameter_ klicken.
 
 ## Eingabeaufforderung eingeben
@@ -59,7 +63,7 @@ Weitere Informationen zum Schreiben von Eingabeaufforderungen finden Sie unter [
 **So geben Sie eine Eingabeaufforderung ein**:
 
 1. Geben Sie in das Eingabeaufforderungsfeld _&quot;Beschreiben Sie die Erlebnisse, die Sie generieren möchten&quot;_ eine Eingabeaufforderung ein.
-1. Klicken Sie auf **[!UICONTROL Erzeugen]**.
+1. Klicken Sie auf **[!UICONTROL Generieren]**.
 
 Standardmäßig werden vier Varianten generiert und auf der Arbeitsfläche angezeigt, die alle durch die Eingabeaufforderung, die Richtlinien und den hinzugefügten Inhalt angeregt werden.
 
