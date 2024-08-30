@@ -1,9 +1,9 @@
 ---
 title: Adobe GenStudio für Performance Marketingexperten - Beta - Versionshinweise
 description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen des Adobe GenStudio für Performance Marketingexperten.
-source-git-commit: f30eaea46a0cbb45f1ba04e393219b843c356e10
+source-git-commit: 21b81ab6776d504656ba8c3017f8b2897dc173ea
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,18 @@ Diese Hinweise zeigen wichtige Adobe GenStudio für Fehlerbehebungen und Verbess
 
 * Die Kanalrichtlinien von instagram und Facebook wurden zu Richtlinien für Meta-Marken zusammengefasst.
 
-* Die Navigationselemente zum Erstellen von Arbeitsflächen wurden optimiert. Auf der Landingpage ([!DNL Create]) wird das linke Navigationsfenster angezeigt. Benutzer können jetzt jedoch über die Schaltfläche **[!UICONTROL Zurück]** von anderen Arbeitsbereichen aus zu diesem Bereich navigieren.  <!-- GS-1189 -->
+* Die Navigationselemente zum Erstellen von Arbeitsflächen wurden optimiert. Auf der Landingpage [!DNL Create] wird das linke Navigationsfenster angezeigt. Benutzer verwenden jetzt jedoch die Schaltfläche **[!UICONTROL Zurück]** , um von anderen [!DNL Create] -Arbeitsbereichen aus zu diesem Bereich zu navigieren.  <!-- GS-1189 -->
 
 * Navigationselemente wurden verbessert, um den Benutzerfokus bei der Ausführung von Aufgaben im gesamten Produkt zu unterstützen, einschließlich der folgenden Produktbereiche:
 
-   * Asset-, Erlebnis- und Vorlagendetails in ([!DNL Content])
-   * Erlebnis, Asset, Attributdetail in ([!DNL Insights])
-   * Markendetails in ([!DNL Brands])
-   * Details zu Produkt und Persona in ([!DNL Products]) und ([!DNL Personas]) <!-- GS-1189 -->
+   * Asset-, Erlebnis- und Vorlagendetails in [!DNL Content]
+   * Erlebnis, Asset, Attributdetail in [!DNL Insights]
+   * Markendetails in [!DNL Brands]
+   * Details zu Produkt und Persona in [!DNL Products] und [!DNL Personas] <!-- GS-1189 -->
 
-* Benutzer müssen nicht mehr auf die Schaltfläche **[!UICONTROL Aktualisieren]** klicken, um Aktualisierungen an Erlebnissen in ([!DNL Content]) anzuzeigen. <!-- GS-4218 -->
+* Benutzer müssen nicht mehr auf die Schaltfläche **[!UICONTROL Aktualisieren]** klicken, um die Aktualisierungen an Erlebnissen in [!DNL Content] <!-- GS-4218 --> anzuzeigen.
 
-* Auf der Seite &quot;Erlebnisdetails&quot;werden externe Asset-Miniaturansichten jetzt als HTML gerendert. <!-- GS-3092 -->
+* Die Seite _Erlebnisdetails_ rendert jetzt externe Asset-Miniaturansichten als HTML. <!-- GS-3092 -->
 
 * Die Latenz der Benutzeroberfläche nach dem Hinzufügen oder Löschen von Assets und Erlebnissen wurde verbessert. <!-- GS-3389 -->
 
@@ -40,7 +40,7 @@ Die folgenden bekannten Probleme sollen in der GenStudio für Performance Market
 
 * Es gibt eine Diskrepanz zwischen der MetaAds-Arbeitsfläche und den exportierten Ansichten. <!-- GS-4492 4401 -->
 
-* In der Ansicht ([!DNL Insights]) fehlen Kampagnenminiaturansichten. <!-- GS-4648 -->
+* In der Ansicht &quot;[!DNL Insights]&quot;fehlen Kampagnenminiaturansichten. <!-- GS-4648 -->
 
 * Benutzer können derzeit kleine Assets auswählen, deren Größe geändert werden muss. Eine Vergrößerung dieser Assets wird jedoch nicht unterstützt. <!-- GS-3131 -->
 
@@ -48,7 +48,7 @@ Die folgenden bekannten Probleme sollen in der GenStudio für Performance Market
 
 ### Bekannte Probleme behoben
 
-* GenStudio zeigt einen Fehler an, wenn ein Benutzer versucht, Anmeldeinformationen in der Ansicht ([!DNL Insights]) einzugeben. (Korrektur am 29.8.19) <!-- GS-4689 -->
+* GenStudio zeigt einen Fehler an, wenn ein Benutzer versucht, Anmeldeinformationen in der [!DNL Insights]-Ansicht einzugeben. (Korrektur am 29.8.19) <!-- GS-4689 -->
 
 ## Frühere Beta-Versionen
 
@@ -56,31 +56,31 @@ Frühere Beta-Versionen umfassten die folgenden Highlights und Fehlerbehebungen.
 
 ### Highlights
 
-* **Prozentsatzbasiertes Validierungsergebnis**: Bei der Markenvalidierung wird nun die Markenvalidierungsbewertung als Prozentsatz und nicht als Wert für Bestehen/Fehlschlagen angezeigt. ([!DNL Brands] 8/16)
+* **Prozentsatzbasiertes Validierungsergebnis**: Bei der Markenvalidierung wird nun die Markenvalidierungsbewertung als Prozentsatz und nicht als Wert für Bestehen/Fehlschlagen angezeigt. (festgelegt am 16.8.2016)
 
-* **Aktualisierte Benutzeroberfläche zur Markenextraktion**: Die Markenextraktion zeigt jetzt den Abschluss des Extraktionsvorgangs als Prozentsatz an. ([!DNL Brands] 8/16)
+* **Aktualisierte Benutzeroberfläche zur Markenextraktion**: Die Markenextraktion zeigt jetzt den Abschluss des Extraktionsvorgangs als Prozentsatz an. (festgelegt am 16.8.2016)
 
-* **Inkrementelle Belastung der Marke während der Extraktion**: Die Markenrichtlinien werden jetzt schrittweise in die Benutzeroberfläche geladen. ([!DNL Brands] 8/16)
+* **Inkrementelle Belastung der Marke während der Extraktion**: Die Markenrichtlinien werden jetzt schrittweise in die Benutzeroberfläche geladen. (festgelegt am 16.8.2016)
 
-* **Erstellung von E-Mails mit mehreren Abschnitten**: Benutzer können jetzt E-Mails erstellen, die aus separaten Überschriften-, Bild-, Text- und CTA-Elementen bestehen. ([!DNL Create] 8/16)
+* **Erstellung von E-Mails mit mehreren Abschnitten**: Benutzer können jetzt E-Mails erstellen, die aus separaten Überschriften-, Bild-, Text- und CTA-Elementen bestehen. (festgelegt am 16.8.2016)
 
-* **Größe von Metadaten ändern**: Ersteller können die Größe von Meta-Anzeigenseitenverhältnissen ändern. ([!DNL Create] 8/16)
+* **Größe von Metaanzeigen**: Bearbeiter können die Größe von Meta-Anzeigenseitenverhältnissen ändern. (festgelegt am 16.8.2016)
 
-* **Eingeschränkte Insights-Anmeldekonten**: Die Insights-Anmeldung unterstützt jetzt nur ein Konto pro Kunde. ([!DNL Insights] 8/16)
+* **Eingeschränkte Insights-Anmeldekonten**: Die Insights-Anmeldung unterstützt jetzt nur ein Konto pro Kunde. (festgelegt am 16.8.2016)
 
 ### Weitere Verbesserungen und behobene Probleme
 
-* Der Seitenname _Erlebnisdetails_ für die Feed-Platzierung gibt jetzt den Facebook- oder Instagram-Feed an. 16.08.2016
+* Der Seitenname _Erlebnisdetails_ für die Feed-Platzierung gibt jetzt den Facebook- oder Instagram-Feed an. (festgelegt am 16.8.2016)
 
-* Das Zuschneiden größerer Bilder und Videos ist jetzt konsistent, wenn der Benutzer von der Ansicht _Asset-Übersicht_ zur Ansicht _Asset-Details_ navigiert. 16.08.2016
+* Das Zuschneiden größerer Bilder und Videos ist jetzt konsistent, wenn der Benutzer von der Ansicht _Asset-Übersicht_ zur Ansicht _Asset-Detail_ navigiert. (festgelegt am 16.8.2016)
 
-* Die Anzahl der Suchergebnisse des Bildschirms &quot;Attribute&quot;zeigt nicht mehr &quot;`0 of`&quot;an, bevor sich ein Benutzer anmeldet.  (16.8.19) <!-- GS- 3665 -->
+* Die Anzahl der Suchergebnisse des Bildschirms &quot;Attribute&quot;zeigt nicht mehr &quot;`0 of`&quot;an, bevor sich ein Benutzer anmeldet. (Korrektur am 16.8.2016) <!-- GS-3665 -->
 
-* Wenn Sie auf das Zählerfeld **[!UICONTROL [!DNL Insights]]** > **[!UICONTROL Asset]** klicken, werden die Such- und Filtereinstellungen nicht mehr gelöscht. (16.8.19) <!-- GS-3476 -->
+* Wenn Sie auf das Zählerfeld **[!UICONTROL [!DNL Insights]]** > **[!UICONTROL Asset]** klicken, werden die Such- und Filtereinstellungen nicht mehr gelöscht. (Korrektur am 16.8.2016) <!-- GS-3476 -->
 
 ### Bekannte Probleme, die in früheren Beta-Versionen behoben wurden
 
 * Das Hochladen von Markenrichtlinien schlägt aufgrund von Problemen mit der AKP-Speicherplattform fehl. (Korrektur am 22.8.20) <!-- GS-4369 -->
 
-* Im Dropdown-Menü Eingabeaufforderung ([!DNL Brands]) wird am Ende der Liste ([!DNL Brands]) während der E-Mail-Erstellung ein Netz angezeigt. (Korrektur am 22.8.20) <!-- GS-4077 -->
+* Im Dropdown-Menü Eingabeaufforderung [!DNL Brands] wird am Ende der Liste [!DNL Brands] bei der E-Mail-Erstellung ein Gewinner angezeigt. (Korrektur am 22.8.20) <!-- GS-4077 -->
 
