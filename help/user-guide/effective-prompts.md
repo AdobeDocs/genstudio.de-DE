@@ -2,9 +2,9 @@
 title: Effektive Eingabeaufforderungen schreiben
 description: Erfahren Sie, wie Sie effektive Aufforderungen zum Adobe GenStudio für Performance Marketingexperten schreiben.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 306b64b44e69dbcec3984d1a0b54230fe0dbe48c
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Bei [E-Mails](/help/tutorials/create-email-experience.md) umfassen die Eingabeau
 
 >[!NOTE]
 >
->Wenn in _Parameter_ im Eingabeaufforderungsbereich Richtlinien hinzugefügt werden, müssen Sie keine Verweise auf die in Ihrer Eingabeaufforderung einfügen. GenStudio for Performance Marketers nutzt diese [!DNL Brands], [!DNL Products] und [!DNL Personas] bei der Inhaltserstellung.
+>Wenn in _Parameter_ im Eingabeaufforderungsbereich Richtlinien hinzugefügt werden, müssen Sie in Ihrer Eingabeaufforderung keinen Verweis auf diese einfügen. GenStudio for Performance Marketers nutzt diese [!DNL Brands], [!DNL Products] und [!DNL Personas] bei der Inhaltserstellung.
 
 ### Richtlinien
 
@@ -57,15 +57,7 @@ Die Richtlinien von GenStudio for Performance Marketers helfen der generativen K
 
 ## Erneut versuchen
 
-Die Eingabeaufforderung ist ein iterativer Prozess. Wenn die Ergebnisse nicht Ihren Erwartungen entsprechen, überprüfen Sie Ihre Eingabeaufforderung und nehmen Sie einige Änderungen vor oder fügen Sie weitere Details hinzu. Sie können Ihre Eingabeaufforderung verfeinern, indem Sie eine URL als Beispiel oder Quelle für weitere Informationen angeben.
-
-```bash
-Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery.
-
-Use information from https://www.adobe.com/products/photoshop.html to inspire users with the latest features.
-```
-
-Sie können auch aus einer Kampagnenbeschreibung Abschnitte einfügen. Sie können sogar anfordern, dass GenStudio für Performance Marketingexperten bestimmte Wörter, Elemente oder Designs vermeidet.
+Die Eingabeaufforderung ist ein iterativer Prozess. Wenn die Ergebnisse nicht Ihren Erwartungen entsprechen, überprüfen Sie Ihre Eingabeaufforderung und nehmen Sie einige Änderungen vor oder fügen Sie weitere Details hinzu. Sie können auch aus einer Kampagnenbeschreibung Abschnitte einfügen. Sie können sogar anfordern, dass GenStudio für Performance Marketingexperten bestimmte Wörter, Elemente oder Designs vermeidet.
 
 ## Best Practices
 
