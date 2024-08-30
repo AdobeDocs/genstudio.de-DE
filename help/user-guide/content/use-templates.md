@@ -1,49 +1,95 @@
 ---
 title: Arbeiten mit Vorlagen
-description: Erfahren Sie, wie Sie mit Vorlagen ansprechende Erlebnisse in Adobe GenStudio für Performance-Marketer erstellen können.
+description: Hier erfahren Sie, wie Sie Vorlagen effektiv verwenden können, um Ihre kreativen Prozesse in Adobe GenStudio für Performance Marketingexperten zu optimieren.
 feature: Templates, Content
-source-git-commit: 0cd877737f8ed4d38201c832d454795206505de2
+source-git-commit: 192568a65bbd5c8c2e9cfc050462eb2c3465245d
 workflow-type: tm+mt
-source-wordcount: '473'
-ht-degree: 2%
+source-wordcount: '682'
+ht-degree: 1%
 
 ---
 
 
 # Arbeiten mit Vorlagen
 
-GenStudio-Vorlagen ermöglichen es Erstellern von Inhalten, schnell konsistente On-Brand-Marketinginhalte zu erstellen. Durch die Verwendung von Vorlagen wird der Zeit- und Arbeitsaufwand für die Erstellung neuer Inhalte erheblich reduziert, da ein Ausgangspunkt mit vorkonfigurierten Layouts und Designelementen bereitgestellt wird.
+GenStudio for Performance Marketers ermöglicht es Inhaltserstellern, konsistente On-Brand-Marketing-Inhalte schnell mit _Vorlagen_ zu erstellen. Eine Vorlage reduziert den Zeit- und Arbeitsaufwand für die Erstellung neuer Inhalte erheblich, indem sie einen Ausgangspunkt bietet, der vorkonfigurierte Layouts und Designelemente enthält.
 
-In diesem Handbuch finden Sie detaillierte Informationen zu folgenden Themen:
+## Vorlagenelemente
 
-* Vorbereiten einer [E-Mail-Vorlage](email-template.md) oder einer Meta-Anzeigenvorlage
-* [Anpassen von Vorlagen](customize-template.md) für GenStudio für Performance Marketers
-* Befolgen Sie die Anleitungen unter [Zugreifbare Vorlagen erstellen](accessibility-for-templates.md)
-* [Hochladen von Vorlagen](#upload-a-template) in GenStudio für Performance Marketingexperten
-* [Verwenden von Vorlagen zum Erstellen von Erlebnissen](#use-a-template)
+Eine Vorlage ist ein Satz von Anweisungen, die mit HTML und Inline-CSS definiert sind und zur Erstellung eines E-Mail- oder Meta-Anzeigenerlebnisses verwendet werden können.
 
-## Anatomie einer Vorlage
+Im Folgenden finden Sie eine Liste der Elemente, die in Vorlagen verwendet werden, sowie einige Details zu ihren Eigenschaften.
 
-Das grundlegende Vorlagendesign umfasst die folgenden Elemente:
+- **Preheader**
 
-| Element | Funktion | Kanalvorlage |
-| ------------ | ---------------------- | -------------------- |
-| Preheader | Zwischen 40 und 50 Zeichen <br>fungiert als sekundäre Betreffzeile, die die im Posteingang angezeigte Hauptbetreffzeile <br>vor dem Öffnen der E-Mail neben dem Betreff erweitert | email |
-| Kopfzeile | Der obere Bereich des E-Mail-Empfängers sieht beim Öffnen des E-Mail-Tons <br>Legt den Ton fest und liefert Kontext für den eingeschlossenen Inhalt | email |
-| Überschrift | Erster Inhaltsempfänger sieht <br>Sollte überzeugend sein, Interesse zu erwischen | Meta-Anzeige |
-| body | Hauptinhaltsbereich, in dem die primäre Nachricht übermittelt wird <br>Kann Text, Bilder und andere Medien enthalten | email<br>Meta-Anzeige |
-| CTA | Aktionsaufruf, der den Empfänger dazu ermutigt, bestimmte Maßnahmen zu ergreifen, z. B. das Klicken auf einen Link oder das Beenden eines Kaufs | email<br>Meta-Anzeige |
-| Bilder | Verbessert die visuelle Anziehungskraft <br>Aufschlüsseln von Text <br>Unterstützt die Meldung <br>Sollte qualitativ hochwertig und auffällig sein | email<br>Meta-Anzeige |
-| Fußzeile | Fußbereich mit zusätzlichen Inhalten wie Kontaktdetails, Social-Media-Links, Haftungsausschlüssen und Abmeldeoptionen | email |
-| Textüberlagerung | Text auf einem Bild <br>Sollte Überschrift und Hauptteil unterstützen und verbessern | Meta-Anzeige |
+   - Betreffzeile in einer E-Mail, die den Hauptbetreff erweitert
+   - Zwischen 40 und 50 Zeichen
+   - Im Posteingang neben dem Betreff sichtbar, bevor die E-Mail geöffnet wird
+   - In E-Mail-Vorlagen verwendet
 
->[!NOTE]
+- **Kopfzeile**
+
+   - Oberer Bereich der E-Mail, den der Empfänger beim Öffnen der E-Mail sieht
+   - Legt den Ton fest und liefert Kontext für den enthaltenen Inhalt
+   - In E-Mail-Vorlagen verwendet
+
+- **Überschrift**
+
+   - Zuerst Inhalt, der dem Empfänger angezeigt wird
+   - Muss zwingend zu Zinsen führen
+   - Wird in Meta-Anzeigenvorlagen verwendet
+
+- **Textkörper**
+
+   - Hauptinhaltsbereich, in dem die primäre Nachricht übermittelt wird
+   - Kann Text, Bilder und andere Medien enthalten
+   - In E-Mail- und Meta-Anzeigenvorlagen verwendet
+
+- **CTA (Aktionsaufruf)**
+
+   - Ermutigt den Empfänger, eine bestimmte Aktion durchzuführen, z. B. auf einen Link zu klicken oder einen Kauf zu tätigen
+   - In E-Mail- und Meta-Anzeigenvorlagen verwendet
+
+- **Bilder**
+
+   - Verbessert die visuelle Darstellung
+   - Aufschlüsseln von Text
+   - Nachricht unterstützen
+   - Sollte von hoher Qualität sein und augenblicklich sein
+   - In E-Mail- und Meta-Anzeigenvorlagen verwendet
+
+- **Fußzeile**
+
+   - Unterer Abschnitt mit zusätzlichem Inhalt, wie z. B. Kontaktdetails, Social-Media-Links, Haftungsausschlüsse und Abmeldeoptionen
+   - In E-Mail-Vorlagen verwendet
+
+- **Textüberlagerung**
+
+   - Text auf einem Bild
+   - Verwendung zur Unterstützung und Verbesserung von Überschrift und Körper
+   - Wird in Meta-Anzeigenvorlagen verwendet
+
+>[!TIP]
 >
->Es wird empfohlen, dass Sie bestimmte Felder in den Inhalt jedes Kanals einschließen, um sicherzustellen, dass GenStudio for Performance Marketers Text für Inhaltsplatzhalter generieren kann. Siehe [Erkannte Feldnamen ](customize-template.md#recognized-field-names) , um zu sehen, welche Felder zur Aufnahme empfohlen werden.
+>Weitere Informationen finden Sie unter den [erkannten Feldnamen](customize-template.md#recognized-field-names) , die von GenStudio for Performance Marketers für Vorlagen jedes Kanaltyps unterstützt werden.
+
+## Konfigurieren von Kanalrichtlinien
+
+Es empfiehlt sich, die [Kanalrichtlinien](../guidelines/brands.md#channel-guidelines) für jede Marke zu konfigurieren, bevor Sie Vorlagen in GenStudio für Leistungs-Marketingexperten verwenden. Die Kanalrichtlinien beeinflussen direkt den Inhaltstyp, der bei Verwendung der Vorlage generiert wird. Sie können beispielsweise Zeichenbeschränkungen für den Text einer E-Mail festlegen.
+
+![Textkörperspezifikationen](/help/assets/channel-email-body.png)
+
+## Vorlage anpassen
+
+Sie können Ihre Vorlage [ für die Verwendung in GenStudio for Performance Marketers anpassen, indem Sie Platzhalter oder Felder für Inhalte einfügen, die von der generativen KI zum Einfügen von Inhalten verwendet werden. ](customize-template.md) GenStudio for Performance Marketers erkennt bestimmte Felder, wie z. B. das Feld `body`, und hält sich an die für die ausgewählte Marke konfigurierten Kanalrichtlinien.
+
+>[!TIP]
+>
+>Befolgen Sie die [Richtlinien für Barrierefreiheit beim Erstellen von Vorlagen](accessibility-for-templates.md), damit Sie mehr Zielgruppen erreichen und ein optimales Erlebnis bieten können.
 
 ## Vorlage hochladen
 
-GenStudio for Performance Marketers akzeptiert Vorlagen im HTML-Format.
+Verwenden Sie [Vorlagen anpassen](customize-template.md) als Leitfaden bei der Vorbereitung einer Vorlage für GenStudio für Performance Marketers. Eine Anleitung zur Bereitstellung eines besseren Erlebnisses für alle Zielgruppen finden Sie unter [Richtlinien für Barrierefreiheit für Vorlagen](accessibility-for-templates.md) .
 
 **So fügen Sie eine Vorlage hinzu**:
 
@@ -53,22 +99,30 @@ GenStudio for Performance Marketers akzeptiert Vorlagen im HTML-Format.
 
 1. Suchen Sie im Bereich _[!UICONTROL Genehmigte Vorlage hinzufügen]_ nach der HTML-Vorlagendatei oder ziehen Sie die HTML-Vorlagendatei auf die Ablagefläche. Klicken Sie auf **[!UICONTROL Weiter]**.
 
-1. Überprüfen Sie im Bereich _[!UICONTROL Struktur-Detail überprüfen]_ , ob Sie die richtige Vorlage verwenden und ob alle Details erwartungsgemäß sind. Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Überprüfen Sie im Bereich _[!UICONTROL Erkannte Felder überprüfen]_ die erkannten Felder. Vergewissern Sie sich, dass Sie die richtige Vorlage verwenden und dass alle Details erwartungsgemäß sind. Klicken Sie auf **[!UICONTROL Weiter]**.
 
-1. Benennen Sie im Bereich _[!UICONTROL Details Ihrer Vorlage hinzufügen]_ Ihre Vorlage und wählen Sie den Typ **[!UICONTROL Kanal]** aus.
+   Beispielvorschau für eine E-Mail-Vorlage:
 
-   Vorlagenname und Kanaltyp sind erforderlich.
+   ![Vorschau der erkannten Felder anzeigen](../../assets/template-detected-fields.png){width="650"}
 
-   * **Meta**: erfordert Seitenverhältnis
-   <!-- **Display ads**: requires Dimensions -->
+   >[!TIP]
+   >
+   >Wenn die Vorlage nicht korrekt ist, klicken Sie auf **[!UICONTROL Zurück]** und kehren Sie zum vorherigen Schritt zurück. Laden Sie die korrigierte Vorlagendatei hoch.
+
+1. Benennen Sie Ihre Vorlage im Bereich _[!UICONTROL Vorlagendetails angeben und hochladen]_ , und wählen Sie den Typ **[!UICONTROL Kanal]** aus.
+
+   Vorlagenname und Kanaltyp sind erforderlich. Weitere Anforderungen können Folgendes umfassen:
+
+   - **Meta**: erfordert Seitenverhältnis
+   <!-- - **Display ads**: requires Dimensions -->
 
 1. Fügen Sie so viele Details wie möglich hinzu, um die Vorlagenerkennung bei der Suche und Filterung zu verbessern.
 
 1. Klicken Sie auf **[!UICONTROL Fertig]**.
 
-## Vorlage verwenden
+## Erstellen mit einer Vorlage
 
-Suchen und verwenden Sie eine vorhandene Vorlage, um Erlebnisse zu erstellen.
+Suchen und verwenden Sie eine vorhandene Vorlage in GenStudio für Performance Marketingexperten, um weitere Erlebnisse zu erstellen.
 
 **So erstellen Sie ein Erlebnis mit einer Vorlage**:
 
@@ -78,9 +132,6 @@ Suchen und verwenden Sie eine vorhandene Vorlage, um Erlebnisse zu erstellen.
 
 1. Wählen Sie eine Vorlage für eine vollständige Ansicht und eine Detailliste aus.
 
->[!TIP]
->
->Vollständige Tutorials mit Vorlagen finden Sie unter [[!DNL Create] ein E-Mail-Erlebnis](/help/tutorials/create-email-experience.md) oder [[!DNL Create] ein Meta-Anzeigenerlebnis](/help/tutorials/create-meta-ad.md) .
-<!--  The create button in Content Template view does not work yet.
-1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
--->
+1. Klicken Sie in der oberen rechten Ecke auf **[!UICONTROL Erlebnis erstellen]** (Pinsel) , um die Vorlage zu verwenden.
+
+1. Fahren Sie mit [Tutorials](/help/tutorials/tutorials.md) fort, um ein Erlebnis zu erstellen.

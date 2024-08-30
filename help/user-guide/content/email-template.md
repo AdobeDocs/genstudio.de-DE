@@ -3,9 +3,9 @@ title: E-Mail-Vorlage für Adobe GenStudio für Performance Marketers vorbereite
 description: Erfahren Sie, wie Sie eine benutzerdefinierte E-Mail-Vorlage für Adobe GenStudio für Performance Marketingexperten erstellen.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
+source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 In der Regel erstellt ein Designer das visuelle Design einer Vorlage in einem Designprogramm wie Adobe XD. Nachdem eine E-Mail-Vorlage entworfen, codiert und getestet wurde, können Sie sie für den Upload und die Verwendung in GenStudio für Performance Marketers vorbereiten.
 
-Siehe [Anatomie einer Vorlage](/help/user-guide/content/use-templates.md#anatomy-of-a-template).
+Siehe [Vorlagenelemente](use-templates.md#template-elements).
 
 ## Richtlinien hinzufügen
 

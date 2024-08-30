@@ -2,9 +2,9 @@
 title: Übersicht über Adobe GenStudio für Performance Marketers [!DNL Content]
 description: Erfahren Sie, wie Sie markengenehmigte Assets in einem intuitiven Portal finden, bearbeiten, wiederverwenden und freigeben können.
 feature: Attributes, Content, Templates
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: c34fd3ac0925624c685ae27d56d9964896796786
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---
@@ -20,45 +20,43 @@ GenStudio for Performance Marketers [!DNL Content] bietet einen zentralen Speich
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md#search">
-      <img alt="Lupe" src="../../assets/icons/icon-search.svg" width="35">
+         <img alt="Lupe" src="../../assets/icons/icon-search-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/manage-assets.md#search">
          <strong>Inhalt suchen</strong>
          </a>
-      </div>
+      </p>
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md">
-      <img alt="Bilder mit Pluszeichen" src="../../assets/icons/icon-addContent.svg" width="35">
+         <img alt="Bilder mit Pluszeichen" src="../../assets/icons/icon-addContent-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/manage-assets.md">
          <strong>Hinzufügen von Assets</strong>
          </a>
-      </div>
+      </p>
    </td>
-<!--
    <td align="center" valign="top" width="100">
-      <a href="../content/manage-assets.md#search">
-      <img alt="sparkle and new asset" src="../../assets/icons/icon-AIVariation.svg" width="35">
+      <a href="../content/customize-template.md">
+         <img alt="Blitz auf dem Asset" src="../../assets/icons/icon-template-35.svg" width="35">
       </a>
-      <div>
-         <a href="../content/manage-assets.md#search">
-         <strong>Refresh content</strong>
+      <p>
+         <a href="../content/customize-template.md">
+         <strong>Anpassen einer Vorlage</strong>
          </a>
-      </div>
+      </p>
    </td>
--->
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
-      <img alt="Blitz auf dem Asset" src="../../assets/icons/icon-template.svg" width="35">
+         <img alt="Blitz auf Asset mit Pluszeichen" src="../../assets/icons/icon-addTemplate-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/use-templates.md#upload-a-template">
          <strong>Vorlage hochladen</strong>
          </a>
-      </div>
+      </p>
    </td>
 </tr>
 </table>
@@ -77,4 +75,4 @@ Beim Speichern genehmigter Assets behält [!DNL Content] die Rich-Metadaten, den
 
 ### Arbeiten mit Vorlagen
 
-Vorlagen beschleunigen den Erstellungsprozess, sodass Sie konsistente Inhalte über mehrere Kanäle hinweg generieren können. Vorlagen bieten einen Ausgangspunkt im Erstellungsprozess mit vorkonfigurierten Layouts und Designelementen.
+Vorlagen beschleunigen den Erstellungsprozess, sodass Sie konsistente Inhalte über mehrere Kanäle hinweg generieren können. Laden Sie Ihre benutzerdefinierte Vorlage hoch, um sie als Ausgangspunkt für die Erstellung mit vorkonfigurierten Layouts und Designelementen zu verwenden.

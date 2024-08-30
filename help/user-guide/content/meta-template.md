@@ -3,9 +3,9 @@ title: Vorbereiten einer Meta-Anzeigenvorlage für Adobe GenStudio für Performa
 description: Erfahren Sie, wie Sie eine benutzerdefinierte Meta-Anzeigenvorlage für Adobe GenStudio für Performance Marketingexperten erstellen.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
+source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Wenn GenStudio für Performance Marketers keine Richtlinien hinzugefügt werden,
 
 In der Regel erstellt ein Designer das visuelle Design einer Vorlage in einem Designprogramm wie Adobe XD.
 
-Siehe [Anatomie einer Vorlage](/help/user-guide/content/use-templates.md#anatomy-of-a-template) und [Vorlagenbeispiele](/help/user-guide/content/customize-template.md#template-examples).
+Siehe [Vorlagenelemente](use-templates.md#template-elements) und [Vorlagenbeispiele](/help/user-guide/content/customize-template.md#template-examples).
 
 ### Anzeigenspezifikationen
 
