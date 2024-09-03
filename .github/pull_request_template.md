@@ -1,7 +1,7 @@
 ---
-source-git-commit: 57c1780d010e6c95160b4c0cc45b2c9e9b528d3c
+source-git-commit: 5637f43a059fd747f7d656852d5428784525771a
 workflow-type: tm+mt
-source-wordcount: '33'
+source-wordcount: '17'
 ht-degree: 0%
 
 ---
@@ -9,19 +9,17 @@ ht-degree: 0%
 
 Diese Pull-Anforderung ...
 
-## Verwandte Probleme
+## Zusätzlicher Kontext
 
-Stellen Sie Links zu verwandten Problemen oder Code bereit:
+Links zu verwandten Problemen oder Code:
 
-<!-- 
-Provide links to any issues tracking this work.
+<!-- Provide links to any issues tracking this work.
 
 If you are fixing a GitHub issue, using the [GitHub keyword format](https://help.github.com/en/articles/closing-issues-using-keywords#closing-an-issue-in-a-different-repository) closes the issue when this pull request is merged. Example: `Fixes #1234`. -->
 
-## Zusätzlicher Kontext
+Screenshots:
 
-Fügen Sie anderen Kontext hinzu, z. B. Screenshots oder Testergebnisse, die eine Korrektur demonstrieren.
+<!-- Add any other context, such as screenshots or test results that demonstrate a fix.
 
-<!--
 Thank you for taking the time to contribute to our documentation.
 -->
