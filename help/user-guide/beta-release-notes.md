@@ -2,9 +2,9 @@
 title: Adobe GenStudio für Performance Marketingexperten - Beta - Versionshinweise
 description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen des Adobe GenStudio für Performance Marketingexperten.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 2e40260db0f9972675b103c51f09acbfa83a1cb5
+source-git-commit: 2861dd76dde9428e0c39af18c1d5e21dc2b32b91
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Die folgenden bekannten Probleme sollen in der GenStudio für Performance Market
 
 * Der [!DNL Create Canvas] rendert Bilder in Meta-Anzeigen falsch. <!-- GS-4864 -->
 
-* Assets ohne Kampagnen kann erfolgreich in [!DNL Content] hochgeladen werden, ist jedoch für Benutzer möglicherweise nicht sichtbar. <!-- GS-4815 -->
+* Vorlagen können hochgeladen, aber nicht angezeigt werden. <!-- GS-4815 -->
 
 * Es gibt eine Diskrepanz zwischen der MetaAds-Arbeitsfläche und den exportierten Ansichten. <!-- GS-4492 4401 -->
 
