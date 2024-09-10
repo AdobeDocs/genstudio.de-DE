@@ -2,9 +2,9 @@
 title: Adobe GenStudio für Performance Marketingexperten - Beta - Versionshinweise
 description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen des Adobe GenStudio für Performance Marketingexperten.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 62793ab56b635f17e037b63beb56c09ff2d45621
+source-git-commit: 2e40260db0f9972675b103c51f09acbfa83a1cb5
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '718'
 ht-degree: 0%
 
 ---
@@ -42,8 +42,6 @@ Die folgenden bekannten Probleme sollen in der GenStudio für Performance Market
 * Das Popup _Assets hinzufügen_ ist jetzt erwartungsgemäß lokalisiert. <!-- GS-3834 -->
 
 * Probleme mit der Skalierung der Erlebnisvorlage für Meta-Anzeigen wurden behoben. <!-- GS-4174 -->
-
-* Inhaltsfragmentmodelle, die für Vorlagen erstellt wurden, können jetzt in AEM korrekt dargestellt werden. <!-- GS-4716 -->
 
 * Textfelder in der CSV-Exportdatei für mehrteilige E-Mails werden jetzt erwartungsgemäß sortiert. <!-- GS-4013 -->
 
