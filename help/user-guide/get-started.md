@@ -3,13 +3,13 @@ title: Erste Schritte mit Adobe GenStudio für Performance Marketingexperten
 description: Erfahren Sie, wie Sie Ihre GenStudio für Performance Marketingexperten einrichten, um neue markenorientierte Marketinginhalte zu generieren.
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
-source-git-commit: 869a70c2ccfb965a52f93b4868994188d4d33c24
+exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
+source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
 workflow-type: tm+mt
 source-wordcount: '1106'
 ht-degree: 8%
 
 ---
-
 
 # Erste Schritte mit Adobe GenStudio für Performance Marketingexperten
 
@@ -38,7 +38,7 @@ Diese Vielfalt von Organisationsrollen wird von drei Benutzerrollen unterstützt
 
 ### GenStudio-Editoren
 
-**Bearbeiter** verfügen über die grundlegenden Berechtigungen, die zum Erstellen von GenStudio für Performance Marketers [!DNL Brands], [!DNL Campaigns] und [!DNL Content] -Assets erforderlich sind. Sie können auch von ihnen erstellte Assets bearbeiten und löschen. GenStudio for Performance Marketers unterstützt die schnelle Erstellung von Hunderten von Inhaltselementen. Diese Benutzer können Inhaltsfragmente oder ganze Erlebnisse generieren, die diskrete Teile genehmigter Inhalte orchestrieren, um die Anforderungen spezifischer Marketing-Kampagnen zu erfüllen.
+**Bearbeiter** verfügen über die grundlegenden Berechtigungen, die zum Erstellen von GenStudio für Performance Marketers [!DNL Brands], [!DNL Campaigns] und [!DNL Content] -Assets erforderlich sind. Sie können auch von ihnen erstellte Assets bearbeiten und löschen. GenStudio for Performance Marketers unterstützt die schnelle Erstellung von Hunderten von Inhaltselementen. Diese Benutzer können Inhaltsabschnitte oder ganze Erlebnisse generieren, die diskrete Teile genehmigter Inhalte orchestrieren, um die Anforderungen spezifischer Marketing-Kampagnen zu erfüllen.
 
 Bearbeiter interagieren mit GenStudio für die generativen KI-Technologien von Performance Marketers über _Eingabeaufforderung_. Der Eingabeaufforderungsbereich auf der Arbeitsfläche bietet Tools, um Eingabeaufforderungen im Kontext der Richtlinien einer bestimmten Kampagne zu platzieren. Die Qualität und der Erfolg des erstellten Inhalts hängen daher teilweise von der Qualität der Markenrichtlinien ab, die Ihr Unternehmen hochgeladen hat, und von der Spezifität Ihrer Eingabeaufforderung.
 

@@ -4,9 +4,9 @@ breadcrumb-title: Benutzerhandbuch
 user-guide-description: Erfahren Sie, wie Sie schnell Assets innerhalb der Marke finden und generieren, Varianten erstellen und Erlebnisse basierend auf Einblicken in die Inhaltsleistung in Echtzeit optimieren können.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: a7981565b23ea007b2634d8e050e921718bb1dcd
+source-git-commit: b71f53eca2a0fdd7bf353a2eaf0b1b4e657b18b0
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '129'
 ht-degree: 11%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 11%
    + [Markenvalidierung](guidelines/brand-validation.md)
 + Erstellen {#create}
    + [Übersicht über [!DNL Create]](create/overview.md)
+   + [Varianten verwalten](create/manage-variants.md)
 + Bewertungen und Genehmigungen {#approve}
    + [Übersicht über Prüfungen und Genehmigungen](approvals/overview.md)
    + [Überprüfung und Genehmigung von Inhalten anfordern](approvals/request-review.md)

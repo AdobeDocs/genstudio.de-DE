@@ -6,13 +6,13 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 5026afb4eb71df73063559aee34971039511b31a
+exl-id: 34446202-da98-45ff-869a-b43496a477f8
+source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '816'
 ht-degree: 0%
 
 ---
-
 
 # E-Mail-Erlebnis erstellen
 
@@ -69,16 +69,14 @@ Standardmäßig werden vier Varianten generiert und auf der Arbeitsfläche angez
 
 ## Erstellte E-Mails überarbeiten
 
-Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Content] senden möchten, können Sie E-Mail-Fragmente bearbeiten oder eine Variante aus dem Satz der generierten E-Mails löschen.
+Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Content] senden möchten, können Sie die E-Mail-Abschnitte bearbeiten oder eine Variante aus dem Satz der generierten E-Mails löschen.
 
 **So überarbeiten Sie generierte Varianten**:
 
-* **Um den Namen des E-Mail-Entwurfs zu bearbeiten, klicken Sie oben auf der Arbeitsfläche in den Titel _Unbenannter Entwurf_ und geben Sie einen neuen Titel ein.**
-* **Um eine E-Mail manuell zu bearbeiten**, doppelklicken Sie auf eines der E-Mail-Fragmente (z. B. Betreffzeile, Kopfzeile oder Textkopie) und bearbeiten Sie es nach Bedarf.
-
-  Die Betreffzeile und die Preheader erfordern nur einen Klick, um sie zu bearbeiten, während die Kopfzeile, die Textkopie und der Aktionsaufruf einen Doppelklick erfordern.
-
-* **Um eine E-Mail zu löschen**, klicken Sie auf den Titel der E-Mail (z. B. &quot;E-Mail 1/4&quot;) und klicken Sie auf **[!UICONTROL Variante löschen]**.
+* **Um [den Namen des E-Mail-Entwurfs zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)**, klicken Sie auf den Titel _Unbenannter Entwurf_ oben auf der Arbeitsfläche und geben Sie einen neuen Titel ein.
+* **Um [eine E-Mail manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)**, doppelklicken Sie in eines der bearbeitbaren Textfelder (z. B. Betreffzeile, Kopfzeile oder Textkopie) und bearbeiten Sie es nach Bedarf.
+* **Um [einen Abschnitt einer Variante neu zu generieren](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die Optionen _[!UICONTROL Vorgeschlagene Änderungen]_ oder geben Sie eine neue Eingabeaufforderung ein und klicken Sie auf **[!UICONTROL Erzeugen]**.
+* **Um [eine E-Mail zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)**, klicken Sie auf , um den E-Mail-Titel auszuwählen (z. B. &quot;E-Mail 1/4&quot;), und klicken Sie auf **[!UICONTROL Variante löschen]**.
 
 ## Markenausrichtung überprüfen
 
@@ -87,7 +85,7 @@ Um die generierten E-Mails zu optimieren und die strikte Einhaltung der Markenid
 **Überprüfen der Markenausrichtung**:
 
 1. Klicken Sie auf das Symbol [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) für eine Variante und sehen Sie sich eine Zusammenfassung der Leistung dieser Variante an, wenn sie mit Ihrer Marke verglichen wird.
-1. Um die Details der Fragmente und Richtlinien abzurufen, die verbessert werden müssen, klicken Sie auf **[!UICONTROL Überprüfen]** _oder_ und klicken Sie auf das Markenvalidierungssymbol in der oberen Menüleiste, um das [_Markenvalidierungsfenster_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) zu öffnen.
+1. Um die Details der Abschnitte und Richtlinien abzurufen, die verbessert werden müssen, klicken Sie auf **[!UICONTROL Überprüfen]** _oder_ und klicken Sie auf das Symbol für die Markenvalidierung in der oberen Menüleiste, um das [_Bedienfeld für die Markenvalidierung_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) zu öffnen.
 
 1. Schalten Sie durch die einzelnen E-Mails, um zu sehen, wie Sie den generierten Inhalt verbessern können, um markengerechter zu sein.
 1. [Manuelles Überarbeiten von E-Mails](#revise-generated-emails), um sicherzustellen, dass Ihre E-Mails eng mit Ihrer Marke abgestimmt sind.

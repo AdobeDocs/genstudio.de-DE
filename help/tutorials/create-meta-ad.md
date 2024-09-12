@@ -6,13 +6,13 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 4745e7cab9cd605c3bc7e93cb610e510566c9302
+exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
+source-git-commit: b71f53eca2a0fdd7bf353a2eaf0b1b4e657b18b0
 workflow-type: tm+mt
-source-wordcount: '955'
+source-wordcount: '1014'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen eines Meta-Anzeigenerlebnisses
 
@@ -77,14 +77,16 @@ Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Co
 
 **So überarbeiten Sie generierte Varianten**:
 
-* **Um den Namen des Meta-Anzeigenentwurfs zu bearbeiten, klicken Sie auf den Titel _Unbenannter Entwurf_ oben auf der Arbeitsfläche und geben Sie einen neuen Titel ein.**
-* **Um eine Metadatenanzeige manuell zu bearbeiten**, doppelklicken Sie auf eines der Anzeigenfragmente (z. B. die Betreffzeile, Kopfzeile oder Textkopie) und bearbeiten Sie es nach Bedarf.
+* **Um [den Namen des Meta-Anzeigenentwurfs zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)**, klicken Sie auf den Titel _Unbenannter Entwurf_ oben auf der Arbeitsfläche und geben Sie einen neuen Titel ein.
+* **Um [eine Metadatenanzeige manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)**, doppelklicken Sie auf einen der Anzeigenbereiche (z. B. die Betreffzeile, Kopfzeile oder Textkopie) und bearbeiten Sie ihn nach Bedarf.
 
   Die Betreffzeile und die Preheader erfordern nur einen Klick, um sie zu bearbeiten, während die Kopfzeile und die Textkopie einen Doppelklick erfordern.
 
-* **Um den Aktionsaufruf zu ändern oder auszuwählen**, klicken Sie auf die Schaltfläche Aktionsaufruf und wählen Sie eine verfügbare Schaltfläche aus.
-* **Um Größe und Seitenverhältnis zu ändern**, klicken Sie auf die Schaltfläche _[!UICONTROL Größe ändern]_ (Feld mit einem Schaltflächensymbol auf der linken Seite der Arbeitsfläche) und wählen Sie eine neue Größe und ein neues Seitenverhältnis aus, die für alle Varianten gelten sollen. Die Varianten werden dupliziert und die Größe wird angepasst.
-* **Um eine Metadatenanzeige zu löschen, klicken Sie auf , um den Anzeigentitel auszuwählen (z. B. &quot;Meta 4&quot;), und klicken Sie auf**[!UICONTROL  Variante löschen ]**.**
+* **Um den Aktionsaufruf zu ändern oder auszuwählen**, klicken Sie auf die Schaltfläche Aktionsaufruf und wählen Sie aus den verfügbaren Schaltflächentext-Optionen aus. Geben Sie in _[!UICONTROL Link]_ einen Link für den Text des Aktionsaufrufs ein.
+* **Ändern Sie in [ Größe und Seitenverhältnis der Anzeige.](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** Klicken Sie auf die Schaltfläche _[!UICONTROL Größe ändern]_ (Feld mit einem Schaltflächensymbol auf der linken Seite der Arbeitsfläche) und wählen Sie eine neue Größe und ein neues Seitenverhältnis aus, die auf alle Varianten angewendet werden sollen. Die Varianten werden dupliziert und die Größe wird angepasst.
+* **Um [einen Abschnitt einer Variante neu zu generieren](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die Optionen _[!UICONTROL Vorgeschlagene Änderungen]_ oder geben Sie eine neue Eingabeaufforderung ein und klicken Sie auf **[!UICONTROL Erzeugen]**.
+* **Um [ Bilder zuzuschneiden oder neu zu positionieren](/help/user-guide/create/manage-variants.md#crop-assets)**, bewegen Sie den Mauszeiger über ein Bild, klicken Sie auf **[!UICONTROL Zuschneiden anwenden]** und passen Sie die Bildgröße und -platzierung an.
+* **Um [eine Metaanzeige zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)**, klicken Sie auf , um den Anzeigentitel auszuwählen (z. B. &quot;Meta 4&quot;), und klicken Sie auf **[!UICONTROL Variante löschen]**.
 
 ## Markenausrichtung überprüfen
 
@@ -93,7 +95,7 @@ Um die generierten Anzeigen zu optimieren und die strikte Einhaltung der Markeni
 **Überprüfen der Markenausrichtung**:
 
 1. Klicken Sie auf das Symbol [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) für eine Variante und sehen Sie sich eine Zusammenfassung der Leistung dieser Variante an, wenn sie mit Ihrer Marke verglichen wird.
-1. Um die Details der Fragmente und Richtlinien abzurufen, die verbessert werden müssen, klicken Sie auf **[!UICONTROL Überprüfen]** _oder_ und klicken Sie auf das Markenvalidierungssymbol in der oberen Menüleiste, um das [_Markenvalidierungsfenster_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) zu öffnen.
+1. Um die Details der Abschnitte und Richtlinien abzurufen, die verbessert werden müssen, klicken Sie auf **[!UICONTROL Überprüfen]** _oder_ und klicken Sie auf das Symbol für die Markenvalidierung in der oberen Menüleiste, um das [_Bedienfeld für die Markenvalidierung_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) zu öffnen.
 
 1. Schalten Sie durch die einzelnen Anzeigen, um zu sehen, wie Sie den generierten Inhalt verbessern können, um markengerechter zu werden.
 1. [Überarbeiten Sie Anzeigen manuell](#revise-generated-meta-ads), um sicherzustellen, dass Ihre Anzeigen eng mit Ihrer Marke abgestimmt sind.
