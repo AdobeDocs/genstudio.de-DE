@@ -1,15 +1,15 @@
 ---
 title: Erstellen eines Meta-Anzeigenerlebnisses
-description: Erfahren Sie, wie Sie mit generativer KI ein neues On-Brand-Meta-Anzeigenerlebnis für Facebook oder Instagram erstellen.
-feature: Content, Brands Service, Guidelines, Content Generation
+description: Erfahren Sie, wie Sie mit Adobe GenStudio für Performance Marketingexperten ein neues On-Brand-Meta-Anzeigenerlebnis für Facebook oder Instagram erstellen.
+feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: b71f53eca2a0fdd7bf353a2eaf0b1b4e657b18b0
+source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
 workflow-type: tm+mt
-source-wordcount: '1014'
+source-wordcount: '1005'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,7 @@ Das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview.md) u
    * Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** , um Assets (Bilder) auszuwählen, die bereits in [!DNL Content] veröffentlicht wurden. Verwenden Sie die Filter, um die Suchergebnisse weiter einzugrenzen.
    * Klicken Sie auf **[!UICONTROL Hochladen]** , um Ihre Dateien zu durchsuchen und Assets zur Verwendung auszuwählen. Neben dem Durchsuchen Ihres Geräts können Sie auch aus Microsoft OneDrive oder Dropbox importieren.
    * Ziehen Sie Assets per Drag-and-Drop in den Abschnitt _Inhalt_ .
+1. Klicken Sie auf **[!UICONTROL Use]**.
 
 Wenn Sie die Parameter hinzugefügt haben, können Sie den Eingabebereich reduzieren, indem Sie erneut auf das Symbol _Parameter_ klicken.
 
@@ -67,7 +68,7 @@ Standardmäßig werden vier Varianten generiert und auf der Arbeitsfläche angez
 
 Beim Generieren einer Meta-Anzeige können Sie zwischen Facebook- und Instagram-Anzeigen wählen.
 
-Schalten Sie die Option Metadaten-Kanal in der oberen Menüleiste in **Facebook** oder **Instagram** um, um die generierten Entwürfe der einzelnen Kanäle zu verwalten.
+Schalten Sie die Option &quot;Kanal für Metaanzeigen&quot;- zwischen **Facebook** und **Instagram** - in der rechten Menüleiste (Symbole für Facebook und Instagram) um, um Varianten für jeden Kanal anzuzeigen und zu verwalten.
 
 Bei der Änderung von [Meta-Anzeigen](#revise-generated-meta-ads) können Sie das Seitenverhältnis von Facebook- und Instagram-Anzeigen ändern.
 
@@ -77,6 +78,7 @@ Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Co
 
 **So überarbeiten Sie generierte Varianten**:
 
+
 * **Um [den Namen des Meta-Anzeigenentwurfs zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)**, klicken Sie auf den Titel _Unbenannter Entwurf_ oben auf der Arbeitsfläche und geben Sie einen neuen Titel ein.
 * **Um [eine Metadatenanzeige manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)**, doppelklicken Sie auf einen der Anzeigenbereiche (z. B. die Betreffzeile, Kopfzeile oder Textkopie) und bearbeiten Sie ihn nach Bedarf.
 
@@ -85,7 +87,7 @@ Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Co
 * **Um den Aktionsaufruf zu ändern oder auszuwählen**, klicken Sie auf die Schaltfläche Aktionsaufruf und wählen Sie aus den verfügbaren Schaltflächentext-Optionen aus. Geben Sie in _[!UICONTROL Link]_ einen Link für den Text des Aktionsaufrufs ein.
 * **Ändern Sie in [ Größe und Seitenverhältnis der Anzeige.](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** Klicken Sie auf die Schaltfläche _[!UICONTROL Größe ändern]_ (Feld mit einem Schaltflächensymbol auf der linken Seite der Arbeitsfläche) und wählen Sie eine neue Größe und ein neues Seitenverhältnis aus, die auf alle Varianten angewendet werden sollen. Die Varianten werden dupliziert und die Größe wird angepasst.
 * **Um [einen Abschnitt einer Variante neu zu generieren](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die Optionen _[!UICONTROL Vorgeschlagene Änderungen]_ oder geben Sie eine neue Eingabeaufforderung ein und klicken Sie auf **[!UICONTROL Erzeugen]**.
-* **Um [ Bilder zuzuschneiden oder neu zu positionieren](/help/user-guide/create/manage-variants.md#crop-assets)**, bewegen Sie den Mauszeiger über ein Bild, klicken Sie auf **[!UICONTROL Zuschneiden anwenden]** und passen Sie die Bildgröße und -platzierung an.
+<!-- * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)** hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
 * **Um [eine Metaanzeige zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)**, klicken Sie auf , um den Anzeigentitel auszuwählen (z. B. &quot;Meta 4&quot;), und klicken Sie auf **[!UICONTROL Variante löschen]**.
 
 ## Markenausrichtung überprüfen

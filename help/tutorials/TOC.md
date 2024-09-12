@@ -4,10 +4,10 @@ breadcrumb-title: Tutorials
 user-guide-description: Sehen Sie sich Experience League-Tutorials zu Adobe [!DNL GenStudio] an, einer End-to-End-Lösung zur Beschleunigung und Vereinfachung der Inhaltsversorgungskette mit generativer KI und intelligenter Automatisierung.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 1e61dfc03ea70ca1f1eb31610c8d486ab6a44611
+source-git-commit: 22222bfb4f04d31f3220f3ce2f28349c38138131
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 9%
+source-wordcount: '46'
+ht-degree: 8%
 
 ---
 
@@ -17,4 +17,5 @@ ht-degree: 9%
 + [[!DNL GenStudio]-Tutorials](tutorials.md)
 + [E-Mail-Erlebnis erstellen](create-email-experience.md)
 + [Erstellen eines Meta-Anzeigenerlebnisses](create-meta-ad.md)
++ [Erstellen eines Display-Anzeigenerlebnisses](create-display-ad.md)
 + [[!DNL GenStudio] -Benutzerhandbuch](https://experienceleague.adobe.com/docs/genstudio/user-guide/home.html)

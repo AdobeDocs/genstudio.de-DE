@@ -2,9 +2,9 @@
 title: Varianten verwalten
 description: Passen Sie die generierten Varianten und Assets an Ihre Anforderungen für das digitale Marketing an und erweitern Sie sie.
 feature: Content, Assets, Experiences
-source-git-commit: a6cf07179e888599860bc699ec17a3e8e4167e7b
+source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
@@ -55,30 +55,35 @@ Sie können beispielsweise den Überschriftenabschnitt einer Meta-Anzeigenvarian
 
    Die Variante wird mit dem überarbeiteten Text aktualisiert.
 
-## Zuschneiden von Assets
+<!-- ## Crop assets
 
-Sie können Bild-Assets in einzelnen generierten Varianten manuell zuschneiden und neu positionieren.
+You can manually crop and reposition image assets in individual generated variants.
 
-**So schneiden Sie Bilder in Varianten ab und positionieren sie neu**:
+**To crop and reposition images in variants**:
 
-1. Bewegen Sie nach dem Generieren eines Variantensatzes den Mauszeiger über ein Bild in einer Variante.
-1. Klicken Sie auf **[!UICONTROL Zuschneiden anwenden]**.
-1. Vergrößern und verkleinern Sie das Bild und ziehen Sie es an die gewünschte Position.
-1. Klicken Sie auf **[!UICONTROL Übernehmen]**.
+1. After generating a set of variants, hover over an image within a variant.
+1. Click **[!UICONTROL Apply Crop]**.
+1. Zoom in and out and drag the image into the desired position.
+1. Click **[!UICONTROL Apply]**.
 
-   Das zugeschnittene Bild wird automatisch gespeichert und für die Variante sichtbar.
+   The cropped image is automatically saved and visible for the variant. -->
 
 ## Seitenverhältnis ändern
 
 Sie können das Seitenverhältnis von Meta-Anzeigen schnell ändern, um die gewünschte Anzeigengröße zu berücksichtigen.
 
-Verfügbare Seitenverhältnisse sind:
+Verfügbare Größen/Seitenverhältnisse sind:
 
-* 1:1 Quadrat
-* 4:5 vertikal
-* 9:16 Vertikal
+* 1:1 Quadrat (Meta)
+* 4:5 vertikal (Meta)
+* 9:16 vertikal (Meta)
+* 250 x 980 (Display-Anzeige)
 
-**So ändern Sie das Seitenverhältnis der generierten Meta-Anzeigen**:
+>[!NOTE]
+>
+>Andere Seitenverhältnisse und -größen können auf Basis der verfügbaren Vorlagen verfügbar sein.
+
+**So ändern Sie das Seitenverhältnis der generierten Varianten**:
 
 1. Nachdem Sie einen Variantensatz generiert haben, wählen Sie auf der linken Seite der Arbeitsfläche das Symbol für die Größenanpassung des Seitenverhältnisses (Pfeil, der auf die Ecke des Felds zeigt) aus.
 

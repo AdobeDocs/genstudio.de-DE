@@ -3,9 +3,9 @@ title: Überblick über GenStudio für Performance Marketingexperten [!DNL Creat
 description: Schnelles Generieren leistungsstarker On-Brand-Inhalte mit generativer KI im Adobe GenStudio für Performance-Marketingexperten [!DNL Create].
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '554'
 ht-degree: 1%
 
 ---
@@ -18,8 +18,7 @@ Mit [!DNL Create] können Sie Inhalte für die folgenden Kanäle generieren:
 
 * E-Mails
 * Meta-Anzeigen
-<!-- * Social media images and ads
-* Display ads -->
+* Anzeigen
 
 Zusammen mit den Vorteilen von [guidelines](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products] und [!DNL Personas]—[content](/help/user-guide/content/overview.md), [Reviews und Validierungen](/help/user-guide/approvals/overview.md) und [Insights](/help/user-guide/insights/overview.md) erleichtert [!DNL Create] die Erstellung wirkungsvoller markenorientierter Marketinginhalte.
 
@@ -108,12 +107,13 @@ Nachdem Sie die Erstellung von Inhaltsvarianten abgeschlossen haben, senden Sie 
 
 GenStudio for Performance Marketers ermöglicht [eine umfassende Kontrolle über Abschnitte einzelner Varianten](/help/user-guide/create/manage-variants.md).
 
-Sie können Abschnitte einer einzelnen Variante überarbeiten, den Inhalt einzelner Abschnitte neu generieren und vorgeschlagene Bearbeitungen verwenden, um die Nachricht zu verbessern, Assets zu beschneiden und zu vergrößern und vieles mehr auf der Arbeitsfläche.
+Sie können Abschnitte einer einzelnen Variante überarbeiten, den Inhalt einzelner Abschnitte neu generieren und vorgeschlagene Bearbeitungen verwenden, um die Nachricht zu verbessern, Assets zu vergrößern und vieles mehr, und das alles auf der Arbeitsfläche.
 
 ## Tutorials
 
 * [E-Mail-Erlebnis erstellen](/help/tutorials/create-email-experience.md)
 * [Erstellen eines Meta-Anzeigenerlebnisses](/help/tutorials/create-meta-ad.md)
+* [Erstellen eines Display-Anzeigenerlebnisses](/help/tutorials/create-display-ad.md)
 
 <!-- ### Anatomy of an email experience
 

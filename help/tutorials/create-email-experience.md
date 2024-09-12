@@ -1,15 +1,15 @@
 ---
 title: E-Mail-Erlebnis erstellen
-description: Erfahren Sie, wie Sie E-Mail-Erlebnisse in Adobe [!DNL GenStudio] erstellen.
-feature: Content, Brands Service, Guidelines, Content Generation
+description: Erfahren Sie, wie Sie in Adobe [!DNL GenStudio] E-Mail-Erlebnisse für Performance-Marketingexperten erstellen.
+feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: 9624429977e21af614173c5078c6b470c8b5a147
 workflow-type: tm+mt
-source-wordcount: '816'
+source-wordcount: '879'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,7 @@ Durch das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview
    * Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** , um Assets (Bilder) auszuwählen, die bereits in [!DNL Content] veröffentlicht wurden. Verwenden Sie die Filter, um die Suchergebnisse weiter einzugrenzen.
    * Klicken Sie auf **[!UICONTROL Hochladen]** , um Ihre Dateien zu durchsuchen und Assets zur Verwendung auszuwählen. Neben dem Durchsuchen Ihres Geräts können Sie auch aus Microsoft OneDrive oder Dropbox importieren.
    * Ziehen Sie Assets per Drag-and-Drop in den Abschnitt _Inhalt_ .
+1. Klicken Sie auf **[!UICONTROL Use]**.
 
 >[!NOTE]
 >
@@ -77,6 +78,12 @@ Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Co
 * **Um [eine E-Mail manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)**, doppelklicken Sie in eines der bearbeitbaren Textfelder (z. B. Betreffzeile, Kopfzeile oder Textkopie) und bearbeiten Sie es nach Bedarf.
 * **Um [einen Abschnitt einer Variante neu zu generieren](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klicken Sie auf ein bearbeitbares Textfeld und verwenden Sie die Optionen _[!UICONTROL Vorgeschlagene Änderungen]_ oder geben Sie eine neue Eingabeaufforderung ein und klicken Sie auf **[!UICONTROL Erzeugen]**.
 * **Um [eine E-Mail zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)**, klicken Sie auf , um den E-Mail-Titel auszuwählen (z. B. &quot;E-Mail 1/4&quot;), und klicken Sie auf **[!UICONTROL Variante löschen]**.
+
+## Vorschau für Gerät
+
+Bei der Überprüfung und Vorbereitung von E-Mail-Erlebnissen können Sie zwischen der Vorschau für Desktop- und Mobile-Ansichten umschalten, um Kohärenz und visuelle Attraktivität von Entwurfsvarianten sicherzustellen.
+
+**Um Varianten für Desktop- und Mobilgeräte in der Vorschau anzuzeigen** aktivieren Sie in der rechten Menüleiste (Computer- und Telefonsymbol) die Vorschauoption für das Gerät (zwischen **Desktop** und **Mobil**), um in der Vorschau anzuzeigen, wie Varianten angezeigt werden.
 
 ## Markenausrichtung überprüfen
 
