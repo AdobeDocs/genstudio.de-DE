@@ -3,9 +3,9 @@ title: Überblick über [!DNL Insights]
 description: Erfahren Sie, wie Sie Erlebnisse basierend auf Echtzeit-Metriken zur Inhaltsleistung optimieren können.
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: 2a3085f535b4f161bd6e8bf321eac11357c44a5a
+source-git-commit: 0713b18ed1ca5a0b695fdcef4bd488cf87bf2040
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Die Ansicht [!DNL Insights] _[!UICONTROL Kanäle]_ ist die Standardansicht und e
 
 ### Erlebnisse
 
-Die Ansicht [!DNL Insights] _[!UICONTROL Erlebnisse]_ konzentriert sich auf die Bewertung der Effektivität eines Erlebnisses. Mit der Ansicht [!UICONTROL Erlebnisse] können Sie die Metriken eines Erlebnisses basierend auf seiner Anzeigenplatzierung innerhalb eines bestimmten Datumsbereichs analysieren. Durch Klicken auf einen _[!UICONTROL Anzeigennamen]_ können Sie auf eine Liste der Assets zugreifen, die im ausgewählten Erlebnis verwendet werden. So können Sie ermitteln, welche Komponenten zum Gesamterfolg beigetragen haben.
+Die Ansicht [!DNL Insights] _[!UICONTROL Erlebnisse]_ konzentriert sich auf die Bewertung der Effektivität eines Erlebnisses. Mit der Ansicht [!UICONTROL Erlebnisse] können Sie die Metriken eines Erlebnisses basierend auf seiner Anzeigenplatzierung innerhalb eines bestimmten Datumsbereichs analysieren. Durch Klicken auf einen _[!UICONTROL Anzeigennamen]_ können Sie die Anzeigenleistungsmetriken, die Leistung nach Anzeigenplatzierung und Attribute anzeigen.
 
 ### Assets
 
