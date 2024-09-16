@@ -2,9 +2,9 @@
 title: Adobe GenStudio für Performance Marketingexperten - Beta - Versionshinweise
 description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen des Adobe GenStudio für Performance Marketingexperten.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 5f729070a3a4c162ebac0fde9814c649c9984b4d
+source-git-commit: d1904bfe6e5775f71290c2fc7aa185ac2a4a4668
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -33,13 +33,13 @@ Die folgenden bekannten Probleme sollen in der GenStudio für Performance Market
 
 ### Weitere Verbesserungen und behobene Probleme
 
-* Die Arbeitsfläche [!DNL Create] rendert Bilder in Metaanzeigen falsch. <!-- GS-4864 -->
+* Die Arbeitsfläche [!DNL Create] rendert jetzt Bilder in Metaanzeigen korrekt. <!-- GS-4864 -->
 
 * Obwohl es zwischen der Vorschau von Meta Ads-Arbeitsfläche und den exportierten Ansichten Diskrepanzen geben kann, funktionieren exportierte Erlebnisse erwartungsgemäß. <!-- GS-4492 4401 -->
 
-* Hochgeladene Bilder enthalten nicht immer die erwarteten Smart-Tags. <!-- GS-4856 -->
+* Hochgeladene Bilder enthalten jetzt die erwarteten Smart-Tags. <!-- GS-4856 -->
 
-* Die CSV-Datei für Metadaten-Anzeigenexport enthält jetzt erwartungsgemäß Bilder. Zuvor enthielt die ZIP-Datei die CSV-Exportdatei und NULL-Dateien anstelle von Bildern.  <!-- GS-5107 -->
+* Die CSV-Datei für den Export von Metaanzeigen enthält jetzt Bilder wie erwartet. Zuvor enthielt die ZIP-Datei die CSV-Exportdatei und NULL-Dateien anstelle von Bildern.  <!-- GS-5107 -->
 
 * Benutzer können jetzt Text wie erwartet in das Feld &quot;Vorlagendetailansicht&quot;**[!UICONTROL Hochgeladen von]** eingeben. Zuvor verhinderte das Ladesymbol die Eingabe von Text durch Benutzer. <!-- GS-4887 -->
 
