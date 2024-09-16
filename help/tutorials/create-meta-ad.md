@@ -1,15 +1,15 @@
 ---
 title: Erstellen eines Meta-Anzeigenerlebnisses
-description: Erfahren Sie, wie Sie mit Adobe GenStudio für Performance Marketingexperten ein neues On-Brand-Meta-Anzeigenerlebnis für Facebook oder Instagram erstellen.
-feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
+description: Erfahren Sie, wie Sie mit generativer KI ein neues On-Brand-Meta-Anzeigenerlebnis für Facebook oder Instagram erstellen.
+feature: Content, Brands Service, Guidelines, Content Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 3827d8222bd548caf83288656d5f2af8d2248dec
+source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
 workflow-type: tm+mt
-source-wordcount: '979'
+source-wordcount: '955'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,6 @@ Das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview.md) u
    * Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** , um Assets (Bilder) auszuwählen, die bereits in [!DNL Content] veröffentlicht wurden. Verwenden Sie die Filter, um die Suchergebnisse weiter einzugrenzen.
    * Klicken Sie auf **[!UICONTROL Hochladen]** , um Ihre Dateien zu durchsuchen und Assets zur Verwendung auszuwählen. Neben dem Durchsuchen Ihres Geräts können Sie auch aus Microsoft OneDrive oder Dropbox importieren.
    * Ziehen Sie Assets per Drag-and-Drop in den Abschnitt _Inhalt_ .
-1. Klicken Sie auf **[!UICONTROL Use]**.
 
 Wenn Sie die Parameter hinzugefügt haben, können Sie den Eingabebereich reduzieren, indem Sie erneut auf das Symbol _Parameter_ klicken.
 
@@ -68,7 +67,7 @@ Standardmäßig werden vier Varianten generiert und auf der Arbeitsfläche angez
 
 Beim Generieren einer Meta-Anzeige können Sie zwischen Facebook- und Instagram-Anzeigen wählen.
 
-Schalten Sie die Option &quot;Kanal für Metaanzeigen&quot;- zwischen **Facebook** und **Instagram** - in der rechten Menüleiste (Symbole für Facebook und Instagram) um, um Varianten für jeden Kanal anzuzeigen und zu verwalten.
+Schalten Sie die Option Metadaten-Kanal in der oberen Menüleiste in **Facebook** oder **Instagram** um, um die generierten Entwürfe der einzelnen Kanäle zu verwalten.
 
 Bei der Änderung von [Meta-Anzeigen](#revise-generated-meta-ads) können Sie das Seitenverhältnis von Facebook- und Instagram-Anzeigen ändern.
 
@@ -78,17 +77,14 @@ Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Co
 
 **So überarbeiten Sie generierte Varianten**:
 
-
-* **Um [den Namen des Meta-Anzeigenentwurfs zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)**, klicken Sie auf den Titel _Unbenannter Entwurf_ oben auf der Arbeitsfläche und geben Sie einen neuen Titel ein.
-* **Um [eine Metadatenanzeige manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)**, doppelklicken Sie auf einen der Anzeigenbereiche (z. B. die Betreffzeile, Kopfzeile oder Textkopie) und bearbeiten Sie ihn nach Bedarf.
+* **Um den Namen des Meta-Anzeigenentwurfs zu bearbeiten, klicken Sie auf den Titel _Unbenannter Entwurf_ oben auf der Arbeitsfläche und geben Sie einen neuen Titel ein.**
+* **Um eine Metadatenanzeige manuell zu bearbeiten**, doppelklicken Sie auf eines der Anzeigenfragmente (z. B. die Betreffzeile, Kopfzeile oder Textkopie) und bearbeiten Sie es nach Bedarf.
 
   Die Betreffzeile und die Preheader erfordern nur einen Klick, um sie zu bearbeiten, während die Kopfzeile und die Textkopie einen Doppelklick erfordern.
 
-* **Um den Aktionsaufruf zu ändern oder auszuwählen**, klicken Sie auf die Schaltfläche Aktionsaufruf und wählen Sie aus den verfügbaren Schaltflächentext-Optionen aus. Geben Sie in _[!UICONTROL Link]_ einen Link für den Text des Aktionsaufrufs ein.
-* **Ändern Sie in [ Größe und Seitenverhältnis der Anzeige.](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** Klicken Sie auf die Schaltfläche _[!UICONTROL Größe ändern]_ (Feld mit einem Schaltflächensymbol auf der linken Seite der Arbeitsfläche) und wählen Sie eine neue Größe und ein neues Seitenverhältnis aus, die auf alle Varianten angewendet werden sollen. Die Varianten werden dupliziert und die Größe wird angepasst.
-<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
-* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)** hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
-* **Um [eine Metaanzeige zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)**, klicken Sie auf , um den Anzeigentitel auszuwählen (z. B. &quot;Meta 4&quot;), und klicken Sie auf **[!UICONTROL Variante löschen]**.
+* **Um den Aktionsaufruf zu ändern oder auszuwählen**, klicken Sie auf die Schaltfläche Aktionsaufruf und wählen Sie eine verfügbare Schaltfläche aus.
+* **Um Größe und Seitenverhältnis zu ändern**, klicken Sie auf die Schaltfläche _[!UICONTROL Größe ändern]_ (Feld mit einem Schaltflächensymbol auf der linken Seite der Arbeitsfläche) und wählen Sie eine neue Größe und ein neues Seitenverhältnis aus, die für alle Varianten gelten sollen. Die Varianten werden dupliziert und die Größe wird angepasst.
+* **Um eine Metadatenanzeige zu löschen, klicken Sie auf , um den Anzeigentitel auszuwählen (z. B. &quot;Meta 4&quot;), und klicken Sie auf**[!UICONTROL  Variante löschen ]**.**
 
 ## Markenausrichtung überprüfen
 
@@ -97,7 +93,7 @@ Um die generierten Anzeigen zu optimieren und die strikte Einhaltung der Markeni
 **Überprüfen der Markenausrichtung**:
 
 1. Klicken Sie auf das Symbol [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) für eine Variante und sehen Sie sich eine Zusammenfassung der Leistung dieser Variante an, wenn sie mit Ihrer Marke verglichen wird.
-1. Um die Details der Abschnitte und Richtlinien abzurufen, die verbessert werden müssen, klicken Sie auf **[!UICONTROL Überprüfen]** _oder_ und klicken Sie auf das Symbol für die Markenvalidierung in der oberen Menüleiste, um das [_Bedienfeld für die Markenvalidierung_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) zu öffnen.
+1. Um die Details der Fragmente und Richtlinien abzurufen, die verbessert werden müssen, klicken Sie auf **[!UICONTROL Überprüfen]** _oder_ und klicken Sie auf das Markenvalidierungssymbol in der oberen Menüleiste, um das [_Markenvalidierungsfenster_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) zu öffnen.
 
 1. Schalten Sie durch die einzelnen Anzeigen, um zu sehen, wie Sie den generierten Inhalt verbessern können, um markengerechter zu werden.
 1. [Überarbeiten Sie Anzeigen manuell](#revise-generated-meta-ads), um sicherzustellen, dass Ihre Anzeigen eng mit Ihrer Marke abgestimmt sind.

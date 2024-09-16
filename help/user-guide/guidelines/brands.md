@@ -3,7 +3,7 @@ title: GenStudio für Leistungs-Marketingexperten [!DNL Brands]
 description: GenStudio for Performance Marketers [!DNL Brands] sind eine umfassende Sammlung von Marken-Assets - Marketing Copy, Bilder, Erlebnisse und mehr -, die zur Erstellung markenorientierter Inhalte beitragen.
 feature: Brands Service, Guidelines
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
 workflow-type: tm+mt
 source-wordcount: '800'
 ht-degree: 1%
@@ -45,9 +45,9 @@ In der folgenden Tabelle sind die einzelnen Kategorien von Sprachleitfäden und 
 
 Jeder Kanal verfügt über bestimmte inhärente Richtlinien, die die Kanalasset-Komposition beeinflussen.
 
-Die folgende Tabelle zeigt die einzelnen Kanalabschnitte, die Kanäle, für die sie verfügbar ist, eine Beschreibung des Abschnitts, Beispiele für Richtlinien und Beispielergebnisse.
+Die folgende Tabelle zeigt jedes Kanalfragment, die Kanäle, für die es verfügbar ist, eine Beschreibung des Fragments, Beispiele für Richtlinien und Beispielergebnisse.
 
-| Abschnitte | Kanäle | Beschreibung | Best Practices |
+| Fragmente | Kanäle | Beschreibung | Best Practices |
 | ------------------| --------- | --------- | -------- |
 | Allgemein | E-Mail, soziale Anzeigen | Eine zweite Betreffzeile oder E-Mail-Vorschautext | Definieren Sie den allgemeinen Ton/die Emotion, damit sie in allen E-Mails konsistent sind (2-5 Richtlinien).<br>_Beispiele_: &quot;Beibehalten eines freundlichen und verständlichen Tons&quot;, &quot;Überforme Sprache vermeiden&quot;<br><br> |
 | Betreff | email | Ein überzeugender und interessanter Titel, der den Inhalt einer E-Mail zusammenfasst | Spezifische Anleitungen (2-5 Richtlinien) zu Ton, Länge usw. Fügen Sie zuvor erfolgreiche Betreffzeilen im Abschnitt _Beispiele_ hinzu, um eine bessere Qualität der Ausgabe zu erzielen.<br>_Beispiel_: &quot;Betreff mit E-Mail-Text ausrichten&quot; |
