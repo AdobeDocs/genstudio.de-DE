@@ -4,7 +4,7 @@ breadcrumb-title: Benutzerhandbuch
 user-guide-description: Erfahren Sie, wie Sie schnell Assets innerhalb der Marke finden und generieren, Varianten erstellen und Erlebnisse basierend auf Einblicken in die Inhaltsleistung in Echtzeit optimieren können.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: a531ef2a7869a3f8e19fccd17b7acda54a767f6b
+source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 12%
@@ -15,6 +15,8 @@ ht-degree: 12%
 # Adobe GenStudio für Performance Marketingexperten-Handbuch {#user-guide}
 
 + [Handbuch für GenStudio für Leistungs-Marketingexperten](home.md)
++ Versionshinweise {#release-notes}
+   + [Versionshinweise zu Beta](beta-release-notes.md)
 + [Erste Schritte](get-started.md)
 + Einführung {#intro}
    + [Konzepte](concepts.md)
@@ -55,5 +57,3 @@ ht-degree: 12%
    + [Kanäle](insights/channels.md)
    + [Erlebnisse](insights/experiences.md)
    + [Datenspalten](insights/data-columns.md)
-+ Versionshinweise {#release-notes}
-   + [Versionshinweise zu Beta](beta-release-notes.md)

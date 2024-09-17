@@ -1,8 +1,8 @@
 ---
 title: Erlebnisse - Übersicht
-description: Sehen Sie sich einen Überblick über Kundeninteraktion, Budget und Ausgaben für Erlebnisse und Asset-Leistung im Adobe GenStudio für Performance-Marketer an.
+description: Sehen Sie sich einen Überblick über Kundeninteraktion, Budget und Ausgaben für Erlebnisse und Anzeigenleistung im Adobe GenStudio für Performance-Marketer an.
 feature: Insights, Experiences
-source-git-commit: ed0ddb10ee65c2691f8ecbfe23533508e9174bf9
+source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 0%

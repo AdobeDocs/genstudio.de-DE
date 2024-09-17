@@ -1,20 +1,24 @@
 ---
 title: Adobe GenStudio-Benutzerhandbuch
 description: Ermöglichen Sie Marketingfachleuten und hochkarätigen Kreativen mit GenStudio für Performance Marketers, Adobe AI-First Application, die Self-Service-Zugriff auf Markeninhalte mit Unternehmensgarantien und Governance für leistungsstarke Erlebnisse bietet.
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: beae7802-09e6-4ca3-9ffa-b8494aea5ae4
+source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 0%
+source-wordcount: '237'
+ht-degree: 1%
 
 ---
 
 # Benutzerhandbuch zu Adobe GenStudio für Performance Marketingexperten
 
-Adobe GenStudio for Performance Marketers ist eine KI-gestützte Plattform, mit der Unternehmen eigenständig Marketing-Inhalte generieren und verwalten können, die ihren Markenstandards entsprechen, Unternehmensrichtlinien einhalten und nahtlos eine wirkungsvolle Marketingstrategie unterstützen.
+Adobe GenStudio for Performance Marketers ist eine KI-gestützte Plattform, mit der Sie Marketing-Inhalte generieren und verwalten können, die Ihren Markenstandards entsprechen und Ihren Unternehmensrichtlinien entsprechen.
 
-Mit GenStudio für Performance Marketingexperten können Marketingexperten und Kreativprofis den Inhaltserstellungsprozess optimieren, um Marketinginhalte zu erstellen, die ansprechend, kulturell relevant und auf bestimmte Zielgruppen zugeschnitten sind. Gleichzeitig werden hohe Qualität und Markenintegrität gewahrt.
+Durch die Nutzung der Adobe-KI-Technologie bietet GenStudio for Performance Marketers eine umfassende Palette von Tools, die die Komplexität der Inhaltserstellung und -verwaltung vereinfachen, sodass Kreative sich auf Innovationen konzentrieren können.
 
-Durch die Nutzung der KI-Technologie bietet GenStudio for Performance Marketers eine umfassende Suite von Tools, die die Komplexität der Inhaltserstellung und -verwaltung vereinfachen, sodass Kreative sich auf Innovationen konzentrieren können.
+## Neue Funktionen
+
+- [[!DNL Insights Channels]](insights/channels.md) - Neuer Überblick über Kundeninteraktion, Leistung, Budget und Ausgaben für Marketingkampagnen.
+- [[!DNL Insights Experiences]](insights/experiences.md) - Neuer Überblick über Einblicke in Erlebnisse und Anzeigenleistung.
 
 ## Funktionen
 
@@ -82,7 +86,7 @@ Durch die Nutzung der KI-Technologie bietet GenStudio for Performance Marketers 
          </a>
       </div>
       <p>
-         <em>Analysieren Sie die Effektivität des Inhalts von Paid-Media-Kanälen.</em>
+         <em> Analysieren Sie die Inhaltseffektivität von Paid-Media-Kanälen.</em>
       </p>
    </td>
 </tr>
