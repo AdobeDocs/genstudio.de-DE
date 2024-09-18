@@ -2,13 +2,13 @@
 title: Übersicht über Adobe GenStudio für Performance Marketers [!DNL Content]
 description: Erfahren Sie, wie Sie markengenehmigte Assets in einem intuitiven Portal finden, bearbeiten, wiederverwenden und freigeben können.
 feature: Attributes, Content, Templates
-source-git-commit: 6ee651ab67a92e2eca9929c3cfc6c66fb90d785e
+exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
+source-git-commit: c8c23be561dfb77ceb8f1abe6a85b9321201bb40
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 1%
 
 ---
-
 
 # Adobe GenStudio für Performance Marketers [!DNL Content]
 
@@ -20,7 +20,7 @@ GenStudio for Performance Marketers [!DNL Content] bietet einen zentralen Speich
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md#search">
-         <img alt="Lupe" src="../../assets/icons/icon-search.png" width="35">
+         <img alt="Lupe" src="../../assets/icons/icon-search.png">
       </a>
       <p>
          <a href="../content/manage-assets.md#search">
@@ -30,7 +30,7 @@ GenStudio for Performance Marketers [!DNL Content] bietet einen zentralen Speich
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md">
-         <img alt="Bilder mit Pluszeichen" src="../../assets/icons/icon-addContent.png" width="35">
+         <img alt="Bilder mit Pluszeichen" src="../../assets/icons/icon-addContent.png">
       </a>
       <p>
          <a href="../content/manage-assets.md">
@@ -40,7 +40,7 @@ GenStudio for Performance Marketers [!DNL Content] bietet einen zentralen Speich
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/customize-template.md">
-         <img alt="Blitz auf dem Asset" src="../../assets/icons/icon-template.png" width="35">
+         <img alt="Blitz auf dem Asset" src="../../assets/icons/icon-template.png">
       </a>
       <p>
          <a href="../content/customize-template.md">
@@ -50,7 +50,7 @@ GenStudio for Performance Marketers [!DNL Content] bietet einen zentralen Speich
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
-         <img alt="Blitz auf Asset mit Pluszeichen" src="../../assets/icons/icon-addTemplate.png" width="35">
+         <img alt="Blitz auf Asset mit Pluszeichen" src="../../assets/icons/icon-addTemplate.png">
       </a>
       <p>
          <a href="../content/use-templates.md#upload-a-template">

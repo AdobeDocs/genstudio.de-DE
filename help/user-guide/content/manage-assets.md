@@ -2,19 +2,45 @@
 title: Verwalten von Assets und Erlebnissen
 description: Vereinfachen und verbessern Sie die Verwaltung markengenehmigter Assets für die Verwendung und Wiederverwendung in Ihrer Digital Marketing-Journey.
 feature: Content, Assets, Experiences
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
+source-git-commit: dc438085cfe7c93b20dc7fb0d5919d2dc8b3dcde
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '722'
 ht-degree: 0%
 
 ---
-
 
 # Verwalten von Assets und Erlebnissen
 
 Adobe GenStudio für Performance Marketers [!DNL Content] vereinfacht und verbessert die Verwaltung markengenehmigter Assets zur Verwendung und Wiederverwendung in Ihrer Digital Marketing-Journey.
 
-## Hinzufügen von Assets
+## Assets-Galerie
+
+Die Galerie [!UICONTROL Assets] enthält einen Inventar genehmigter Assets. Das Filtersymbol (Trichter) über der linken Seite der Tabelle öffnet das Menü **[!UICONTROL Filter]** , in dem Sie aus vielen Kategorien auswählen können, um die in der Galerie angezeigten Assets zu filtern. Klicken Sie auf das Suchsymbol (Lupe), um ein Asset mit einem Schlüsselwort zu suchen.
+
+Im Folgenden finden Sie eine Suche nach dem Begriff `dog` in der Galerie [!UICONTROL Assets]:
+
+![Assets-Ansicht mit Suche nach Hund](../../assets/content-assets.png)
+
+### Assets-Speicherort
+
+Standardmäßig werden Assets, die Sie [!DNL Content] über den [!DNL Create]-Prozess oder den Upload hinzufügen, im `GenStudio assets`-Repository gespeichert. Das Repository `GenStudio assets` ist ein Lese- und Schreibrepository in GenStudio für Performance Marketers. Dies bedeutet, dass Sie Assets im `GenStudio assets` -Repository speichern, bearbeiten und löschen können.
+
+Die Liste **[!UICONTROL Position]** oberhalb der Galerie auf der rechten Seite ermöglicht es Ihnen, aus verbundenen Adobe Experience Manager (AEM) [!DNL Assets Content Hub] Repositorys auszuwählen. Wenn Sie ein AEM Repository auswählen, zeigt die Galerie einen Inventar der Assets aus diesem Repository an, sodass Sie genehmigte Assets aus diesen Repositorys als Eingaben für die Inhaltserstellung nutzen können. Die Filteroptionen ändern sich entsprechend den in [!DNL AEM Assets Content Hub] konfigurierten Kategorien.
+
+Das AEM-Repository ist schreibgeschützt, d. h. Sie können Entwürfe, neue Assets oder Metadaten nicht im AEM Repository speichern. Alle Entwürfe und endgültigen Aktualisierungen für Assets, Erlebnisse und Vorlagen werden mit neuen [Systemmetadaten](asset-details.md#system-metadata) im `GenStudio assets`-Repository gespeichert.
+
+Eine Anleitung zum Hinzufügen Ihres [!DNL AEM Assets Content Hub]-Repositorys zu GenStudio für Performance Marketers finden Sie unter [Verbinden eines AEM-Repositorys](connect-aem-repo.md) .
+
+## Assets-Verwaltung
+
+In [!UICONTROL Inhalt] können Performance Marketingexperten ihre digitalen Assets einfach speichern, abrufen und verwalten. Durch Nutzung des Repositorys `GenStudio assets` und AEM Repositorys können Benutzer sicherstellen, dass ihre Assets gut organisiert sind und für verschiedene Marketing-Kampagnen zugänglich sind. Dieser Ansatz für mehrere Repositorys bietet Flexibilität und Kontrolle über die Asset-Nutzung in allen Umgebungen, sodass sichergestellt ist, dass nur genehmigte und aktuelle Assets in Marketing-Maßnahmen verwendet werden.
+
+### Hinzufügen von Assets
+
+Beim Hinzufügen von Assets zu [!DNL Content] werden sie standardmäßig im `GenStudio assets`-Repository gespeichert. Die Schaltfläche _[!UICONTROL Assets hinzufügen]_ ist nur verfügbar, wenn der _[!UICONTROL Speicherort]_ das `GenStudio assets`-Repository ist.
+
+![Ortsfeld](../../assets/content-location.png){width="350" align="center"}
 
 **So fügen Sie ein oder mehrere Assets hinzu**:
 
@@ -40,15 +66,21 @@ Adobe GenStudio für Performance Marketers [!DNL Content] vereinfacht und verbes
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 
-## Suchen von Assets
+### Assets durchsuchen
 
 Die Suchschnittstelle [!DNL Content] ist schnell und responsiv und bietet ein produktives Erlebnis für die Suche.
 
-Wenden Sie Filter an und verwenden Sie Metadaten-Tags aus Asset-Details, um Suchergebnisse einzuschränken. Sie können beispielsweise ein Asset suchen, um ein neues Erlebnis für Ihre Kampagne zu erstellen.
+Wenden Sie Filter an und verwenden Sie Metadaten-Tags aus Asset-Details, um Suchergebnisse einzuschränken. Sie können beispielsweise ein Asset eines bestimmten Dateityps oder Betreffs suchen, um ein neues Erlebnis für Ihre Kampagne zu erstellen.
 
 **So suchen Sie nach Inhalten, die wiederverwendet werden sollen**:
 
 1. Wählen Sie in _[!DNL Content]_den Abschnitt **[!UICONTROL Assets]**aus.
+
+1. Wählen Sie ein Asset-Repository aus der Liste **[!UICONTROL Speicherort]** aus oder überprüfen Sie, ob Sie das richtige Asset-Repository anzeigen. `GenStudio assets` ist das Standard-Repository.
+
+   >[!IMPORTANT]
+   >
+   >Die Liste _Ort_ ist nur verfügbar, wenn Sie [eine Verbindung zu einem AEM-Repository herstellen](connect-aem-repo.md).
 
 1. Klicken Sie auf **[!UICONTROL Suchen]** (Lupe), um einen Suchbegriff oder eine Beschreibung einzugeben.
 

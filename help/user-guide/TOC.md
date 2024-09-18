@@ -4,9 +4,9 @@ breadcrumb-title: Benutzerhandbuch
 user-guide-description: Erfahren Sie, wie Sie schnell Assets innerhalb der Marke finden und generieren, Varianten erstellen und Erlebnisse basierend auf Einblicken in die Inhaltsleistung in Echtzeit optimieren können.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
+source-git-commit: 476d36dd64607221be0b16f38f251db40e2cf907
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '132'
 ht-degree: 12%
 
 ---
@@ -39,8 +39,9 @@ ht-degree: 12%
    + [Publish-genehmigte Inhalte](approvals/publish-content.md)
 + Inhalt {#content}
    + [Inhaltsübersicht](content/overview.md)
-   + [Asset-Details](content/asset-details.md)
    + [Verwalten von Assets](content/manage-assets.md)
+   + [AEM Repository verbinden](content/connect-aem-repo.md)
+   + [Asset-Details](content/asset-details.md)
    + Vorlagen {#templates}
       + [Arbeiten mit Vorlagen](content/use-templates.md)
       + [Vorlagen anpassen](content/customize-template.md)
