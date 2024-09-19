@@ -2,20 +2,34 @@
 title: Adobe GenStudio für Performance Marketingexperten - Beta - Versionshinweise
 description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen des Adobe GenStudio für Performance Marketingexperten.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: d1904bfe6e5775f71290c2fc7aa185ac2a4a4668
+source-git-commit: 7085fa5a12a6ed36c9310f8f691969d9c1366d36
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1348'
 ht-degree: 0%
 
 ---
 
 # Adobe GenStudio für Performance Marketingexperten - Beta - Versionshinweise
 
-Diese Hinweise zeigen wichtige Adobe GenStudio für Fehlerbehebungen und Verbesserungen für Performance Marketers in der Woche, die am 13. September endet.
+Diese Hinweise zeigen wichtige Adobe GenStudio für Fehlerbehebungen und Verbesserungen für Performance Marketers in der Woche, die am 19. September endet.
 
-## Verbesserungen
+## Neue Funktionen und Verbesserungen
 
-* Die Inhaltsauswahl &quot;[!DNL Create]&quot; wurde überarbeitet, um das Laden von Assets zu verbessern. <!-- GS-2586 -->
+* **Integration mit Adobe Experience Manager Assets**. Der schreibgeschützte Zugriff auf Adobe Experience Manager Assets ist jetzt verfügbar. <!-- GS-2432 -->
+
+* **Verbesserungen am Workflow Vorlage aktualisieren**.  Benutzer, die Vorlagen aktualisieren, wählen nun den Kanal aus, für den sie die Vorlage verwenden möchten. <!-- GS-4029 -->
+
+* **Verbesserte Leistung beim Laden von Seiten erstellen**. Nicht verwendete Abhängigkeiten wurden aus dem Seitenladeprozess entfernt. <!-- GS-3630 -->
+
+* **Unterstützung mehrteiliger E-Mails**. Bearbeiter können jetzt E-Mails erstellen, die mehrere Abschnitte und Bilder enthalten. Sie können auch bestimmte Fragmente einer generierten E-Mail (z. B. eine Überschrift) regenerieren. <!-- GS-2436 -->
+
+* **Wechsel zwischen Desktop- und Mobilgeräteansicht während der Erstellung**. Benutzer können jetzt zwischen der Desktop- und der Mobile-Ansicht wechseln, um E-Mail-Erlebnisvarianten in der Vorschau anzuzeigen. <!-- GS-4314 -->
+
+* Der Inhalt generiert jetzt Bilder mit Zuschnittdimensionen, die relativ zu den ursprünglichen Asset-Dimensionen sind. <!-- GS-3150 -->
+
+* Benutzer können jetzt generierte Bildvarianten auswählen und die Funktion &quot;Zuschneiden anpassen&quot;verwenden, um sie während des Erstellungsarbeitsablaufs zu beschneiden. <!-- GS-5538 2342 -->
+
+* In der Detailansicht eines genehmigten Erlebnisses wird jetzt ein Miniaturbild und der Status aller Assets angezeigt, auf die in diesem Erlebnis verwiesen wird. <!-- GS-3783 -->
 
 ## Bekannte Probleme
 
@@ -25,43 +39,56 @@ Die folgenden bekannten Probleme sollen in der GenStudio für Performance Market
 
 * Die Erstellung von E-Mails führt zu einer unvollständigen E-Mail. **Problemumgehung**: Aktualisieren Sie die Seite und erstellen Sie sie neu. <!-- GS-5209 -->
 
-* Vorlagen können hochgeladen, aber nicht angezeigt werden. **Problemumgehung**: Erstellen oder laden Sie ein Asset hoch und geben Sie einen Asset-Gruppennamen in das Feld **[!UICONTROL Kampagnen]** ein. Wenn Sie das Asset einem [!DNL Campaign] zuweisen, wird der Metadatenwert für den Gruppennamen hinzugefügt. Laden Sie dann die Vorlage erneut hoch. <!-- GS-4815 -->
+* Vorlagen können hochgeladen, aber nicht angezeigt werden. **Problemumgehung**: Laden Sie ein Asset hoch, in dem das Feld **[!UICONTROL Kampagnen]** ausgefüllt ist. Laden Sie dann die Vorlage erneut hoch. <!-- GS-4815 -->
 
-* Kampagnenminiaturansichten fehlen in [!DNL Insights]. <!-- GS-4648 -->
-
-* Benutzer müssen sich bei einem Kanal-Metaanzeigen-Konto zweimal anmelden, wenn sie auch bei Facebook angemeldet sind. **Problemumgehung**: Melden Sie sich von Facebook ab, bevor Sie sich bei einem Kanal-Metadatenanzeigenkonto anmelden. <!-- GS-4806 -->
+* Benutzer müssen sich bei einem Kanal-Meta-Anzeigen-Konto zweimal anmelden, wenn sie auch bei Facebook angemeldet sind. **Problemumgehung**: Melden Sie sich von Facebook ab, bevor Sie sich bei einem Kanal-Meta-Anzeigenkonto anmelden. <!-- GS-4806 -->
 
 ### Weitere Verbesserungen und behobene Probleme
 
-* Die Arbeitsfläche [!DNL Create] rendert jetzt Bilder in Metaanzeigen korrekt. <!-- GS-4864 -->
+* Drag &amp; Drop funktioniert nun wie erwartet im Eingabeaufforderungsbereich. <!-- GS-3977 -->
 
-* Obwohl es zwischen der Vorschau von Meta Ads-Arbeitsfläche und den exportierten Ansichten Diskrepanzen geben kann, funktionieren exportierte Erlebnisse erwartungsgemäß. <!-- GS-4492 4401 -->
+* Es wurden Probleme bei der Verwendung der Tabulatortaste zur Navigation durch Elemente in der linken Navigationsleiste behoben. Zuvor waren mehrere Klicks erforderlich, um von einem Element zum nächsten aktiven Element zu navigieren.  <!-- GS-2639 -->
 
-* Hochgeladene Bilder enthalten jetzt die erwarteten Smart-Tags. <!-- GS-4856 -->
+* GenStudio speichert jetzt Erlebnisnamen, wenn Benutzer den Namen bearbeiten, während das Erlebnis geladen wird. <!-- GS-5242 -->
 
-* Die CSV-Datei für den Export von Metaanzeigen enthält jetzt Bilder wie erwartet. Zuvor enthielt die ZIP-Datei die CSV-Exportdatei und NULL-Dateien anstelle von Bildern.  <!-- GS-5107 -->
+* Benutzer können jetzt einen Erlebnistitel erfolgreich bearbeiten. Zuvor wurde der Titeltext standardmäßig auf den Originaltext umgestellt, nachdem ein Benutzer versucht hatte, ihn zu bearbeiten. <!-- GS-5246 -->
+* Ausgewählte Bilder werden jetzt auf der Arbeitsfläche während der mehrteiligen E-Mail-Erstellung erwartungsgemäß dargestellt. <!-- GS-5263 -->
 
-* Benutzer können jetzt Text wie erwartet in das Feld &quot;Vorlagendetailansicht&quot;**[!UICONTROL Hochgeladen von]** eingeben. Zuvor verhinderte das Ladesymbol die Eingabe von Text durch Benutzer. <!-- GS-4887 -->
+* Alle Zeichenfolgen auf der Detailseite [!DNL Content] Erlebnisse sind jetzt lokalisiert. <!-- GS-5016 -->
 
-* Benutzer werden nach dem Löschen der Marke nicht mehr zur Detailansicht einer Marke weitergeleitet. <!-- GS-2663 -->
+* Benutzer können jetzt ein Produkt löschen, dessen Detailansicht in [!DNL Products] geöffnet ist. <!-- GS-5057 -->
 
-* Bearbeiter erhalten nicht mehr den folgenden Fehler, wenn sie Varianten zur Überprüfung und Genehmigung senden: `You have no access to view comments on this Object`. <!-- GS-5140 -->
+* Die Meldung, die GenStudio anzeigt, wenn eine Suche keine übereinstimmenden Ergebnisse liefert, wurde verbessert. <!-- GS-4544 -->
 
-* Die E-Mail-Vorlage, die vom Workflow für Überprüfungen und Genehmigungen verwendet wird, wurde aktualisiert. <!-- GS-5239 -->
+* `aria-label` -Attributwerte für Suchfilterwerte werden jetzt erwartungsgemäß übersetzt. <!-- GS-5388 -->
 
-* GenStudio zeigt jetzt eine Fehlermeldung an, wenn beim Laden der Vorlagenauswahl ein Netzwerkfehler auftritt. <!-- GS-4682 -->
+* Benutzer können jetzt doppelte Assets im Eingabeaufforderungsbereich der Arbeitsfläche [!DNL Create] erfolgreich löschen.  <!-- GS-5233 -->
 
-* Es wurden Probleme beim Navigieren von einem Asset, Erlebnis oder einer Vorlagenkarte zum ausgewählten Objekt behoben. <!-- GS-4390 -->
+* Der Kontofilter funktioniert jetzt wie erwartet mit Erlebnissen, Assets und Attributen. <!-- GS-4812 -->
 
-* Das Popup _Assets hinzufügen_ wird jetzt lokalisiert, wenn es über die Arbeitsfläche &quot;Erstellen&quot;geöffnet wird.  <!-- GS-4867 -->
+* Schriftprobleme bei Meta-Anzeigenvorlagen wurden behoben, um Lesbarkeit und Barrierefreiheit zu verbessern. <!-- GS-5354 -->
 
-* Die Markenvalidierung wird jetzt für neu generierte Varianten ausgelöst. Wenn ein Editor zuvor Varianten eines vorhandenen Entwurfs neu generiert hat, wurde die Validierung nicht ausgelöst. <!-- GS-3971 -->
+* Änderungen an Entwurfstiteln bleiben nun erwartungsgemäß erhalten. Zuvor wurden Titel nach der Bearbeitung auf den Standardnamen zurückgesetzt. <!-- GS-2951 -->
+
+#### Fehlerbehebungen für Vorlagen
+
+* Die Größenänderungsfunktion funktioniert jetzt wie erwartet mit mehreren Bildern in Meta-Anzeigenvorlagen. Zuvor hat GenStudio die Bildgröße nicht für alle ausgewählten Vorlagen geändert. <!-- GS-4696 -->
+
+* Beim Löschen einer Vorlage wird die Seite &quot;[!DNL Content]&quot; jetzt wie erwartet aktualisiert. <!-- GS-5397 -->
+
+* Benutzer können jetzt nur Werte für [!DNL Personas], [!DNL Brands] oder [!DNL Products] aus dem Dropdown-Menü auswählen. Zuvor konnten Benutzer im Dialogfeld _Vorlagen-Upload_ beliebige Namen für [!DNL Persona], [!DNL Brand] oder [!DNL Product] eingeben. <!-- GS-5072 5071-->
+
+* Die Schaltfläche **[!UICONTROL Zurück]** ist jetzt beim Hochladen der Vorlage deaktiviert. <!-- GS-5358 -->
+
+* Alle Zeichenfolgen in der Detailansicht &quot;[!DNL Create] Vorlage auswählen&quot;sind jetzt lokalisiert. <!-- GS-5025 -->
 
 ## Frühere Beta-Versionen
 
 Frühere Beta-Versionen umfassten die folgenden Highlights und Fehlerbehebungen.
 
 ### Highlights
+
+* Die Inhaltsauswahl &quot;[!DNL Create]&quot; wurde überarbeitet, um das Laden von Assets zu verbessern. <!-- GS-2586 -->
 
 * GenStudio unterstützt jetzt die Option zur Vorschau von Medien-Assets in der Tabellen- und Galerieansicht in [!DNL Insights]. Videominiaturen enthalten eine Schaltfläche **Abspielen** mit einer Stummschaltoption. <!-- GS-4398 -->
 
@@ -92,21 +119,45 @@ Frühere Beta-Versionen umfassten die folgenden Highlights und Fehlerbehebungen.
 
 * **Erstellung von E-Mails mit mehreren Abschnitten**: Benutzer können jetzt E-Mails erstellen, die aus separaten Überschriften-, Bild-, Text- und CTA-Elementen bestehen. (festgelegt am 16.8.2016)
 
-* **MetaAds-Größe ändern**: Bearbeiter können die Größe von MetaAd-Seitenverhältnissen ändern. (festgelegt am 16.8.2016)
+* **Größe von Metaanzeigen ändern**: Bearbeiter können die Größe von Meta-Anzeigenseitenverhältnissen ändern. (festgelegt am 16.8.2016)
 
 * **Eingeschränkte [!DNL Insights] Anmeldekonten**: Die [!DNL Insights] -Anmeldung unterstützt jetzt nur ein Konto pro Kunde. (festgelegt am 16.8.2016)
 
 ### Weitere Verbesserungen und behobene Probleme
 
-* Das Popup _Assets hinzufügen_ ist jetzt erwartungsgemäß lokalisiert. <!-- GS-3834 -->
+* Die Arbeitsfläche [!DNL Create] rendert jetzt Bilder in Meta-Anzeigen korrekt. (Korrektur 9/13) <!-- GS-4864 -->
 
-* Probleme mit der Skalierung der Erlebnisvorlage für Meta-Anzeigen wurden behoben. <!-- GS-4174 -->
+* Obwohl es zwischen der Vorschau von Meta Ads Canvas und den exportierten Ansichten Diskrepanzen geben kann, funktionieren exportierte Erlebnisse erwartungsgemäß. (Korrektur 9/13) <!-- GS-4492 4401 -->
 
-* Textfelder in der CSV-Exportdatei für mehrteilige E-Mails werden jetzt erwartungsgemäß sortiert. <!-- GS-4013 -->
+* Hochgeladene Bilder enthalten jetzt die erwarteten Smart-Tags. (Korrektur 9/13) <!-- GS-4856 -->
 
-* Das Suchfeld [!DNL Content] verschwindet nicht mehr, wenn ein Benutzer wiederholt die Taste **Rücktaste** drückt, um den Suchfeldtext zu löschen.  <!-- GS-4543 -->
+* Die CSV-Datei für den Export von Meta-Anzeigen enthält jetzt Bilder wie erwartet. Zuvor enthielt die ZIP-Datei die CSV-Exportdatei und NULL-Dateien anstelle von Bildern. (Korrektur 9/13) <!-- GS-5107 -->
 
-* GenStudio for Performance Marketers lädt Benutzer jetzt erwartungsgemäß, wenn ein Mitarbeiter einem Kommentar eine `@` -Erwähnung hinzufügt. Zuvor wurden Benutzer nicht geladen und ein Fehler wurde angezeigt: `Unable to load users. Refresh the page`. <!-- GS-4113 -->
+* Benutzer können jetzt Text wie erwartet in das Feld &quot;Vorlagendetailansicht&quot;**[!UICONTROL Hochgeladen von]** eingeben. Zuvor verhinderte das Ladesymbol die Eingabe von Text durch Benutzer. (Korrektur 9/13) <!-- GS-4887 -->
+
+* Benutzer werden nach dem Löschen der Marke nicht mehr zur Detailansicht einer Marke weitergeleitet. (Korrektur 9/13) <!-- GS-2663 -->
+
+* Bearbeiter erhalten nicht mehr den folgenden Fehler, wenn sie Varianten zur Überprüfung und Genehmigung senden: `You have no access to view comments on this Object`. (Korrektur 9/13) <!-- GS-5140 -->
+
+* Die E-Mail-Vorlage, die vom Workflow für Überprüfungen und Genehmigungen verwendet wird, wurde aktualisiert. (Korrektur 9/13) <!-- GS-5239 -->
+
+* GenStudio zeigt jetzt eine Fehlermeldung an, wenn beim Laden der Vorlagenauswahl ein Netzwerkfehler auftritt. (Korrektur 9/13) <!-- GS-4682 -->
+
+* Es wurden Probleme beim Navigieren von einem Asset, Erlebnis oder einer Vorlagenkarte zum ausgewählten Objekt behoben. (Korrektur 9/13) <!-- GS-4390 -->
+
+* Das Popup _Assets hinzufügen_ wird jetzt lokalisiert, wenn es über die Arbeitsfläche &quot;Erstellen&quot;geöffnet wird. (Korrektur 9/13) <!-- GS-4867 -->
+
+* Die Markenvalidierung wird jetzt für neu generierte Varianten ausgelöst. Wenn ein Editor zuvor Varianten eines vorhandenen Entwurfs neu generiert hat, wurde die Validierung nicht ausgelöst. (Korrektur 9/13) <!-- GS-3971 -->
+
+* Das Popup _Assets hinzufügen_ ist jetzt erwartungsgemäß lokalisiert. (Korrektur 9/5) <!-- GS-3834 -->
+
+* Probleme mit der Skalierung der Erlebnisvorlage für Meta-Anzeigen wurden behoben. (Korrektur 9/5) <!-- GS-4174 -->
+
+* Textfelder in der CSV-Exportdatei für mehrteilige E-Mails werden jetzt erwartungsgemäß sortiert. (Korrektur 9/5) <!-- GS-4013 -->
+
+* Das Suchfeld [!DNL Content] verschwindet nicht mehr, wenn ein Benutzer wiederholt die Taste **Rücktaste** drückt, um den Suchfeldtext zu löschen. (Korrektur 9/5) <!-- GS-4543 -->
+
+* GenStudio for Performance Marketers lädt Benutzer jetzt erwartungsgemäß, wenn ein Mitarbeiter einem Kommentar eine `@` -Erwähnung hinzufügt. Zuvor wurden Benutzer nicht geladen und ein Fehler wurde angezeigt: `Unable to load users. Refresh the page`. (Korrektur am 29.8.19) <!-- GS-4113 -->
 
 * GenStudio zeigt die Meldung **Irgendetwas ist schiefgelaufen** nicht mehr an, wenn ein Editor während der E-Mail-Erstellung im Eingabeaufforderungsbereich auf **Inhalt auswählen** klickt. <!-- GS-4879 -->
 
