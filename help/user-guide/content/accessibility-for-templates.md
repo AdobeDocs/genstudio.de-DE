@@ -2,13 +2,13 @@
 title: Barrierefreie Vorlagen erstellen
 description: Erstellen Sie in Adobe GenStudio Vorlagen für Performance Marketingexperten, die mehr Zielgruppen erreichen und ein optimales Erlebnis bieten können.
 feature: Templates, Content
-source-git-commit: c891f876fe5a7c75487fcba6552a213533f0b609
+exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
+source-git-commit: 088049a25635f5e9469c16c6ddfe9db86afdc143
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
-
 
 # Barrierefreie Vorlagen erstellen
 
@@ -27,6 +27,13 @@ Stellen Sie Textalternativen für nichttextuelle Inhalte bereit, z. B. Bilder.
 ```
 
 ![Collage von Ideen, Büchern, Mann mit einem riesigen Bleistift, Computer](../../assets/card-create-assets.png){width="400"}
+
+## Kontrastverhältnisse
+
+Geben Sie einen angemessenen Kontrast zwischen Text und Hintergrund an. Verwenden Sie die folgenden Mindestkontrastverhältnisse:
+
+- Text und Bilder von Text: Kontrastverhältnis von mindestens 4,5:1
+- Großer Text und Bilder von großformatigem Text: Kontrastverhältnis von mindestens 3:1
 
 ## Link-Zweck (nur Link)
 
