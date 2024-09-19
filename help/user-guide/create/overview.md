@@ -3,9 +3,9 @@ title: Überblick über GenStudio für Performance Marketingexperten [!DNL Creat
 description: Schnelles Generieren leistungsstarker On-Brand-Inhalte mit generativer KI im Adobe GenStudio für Performance-Marketingexperten [!DNL Create].
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
+source-git-commit: dab19da0063d6f4f4497112c4063bfc9c285e651
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '547'
 ht-degree: 1%
 
 ---
@@ -103,6 +103,12 @@ GenStudio for Performance Marketers führt eine Markenvalidierung für verschied
 Überprüfen Sie Prüfungen, verfolgen Sie Überprüfungskommentare und erhalten Sie Genehmigungen während des Erstellungsprozesses mit der integrierten Funktion [Bewertungen und Genehmigungen](/help/user-guide/approvals/overview.md) .
 
 Nachdem Sie die Erstellung von Inhaltsvarianten abgeschlossen haben, senden Sie Ihre Entwürfe zur Genehmigung an die Stakeholder, damit sie in [!DNL Content] gespeichert und in Marketing-Maßnahmen implementiert werden können.
+
+### Varianten verwalten
+
+GenStudio for Performance Marketers ermöglicht [eine umfassende Kontrolle über Abschnitte einzelner Varianten](/help/user-guide/create/manage-variants.md).
+
+Sie können Abschnitte einer einzelnen Variante überarbeiten, den Inhalt einzelner Abschnitte neu generieren und vorgeschlagene Bearbeitungen verwenden, um die Nachricht zu verbessern, Assets zu vergrößern und vieles mehr, und das alles auf der Arbeitsfläche.
 
 ## Tutorials
 

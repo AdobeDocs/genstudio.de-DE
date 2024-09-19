@@ -4,13 +4,13 @@ description: Erfahren Sie, wie Sie in Adobe GenStudio für Performance Marketers
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: b383295810d4bd1b37227cf689ee76687e940f03
+exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
+source-git-commit: 7fd93bae4d81021d328e941710152e7d3aa20b76
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '968'
 ht-degree: 0%
 
 ---
-
 
 # Richtlinien hinzufügen
 
@@ -25,6 +25,9 @@ Das Hinzufügen von Richtlinien zu GenStudio für Performance Marketers ist ein 
 Um eine Marke zu GenStudio für Performance Marketers hinzuzufügen, können Sie [ein Markenhandbuch hochladen](#upload-brand-guidelines) oder [ manuell eine Marke erstellen](#manually-add-brand), indem Sie Richtlinien auswählen und Ihre Markendetails eingeben. [Publish eine Marke](#publish-brand) bis [!DNL Content], um sie für die zukünftige Inhaltserstellung verfügbar zu machen.
 
 Klicken Sie im linken Navigationsbereich auf **[!DNL Brands]**. Wählen Sie im Bedienfeld _[!DNL Brands]_die Option **Marke hinzufügen**aus.
+
+>[!TIP]
+>Jede Marke arbeitet unabhängig, ohne hierarchische Beziehungen. Wenn Sie Untermarken unter einer übergeordneten Marke erstellen möchten, schließen Sie während des Erstellungsprozesses die Informationen der übergeordneten Marke ein.
 
 ### Marke per Upload hinzufügen
 
