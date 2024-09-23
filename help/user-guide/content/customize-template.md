@@ -3,13 +3,13 @@ title: Anpassen einer Vorlage
 description: Erfahren Sie, wie Sie Ihre Vorlage für Adobe GenStudio für Performance-Marketer personalisieren und optimieren können.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 909ac53580e672df1adf0c73e67a32f2c045dc35
+exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
+source-git-commit: 8ea0c17b60b18928540070448ad1ce0206208b00
 workflow-type: tm+mt
 source-wordcount: '1032'
 ht-degree: 0%
 
 ---
-
 
 # Vorlagen anpassen
 
@@ -98,21 +98,21 @@ _Abschnitte_ informieren GenStudio für Leistungs-Marketingexperten darüber, da
 
 Verwenden Sie ein Präfix Ihrer Wahl im Feldnamen, um anzugeben, dass ein Feld Teil eines Abschnitts oder einer Gruppe ist. Sie können beispielsweise Inhalte in einem hervorgehobenen Bereich markieren:
 
-- `spotlight_headline`
-- `spotlight_body`
+- `pod1_headline`
+- `pod1_body`
 
-Jeder Abschnitt kann nur einen Feldtyp verwenden. Im obigen Beispiel kann der Abschnitt `spotlight` nur ein einziges `spotlight_headline` -Feld verwenden.
+Jeder Abschnitt kann nur einen Feldtyp verwenden. Im obigen Beispiel kann der Abschnitt `pod1` nur ein einziges `pod1_headline` -Feld verwenden.
 
 Eine Vorlage kann aus bis zu drei Bereichen bestehen:
 
 - `headline`
 - `body`
-- `spotlight_headline`
-- `spotlight_body`
-- `news_headline`
-- `news_body`
+- `pod1_headline`
+- `pod1_body`
+- `pod2_headline`
+- `pod2_body`
 
-GenStudio for Performance Marketers erkennt, dass `spotlight_headline` enger mit `spotlight_body` als mit `news_body` verbunden ist.
+GenStudio for Performance Marketers erkennt, dass `pod1_headline` enger mit `pod1_body` als mit `pod2_body` verbunden ist.
 
 ## Vorschau der Vorlage
 
@@ -224,14 +224,18 @@ Im Beispiel oben ist dieselbe HTML-Vorlage zu sehen, jedoch mit zwei weiteren Ab
                 width="600" height="600"
                 border="0"/></p>
         <p>{{ body }}</p>
+    <!-- Pod1 -->
         <div class="pod">
-            <h2>{{ pod1_headline }}</h2>
-            <p>This is Pod 1 content.</p>
+            <h2>{{ pod1_header }}</h2>
+            <p>{{ pod1_body }}</p>
         </div>
+        <!-- End of Pod1 -->
+    <!-- Pod2 -->
         <div class="pod">
-            <h2>{{ pod2_headline }}</h2>
-            <p>This is Pod 2 content.</p>
+            <h2>{{ pod2_header }}</h2>
+            <p>{{ pod2_body }}</p>
         </div>
+        <!-- End of Pod2 -->
     </div>
 </body>
 </html>
@@ -293,4 +297,3 @@ Im Folgenden finden Sie ein grundlegendes Beispiel für eine Meta-Anzeigenvorlag
 ```
 
 +++
-
