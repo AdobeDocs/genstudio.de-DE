@@ -1,22 +1,22 @@
 ---
-title: GenStudio für Leistungs-Marketingexperten [!DNL Products]
-description: GenStudio for Performance Marketers [!DNL Products] beinhaltet alle Aspekte Ihres Produkts - Bilder, Beschreibungen und Wertvorschläge -, um relevante Inhalte zu erstellen, die die Produktstärken hervorheben und die Konsistenz von Produktnachrichten gewährleisten.
+title: GenStudio for Performance Marketing [!DNL Products]
+description: GenStudio for Performance Marketing [!DNL Products] beinhaltet alle Aspekte Ihres Produkts - Bilder, Beschreibungen und Wertvorschläge -, um relevante Inhalte zu erstellen, die die Produktstärken hervorheben und die Konsistenz von Produktnachrichten gewährleisten.
 feature: Products Service, Guidelines
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: a9aee814-cca6-4973-a6db-842de7622a8a
+source-git-commit: 874c6f08b39b6e72d2c3d4ade5a2c78be0fcfa31
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
 
+# GenStudio for Performance Marketing [!DNL Products]
 
-# GenStudio für Leistungs-Marketingexperten [!DNL Products]
+[!DNL Products] in GenStudio für Performance Marketing nutzen ein tiefes Verständnis der Produktspezifikationen, Vorteile und Differenzierungsfaktoren, um wirkungsvolle Inhalte zu generieren.
 
-GenStudio for Performance Marketers [!DNL Products] nutzt ein tiefes Verständnis der Produktspezifikationen, Vorteile und Differenzierungsfaktoren, um wirkungsvolle Inhalte zu generieren.
+[!DNL Products] umfasst alle Elemente eines bestimmten Produkts, z. B. Bilder, Beschreibungen und Wertvorschläge, um eine einheitliche Markendarstellung zu erstellen. Die Nutzung von Adobe für erweiterte KI-Technologien, GenStudio-Marketing-Richtlinien -[[!DNL Brands], [!DNL Products] und [!DNL Personas]](/help/user-guide/guidelines/overview.md) - arbeitet zusammen, um überzeugende Inhalte zu generieren, die die Stärken Ihrer Produkte präsentieren und für Konsistenz aller Nachrichten sorgen.
 
-[!DNL Products] umfasst alle Elemente eines bestimmten Produkts, z. B. Bilder, Beschreibungen und Wertvorschläge, um eine einheitliche Markendarstellung zu erstellen. Die Nutzung der Stärken der erweiterten KI-Technologie, der GenStudio-Richtlinien für Performance-Marketingexperten -[[!DNL Brands], [!DNL Products] und [!DNL Personas]](/help/user-guide/guidelines/overview.md) - arbeitet zusammen, um überzeugende Inhalte zu generieren, die die Produktmerkmale präsentieren und für Konsistenz aller Nachrichten sorgen.
-
-![[!DNL Products] Richtlinien in GenStudio für Performance-Marketer](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
+![[!DNL Products] Richtlinien in GenStudio für Performance-Marketing](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
 
 **So zeigen Sie ein Produkt an oder ändern es**:
 
@@ -24,11 +24,11 @@ GenStudio for Performance Marketers [!DNL Products] nutzt ein tiefes Verständni
 1. Um [ einzelne Details anzuzeigen oder ein Produkt zu ändern, klicken Sie auf das Aktionsmenü _[!DNL Products]_und wählen Sie **[!UICONTROL Öffnen]**aus.](add-guidelines.md#manage-products)
 1. Überarbeiten Sie die Produktrichtlinien, indem Sie in ein Textfeld für Führungslinien-Kategorien klicken.
 
-Unter [Richtlinien hinzufügen](add-guidelines.md) erfahren Sie, wie Sie ein Produkt in GenStudio für Leistungs-Marketingexperten hinzufügen oder ändern.
+Informationen zum Hinzufügen oder Ändern eines Produkts in GenStudio für Performance Marketing finden Sie unter [Richtlinien hinzufügen](add-guidelines.md) .
 
 ## [!DNL Products] Führungslinien
 
-Individuelle Produktrichtlinien geben GenStudio for Performance Marketers ein klares Bild von Ihren Produkten.
+GenStudio for Performance Marketing gibt Ihnen mit individuellen Produktrichtlinien einen Überblick über Ihre Produkte.
 
 In diesen Richtlinien werden die einzelnen Kategorien von Richtlinien und zugehörige Beispiele beschrieben. Die Beispiele sind Beispieleingaben, die die Ausgabe des generierten Inhalts formen. Verwenden Sie diese, um Ihre [!DNL Products] -Richtlinien zu informieren.
 

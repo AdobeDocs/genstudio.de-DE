@@ -1,24 +1,24 @@
 ---
 title: E-Mail-Erlebnis erstellen
-description: Erfahren Sie, wie Sie in Adobe [!DNL GenStudio] E-Mail-Erlebnisse für Performance-Marketingexperten erstellen.
+description: Erfahren Sie, wie Sie E-Mail-Erlebnisse in Adobe GenStudio für Performance-Marketing erstellen.
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: a00d4fcaabb97eae69294ddc9689179842d49512
+source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '854'
 ht-degree: 0%
 
 ---
 
 # E-Mail-Erlebnis erstellen
 
-In diesem Tutorial erfahren Sie, wie Sie mit GenStudio for Performance Marketers [[!DNL Create]](/help/user-guide/create/overview.md) (Paintbrush-Symbol im linken Navigationsbereich) Erlebnisse mit Marken-E-Mails erstellen.
+In diesem Tutorial erfahren Sie, wie Sie mit GenStudio für Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) Erlebnisse mit Branding-E-Mails erstellen (Paintbrush-Symbol im linken Navigationsbereich).
 
-Um ein effektives E-Mail-Erlebnis zu schaffen, sollten Sie GenStudio Richtlinien für Performance-Marketingexperten hinzufügen](/help/user-guide/guidelines/add-guidelines.md) und die [Grundlagen für die Erstellung einer Eingabeaufforderung](/help/user-guide/effective-prompts.md) aufpolieren, bevor Sie beginnen.[
+Um ein effektives E-Mail-Erlebnis zu schaffen, sollten Sie GenStudio Richtlinien für Performance Marketing](/help/user-guide/guidelines/add-guidelines.md) hinzufügen und die [Grundlagen für die Erstellung einer Eingabeaufforderung](/help/user-guide/effective-prompts.md) aufpolieren, bevor Sie beginnen.[
 
 ## Vorlage auswählen
 
@@ -41,7 +41,7 @@ Durch das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview
 1. Klicken Sie auf das Symbol _Parameter_ , um den Eingabeaufforderungsbereich zu erweitern.
 1. Wählen Sie im Abschnitt _Parameter_ die Richtlinien [!DNL Brands], [!DNL Personas] und [!DNL Products] aus, um die Inhaltserstellung zu informieren.
 
-   Wenn in diesen Menüs keine Marken, Rollen oder Produkte verfügbar sind, fügt [Ihrer GenStudio Richtlinien für Performance Marketers hinzu](/help/user-guide/guidelines/add-guidelines.md).
+   Wenn in diesen Menüs keine Marken, Personas oder Produkte verfügbar sind, fügt [Ihrer GenStudio Richtlinien für Performance-Marketing hinzu](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Klicken Sie auf **[!UICONTROL Inhalt auswählen]** , um Inhalte hinzuzufügen, die im Erlebnis *und* verwendet werden sollen, um die Inhaltserstellung zu beeinflussen.
    * Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** , um Assets (Bilder) auszuwählen, die bereits in [!DNL Content] veröffentlicht wurden. Verwenden Sie die Filter, um die Suchergebnisse weiter einzugrenzen.

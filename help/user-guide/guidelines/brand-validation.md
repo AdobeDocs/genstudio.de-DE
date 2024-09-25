@@ -1,9 +1,9 @@
 ---
-title: Markenvalidierung in Adobe GenStudio für Performance Marketers
-description: Erfahren Sie, wie das integrierte Markenvalidierungssystem in GenStudio für Performance Marketingexperten funktioniert.
+title: Markenvalidierung in Adobe GenStudio für Performance Marketing
+description: Erfahren Sie, wie das integrierte Markenvalidierungssystem in GenStudio für Performance Marketing funktioniert.
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: a00d4fcaabb97eae69294ddc9689179842d49512
+source-git-commit: 86f9c94956b7e4891aa237ad00428753903d2839
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 0%
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Markenvalidierung
 
-In GenStudio für Performance Marketers ist die Markenvalidierung eine wesentliche Komponente, die in Zusammenarbeit mit den generativen KI-Funktionen und -Richtlinien -[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) und [[!DNL Personas]](/help/user-guide/guidelines/personas.md) funktioniert. Dadurch wird sichergestellt, dass alle Ihre Inhalte mit Ihrer Markenidentität übereinstimmen.
+In GenStudio for Performance Marketing ist die Markenvalidierung eine wichtige Komponente, die in Zusammenarbeit mit den generativen KI-Funktionen und -Richtlinien -[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) und [[!DNL Personas]](/help/user-guide/guidelines/personas.md) funktioniert. Dadurch wird sichergestellt, dass alle Ihre Inhalte mit Ihrer Markenidentität übereinstimmen.
 
-GenStudio for Performance Marketers führt eine Markenvalidierung zu verschiedenen Aspekten durch, darunter:
+GenStudio for Performance Marketing führt eine Markenvalidierung zu verschiedenen Aspekten durch, darunter:
 
 * Für jeden Kunden spezifische Markenrichtlinien
 * Kopieren von Richtlinien für verschiedene Kanalplattformen

@@ -1,13 +1,13 @@
 ---
-title: Generieren von Varianten von Adobe GenStudio für Performance Marketers-Inhalte
-description: Erfahren Sie, wie Sie Varianten von erstellten Inhalten in Adobe GenStudio für Performance Marketers generieren.
+title: Generieren von Varianten von Adobe GenStudio für Performance-Marketing-Inhalte
+description: Erfahren Sie, wie Sie Varianten von erstellten Inhalten im Adobe GenStudio für Performance Marketing generieren.
 feature: Content, Brands Service, Variant Generation, Content Generation
 role: User
 level: Beginner
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -18,7 +18,7 @@ Beim Generieren von Varianten haben Sie die Möglichkeit, neue [Führungslinien]
 
 ## E-Mail
 
-GenStudio for Performance Marketers generiert standardmäßig vier E-Mail-Varianten. Sie können manuell geändert oder neu generiert werden, indem Sie eine Mischung aus neuen Eingabeaufforderungen und _Parametern_ verwenden, um stilistische Ziele oder Markenbefolgung zu erreichen.
+GenStudio for Performance Marketing generiert standardmäßig vier E-Mail-Varianten. Sie können manuell geändert oder neu generiert werden, indem Sie eine Mischung aus neuen Eingabeaufforderungen und _Parametern_ verwenden, um stilistische Ziele oder Markenbefolgung zu erreichen.
 
 **So ändern Sie generierte E-Mail-Varianten:**
 
@@ -27,6 +27,6 @@ GenStudio for Performance Marketers generiert standardmäßig vier E-Mail-Varian
    1. Wählen Sie **[!UICONTROL Marke]**, **[!UICONTROL Persona]** oder **[!UICONTROL Produkt]** [Richtlinien](/help/user-guide/guidelines/overview.md).
    1. Fügen Sie Bilder im Abschnitt _[!UICONTROL Inhalt]_ hinzu oder löschen Sie sie.
    1. Geben Sie eine neue Eingabeaufforderung in das Eingabeaufforderungsfeld _&quot;Beschreiben Sie die Erlebnisse, die Sie generieren möchten&quot;_ ein.
-1. Klicken Sie auf **[!UICONTROL Erzeugen]**.
+1. Klicken Sie auf **[!UICONTROL Generieren]**.
 
 Es werden neue Varianten generiert. Sie können Varianten so lange ändern, generieren und iterieren, bis Sie bereit sind, sie in [!DNL Content] zu veröffentlichen und zur Verwendung zu exportieren.

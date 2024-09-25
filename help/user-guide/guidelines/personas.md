@@ -1,22 +1,22 @@
 ---
-title: GenStudio für Leistungs-Marketingexperten [!DNL Personas]
-description: GenStudio for Performance Marketers [!DNL Personas] sind eine wahre Darstellung Ihrer Kundensegmente, um deren Interessen, Schmerzpunkte, Voreinstellungen und Verhaltenseigenschaften zu erfassen.
+title: GenStudio for Performance Marketing [!DNL Personas]
+description: GenStudio for Performance Marketing [!DNL Personas] sind eine wahre Darstellung Ihrer Kundensegmente, um deren Interessen, Schmerzpunkte, Voreinstellungen und Verhaltenseigenschaften zu erfassen.
 feature: Personas Service, Guidelines
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: f8c86f0b-81fe-4b94-b3d1-438de411864a
+source-git-commit: 86f9c94956b7e4891aa237ad00428753903d2839
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 0%
 
 ---
 
-
-# GenStudio für Leistungs-Marketingexperten [!DNL Personas]
+# GenStudio for Performance Marketing [!DNL Personas]
 
 [!DNL Personas] bietet eine authentische Darstellung Ihrer Kundensegmente, einschließlich ihrer Informationen, Interessen, Schmerzpunkte, Voreinstellungen und Verhaltenseigenschaften.
 
-GenStudio for Performance Marketers nutzt die Vorteile von Richtlinien -[[!DNL Brands], [!DNL Products] und [!DNL Personas]](overview.md) - und der generativen Adobe-KI-Technologie, um personalisierte Marketinginhalte für Ihre Zielkunden zu kuratieren. &#x200B;
+GenStudio for Performance Marketing nutzt die Vorteile von Richtlinien -[[!DNL Brands], [!DNL Products] und [!DNL Personas]](overview.md) - und der generativen Adobe-KI-Technologie, um personalisierte Marketinginhalte für Ihre Zielkunden zu kuratieren. &#x200B;
 
-![[!DNL Personas] Richtlinien in GenStudio für Performance-Marketer](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
+![[!DNL Personas] Richtlinien in GenStudio für Performance-Marketing](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
 
 **So zeigen Sie eine Persona an oder ändern diese:**
 
@@ -24,11 +24,11 @@ GenStudio for Performance Marketers nutzt die Vorteile von Richtlinien -[[!DNL B
 1. Um [ einzelne Details anzuzeigen oder eine Rolle zu ändern, klicken Sie auf das Aktionsmenü _[!DNL Personas]_und wählen Sie **Öffnen**aus.](add-guidelines.md#manage-personas)
 1. Überarbeiten Sie die Personas-Richtlinien, indem Sie in ein Textfeld für Führungslinien-Kategorien klicken.
 
-Unter [Richtlinien hinzufügen](add-guidelines.md) erfahren Sie, wie Sie eine Persona in GenStudio für Leistungs-Marketingexperten hinzufügen oder ändern.
+Unter [Richtlinien hinzufügen](add-guidelines.md) erfahren Sie, wie Sie in GenStudio für Performance Marketing eine Rolle hinzufügen oder ändern.
 
 ## [!DNL Personas] Führungslinien
 
-Individuelle persönliche Richtlinien geben GenStudio for Performance Marketers ein klares Bild von Ihrem [!DNL Personas].
+Individuelle persönliche Richtlinien geben GenStudio for Performance Marketing ein klares Bild Ihres [!DNL Personas].
 
 In diesen Richtlinien werden die einzelnen Kategorien von Richtlinien und zugehörige Beispiele beschrieben. Die Beispiele sind Beispieleingaben, die die Ausgabe des generierten Inhalts formen. Verwenden Sie diese, um Ihre eigenen [!DNL Personas]-Richtlinien zu informieren.
 

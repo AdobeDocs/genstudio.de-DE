@@ -1,13 +1,13 @@
 ---
 title: Erstellen eines Meta-Anzeigenerlebnisses
-description: Erfahren Sie, wie Sie mit Adobe GenStudio für Performance Marketingexperten branchenspezifische Meta-Anzeigenerlebnisse für Facebook oder Instagram erstellen.
+description: Erfahren Sie, wie Sie mit Adobe GenStudio für Performance-Marketing On-Brand-Meta-Anzeigenerlebnisse für Facebook oder Instagram erstellen.
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: c102556fb1c95b70dc724252e4ecdc9ce10c89e7
+source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # Erstellen eines Meta-Anzeigenerlebnisses
 
-In diesem Tutorial erfahren Sie, wie Sie mit GenStudio für Performance Marketers [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich) Markenmeta-Anzeigenerlebnisse erstellen.
+In diesem Tutorial erfahren Sie, wie Sie mit GenStudio für Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich) Markenmeta-Anzeigenerlebnisse erstellen.
 
-Bevor Sie mit der Generierung eines Meta-Anzeigenerlebnisses beginnen, müssen Sie [Richtlinien](/help/user-guide/guidelines/add-guidelines.md) in GenStudio für Performance-Marketingexperten einbinden und sich mit den Grundlagen von [Erstellen einer Eingabeaufforderung](/help/user-guide/effective-prompts.md) vertraut machen.
+Bevor Sie mit der Generierung eines Meta-Anzeigenerlebnisses beginnen, müssen Sie [Richtlinien](/help/user-guide/guidelines/add-guidelines.md) in GenStudio für Performance Marketing einbinden und sich mit den Grundlagen von [Erstellen einer Eingabeaufforderung](/help/user-guide/effective-prompts.md) vertraut machen.
 
 ## Vorlage auswählen
 
@@ -41,7 +41,7 @@ Das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview.md) u
 1. Klicken Sie auf das Symbol _Parameter_ , um den Eingabeaufforderungsbereich zu erweitern.
 1. Wählen Sie im Abschnitt _Parameter_ die Richtlinien [!DNL Brands], [!DNL Personas] und [!DNL Products] aus, um die Inhaltserstellung zu informieren.
 
-   Wenn in diesen Menüs keine Marken, Rollen oder Produkte verfügbar sind, fügt [Ihrer GenStudio Richtlinien für Performance Marketers hinzu](/help/user-guide/guidelines/add-guidelines.md).
+   Wenn in diesen Menüs keine Marken, Personas oder Produkte verfügbar sind, fügt [Ihrer GenStudio Richtlinien für Performance-Marketing hinzu](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Klicken Sie auf **[!UICONTROL Inhalt auswählen]** , um Inhalte hinzuzufügen, die im Erlebnis *und* verwendet werden sollen, um die Inhaltserstellung zu beeinflussen.
    * Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** , um Assets (Bilder) auszuwählen, die bereits in [!DNL Content] veröffentlicht wurden. Verwenden Sie die Filter, um die Suchergebnisse weiter einzugrenzen.
@@ -125,6 +125,6 @@ Weitere Informationen finden Sie unter [[!DNL Content]](/help/user-guide/content
 
 ## Meta verbinden
 
-Sie können GenStudio for Performance Marketers mit Meta verbinden, um erweiterte Analysen und [Einblicke](/help/user-guide/insights/overview.md) in die Inhaltsleistung zu erhalten.
+Sie können GenStudio for Performance Marketing mit Meta verbinden, um erweiterte Analysen und [Einblicke](/help/user-guide/insights/overview.md) in die Inhaltsleistung zu erhalten.
 
 Weitere Informationen finden Sie unter [Kanalkonto verbinden](/help/user-guide/insights/connect-channel.md) .

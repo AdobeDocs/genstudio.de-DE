@@ -1,18 +1,18 @@
 ---
-title: Überblick über GenStudio für Performance Marketingexperten [!DNL Create]
-description: Schnelles Generieren leistungsstarker On-Brand-Inhalte mit generativer KI im Adobe GenStudio für Performance-Marketingexperten [!DNL Create].
+title: Übersicht über GenStudio für Performance-Marketing [!DNL Create]
+description: Schnelles Generieren leistungsstarker On-Brand-Inhalte mit generativer KI in Adobe GenStudio für Performance Marketing [!DNL Create].
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: dab19da0063d6f4f4497112c4063bfc9c285e651
+source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 1%
 
 ---
 
-# GenStudio für Leistungs-Marketingexperten [!DNL Create]
+# GenStudio for Performance Marketing [!DNL Create]
 
-GenStudio for Performance Marketers [!DNL Create] nutzt die Leistungsfähigkeit von Adobe GenAI, um Marketingexperten und verteilten Teams die Möglichkeit zu geben, leistungsstarke On-Brand-Erlebnisse zu schaffen.
+GenStudio for Performance Marketing [!DNL Create] nutzt die Leistungsfähigkeit von Adobe GenAI, um Marketingexperten und verteilten Teams die Möglichkeit zu geben, leistungsstarke On-Brand-Erlebnisse zu schaffen.
 
 Mit [!DNL Create] können Sie Inhalte für die folgenden Kanäle generieren:
 
@@ -60,13 +60,13 @@ Zusammen mit den Vorteilen von [guidelines](/help/user-guide/guidelines/overview
 </tr>
 </table>
 
-Mit GenStudio für Performance Marketers können Marketing-Experten **neue Marketinginhalte erstellen**. Verwenden Sie in diesem Anwendungsfall definierte [Führungslinien](/help/user-guide/guidelines/overview.md) und inspirierende Bilder, um die Erstellung markenorientierter Inhalte zu unterstützen.
-<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketers and use the power of Adobe generative AI technology to revise and improve existing content. 
+GenStudio for Performance Marketing ermöglicht es Marketing-Experten, **neue Marketinginhalte zu erstellen**. Verwenden Sie in diesem Anwendungsfall definierte [Führungslinien](/help/user-guide/guidelines/overview.md) und inspirierende Bilder, um die Erstellung markenorientierter Inhalte zu unterstützen.
+<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketing and use the power of Adobe generative AI technology to revise and improve existing content. 
 * **Generate variants of approved content** - In this use case, [generate variations of content that is approved by stakeholders](generate-variants.md) and published to [!DNL Content]. -->
 
 ## [!DNL Create] Funktionen
 
-[!DNL Create] integriert verschiedene Komponenten von GenStudio für Performance Marketingexperten, um Benutzer bei der Erstellung von Inhalten zu unterstützen.
+[!DNL Create] integriert verschiedene Komponenten von GenStudio für Performance Marketing, um Benutzer bei der Erstellung von Inhalten zu unterstützen.
 
 ### Entwürfe
 
@@ -92,11 +92,11 @@ Im Eingabeaufforderungsbereich können Sie _Parameter_ wie [!DNL Brands], [!DNL 
 
 In _Parameter_ hochgeladene Bilder werden in generierten Varianten verwendet und geben den für Varianten generierten Kopierinhalt (Text) an.
 
-Diese hinzugefügten Parameter fügen [guidelines](/help/user-guide/guidelines/overview.md) und Assets in den Generierungsprozess ein, um sicherzustellen, dass der Inhalt an die umfassende Identität einer Marke angepasst wird. Es wird empfohlen, Ihrer GenStudio Richtlinien für Leistungs-Marketingexperten hinzuzufügen und diese während des Inhaltserstellungsprozesses zu verwenden, da sie die Erstellung geeigneter On-Brand-Inhalte erheblich verbessern.
+Diese hinzugefügten Parameter fügen [guidelines](/help/user-guide/guidelines/overview.md) und Assets in den Generierungsprozess ein, um sicherzustellen, dass der Inhalt an die umfassende Identität einer Marke angepasst wird. Es wird empfohlen, Ihrer GenStudio Richtlinien für Performance-Marketing hinzuzufügen und diese während des Inhaltserstellungsprozesses zu verwenden, da sie die Erstellung von geeigneten On-Brand-Inhalten erheblich verbessern.
 
 ### Markenvalidierung
 
-GenStudio for Performance Marketers führt eine Markenvalidierung für verschiedene Aspekte der Markenidentität durch (wie in [Führungslinien](/help/user-guide/guidelines/overview.md) definiert). [Informationen zur Markenvalidierung](/help/user-guide/guidelines/brand-validation.md) sind für jeden generierten Inhalt verfügbar und geben an, ob die Markenrichtlinien eingehalten wurden und ob Text und Bilder einheitlich sind. Mithilfe dieser Informationen können Sie Ihr generiertes Erlebnis überarbeiten oder verbessern, um es besser an Ihre Marke anzupassen.
+GenStudio for Performance Marketing führt eine Markenvalidierung für verschiedene Aspekte der Markenidentität durch (wie in [Führungslinien](/help/user-guide/guidelines/overview.md) definiert). [Informationen zur Markenvalidierung](/help/user-guide/guidelines/brand-validation.md) sind für jeden generierten Inhalt verfügbar und geben an, ob die Markenrichtlinien eingehalten wurden und ob Text und Bilder einheitlich sind. Mithilfe dieser Informationen können Sie Ihr generiertes Erlebnis überarbeiten oder verbessern, um es besser an Ihre Marke anzupassen.
 
 ### Überprüfungen und Genehmigungen
 
@@ -106,7 +106,7 @@ Nachdem Sie die Erstellung von Inhaltsvarianten abgeschlossen haben, senden Sie 
 
 ### Varianten verwalten
 
-GenStudio for Performance Marketers ermöglicht [eine umfassende Kontrolle über Abschnitte einzelner Varianten](/help/user-guide/create/manage-variants.md).
+GenStudio for Performance Marketing ermöglicht [eine umfassende Kontrolle über Abschnitte einzelner Varianten](/help/user-guide/create/manage-variants.md).
 
 Sie können Abschnitte einer einzelnen Variante überarbeiten, den Inhalt einzelner Abschnitte neu generieren und vorgeschlagene Bearbeitungen verwenden, um die Nachricht zu verbessern, Assets zu vergrößern und vieles mehr, und das alles auf der Arbeitsfläche.
 
