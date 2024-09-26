@@ -2,13 +2,13 @@
 title: Effektive Eingabeaufforderungen schreiben
 description: Erfahren Sie, wie Sie effektive Aufforderungen zum Adobe GenStudio für Performance Marketingexperten schreiben.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: 306b64b44e69dbcec3984d1a0b54230fe0dbe48c
+exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
+source-git-commit: 016cd2b5415651ed3cf157244f868315234330fa
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '758'
 ht-degree: 0%
 
 ---
-
 
 # Effektive Eingabeaufforderungen schreiben
 
@@ -54,6 +54,44 @@ Die Richtlinien von GenStudio for Performance Marketers helfen der generativen K
 >[!TIP]
 >
 >Sie steuern, wie und wann GenStudio for Performance Marketers Ihre [!DNL Brand] -Richtlinien verwendet. Informationen zum Konfigurieren und Verwalten Ihrer Markenrichtlinien finden Sie unter [Richtlinien](/help/user-guide/guidelines/overview.md) .
+
+### Strukturierte Eingabeaufforderungen
+
+Bei E-Mails mit mehreren Abschnitten können Sie Aufforderungen strukturieren, um bereichsspezifische Anweisungen zur Generierung variierender Inhalte für jeden Bereich in einer E-Mail bereitzustellen. Strukturierte Eingabeaufforderungen sollten direkt auf [Abschnittsnamen in der E-Mail-Vorlage](/help/user-guide/content/email-template.md#multi-section-emails) verweisen, damit der generierte Inhalt in die entsprechenden Inhaltsplatzhalter eingefügt werden kann.
+
+Beispielsweise können Sie GenStudio for Performance Marketing anweisen, Inhalte zu erstellen, die ein neues Produkt im ersten Teil einer E-Mail bewerben, und Inhalte zu generieren, die die kostensparenden Vorteile des Produkts im zweiten E-Mail-Abschnitt detailliert beschreiben.
+
+Die strukturierte Eingabeaufforderung sollte:
+
+- Verwenden Sie einen der folgenden Verweise auf den Abschnittsnamen in der E-Mail-Vorlage:
+   - Pod
+   - Gruppe
+   - Abschnitt
+   - Modul
+
+  Wenn Ihre Vorlage beispielsweise `moduleA` oder `Group-3` als Abschnittsnamen verwendet, können Sie diese Abschnittsnamen in der Eingabeaufforderung referenzieren.
+
+- Befolgen Sie die empfohlenen Regeln/Strukturen. Wenn die Eingabeaufforderungsstruktur nicht dem angegebenen Format entspricht, gilt die Eingabeaufforderung für die E-Mail-Abschnitte *Alle* und erleichtert weiterhin die Inhaltserstellung.
+- Verwenden Sie die Abschnittsnamen als [definiert in Ihrer E-Mail-Vorlage](/help/user-guide/content/email-template.md#code-an-email-template). Die Eingabeaufforderungen müssen mit den Abschnittsnamen übereinstimmen, die in Ihrer E-Mail-Vorlage codiert sind.
+- Beachten Sie nicht die Groß-/Kleinschreibung. Sie können beispielsweise `Pod` oder `pod` in Ihrer E-Mail-Vorlage und in der strukturierten Eingabeaufforderung verwenden.
+- Verweisen Sie zuerst auf die generische Benutzeraufforderung und dann auf die bereichsspezifischen Anweisungen.
+- Verwenden Sie einen Doppelpunkt, einen Bindestrich, ein Komma oder eine andere Abgrenzung (`,:;#$!~|@=-%&*^_`) als Trennung zwischen der Referenz zum Abschnittsnamen und der Anweisung. Beispielsweise können Sie Folgendes als eine bereichsspezifische Eingabeaufforderungsanweisung verwenden: `Pod1; Describe how to easily edit text and swap images.`
+
+Im Folgenden finden Sie eine Beispielaufforderung, die die empfohlene Eingabeaufforderungsstruktur artikuliert und eine E-Mail-Vorlage verwendet, die den Identifizierungsbegriff `Pod` wie in `Pod1`, `Pod2` und `Pod3` verwendet.
+
+```properties
+Create an exciting multi-pod email focusing on Creative Cloud and its powerful generative AI capabilities.
+
+Encourage customers to convert to Photoshop or use a free Photoshop trial. We want to better educate them about app features.
+
+Pod1: Focus on Adobe Photoshop and its new generative AI tools that enable creators to bring images to life in minutes.
+
+Pod2: Focus on Adobe Illustrator and its new generative AI tools, such as Generative Shape Fill, which allows you to quickly fill your vector outline and explore a variety of options that match the look and feel of your own artwork.
+
+Pod3: Focus on Adobe Acrobat Pro. Make users aware that with Acrobat Pro they can edit images and text inside a PDF.
+```
+
+Siehe [Vorbereiten einer E-Mail-Vorlage](/help/user-guide/content/email-template.md#code-an-email-template).
 
 ## Erneut versuchen
 

@@ -3,13 +3,13 @@ title: E-Mail-Vorlage für Adobe GenStudio für Performance Marketers vorbereite
 description: Erfahren Sie, wie Sie eine benutzerdefinierte E-Mail-Vorlage für Adobe GenStudio für Performance Marketingexperten erstellen.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
+exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
+source-git-commit: 58833ed0c8e28061ab2584b7949f2a0cbd3d10cc
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
-
 
 # E-Mail-Vorlage für Adobe GenStudio für Performance Marketingexperten vorbereiten
 
@@ -30,6 +30,14 @@ Wenn GenStudio für Performance Marketers keine Richtlinien hinzugefügt werden,
 Nachdem eine Vorlage entworfen wurde, wird sie mit HTML und Inline-CSS codiert. Der Code sollte für verschiedene Geräte sauber und responsiv sein.
 
 Siehe [Vorlagenbeispiele](/help/user-guide/content/customize-template.md#template-examples).
+
+### E-Mails mit mehreren Abschnitten
+
+Sie können während der Inhaltserstellung [strukturierte Eingabeaufforderungen](/help/user-guide/effective-prompts.md#structured-prompts) verwenden, um GenStudio for Performance Marketing anzuweisen, variierende Inhalte pro Abschnitt einer E-Mail zu generieren.
+
+Wenn den Abschnitten in Ihrer E-Mail-Vorlage beispielsweise das Präfix &quot;`Pod`—`Pod1`&quot;und &quot;`Pod2`&quot;vorangestellt ist, kann die strukturierte Eingabeaufforderung für die Inhaltserstellung spezifische Anweisungen für diese E-Mail-Abschnitte enthalten. GenStudio for Performance Marketing stimmt die bereichsspezifische Anweisung in Ihrer Eingabeaufforderung mit dem entsprechenden E-Mail-Abschnitt überein und generiert Inhalte, die mit den Anweisungen übereinstimmen.
+
+Siehe [Strukturierte Eingabeaufforderungen](/help/user-guide/effective-prompts.md#structured-prompts).
 
 ## Testen einer E-Mail-Vorlage
 
