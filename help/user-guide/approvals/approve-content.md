@@ -2,27 +2,26 @@
 title: Inhalt validieren
 description: Erfahren Sie, wie Sie Inhalte genehmigen.
 feature: Approval
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: f6458d8f-dff3-448e-9f08-6d192f8a91d9
+source-git-commit: 447742667d1b4527a793aef12207bad51c4cb4d4
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-
 # Inhalt validieren
 
-Genehmiger erhalten sowohl produktinterne als auch E-Mail-Benachrichtigungen, wenn ihre Überprüfung und Genehmigung erforderlich ist. Beide Benachrichtigungen enthalten einen Link zur Arbeitsfläche, auf der der zu überprüfende Inhalt angezeigt wird.
+Genehmiger erhalten produktinterne Benachrichtigungen, E-Mails und, falls aktiviert, Slack-Benachrichtigungen, wenn eine Überprüfung und Genehmigung erforderlich ist. Benachrichtigungen enthalten einen Link zur Arbeitsfläche, auf der der zu überprüfende Inhalt angezeigt wird. Informationen zur Verwaltung Ihrer Benachrichtigungen finden Sie unter [Kontovoreinstellungen und Benachrichtigungen](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) .
 
 Wenn der Inhaltsentwurf den Standards Ihres Unternehmens und Ihren Erwartungen entspricht, können Sie den Entwurf genehmigen.
 
 **So genehmigen Sie einen Entwurf**:
 
-1. Greifen Sie über die In-Produkt- oder E-Mail-Benachrichtigung auf den Entwurf zu. Wenn Sie aufgefordert wurden, mehr als ein Element zu überprüfen, enthält diese E-Mail die Schaltfläche &quot;**[!UICONTROL Alle Benachrichtigungen anzeigen]**&quot;. Klicken Sie auf diese Schaltfläche, um eine verlinkte Liste aller ausstehenden Genehmigungsanfragen anzuzeigen, mit denen Sie zu dem Inhalt navigieren können, den Sie genehmigen möchten.
+1. Greifen Sie über die in der Benachrichtigung enthaltene Benachrichtigung oder durch Klicken auf die Schaltfläche **[!UICONTROL Alle Benachrichtigungen anzeigen]** der Benachrichtigungs-E-Mail auf den Entwurf zu, um zum Entwurf zu navigieren.
 
-1. (_Optional_). Geben Sie Kommentare in das Textfeld Kommentare ein.
+1. (_Optional_). Geben Sie Kommentare in das Textfeld **[!UICONTROL Kommentare]** ein.
 
-1. Ändern Sie den Entwurfsstatus von **Erforderliche Arbeit** in **Genehmigt**.
+1. Wählen Sie **[!UICONTROL Genehmigt]** aus.
 
-Deine Arbeit als Genehmiger ist erledigt. GenStudio for Performance Marketers warnt den Verfasser Ihrer Genehmigung. Unter [Publish-Inhalt](./publish-content.md) finden Sie einen Überblick über den Speichervorgang in [!DNL Content] oder _Veröffentlichung_.
-
+Deine Arbeit als Genehmiger ist erledigt. Adobe GenStudio for Performance Marketing benachrichtigt den Verfasser des Genehmigungsentwurfs. Unter [Publish-Inhalt](./publish-content.md) finden Sie einen Überblick über den Speichervorgang in [!DNL Content] oder _Veröffentlichung_.
