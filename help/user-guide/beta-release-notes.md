@@ -2,9 +2,9 @@
 title: Versionshinweise zu Adobe GenStudio for Performance Marketing Beta
 description: Erfahren Sie mehr über die neuesten Funktionen und Verbesserungen von Adobe GenStudio for Performance Marketing.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: ca83beb4d6f5bd0d79a2da69658b6e18c3252f2e
+source-git-commit: f56f3733ead0bfcb4f37e10b66577e1ef597b76d
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '575'
 ht-degree: 0%
 
 ---
@@ -30,8 +30,6 @@ Die folgenden bekannten Probleme sind für die Lösung in der GenStudio for Perf
 * Vorlagen können hochgeladen, aber nicht angezeigt werden. **Problemumgehung**: Laden Sie ein Asset hoch, in dem das Feld **[!UICONTROL Kampagnen]** ausgefüllt ist. Laden Sie dann die Vorlage erneut hoch. <!-- GS-4815 5650-->
 
 * Benutzer können nach der Größenanpassung keine Meta-Anzeigen manuell zuschneiden. <!-- GS-5871 -->
-
-* Benutzer können neue [!DNL Campaign] aus [!DNL Content] Workflows erstellen. <!-- GS-5650 -->
 
 * Benutzer müssen sich bei einem Kanal-Meta-Anzeigen-Konto zweimal anmelden, wenn sie auch bei Facebook angemeldet sind. Problemumgehung: Melden Sie sich von Facebook ab, bevor Sie sich bei einem Kanal-Meta-Anzeigenkonto anmelden. <!-- GS-3009 -->
 
@@ -68,7 +66,6 @@ Die folgenden bekannten Probleme sind für die Lösung in der GenStudio for Perf
 * Die Bilddarstellung von Meta-Anzeigengenerierten Bildern wurde nach dem Export korrigiert. <!-- GS-5749 -->
 
 * Das Symbol &quot;`%`&quot;wird jetzt in den Gebietsschemata DEU, FRA und ESP korrekt dargestellt, wenn Benutzer E-Mail-Varianten in der Arbeitsfläche C[!DNL Create] vergrößern oder verkleinern. <!-- GS-5007 -->
-
 
 #### Lokalisierung
 
