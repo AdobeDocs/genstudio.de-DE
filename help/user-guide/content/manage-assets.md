@@ -3,7 +3,7 @@ title: Verwalten von Assets und Erlebnissen
 description: Vereinfachen und verbessern Sie die Verwaltung markengenehmigter Assets für die Verwendung und Wiederverwendung in Ihrer Digital Marketing-Journey.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: dc438085cfe7c93b20dc7fb0d5919d2dc8b3dcde
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '722'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Verwalten von Assets und Erlebnissen
 
-Adobe GenStudio für Performance Marketers [!DNL Content] vereinfacht und verbessert die Verwaltung markengenehmigter Assets zur Verwendung und Wiederverwendung in Ihrer Digital Marketing-Journey.
+Adobe GenStudio for Performance Marketing [!DNL Content] vereinfacht und verbessert die Verwaltung markengenehmigter Assets für die Verwendung und Wiederverwendung in Ihrer Digital Marketing-Journey.
 
 ## Assets-Galerie
 
@@ -24,13 +24,13 @@ Im Folgenden finden Sie eine Suche nach dem Begriff `dog` in der Galerie [!UICON
 
 ### Assets-Speicherort
 
-Standardmäßig werden Assets, die Sie [!DNL Content] über den [!DNL Create]-Prozess oder den Upload hinzufügen, im `GenStudio assets`-Repository gespeichert. Das Repository `GenStudio assets` ist ein Lese- und Schreibrepository in GenStudio für Performance Marketers. Dies bedeutet, dass Sie Assets im `GenStudio assets` -Repository speichern, bearbeiten und löschen können.
+Standardmäßig werden Assets, die Sie [!DNL Content] über den [!DNL Create]-Prozess oder den Upload hinzufügen, im `GenStudio assets`-Repository gespeichert. Das Repository `GenStudio assets` ist ein Lese- und Schreibrepository in GenStudio for Performance Marketing. Dies bedeutet, dass Sie Assets im `GenStudio assets` -Repository speichern, bearbeiten und löschen können.
 
 Die Liste **[!UICONTROL Position]** oberhalb der Galerie auf der rechten Seite ermöglicht es Ihnen, aus verbundenen Adobe Experience Manager (AEM) [!DNL Assets Content Hub] Repositorys auszuwählen. Wenn Sie ein AEM Repository auswählen, zeigt die Galerie einen Inventar der Assets aus diesem Repository an, sodass Sie genehmigte Assets aus diesen Repositorys als Eingaben für die Inhaltserstellung nutzen können. Die Filteroptionen ändern sich entsprechend den in [!DNL AEM Assets Content Hub] konfigurierten Kategorien.
 
 Das AEM-Repository ist schreibgeschützt, d. h. Sie können Entwürfe, neue Assets oder Metadaten nicht im AEM Repository speichern. Alle Entwürfe und endgültigen Aktualisierungen für Assets, Erlebnisse und Vorlagen werden mit neuen [Systemmetadaten](asset-details.md#system-metadata) im `GenStudio assets`-Repository gespeichert.
 
-Eine Anleitung zum Hinzufügen Ihres [!DNL AEM Assets Content Hub]-Repositorys zu GenStudio für Performance Marketers finden Sie unter [Verbinden eines AEM-Repositorys](connect-aem-repo.md) .
+Eine Anleitung zum Hinzufügen Ihres [!DNL AEM Assets Content Hub]-Repositorys zu GenStudio for Performance Marketing finden Sie unter [Verbinden eines AEM-Repositorys](connect-aem-repo.md) .
 
 ## Assets-Verwaltung
 
@@ -52,7 +52,7 @@ Beim Hinzufügen von Assets zu [!DNL Content] werden sie standardmäßig im `Gen
 
 1. Fügen Sie optionale Details wie _Markenname_, _Personas_, _Region_ und _Schlüsselwörter_ im Abschnitt **Mehr Details** hinzu, um die Auffindbarkeit zu verbessern.
 
-   Je mehr Details Sie bereitstellen, umso mehr erleben Sie die robusten Funktionen von GenStudio für Performance Marketingexperten. Wählen Sie eine oder mehrere Details aus der Liste aus oder geben Sie ggf. eine neue ein, z. B. mit Suchbegriffen. Alle hinzugefügten Details werden unter der Liste angezeigt. Klicken Sie auf **`x`** , um ein Detail zu entfernen.
+   Je mehr Details Sie bereitstellen, umso mehr erleben Sie die robusten Funktionen von GenStudio for Performance Marketing. Wählen Sie eine oder mehrere Details aus der Liste aus oder geben Sie ggf. eine neue ein, z. B. mit Suchbegriffen. Alle hinzugefügten Details werden unter der Liste angezeigt. Klicken Sie auf **`x`** , um ein Detail zu entfernen.
 
    Alle hinzugefügten Details gelten für alle Assets, die in dieser Aktion hinzugefügt werden.
 

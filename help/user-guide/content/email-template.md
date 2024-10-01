@@ -1,29 +1,29 @@
 ---
-title: E-Mail-Vorlage für Adobe GenStudio für Performance Marketers vorbereiten
-description: Erfahren Sie, wie Sie eine benutzerdefinierte E-Mail-Vorlage für Adobe GenStudio für Performance Marketingexperten erstellen.
+title: E-Mail-Vorlage für Adobe GenStudio for Performance Marketing vorbereiten
+description: Erfahren Sie, wie Sie eine benutzerdefinierte E-Mail-Vorlage für Adobe GenStudio for Performance Marketing erstellen.
 level: Intermediate
 feature: Templates, Content
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
-source-git-commit: 58833ed0c8e28061ab2584b7949f2a0cbd3d10cc
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
 
 ---
 
-# E-Mail-Vorlage für Adobe GenStudio für Performance Marketingexperten vorbereiten
+# E-Mail-Vorlage für Adobe GenStudio for Performance Marketing vorbereiten
 
-In der Regel erstellt ein Designer das visuelle Design einer Vorlage in einem Designprogramm wie Adobe XD. Nachdem eine E-Mail-Vorlage entworfen, codiert und getestet wurde, können Sie sie für den Upload und die Verwendung in GenStudio für Performance Marketers vorbereiten.
+In der Regel erstellt ein Designer das visuelle Design einer Vorlage in einem Designprogramm wie Adobe XD. Nachdem eine E-Mail-Vorlage entworfen, codiert und getestet wurde, können Sie sie für den Upload und die Verwendung in GenStudio for Performance Marketing vorbereiten.
 
 Siehe [Vorlagenelemente](use-templates.md#template-elements).
 
 ## Richtlinien hinzufügen
 
-Bevor Sie eine Meta-Anzeigenvorlage vorbereiten, stellen Sie sicher, dass Sie Ihren GenStudio for Performance Marketers [guidelines](/help/user-guide/guidelines/overview.md) hinzugefügt und diese mit umfassenden Informationen für relevante Marken ausgefüllt haben. Die [Markenrichtlinien](/help/user-guide/guidelines/brands.md) beeinflussen den generierten Inhalt direkt.
+Bevor Sie eine Meta-Anzeigenvorlage vorbereiten, stellen Sie sicher, dass Sie Ihrer GenStudio for Performance Marketing [Führungslinien](/help/user-guide/guidelines/overview.md) hinzugefügt und umfassende Informationen für relevante Marken bereitgestellt haben. Die [Markenrichtlinien](/help/user-guide/guidelines/brands.md) beeinflussen den generierten Inhalt direkt.
 
 **Beispiel**: Wenn der Hauptteil einer E-Mail-Vorlage 500 Zeichen nicht überschreiten soll, fügen Sie diese Anforderung den [Kanalrichtlinien](/help/user-guide/guidelines/brands.md#channel-guidelines) für das Feld &quot;Hauptteil&quot;hinzu.
 
-Wenn GenStudio für Performance Marketers keine Richtlinien hinzugefügt werden, werden Standardwerte verwendet.
+Wenn GenStudio for Performance Marketing keine Richtlinien hinzugefügt werden, werden Standardwerte verwendet.
 
 ## E-Mail-Vorlage kodieren
 
@@ -51,11 +51,11 @@ Testen Sie, ob Ihre E-Mail-Vorlage Folgendes erfüllt:
 
 ## Definieren generierter Inhaltsbereiche
 
-Definieren Sie die Bereiche in Ihrer E-Mail-Vorlage, die dynamisch mit Inhalten aus GenStudio für Performance Marketers gefüllt werden sollen.
+Definieren Sie die Bereiche in Ihrer E-Mail-Vorlage, die dynamisch mit Inhalten aus GenStudio for Performance Marketing gefüllt werden sollen.
 
 So definieren Sie generierte Inhaltsbereiche:
 
-* Identifizieren Sie die Textelemente in der Vorlage, die von GenStudio für Performance Marketers automatisch generiert werden sollen, z. B. die Überschrift oder CTA.
+* Identifizieren Sie die Textelemente in der Vorlage, die von GenStudio for Performance Marketing automatisch generiert werden sollen, z. B. die Überschrift oder CTA.
 * Passen Sie Ihre HTML-Vorlage an, indem Sie mithilfe der Handlebars-Syntax Platzhalter darin einfügen.
 
 Siehe [Platzhalter für Inhalte](/help/user-guide/content/customize-template.md#content-placeholders).
@@ -68,6 +68,6 @@ Siehe [Vorlagenvorschau](/help/user-guide/content/customize-template.md#template
 
 ## Hochladen und Verwenden von Vorlagen
 
-Nachdem Ihre Vorlage entworfen, codiert, getestet und in der Vorschau angezeigt wurde, können Sie sie für Performance Marketingexperten in GenStudio hochladen, um neue Marketinginhalte zu generieren.
+Nachdem Ihre Vorlage entworfen, codiert, getestet und in der Vorschau angezeigt wurde, können Sie sie zur Verwendung beim Generieren von brandneuen Marketinginhalten in GenStudio for Performance Marketing hochladen.
 
 Siehe [Arbeiten mit Vorlagen](use-templates.md).

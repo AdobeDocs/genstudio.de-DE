@@ -1,18 +1,18 @@
 ---
-title: Herstellen einer Verbindung zu einem AEM Assets Content Hub-Repository
-description: Erfahren Sie, wie Sie GenStudio for Performance Marketers mit einem Adobe Experience Manager (AEM) Content Hub-Repository verbinden und vorhandene genehmigte Inhalte nutzen.
+title: "Verbindung zu einem [!DNL AEM Assets Content Hub] Repository herstellen"
+description: Erfahren Sie, wie Sie Adobe GenStudio for Performance Marketing mit einem Adobe Experience Manager (AEM) [!DNL Content Hub] Repository verbinden und vorhandene genehmigte Inhalte nutzen.
 level: Experienced
 feature: Assets, Content
-source-git-commit: dc438085cfe7c93b20dc7fb0d5919d2dc8b3dcde
+source-git-commit: 0d8f04ab26e8d0dd533cfc4e388dd0b0a68adb3b
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
 # Herstellen einer Verbindung zu einem [!DNL AEM Assets Content Hub]-Repository
 
-Wenn Sie Assets in Adobe Experience Manager (AEM) haben, können Sie diese anhand der folgenden Schritte in GenStudio für Performance Marketers verfügbar machen.
+Wenn Sie Assets in Adobe Experience Manager (AEM) haben, können Sie diese Schritte ausführen, um sie in GenStudio for Performance Marketing verfügbar zu machen.
 
 >[!BEGINSHADEBOX]
 
@@ -37,7 +37,7 @@ Fügen Sie in der [!DNL Admin Console] GenStudio-Benutzer oder -Benutzergruppen 
 
 ## Schritt 3: Genehmigen von Assets
 
-Genehmigen Sie Assets zur Verwendung in [!DNL AEM Assets Content Hub], wodurch sie in GenStudio für Performance-Marketer verfügbar gemacht werden. Siehe [Genehmigen von Assets in Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in der Dokumentation zu _AEM as a Cloud Service_ .
+Genehmigen Sie Assets zur Verwendung in [!DNL AEM Assets Content Hub], wodurch sie in GenStudio for Performance Marketing verfügbar gemacht werden. Siehe [Genehmigen von Assets in Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in der Dokumentation zu _AEM as a Cloud Service_ .
 
 ## Schritt 4: Konfigurieren der Asset-Sichtbarkeit
 
@@ -45,4 +45,4 @@ Genehmigen Sie Assets zur Verwendung in [!DNL AEM Assets Content Hub], wodurch s
 
 ## Schritt 5: Verbindung überprüfen
 
-In GenStudio für Performance Marketers Content ist die Liste _[!UICONTROL Ort]_ über der Galerie auf der rechten Seite verfügbar. Die Liste ist nicht verfügbar, wenn Sie keinen Zugriff haben oder Ihr Unternehmen kein [!DNL AEM Assets Content Hub] -Repository bereitgestellt und verbunden hat.
+In GenStudio for Performance Marketing Content ist die Liste _[!UICONTROL Position]_ rechts über der Galerie verfügbar. Die Liste ist nicht verfügbar, wenn Sie keinen Zugriff haben oder Ihr Unternehmen kein [!DNL AEM Assets Content Hub] -Repository bereitgestellt und verbunden hat.

@@ -1,9 +1,9 @@
 ---
 title: Barrierefreie Vorlagen erstellen
-description: Erstellen Sie in Adobe GenStudio Vorlagen für Performance Marketingexperten, die mehr Zielgruppen erreichen und ein optimales Erlebnis bieten können.
+description: Erstellen Sie Vorlagen in Adobe GenStudio for Performance Marketing, die mehr Zielgruppen erreichen und ein optimales Erlebnis bieten.
 feature: Templates, Content
 exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
-source-git-commit: 088049a25635f5e9469c16c6ddfe9db86afdc143
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Adobe setzt sich dafür ein, für alle Zielgruppen ein optimales Erlebnis zu bieten. Weitere Informationen finden Sie unter [Initiativen zur Barrierefreiheit unter Adobe](https://www.adobe.com/trust/accessibility/initiatives.html) .
 
-In GenStudio für Performance Marketers können Sie Assets und Vorlagen hochladen, die die Inhaltserstellung für eine Vielzahl von Erlebnissen ermöglichen. Durch die Einhaltung von Barrierefreiheitsstandards können Sie Ihre Inhalte so weit wie möglich für Ihre Zielgruppe optimieren.
+In GenStudio for Performance Marketing können Sie Assets und Vorlagen hochladen, die die Inhaltserstellung für eine Vielzahl von Erlebnissen ermöglichen. Durch die Einhaltung von Barrierefreiheitsstandards können Sie Ihre Inhalte so weit wie möglich für Ihre Zielgruppe optimieren.
 
 Verwenden Sie die folgenden Empfehlungen, um Ihre Vorlagen unter Verwendung optimaler Barrierefreiheitsstandards vorzubereiten.
 

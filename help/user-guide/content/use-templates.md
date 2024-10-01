@@ -1,18 +1,18 @@
 ---
 title: Arbeiten mit Vorlagen
-description: Hier erfahren Sie, wie Sie Vorlagen effektiv verwenden können, um Ihre kreativen Prozesse in Adobe GenStudio für Performance Marketingexperten zu optimieren.
+description: Hier erfahren Sie, wie Sie Vorlagen effektiv verwenden können, um Ihre kreativen Prozesse in Adobe GenStudio for Performance Marketing zu optimieren.
 feature: Templates, Content
-source-git-commit: 192568a65bbd5c8c2e9cfc050462eb2c3465245d
+exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '682'
 ht-degree: 1%
 
 ---
 
-
 # Arbeiten mit Vorlagen
 
-GenStudio for Performance Marketers ermöglicht es Inhaltserstellern, konsistente On-Brand-Marketing-Inhalte schnell mit _Vorlagen_ zu erstellen. Eine Vorlage reduziert den Zeit- und Arbeitsaufwand für die Erstellung neuer Inhalte erheblich, indem sie einen Ausgangspunkt bietet, der vorkonfigurierte Layouts und Designelemente enthält.
+GenStudio for Performance Marketing ermöglicht es Erstellern von Inhalten, mithilfe von _templates_ schnell konsistente On-Brand-Marketinginhalte zu erstellen. Eine Vorlage reduziert den Zeit- und Arbeitsaufwand für die Erstellung neuer Inhalte erheblich, indem sie einen Ausgangspunkt bietet, der vorkonfigurierte Layouts und Designelemente enthält.
 
 ## Vorlagenelemente
 
@@ -71,17 +71,17 @@ Im Folgenden finden Sie eine Liste der Elemente, die in Vorlagen verwendet werde
 
 >[!TIP]
 >
->Weitere Informationen finden Sie unter den [erkannten Feldnamen](customize-template.md#recognized-field-names) , die von GenStudio for Performance Marketers für Vorlagen jedes Kanaltyps unterstützt werden.
+>Siehe [erkannte Feldnamen](customize-template.md#recognized-field-names), die GenStudio for Performance Marketing für Vorlagen der einzelnen Kanaltypen unterstützt.
 
 ## Konfigurieren von Kanalrichtlinien
 
-Es empfiehlt sich, die [Kanalrichtlinien](../guidelines/brands.md#channel-guidelines) für jede Marke zu konfigurieren, bevor Sie Vorlagen in GenStudio für Leistungs-Marketingexperten verwenden. Die Kanalrichtlinien beeinflussen direkt den Inhaltstyp, der bei Verwendung der Vorlage generiert wird. Sie können beispielsweise Zeichenbeschränkungen für den Text einer E-Mail festlegen.
+Es empfiehlt sich, die [Kanalrichtlinien](../guidelines/brands.md#channel-guidelines) für jede Marke zu konfigurieren, bevor Vorlagen in GenStudio for Performance Marketing verwendet werden. Die Kanalrichtlinien beeinflussen direkt den Inhaltstyp, der bei Verwendung der Vorlage generiert wird. Sie können beispielsweise Zeichenbeschränkungen für den Text einer E-Mail festlegen.
 
 ![Textkörperspezifikationen](/help/assets/channel-email-body.png)
 
 ## Vorlage anpassen
 
-Sie können Ihre Vorlage [ für die Verwendung in GenStudio for Performance Marketers anpassen, indem Sie Platzhalter oder Felder für Inhalte einfügen, die von der generativen KI zum Einfügen von Inhalten verwendet werden. ](customize-template.md) GenStudio for Performance Marketers erkennt bestimmte Felder, wie z. B. das Feld `body`, und hält sich an die für die ausgewählte Marke konfigurierten Kanalrichtlinien.
+Sie können Ihre Vorlage [ für die Verwendung in GenStudio for Performance Marketing anpassen, indem Sie Platzhalter für Inhalte oder Felder einfügen, die von der generativen KI zum Einfügen von Inhalten verwendet werden. ](customize-template.md) GenStudio for Performance Marketing erkennt bestimmte Felder, wie z. B. das Feld `body`, und hält sich an die für die ausgewählte Marke konfigurierten Kanalrichtlinien.
 
 >[!TIP]
 >
@@ -89,7 +89,7 @@ Sie können Ihre Vorlage [ für die Verwendung in GenStudio for Performance Mark
 
 ## Vorlage hochladen
 
-Verwenden Sie [Vorlagen anpassen](customize-template.md) als Leitfaden bei der Vorbereitung einer Vorlage für GenStudio für Performance Marketers. Eine Anleitung zur Bereitstellung eines besseren Erlebnisses für alle Zielgruppen finden Sie unter [Richtlinien für Barrierefreiheit für Vorlagen](accessibility-for-templates.md) .
+Verwenden Sie [Vorlagen anpassen](customize-template.md) als Anleitung zum Vorbereiten einer Vorlage für GenStudio for Performance Marketing. Eine Anleitung zur Bereitstellung eines besseren Erlebnisses für alle Zielgruppen finden Sie unter [Richtlinien für Barrierefreiheit für Vorlagen](accessibility-for-templates.md) .
 
 **So fügen Sie eine Vorlage hinzu**:
 
@@ -122,7 +122,7 @@ Verwenden Sie [Vorlagen anpassen](customize-template.md) als Leitfaden bei der V
 
 ## Erstellen mit einer Vorlage
 
-Suchen und verwenden Sie eine vorhandene Vorlage in GenStudio für Performance Marketingexperten, um weitere Erlebnisse zu erstellen.
+Suchen und verwenden Sie eine vorhandene Vorlage in GenStudio for Performance Marketing, um weitere Erlebnisse zu erstellen.
 
 **So erstellen Sie ein Erlebnis mit einer Vorlage**:
 
