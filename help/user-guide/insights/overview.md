@@ -3,16 +3,16 @@ title: Überblick über [!DNL Insights]
 description: Erfahren Sie, wie Sie Erlebnisse basierend auf Echtzeit-Metriken zur Inhaltsleistung optimieren können.
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: a531ef2a7869a3f8e19fccd17b7acda54a767f6b
+source-git-commit: 723b1f826fe5ceefcf9c1beff09af9b3d56462c5
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
 
-# Adobe GenStudio für Performance Marketers [!DNL Insights]
+# Adobe GenStudio for Performance Marketing [!DNL Insights]
 
-Adobe GenStudio für Performance-Marketingexperten [!DNL Insights] bietet erweiterte Analysen und Einblicke in die Inhaltsleistung, mit deren Hilfe Sie datengesteuerte Entscheidungen treffen können.
+Adobe GenStudio for Performance Marketing [!DNL Insights] bietet erweiterte Analysen und Einblicke in die Inhaltsleistung, mit denen Sie datengesteuerte Entscheidungen treffen können.
 
 Im Dashboard [!DNL Insights] haben Sie folgende Möglichkeiten:
 
@@ -22,7 +22,7 @@ Im Dashboard [!DNL Insights] haben Sie folgende Möglichkeiten:
 
 >[!TIP]
 >
->Anweisungen zum Empfang von Daten aus Ihren aktuellen Marketingkampagnen, Assets und Erlebnissen durch GenStudio for Performance Marketers finden Sie im [Connect-Kanalkonto](connect-channel.md) .
+>Anweisungen zum Empfang von Daten aus Ihren aktuellen Marketingkampagnen, Assets und Erlebnissen durch GenStudio for Performance Marketing finden Sie unter [Kanalkonto verbinden](connect-channel.md) .
 
 ## Dashboard
 
@@ -31,8 +31,6 @@ Das Dashboard [!DNL Insights] verfügt über eine konfigurierbare Tabelle für j
 ![[!DNL Insights] Dashboard](/help/assets/insights-dashboard.png)
 
 Jede Ansicht zeigt eine entsprechende Tabelle an, die Sie nach Keyword, Filterung und Datumsbereich durchsuchen können. Sie können auf das Einstellungssymbol (Zahnrad) über der rechten Seite der Tabelle klicken, um die sichtbaren Spaltentypen umzuschalten. Die Zeile _[!UICONTROL Zusammenfassung]_ kann Summen oder Durchschnittswerte einer Spalte anzeigen.
-
-Eine Beschreibung der einzelnen Spaltentypen in der Tabelle finden Sie unter [Datenspalten für  [!DNL Insights]](data-columns.md) .
 
 [!UICONTROL Erlebnisse], [!UICONTROL Assets] und [!UICONTROL Attribute] enthalten eine Galerie-Ansicht, mit der Sie Assets mit Karten mit einer Bild- oder Videominiatur scannen und sortieren können. Es gibt eine Option, auf jeder Karte eine von drei Schlüsselmetriken anzuzeigen: `Click-through rate`, `Cost per click` und `Spend`.
 
@@ -50,7 +48,7 @@ Die Ansicht [!DNL Insights] _[!UICONTROL Assets]_ soll Ihnen bei der Analyse der
 
 Durch Klicken auf ein Asset erhalten Sie weitere Kontexte zu seiner Leistung in verschiedenen Erlebnissen:
 
-![Asset-Ansicht](/help/assets/insights-asset-view.png){width="600" zoomable="yes"}
+![Asset-Details](/help/assets/insights-asset-details.png){width="600" zoomable="yes"}
 
 In der Asset-Ansicht werden auf der linken Seite eine Miniaturansicht des Assets und eine Liste mit Attributen angezeigt. Es gibt drei hervorgehobene Metriken: `Click-through rate`, `Cost per click` und `Spend`. Die Leistungshinweise zeigen, wie die tatsächlichen Werte (durchgehende Linie) mit dem Durchschnittswert (gepunktete Linie) im ausgewählten Zeitraum (Standard: `Last 30 days`) verglichen werden.
 

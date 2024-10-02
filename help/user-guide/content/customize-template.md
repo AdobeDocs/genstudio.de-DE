@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie Ihre Vorlage für Adobe GenStudio for Perform
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
+source-git-commit: 059b464cb2a7b57557407bbaee6162b770107222
 workflow-type: tm+mt
 source-wordcount: '1032'
 ht-degree: 0%
@@ -46,7 +46,7 @@ In der folgenden Tabelle sind die von GenStudio for Performance Marketing für d
 GenStudio for Performance Marketing füllt bestimmte Felder automatisch in den folgenden Vorlagen aus:
 
 - **Für E-Mail-Vorlage** müssen Sie das Feld `subject` nicht identifizieren
-- Für die Vorlage für Metaanzeigen **müssen Sie die Felder `headline`, `body` und `CTA` nicht identifizieren.**
+- **Die Vorlage für Metaanzeigen** erfordert nicht, dass Sie die Felder `headline`, `body` und `CTA` identifizieren
 
 <!--
 - **Display Ads template** does not require you to idenitify the `CTA` field

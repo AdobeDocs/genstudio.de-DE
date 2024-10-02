@@ -3,9 +3,9 @@ title: Asset-Details
 description: Adobe GenStudio for Performance Marketing speichert genehmigte Inhalte mit Rich-Metadaten, um die Suche und das Performance-Tracking zu ermöglichen.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: 0d8f04ab26e8d0dd533cfc4e388dd0b0a68adb3b
+source-git-commit: 059b464cb2a7b57557407bbaee6162b770107222
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '461'
 ht-degree: 1%
 
 ---
@@ -40,7 +40,9 @@ Zu den Standardmetadaten, die für ein Asset gespeichert und erfasst werden, geh
 
 ### Generierte Tags
 
-Wenn Sie ein genehmigtes Asset in [!DNL Content] speichern, verwendet GenStudio for Performance Marketing Adobe AI- und maschinelles Lernen, um das Asset zu untersuchen und Tags anzuwenden, die auf den Asset-Funktionen basieren. Ein Bild einer Katze kann beispielsweise zu Smart-Tags wie `pet photography` oder `cat` und Farb-Tags führen, die dominante Farben im Bild identifizieren. Tags können nicht bearbeitet werden.
+Wenn Sie ein genehmigtes Asset in [!DNL Content] speichern, verwendet GenStudio for Performance Marketing Adobe AI- und maschinelles Lernen, um das Asset zu untersuchen und Tags anzuwenden, die auf den Asset-Funktionen basieren. Ein Bild einer Katze kann beispielsweise zu Attribut-Tags wie `pet photography` oder `cat` und Farb-Tags führen, die dominante Farben im Bild identifizieren. Tags können nicht bearbeitet werden.
+
+Siehe [Insights-Attribute](/help/user-guide/insights/attributes.md).
 
 ### Generierte Inhaltsmetadaten
 
