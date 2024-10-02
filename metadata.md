@@ -1,23 +1,20 @@
 ---
 cloud: Experience Cloud
 solution: GenStudio
-product: GenStudio
 type: Documentation
+git-repo: https://github.com/AdobeDocs/genstudio.de-DE
 mini-toc-levels: 2
+description: Adobe GenStudio for Performance Marketing-Handbücher
 hide: true
-source-git-commit: 4c97106b5d987d08e5ab3738521cadc83d96015f
+source-git-commit: 2bc505acc561e60ee2af928adf53c9193677c3f5
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 100%
+source-wordcount: '59'
+ht-degree: 88%
 
 ---
 
 
 # Metadaten für den internen Gebrauch
-
-<!--
-git-repo: https://github.com/AdobeDocs/genstudio.en
--->
 
 Die Datei „metadata.md“ enthält Metadaten auf Repository-Ebene, die an die „TOC.md“-Dateien des Benutzerhandbuchs im Repository weitergegeben werden. Wenn Sie den Inhalt von „metadata.md“ für ein Benutzerhandbuch ändern möchten, können Sie dies in einer beliebigen „TOC.md“-Datei tun.
 

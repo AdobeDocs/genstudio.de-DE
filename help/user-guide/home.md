@@ -1,24 +1,19 @@
 ---
 title: Adobe GenStudio-Benutzerhandbuch
-description: Ermöglichen Sie Marketingfachleuten und hochkarätigen Kreativen mit GenStudio für Performance Marketers, Adobe AI-First Application, die Self-Service-Zugriff auf Markeninhalte mit Unternehmensgarantien und Governance für leistungsstarke Erlebnisse bietet.
+description: Erfahren Sie mehr über die Funktionen von Adobe GenStudio for Performance Marketing. Erfahren Sie, wie Sie schnell On-Marke-Assets erstellen, Varianten generieren und Erlebnisse optimieren können.
 exl-id: beae7802-09e6-4ca3-9ffa-b8494aea5ae4
-source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
+source-git-commit: 845cf9321c92598f42a92e89cb6331a8b122a894
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 1%
+source-wordcount: '206'
+ht-degree: 0%
 
 ---
 
-# Benutzerhandbuch zu Adobe GenStudio für Performance Marketingexperten
+# Adobe GenStudio for Performance Marketing-Benutzerhandbuch
 
-Adobe GenStudio for Performance Marketers ist eine KI-gestützte Plattform, mit der Sie Marketing-Inhalte generieren und verwalten können, die Ihren Markenstandards entsprechen und Ihren Unternehmensrichtlinien entsprechen.
+Adobe GenStudio for Performance Marketing ist eine KI-basierte Plattform, mit der Sie Marketing-Inhalte generieren und verwalten können, die Ihren Markenstandards entsprechen und Ihren Unternehmensrichtlinien entsprechen.
 
-Durch die Nutzung der Adobe-KI-Technologie bietet GenStudio for Performance Marketers eine umfassende Palette von Tools, die die Komplexität der Inhaltserstellung und -verwaltung vereinfachen, sodass Kreative sich auf Innovationen konzentrieren können.
-
-## Neue Funktionen
-
-- [[!DNL Insights Channels]](insights/channels.md) - Neuer Überblick über Kundeninteraktion, Leistung, Budget und Ausgaben für Marketingkampagnen.
-- [[!DNL Insights Experiences]](insights/experiences.md) - Neuer Überblick über Einblicke in Erlebnisse und Anzeigenleistung.
+Durch die Nutzung der Adobe-KI-Technologie bietet GenStudio for Performance Marketing eine umfassende Palette von Tools, die die Komplexität der Inhaltserstellung und -verwaltung vereinfachen, sodass Kreative sich auf Innovationen konzentrieren können.
 
 ## Funktionen
 
@@ -103,7 +98,7 @@ Durch die Nutzung der Adobe-KI-Technologie bietet GenStudio for Performance Mark
       </a>
    </div>
    <p>
-      <em>Erfahren Sie, wie Sie GenStudio Richtlinien - Marken, Produkte und Personas - für Performance-Marketer hinzufügen.</em>
+      <em>Erfahren Sie, wie Sie GenStudio for Performance Marketing Richtlinien - Marken, Produkte und Personas - hinzufügen.</em>
    </p>
 </td>
 <td valign="top">

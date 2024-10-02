@@ -1,9 +1,9 @@
 ---
 title: Effektive Eingabeaufforderungen schreiben
-description: Erfahren Sie, wie Sie effektive Aufforderungen zum Adobe GenStudio für Performance Marketingexperten schreiben.
+description: Erfahren Sie, wie Sie effektive Eingabeaufforderungen für Adobe GenStudio for Performance Marketing schreiben.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 016cd2b5415651ed3cf157244f868315234330fa
+source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
 workflow-type: tm+mt
 source-wordcount: '758'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Effektive Eingabeaufforderungen schreiben
 
-Die Kommunikation mit der generativen KI ist für eine effektive Adobe GenStudio-Arbeit für Performance-Marketingexperten unerlässlich.
+Die Kommunikation mit der generativen KI ist für eine effektive Arbeit in Adobe GenStudio for Performance Marketing unerlässlich.
 
-GenStudio for Performance Marketers bietet eine generative KI-Eingabeaufforderung, sobald es möglich ist, ein Asset zu ändern. Die Komponenten einer effektiven Eingabeaufforderung sollten beschreibende Sprache, Beispiele und Informationen enthalten, die nicht über Ihre konfigurierten Richtlinien bereitgestellt werden.
+GenStudio for Performance Marketing bietet eine generative KI-Eingabeaufforderung, sobald es möglich ist, ein Asset zu ändern. Die Komponenten einer effektiven Eingabeaufforderung sollten beschreibende Sprache, Beispiele und Informationen enthalten, die nicht über Ihre konfigurierten Richtlinien bereitgestellt werden.
 
-Als Best Practice sollten Sie GenStudio for Performance Marketers mit Ihren Markeninformationen über [guidelines](/help/user-guide/guidelines/overview.md) versorgen. Anschließend können Sie die generative KI vollständig nutzen, um markenorientierte Inhaltserlebnisse zu erstellen.
+Als Best Practice sollten Sie GenStudio for Performance Marketing mit [Richtlinien](/help/user-guide/guidelines/overview.md) mit Ihren Markeninformationen versorgen. Anschließend können Sie die generative KI vollständig nutzen, um markenorientierte Inhaltserlebnisse zu erstellen.
 
 ## Beschreibende Sprache
 
@@ -39,21 +39,21 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 ## Eingabekriterien
 
-In GenStudio für Performance Marketers [[!DNL Create]](/help/user-guide/create/overview.md) können Sie im Eingabebereich **[!UICONTROL Eingabeaufforderungskriterien]** ([_Parameter_](/help/user-guide/create/overview.md#parameters) und eine Eingabeaufforderung) verwenden, um Details durch Auswahl hinzuzufügen und so die KI-Interpretation zu verbessern.
+In GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) können Sie im Eingabebereich **[!UICONTROL Eingabeaufforderungskriterien]** ([_Parameter_](/help/user-guide/create/overview.md#parameters) und eine Eingabeaufforderung) verwenden, um Details durch Auswahl hinzuzufügen und so die KI-Interpretation zu verbessern.
 
 Bei [E-Mails](/help/tutorials/create-email-experience.md) umfassen die Eingabeaufforderungskriterien möglicherweise das Hinzufügen von [guidelines](/help/user-guide/guidelines/overview.md) in _Parameter_, das Hochladen eines Assets zur Verwendung in den E-Mail-Varianten und eine beschreibende Eingabeaufforderung. Bei einer [Metaanzeige](/help/tutorials/create-meta-ad.md) umfassen die Eingabeaufforderungskriterien möglicherweise eine Markenrichtlinie in _Parameter_, die Auswahl oder den Upload eines vorhandenen Assets, Einstellungen im Zusammenhang mit Bildern oder Assets wie dem Seitenverhältnis und eine Eingabeaufforderung. Die tatsächliche Leistung beginnt mit [Konfigurieren von Führungslinien](/help/user-guide/guidelines/add-guidelines.md).
 
 >[!NOTE]
 >
->Wenn in _Parameter_ im Eingabeaufforderungsbereich Richtlinien hinzugefügt werden, müssen Sie in Ihrer Eingabeaufforderung keinen Verweis auf diese einfügen. GenStudio for Performance Marketers nutzt diese [!DNL Brands], [!DNL Products] und [!DNL Personas] bei der Inhaltserstellung.
+>Wenn in _Parameter_ im Eingabeaufforderungsbereich Richtlinien hinzugefügt werden, müssen Sie in Ihrer Eingabeaufforderung keinen Verweis auf diese einfügen. GenStudio for Performance Marketing nutzt diese [!DNL Brands], [!DNL Products] und [!DNL Personas] bei der Inhaltserstellung.
 
 ### Richtlinien
 
-Die Richtlinien von GenStudio for Performance Marketers helfen der generativen KI bei der Personalisierung Ihrer Asset-Komposition. Wenn Ihnen die Eingabeaufforderungskriterien angezeigt werden, können Sie eine [[!DNL Brand]](/help/user-guide/guidelines/brands.md), eine [[!DNL Persona]](/help/user-guide/guidelines/personas.md) und eine [[!DNL Product]](/help/user-guide/guidelines/products.md) aus Ihren konfigurierten Richtlinien auswählen.
+GenStudio for Performance Marketing-Richtlinien helfen der generativen KI bei der Personalisierung Ihrer Asset-Komposition. Wenn Ihnen die Eingabeaufforderungskriterien angezeigt werden, können Sie eine [[!DNL Brand]](/help/user-guide/guidelines/brands.md), eine [[!DNL Persona]](/help/user-guide/guidelines/personas.md) und eine [[!DNL Product]](/help/user-guide/guidelines/products.md) aus Ihren konfigurierten Richtlinien auswählen.
 
 >[!TIP]
 >
->Sie steuern, wie und wann GenStudio for Performance Marketers Ihre [!DNL Brand] -Richtlinien verwendet. Informationen zum Konfigurieren und Verwalten Ihrer Markenrichtlinien finden Sie unter [Richtlinien](/help/user-guide/guidelines/overview.md) .
+>Sie steuern, wie und wann GenStudio for Performance Marketing Ihre [!DNL Brand] -Richtlinien verwendet. Informationen zum Konfigurieren und Verwalten Ihrer Markenrichtlinien finden Sie unter [Richtlinien](/help/user-guide/guidelines/overview.md) .
 
 ### Strukturierte Eingabeaufforderungen
 
@@ -95,7 +95,7 @@ Siehe [Vorbereiten einer E-Mail-Vorlage](/help/user-guide/content/email-template
 
 ## Erneut versuchen
 
-Die Eingabeaufforderung ist ein iterativer Prozess. Wenn die Ergebnisse nicht Ihren Erwartungen entsprechen, überprüfen Sie Ihre Eingabeaufforderung und nehmen Sie einige Änderungen vor oder fügen Sie weitere Details hinzu. Sie können auch aus einer Kampagnenbeschreibung Abschnitte einfügen. Sie können sogar anfordern, dass GenStudio für Performance Marketingexperten bestimmte Wörter, Elemente oder Designs vermeidet.
+Die Eingabeaufforderung ist ein iterativer Prozess. Wenn die Ergebnisse nicht Ihren Erwartungen entsprechen, überprüfen Sie Ihre Eingabeaufforderung und nehmen Sie einige Änderungen vor oder fügen Sie weitere Details hinzu. Sie können auch aus einer Kampagnenbeschreibung Abschnitte einfügen. Sie können sogar anfordern, dass GenStudio for Performance Marketing bestimmte Wörter, Elemente oder Designs vermeidet.
 
 ## Best Practices
 
@@ -103,7 +103,7 @@ Einige einfache Best Practices zum Erstellen effektiver Eingabeaufforderungen:
 
 - Seien Sie spezifisch und geben Sie Details darüber an, was zu tun ist und was nicht.
 - Stellen Sie Kontext mithilfe externer Verweise bereit.
-- Nutzen Sie die Richtlinien von GenStudio für Performance Marketers.
+- Nutzen Sie die GenStudio for Performance Marketing-Richtlinien.
 - Die Richtlinien werden regelmäßig überprüft und angepasst.
 - Iterieren und verfeinern Sie.
 - Lernen Sie durch Experimente.
