@@ -3,9 +3,9 @@ title: Verwalten von Assets und Erlebnissen
 description: Vereinfachen und verbessern Sie die Verwaltung markengenehmigter Assets für die Verwendung und Wiederverwendung in Ihrer Digital Marketing-Journey.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
+source-git-commit: af20efaa511ed403f5160956ff98b42beb64bb34
 workflow-type: tm+mt
-source-wordcount: '722'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
@@ -59,18 +59,22 @@ Beim Hinzufügen von Assets zu [!DNL Content] werden sie standardmäßig im `Gen
    Siehe [Metadatendetails](/help/user-guide/content/asset-details.md#system-metadata).
 
 1. Klicken Sie auf **[!UICONTROL Assets hinzufügen]**.
+
 1. Klicken Sie nach Abschluss des Asset-Uploads auf **Fertig**.
+
 1. Um Ihre neu hochgeladenen Assets anzuzeigen, klicken Sie in der Benachrichtigung _Neue verfügbare Assets_ unten auf der Arbeitsfläche auf **[!UICONTROL Aktualisieren]** .
 
 <!-- 
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 
-### Assets durchsuchen
+### Suchinhalt
 
-Die Suchschnittstelle [!DNL Content] ist schnell und responsiv und bietet ein produktives Erlebnis für die Suche.
+Die Filter- und Suchschnittstelle ist schnell und responsiv und bietet ein produktives Erlebnis für die Suche. Jede [!DNL Content] -Ansicht bietet Filteroptionen, um Ihre Suche nach dem idealen Asset, Erlebnis oder der Vorlage einzuschränken. Für Assets und Erlebnisse können Sie eine Kampagne und spezifische Richtlinien auswählen, z. B. Inhalte, die für ein bestimmtes Produkt erstellt wurden.
 
-Wenden Sie Filter an und verwenden Sie Metadaten-Tags aus Asset-Details, um Suchergebnisse einzuschränken. Sie können beispielsweise ein Asset eines bestimmten Dateityps oder Betreffs suchen, um ein neues Erlebnis für Ihre Kampagne zu erstellen.
+Es gibt Filter, die auf [Keywords](asset-details.md#user-defined-metadata) und [Attributen](/help/user-guide/insights/attributes.md) basieren, um Suchergebnisse einzuschränken. Sie können beispielsweise ein Asset eines bestimmten Dateityps oder Betreffs suchen, um ein neues Erlebnis für Ihre Kampagne zu erstellen.
+
+Bei der Suche nach _Erlebnissen_ können Sie den Filter **[!UICONTROL Erstellt von]** verwenden, um die Liste so zu beschränken, dass nur die von Ihnen oder einer bestimmten Person erstellten Erlebnisse angezeigt werden.
 
 **So suchen Sie nach Inhalten, die wiederverwendet werden sollen**:
 
