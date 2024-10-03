@@ -3,9 +3,9 @@ title: Asset-Details
 description: Adobe GenStudio for Performance Marketing speichert genehmigte Inhalte mit Rich-Metadaten, um die Suche und das Performance-Tracking zu ermöglichen.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: 059b464cb2a7b57557407bbaee6162b770107222
+source-git-commit: 44e4a297077d06047767cc40b7009ac88e7b493c
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '681'
 ht-degree: 1%
 
 ---
@@ -26,11 +26,37 @@ Jedes Asset (einschließlich Erlebnissen und Vorlagen) verfügt über zugewiesen
    >
    >Wenn der Abschnitt _[!UICONTROL Details]_ nicht angezeigt wird, klicken Sie auf das Symbol **[!UICONTROL Informationen]** (i).
 
-Asset-Details umfassen Metadaten, die während des Erstellungs- oder Upload-Prozesses angewendet werden. Asset-Metadatentypen umfassen [Systemmetadaten](#system-metadata) und [benutzerdefinierte Metadaten](#user-defined-metadata).
+   Asset-Details umfassen Metadaten, die während des Erstellungs- oder Upload-Prozesses angewendet werden. Asset-Metadatentypen umfassen [Systemmetadaten](#system-metadata) und [benutzerdefinierte Metadaten](#user-defined-metadata).
 
 >[!NOTE]
 >
 >Assets aus AEM Repositorys zeigt unterschiedliche Metadaten an. Informationen zum Konfigurieren von [!DNL AEM Assets Content Hub] Asset-Details finden Sie unter [Konfigurieren der Asset-Sichtbarkeit](connect-aem-repo.md#step-4-configure-asset-visibility) .
+
+## In Express bearbeiten
+
+Sie können Bild-Assets (JPG oder PNG) direkt in GenStudio for Performance Marketing mit Adobe Express bearbeiten. Die Arbeitsfläche _[!UICONTROL Powered by Adobe Expreß]_ bietet praktische Funktionen zur Verbesserung Ihrer Bilder, ohne die GenStudio-Anwendung verlassen zu müssen. Sie können einfach Hintergründe entfernen, generative Füllungen anwenden, Effekte anpassen und Bilder zuschneiden.
+
+1. Wählen Sie in _[!DNL Content]_ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine fokussierte Ansicht des Assets geöffnet.
+
+1. Klicken Sie in der Asset-Ansicht oben rechts auf das Symbol **[!UICONTROL Im Adobe Expreß bearbeiten]** .
+
+1. Verwenden Sie in der Arbeitsfläche _[!UICONTROL Powered by Adobe Expreß]_ die Express-Steuerelemente im linken Bereich, um Ihr Bild zu verbessern.
+
+1. Wenn Sie mit dem aktualisierten Bild zufrieden sind, klicken Sie oben rechts auf **[!UICONTROL Kopie speichern]** .
+
+1. Wählen Sie das Dateiformat - JPG oder PNG - aus und klicken Sie auf **[!UICONTROL Kopie speichern]**.
+
+1. Aktualisieren Sie im Popup _[!UICONTROL Speichern einer Kopie des Assets]_ den **[!UICONTROL Asset-Namen]**.
+
+   - Wählen Sie **[!UICONTROL Gleiche Details wie das ursprüngliche Asset]** aus, um die Asset-Details in das neue Bild zu übertragen.
+
+   - Erweitern Sie den Abschnitt **[!UICONTROL Mehr Details]** , um die Kampagnen, Richtlinien und andere Metadaten zu aktualisieren.
+
+   >[!TIP]
+   >
+   >Je mehr Details Sie bereitstellen, umso mehr erleben Sie die robusten Funktionen von GenStudio for Performance Marketing. Wählen Sie eine oder mehrere Details aus der Liste aus oder geben Sie ggf. eine neue ein, z. B. mit Suchbegriffen. Alle hinzugefügten Details werden unter der Liste angezeigt. Klicken Sie auf **`x`** , um ein Detail zu entfernen.
+
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 ## Systemmetadaten
 
