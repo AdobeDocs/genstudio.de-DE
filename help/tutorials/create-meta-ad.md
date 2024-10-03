@@ -7,9 +7,9 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
+source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
 workflow-type: tm+mt
-source-wordcount: '1048'
+source-wordcount: '1074'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,10 @@ Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Co
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
 * **Um [ Bilder zuzuschneiden oder neu zu positionieren](/help/user-guide/create/manage-variants.md#crop-assets)**, bewegen Sie den Mauszeiger über ein Bild, klicken Sie auf das angezeigte Zuschnittsymbol und passen Sie die Bildgröße und -platzierung an.
 * **Um [eine Metaanzeige zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)**, klicken Sie auf den Anzeigentitel (z. B. &quot;Meta 4&quot;) und klicken Sie auf **[!UICONTROL Variante löschen]**.
+
+## Feedback zur Sendegenerierung
+
+Um [Feedback zur Qualität der Generierungsausgabe zu senden](/help/user-guide/create/manage-variants.md#generation-feedback), klicken Sie auf das Optionssymbol (drei Punkte) und wählen Sie **[!UICONTROL Gute Ausgabe]** oder **[!UICONTROL Schlechte Ausgabe]** aus.
 
 ## Markenausrichtung überprüfen
 

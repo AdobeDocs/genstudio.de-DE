@@ -2,9 +2,9 @@
 title: Varianten verwalten
 description: Passen Sie die generierten Varianten und Assets an Ihre Anforderungen für das digitale Marketing an und erweitern Sie sie.
 feature: Content, Assets, Experiences
-source-git-commit: 67a3fe86facf0fef12f1fd63d8cf79132b0f42b0
+source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '880'
 ht-degree: 0%
 
 ---
@@ -115,7 +115,7 @@ Löschen Sie unnötige Varianten, sodass die Arbeitsfläche nur die Varianten an
 
 **So löschen Sie eine generierte Variante**:
 
-1. Klicken Sie nach der Erzeugung eines Variantensatzes auf den Namen über einer Variante.
+1. Klicken Sie nach dem Generieren eines Variantensatzes auf das Optionssymbol (drei Punkte) über einer Variante.
 
    Die Variante wird hervorgehoben und ein Kontextmenü wird angezeigt.
 
@@ -128,3 +128,27 @@ Löschen Sie unnötige Varianten, sodass die Arbeitsfläche nur die Varianten an
 Verwenden Sie die Prüfung der _[!UICONTROL Markenrichtlinien]_ und das Validierungsfenster _[!UICONTROL Marke]_, um eine einheitliche Markenidentität und -ausrichtung für Varianten zu gewährleisten.
 
 Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment).
+
+## Feedback zur Generierung
+
+Feedback zur Qualität der generierten markenorientierten Assets kann gesendet werden, um den Inhaltserstellungsprozess zu verbessern. Die Angabe, ob die Ergebnisse von hoher oder schlechter Qualität sind, trägt zur Verbesserung der Inhaltsqualität und der Benutzersicherheit von GenStudio for Performance Marketing bei.
+
+Generations-Feedback gilt für eine einzelne Variante, nicht für den gesammelten Variantensatz.
+
+**Senden von Generierungsfeedback**:
+
+1. Klicken Sie nach dem Generieren eines Variantensatzes auf das Optionssymbol (drei Punkte) über einer Variante.
+
+   Die Variante wird hervorgehoben und ein Kontextmenü wird angezeigt.
+
+1. Wählen Sie **[!UICONTROL Gute Ausgabe]** oder **[!UICONTROL schlechte Ausgabe]**.
+
+   In einem Feedback-Popup werden weitere Informationen angezeigt. Der generierte Inhalt und die Informationen zur Eingabeaufforderung sind in Ihrem Feedback enthalten.
+
+1. Fügen Sie im Feedback-Popup die folgenden Informationen hinzu:
+   1. Wählen Sie die Option _[!UICONTROL Auch Ihren Referenzinhalt und Ihre Ebenendaten einschließen]_ aus, um diese zusätzlichen Referenzinformationen in das erfasste Feedback aufzunehmen.
+   1. Aus dem Abschnitt _[!UICONTROL Was hat gut funktioniert?]_ oder _[!UICONTROL Was ist schiefgelaufen?]_ die Optionen auswählen, die beschreiben, was die Inhaltserzeugung in hoher oder schlechter Qualität ermöglicht.
+   1. Fügen Sie im Feld _[!UICONTROL Hinweise]_ weitere hilfreiche oder zugehörige Informationen hinzu.
+1. Klicken Sie auf **[!UICONTROL Absenden]**.
+
+   Es wird ein Banner angezeigt, mit dem Sie Ihr Feedback bestätigt haben.
