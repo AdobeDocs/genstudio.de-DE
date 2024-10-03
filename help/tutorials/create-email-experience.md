@@ -7,9 +7,9 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
+source-git-commit: c1cc90b4c80b6b754b34ac609e8e94b799386fad
 workflow-type: tm+mt
-source-wordcount: '908'
+source-wordcount: '955'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,8 @@ Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Co
 * **Um [den Namen des E-Mail-Entwurfs zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)**, klicken Sie auf den Titel _Unbenannter Entwurf_ oben auf der Arbeitsfläche und geben Sie einen neuen Titel ein.
 * **Um [eine E-Mail manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)**, doppelklicken Sie in eines der bearbeitbaren Textfelder (z. B. Betreffzeile, Kopfzeile oder Textkopie) und bearbeiten Sie es nach Bedarf.
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
-* **Um [eine E-Mail zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)**, klicken Sie auf das Optionssymbol (drei Punkte) für eine Variante und klicken Sie auf **[!UICONTROL Löschen]**.
+* **Um [Bilder in einer Variante hinzuzufügen oder zu tauschen](/help/user-guide/create/manage-variants.md#swap-image)**, klicken Sie auf ein Bild-Asset (oder den Bild-Asset-Bereich, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf **[!UICONTROL Aus Inhalt auswählen/austauschen]** oder auf **[!UICONTROL Neues Bild hochladen]** , um ein Bild in einer einzelnen Variante hinzuzufügen oder zu tauschen.
+* **Um [eine E-Mail zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)**, klicken Sie auf , um den E-Mail-Titel auszuwählen (z. B. &quot;E-Mail 1/4&quot;), und klicken Sie auf **[!UICONTROL Variante löschen]**.
 
 ## Feedback zur Sendegenerierung
 

@@ -2,9 +2,9 @@
 title: Varianten verwalten
 description: Passen Sie die generierten Varianten und Assets an Ihre Anforderungen für das digitale Marketing an und erweitern Sie sie.
 feature: Content, Assets, Experiences
-source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
+source-git-commit: c1cc90b4c80b6b754b34ac609e8e94b799386fad
 workflow-type: tm+mt
-source-wordcount: '880'
+source-wordcount: '995'
 ht-degree: 0%
 
 ---
@@ -97,9 +97,28 @@ Verfügbare Größen-/Seitenverhältnisse sind:
 
 1. Klicken Sie auf **[!UICONTROL Duplizieren und ändern Sie die Größe]**.
 
-[!DNL Create] erstellt eine Kopie jeder Variante basierend auf dem neuen ausgewählten Seitenverhältnis. Alle Varianten, auch die im ursprünglichen Seitenverhältnis, sind auf der Arbeitsfläche vorhanden.
+   [!DNL Create] erstellt eine Kopie jeder Variante basierend auf dem neuen ausgewählten Seitenverhältnis. Alle Varianten, auch die im ursprünglichen Seitenverhältnis, sind auf der Arbeitsfläche vorhanden.
 
-Wenn Sie beispielsweise zunächst vier Varianten in einem Seitenverhältnis von 1:1 generieren und dann das Seitenverhältnis auf 4:5 ändern, sind jetzt auf der Arbeitsfläche insgesamt _acht_ Varianten verfügbar.
+   Wenn Sie beispielsweise zunächst vier Varianten in einem Seitenverhältnis von 1:1 generieren und dann das Seitenverhältnis auf 4:5 ändern, sind jetzt auf der Arbeitsfläche insgesamt _acht_ Varianten verfügbar.
+
+## Bild tauschen
+
+Sie können Bilder in generierten Varianten direkt auf der Arbeitsfläche hinzufügen oder austauschen.
+
+**So fügen Sie Bilder in einer Variante hinzu oder tauschen sie aus**:
+
+1. Klicken Sie nach dem Generieren eines Variantensatzes auf ein Bild-Asset.
+
+   Wenn die Variante derzeit kein platziertes Bild-Asset hat, klicken Sie auf den Asset-Bereich für das Bild.
+
+1. So wählen Sie ein Bild-Asset aus, das bereits in [!DNL Content] veröffentlicht wurde:
+   1. Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]**. Verwenden Sie die Filter, um die Suchergebnisse weiter einzugrenzen.
+   1. Klicken Sie auf **[!UICONTROL Use]**
+1. So laden Sie ein Bild-Asset hoch:
+   1. Klicken Sie auf **[!UICONTROL Neues Bild hochladen]** , um Ihre Dateien zu durchsuchen und Assets zur Verwendung auszuwählen. Neben dem Durchsuchen Ihres Geräts können Sie aus Microsoft OneDrive oder Dropbox importieren.
+   1. Klicken Sie auf **[!UICONTROL Assets hinzufügen]**.
+
+   Die Bilder werden der entsprechenden Variante hinzugefügt oder in diese getauscht.
 
 ## Vorschau für Gerät
 
@@ -119,7 +138,7 @@ Löschen Sie unnötige Varianten, sodass die Arbeitsfläche nur die Varianten an
 
    Die Variante wird hervorgehoben und ein Kontextmenü wird angezeigt.
 
-1. Wählen Sie **[!UICONTROL Löschen]** aus den verfügbaren Menüoptionen.
+1. Wählen Sie **[!UICONTROL Löschen]** aus den verfügbaren Optionen aus.
 
    Die Variante wird gelöscht.
 
