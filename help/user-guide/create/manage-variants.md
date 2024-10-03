@@ -2,9 +2,9 @@
 title: Varianten verwalten
 description: Passen Sie die generierten Varianten und Assets an Ihre Anforderungen für das digitale Marketing an und erweitern Sie sie.
 feature: Content, Assets, Experiences
-source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
+source-git-commit: 67a3fe86facf0fef12f1fd63d8cf79132b0f42b0
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '694'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Varianten verwalten
 
-Mit Adobe GenStudio für Performance-Marketing [!DNL Create] können Sie generierte Varianten - E-Mails, Metaanzeigen und mehr - für die Verwendung in digitalen Marketinginitiativen anpassen und erweitern.
+Mit Adobe GenStudio for Performance Marketing [!DNL Create] können Sie generierte Varianten -[E-Mails](/help/user-guide/create/email-experiences.md), [Metaanzeigen](/help/user-guide/create/meta-experiences.md) und mehr - für die Verwendung in digitalen Marketinginitiativen anpassen und erweitern.
 
 Beim [ Erstellen von Erlebnissen](/help/tutorials/tutorials.md) können Sie Inhalte und Assets generierter Varianten einzeln oder in einem Batch ändern. Die Möglichkeit, Varianten auf der einzelnen Mikroebene zu verwalten, ermöglicht es Ihnen, die einzelnen generierten Inhalte explizit zu verwalten.
 
@@ -53,20 +53,20 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 1. If you want to regenerate results, click the regenerate icon adjacent to _Results_.
 1. From the _Results_ that appear, select the desired option and click **[!UICONTROL Replace]**.
 
-   The variant is updated with the revised text.
+   The variant is updated with the revised text. -->
 
-## Crop assets
+## Zuschneiden von Assets
 
-You can manually crop and reposition image assets in individual generated variants.
+Sie können Bild-Assets in einzelnen generierten Varianten manuell zuschneiden und neu positionieren.
 
-**To crop and reposition images in variants**:
+**So schneiden Sie Bilder in Varianten ab und positionieren sie neu**:
 
-1. After generating a set of variants, hover over an image within a variant.
-1. Click **[!UICONTROL Apply Crop]**.
-1. Zoom in and out and drag the image into the desired position.
-1. Click **[!UICONTROL Apply]**.
+1. Bewegen Sie nach dem Generieren eines Variantensatzes den Mauszeiger über ein Bild in einer Variante.
+1. Klicken Sie auf das Zuschnittsymbol, das in der linken Ecke des Bildes angezeigt wird.
+1. Passen Sie den Begrenzungsrahmen an und ziehen Sie das Bild an die gewünschte Position.
+1. Klicken Sie auf **[!UICONTROL Anwenden]** , um den Zuschnitt auf ein einzelnes Bild anzuwenden, oder auf alle Bilder anwenden ]**, um den Zuschnitt auf alle Bilder in den Varianten anzuwenden.**[!UICONTROL 
 
-   The cropped image is automatically saved and visible for the variant. -->
+   Das zugeschnittene Bild wird gespeichert und für die Varianten sichtbar.
 
 ## Seitenverhältnis ändern
 
@@ -100,6 +100,12 @@ Verfügbare Größen-/Seitenverhältnisse sind:
 [!DNL Create] erstellt eine Kopie jeder Variante basierend auf dem neuen ausgewählten Seitenverhältnis. Alle Varianten, auch die im ursprünglichen Seitenverhältnis, sind auf der Arbeitsfläche vorhanden.
 
 Wenn Sie beispielsweise zunächst vier Varianten in einem Seitenverhältnis von 1:1 generieren und dann das Seitenverhältnis auf 4:5 ändern, sind jetzt auf der Arbeitsfläche insgesamt _acht_ Varianten verfügbar.
+
+## Vorschau für Gerät
+
+Bei der Überprüfung und Vorbereitung von E-Mail-Erlebnissen können Sie zwischen der Vorschau für Desktop- und Mobile-Ansichten umschalten, um Kohärenz und visuelle Attraktivität von Entwurfsvarianten sicherzustellen.
+
+Um Varianten für Desktop- und Mobilgeräte in der Vorschau anzuzeigen, schalten Sie in der rechten Menüleiste (Computer- und Telefonsymbol) die Vorschauoption für das Gerät (zwischen **Desktop** und **Mobil**) um, um die Darstellung der Varianten in der Vorschau anzuzeigen.****
 
 ## Variante löschen
 

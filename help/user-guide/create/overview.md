@@ -3,9 +3,9 @@ title: Übersicht über GenStudio für Performance-Marketing [!DNL Create]
 description: Schnelles Generieren leistungsstarker On-Brand-Inhalte mit generativer KI in Adobe GenStudio für Performance Marketing [!DNL Create].
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
+source-git-commit: 4b6602e833ed7245bca1abc42ea95b465a61c109
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '566'
 ht-degree: 1%
 
 ---
@@ -16,8 +16,8 @@ GenStudio for Performance Marketing [!DNL Create] nutzt die Leistungsfähigkeit 
 
 Mit [!DNL Create] können Sie Inhalte für die folgenden Kanäle generieren:
 
-* E-Mails
-* Meta-Anzeigen
+* [E-Mails](email-experiences.md)
+* [Meta-Anzeigen](meta-experiences.md)
 <!-- * Social media images and ads
 * Display ads -->
 
@@ -68,31 +68,25 @@ GenStudio for Performance Marketing ermöglicht es Marketing-Experten, **neue Ma
 
 [!DNL Create] integriert verschiedene Komponenten von GenStudio für Performance Marketing, um Benutzer bei der Erstellung von Inhalten zu unterstützen.
 
-### Entwürfe
-
-Rufen Sie im Abschnitt _Zuletzt verwendete Arbeit_ von [!DNL Create] alle letzten Entwürfe auf und verwalten Sie sie. Sehen Sie sich Ihre vorherigen Arbeiten an und schließen Sie sie ab, um sie für die Veröffentlichung in [[!DNL Content]](/help/user-guide/content/overview.md) vorzubereiten.
-
-Gestartete Entwürfe werden automatisch gespeichert. Wenn Sie zurück zur Startseite von [!DNL Create] navigieren, wird der Abschnitt _Zuletzt verwendete Arbeit_ mit Ihren neuesten Entwürfen aktualisiert. Für jeden Entwurf können Sie sehen, ob er _genehmigt_ wurde oder sich noch im Formular _Entwurf_ befindet.
-
 ### Vorlagen
 
-Nachdem Sie in der Dropdownliste &quot;_Was möchten Sie heute erstellen&quot;ausgewählt haben, welchen Inhaltskanal Sie erstellen möchten?_ können Sie auf markengenehmigte Vorlagen zugreifen, um sie bei der Inhaltserstellung zu verwenden. Verwenden Sie Vorlagen, um den Inhaltserstellungsprozess zu starten und mit einer definierten Markenidentität im Einklang zu bleiben.
+Nachdem Sie in den _Was möchten Sie heute erstellen, wählen Sie den Kanal aus, den Sie erstellen möchten?_ können Sie auf markengenehmigte Vorlagen zugreifen, um sie bei der Inhaltserstellung zu verwenden. Verwenden Sie Vorlagen, um den Inhaltserstellungsprozess zu starten und mit einer definierten Markenidentität im Einklang zu bleiben.
 
 Vorlagen werden [ hochgeladen und in  [!DNL Content]](/help/user-guide/content/overview.md) gespeichert und sind in [!DNL Create] verfügbar.
+
+### Parameter
+
+Im Eingabeaufforderungsbereich können Sie _Parameter_ wie [!DNL Brands], [!DNL Products] und [!DNL Personas] (Führungslinien) und [!DNL Content] (Assets) hinzufügen, um das generierte Erlebnis zu formen.
+
+Diese hinzugefügten Parameter fügen [guidelines](/help/user-guide/guidelines/overview.md) und Assets in den Generierungsprozess ein, um sicherzustellen, dass der Inhalt an die umfassende Identität einer Marke angepasst wird. Es wird empfohlen, Ihrer GenStudio Richtlinien für Performance-Marketing hinzuzufügen und diese während des Inhaltserstellungsprozesses zu verwenden, da sie die Erstellung von geeigneten On-Brand-Inhalten erheblich verbessern.
+
+Inhalt - hochgeladene oder hinzugefügte Bild-Assets - in _Parameter_ werden in generierten Varianten verwendet und informiert über den für Varianten generierten Kopierinhalt (Text). Sie können Assets hochladen oder Assets auswählen, die bereits in [!DNL Content] oder in allen verbundenen AEM Content Hub-Repositorys vorhanden sind.
 
 ### Eingabeaufforderungen
 
 [Das Erstellen effektiver Eingabeaufforderungen](/help/user-guide/effective-prompts.md) ist ein wichtiger Teil des Generierungsprozesses in [!DNL Create].
 
-Geben Sie zum Erstellen neuer KI-generierter Inhalte eine [beschreibende Eingabeaufforderung](/help/user-guide/effective-prompts.md) ein, die den Kontext oder das Erlebnis beschreibt, das Sie generieren möchten, sowie [Führungslinien](/help/user-guide/guidelines/overview.md) und [_Parameter_](#parameters) im Eingabeaufforderungsbereich und klicken Sie auf **[!UICONTROL Erzeugen]**.
-
-### Parameter
-
-Im Eingabeaufforderungsbereich können Sie _Parameter_ wie [!DNL Brands], [!DNL Products] und [!DNL Personas] (Richtlinien) oder Assets hinzufügen, um das generierte Erlebnis zu formen.
-
-In _Parameter_ hochgeladene Bilder werden in generierten Varianten verwendet und geben den für Varianten generierten Kopierinhalt (Text) an.
-
-Diese hinzugefügten Parameter fügen [guidelines](/help/user-guide/guidelines/overview.md) und Assets in den Generierungsprozess ein, um sicherzustellen, dass der Inhalt an die umfassende Identität einer Marke angepasst wird. Es wird empfohlen, Ihrer GenStudio Richtlinien für Performance-Marketing hinzuzufügen und diese während des Inhaltserstellungsprozesses zu verwenden, da sie die Erstellung von geeigneten On-Brand-Inhalten erheblich verbessern.
+Geben Sie zum Erstellen von durch KI generierten Inhalten eine [beschreibende Eingabeaufforderung](/help/user-guide/effective-prompts.md) ein, die den Kontext oder das Erlebnis beschreibt, den/das Sie generieren möchten, sowie [Führungslinien](/help/user-guide/guidelines/overview.md) und [_Parameter_](#parameters) im Eingabeaufforderungsbereich und klicken Sie auf **[!UICONTROL Erzeugen]**.
 
 ### Markenvalidierung
 
@@ -103,6 +97,12 @@ GenStudio for Performance Marketing führt eine Markenvalidierung für verschied
 Überprüfen Sie Prüfungen, verfolgen Sie Überprüfungskommentare und erhalten Sie Genehmigungen während des Erstellungsprozesses mit der integrierten Funktion [Bewertungen und Genehmigungen](/help/user-guide/approvals/overview.md) .
 
 Nachdem Sie die Erstellung von Inhaltsvarianten abgeschlossen haben, senden Sie Ihre Entwürfe zur Genehmigung an die Stakeholder, damit sie in [!DNL Content] gespeichert und in Marketing-Maßnahmen implementiert werden können.
+
+### Entwürfe
+
+Rufen Sie im Abschnitt _Zuletzt verwendete Arbeit_ von [!DNL Create] alle letzten Entwürfe auf und verwalten Sie sie. Sehen Sie sich Ihre vorherigen Arbeiten an und schließen Sie sie ab, um sie für die Veröffentlichung in [[!DNL Content]](/help/user-guide/content/overview.md) vorzubereiten.
+
+Gestartete Entwürfe werden automatisch gespeichert. Wenn Sie zurück zur Startseite von [!DNL Create] navigieren, wird der Abschnitt _Zuletzt verwendete Arbeit_ mit Ihren neuesten Entwürfen aktualisiert. Für jeden Entwurf können Sie sehen, ob er _genehmigt_ wurde oder sich noch im Formular _Entwurf_ befindet.
 
 ### Varianten verwalten
 

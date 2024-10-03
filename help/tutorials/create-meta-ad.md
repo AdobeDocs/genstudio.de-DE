@@ -7,16 +7,16 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 06c8884a8e1ac4d02b73931fdc4be3625565c70a
+source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
 workflow-type: tm+mt
-source-wordcount: '952'
+source-wordcount: '1048'
 ht-degree: 0%
 
 ---
 
 # Erstellen eines Meta-Anzeigenerlebnisses
 
-In diesem Tutorial erfahren Sie, wie Sie mit GenStudio für Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich) Markenmeta-Anzeigenerlebnisse erstellen.
+In diesem Tutorial erfahren Sie, wie Sie mit GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Paintbrush-Symbol im linken Navigationsbereich) Markenbezeichnungen [Meta-Anzeigenerlebnisse](/help/user-guide/create/meta-experiences.md) erstellen.
 
 Bevor Sie mit der Generierung eines Meta-Anzeigenerlebnisses beginnen, müssen Sie [Richtlinien](/help/user-guide/guidelines/add-guidelines.md) in GenStudio für Performance Marketing einbinden und sich mit den Grundlagen von [Erstellen einer Eingabeaufforderung](/help/user-guide/effective-prompts.md) vertraut machen.
 
@@ -44,8 +44,11 @@ Das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview.md) u
    Wenn in diesen Menüs keine Marken, Personas oder Produkte verfügbar sind, fügt [Ihrer GenStudio Richtlinien für Performance-Marketing hinzu](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Klicken Sie auf **[!UICONTROL Inhalt auswählen]** , um Inhalte hinzuzufügen, die im Erlebnis *und* verwendet werden sollen, um die Inhaltserstellung zu beeinflussen.
-   * Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** , um Assets (Bilder) auszuwählen, die bereits in [!DNL Content] veröffentlicht wurden. Verwenden Sie die Filter, um die Suchergebnisse weiter einzugrenzen.
-   * Klicken Sie auf **[!UICONTROL Hochladen]** , um Ihre Dateien zu durchsuchen und Assets zur Verwendung auszuwählen. Neben dem Durchsuchen Ihres Geräts können Sie auch aus Microsoft OneDrive oder Dropbox importieren.
+   * Um bereits in [!DNL Content] veröffentlichte Assets (Bilder) auszuwählen, klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** und klicken Sie auf , um die gewünschten Bilder auszuwählen. Verwenden Sie die Filter, um die Suchergebnisse weiter einzugrenzen.
+
+     Wenn Sie bereits in einem AEM Content Hub-Repository vorhandene Assets verwenden möchten, wählen Sie den entsprechenden Speicherort aus dem Dropdown-Menü _Position_ aus und klicken Sie auf , um die gewünschten Bilder auszuwählen.
+
+   * Klicken Sie auf **[!UICONTROL Hochladen]** , um Ihre Dateien zu durchsuchen und Assets zur Verwendung auszuwählen. Neben dem Durchsuchen Ihres Geräts können Sie auch aus Microsoft OneDrive oder Dropbox importieren. Klicken Sie auf , um die gewünschten Bilder auszuwählen.
    * Ziehen Sie Assets per Drag-and-Drop in den Abschnitt _Inhalt_ .
 1. Klicken Sie auf **[!UICONTROL Use]**.
 
@@ -63,6 +66,8 @@ Weitere Informationen zum Schreiben von Eingabeaufforderungen finden Sie unter [
 1. Klicken Sie auf **[!UICONTROL Generieren]**.
 
 Standardmäßig werden vier Varianten generiert und auf der Arbeitsfläche angezeigt, die alle durch die Eingabeaufforderung, die Richtlinien und den hinzugefügten Inhalt angeregt werden.
+
+Generierte Inhalte werden progressiv geladen. Sobald alle Abschnitte der Meta-Erlebnisse generiert werden, werden sie auf der Arbeitsfläche angezeigt. Unter [Meta-Erlebnisse](/help/user-guide/create/meta-experiences.md#progressive-loading) erfahren Sie, wie diese Änderungen auf der Arbeitsfläche geladen werden.
 
 ## Kanal &quot;Meta-Anzeigen&quot;auswählen
 
@@ -82,8 +87,8 @@ Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Co
 * **Um [eine Metadatenanzeige manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)**, doppelklicken Sie auf einen der Anzeigenbereiche (z. B. die Betreffzeile, Kopfzeile oder Textkopie) und bearbeiten Sie ihn nach Bedarf.
 * **Um den Aktionsaufruf zu ändern oder auszuwählen**, klicken Sie auf die Aktionsaufruf-Schaltfläche und wählen Sie aus den verfügbaren Schaltflächen-Textoptionen aus. Geben Sie in _[!UICONTROL Link]_ eine URL für den Text des Aktionsaufrufs ein.
 * **Ändern Sie in [ Größe und Seitenverhältnis der Anzeige.](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** Klicken Sie auf die Schaltfläche _[!UICONTROL Größe ändern]_ (Feld mit einem Schaltflächensymbol auf der linken Seite der Arbeitsfläche) und wählen Sie eine neue Größe und ein neues Seitenverhältnis aus, die auf alle Varianten angewendet werden sollen. Die Varianten werden dupliziert und die Größe wird angepasst.
-<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
-* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
+<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
+* **Um [ Bilder zuzuschneiden oder neu zu positionieren](/help/user-guide/create/manage-variants.md#crop-assets)**, bewegen Sie den Mauszeiger über ein Bild, klicken Sie auf das angezeigte Zuschnittsymbol und passen Sie die Bildgröße und -platzierung an.
 * **Um [eine Metaanzeige zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)**, klicken Sie auf den Anzeigentitel (z. B. &quot;Meta 4&quot;) und klicken Sie auf **[!UICONTROL Variante löschen]**.
 
 ## Markenausrichtung überprüfen

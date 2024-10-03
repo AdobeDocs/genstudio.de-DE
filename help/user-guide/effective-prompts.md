@@ -3,7 +3,7 @@ title: Effektive Eingabeaufforderungen schreiben
 description: Erfahren Sie, wie Sie effektive Eingabeaufforderungen für Adobe GenStudio for Performance Marketing schreiben.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
+source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
 workflow-type: tm+mt
 source-wordcount: '758'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 In GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) können Sie im Eingabebereich **[!UICONTROL Eingabeaufforderungskriterien]** ([_Parameter_](/help/user-guide/create/overview.md#parameters) und eine Eingabeaufforderung) verwenden, um Details durch Auswahl hinzuzufügen und so die KI-Interpretation zu verbessern.
 
-Bei [E-Mails](/help/tutorials/create-email-experience.md) umfassen die Eingabeaufforderungskriterien möglicherweise das Hinzufügen von [guidelines](/help/user-guide/guidelines/overview.md) in _Parameter_, das Hochladen eines Assets zur Verwendung in den E-Mail-Varianten und eine beschreibende Eingabeaufforderung. Bei einer [Metaanzeige](/help/tutorials/create-meta-ad.md) umfassen die Eingabeaufforderungskriterien möglicherweise eine Markenrichtlinie in _Parameter_, die Auswahl oder den Upload eines vorhandenen Assets, Einstellungen im Zusammenhang mit Bildern oder Assets wie dem Seitenverhältnis und eine Eingabeaufforderung. Die tatsächliche Leistung beginnt mit [Konfigurieren von Führungslinien](/help/user-guide/guidelines/add-guidelines.md).
+Bei [E-Mails](/help/user-guide/create/email-experiences.md) umfassen die Eingabeaufforderungskriterien möglicherweise das Hinzufügen von [guidelines](/help/user-guide/guidelines/overview.md) in _Parameter_, das Hochladen eines Assets zur Verwendung in den E-Mail-Varianten und eine beschreibende Eingabeaufforderung. Bei einer [Metaanzeige](/help/tutorials/create-meta-ad.md) umfassen die Eingabeaufforderungskriterien möglicherweise eine Markenrichtlinie in _Parameter_, die Auswahl oder den Upload eines vorhandenen Assets, Einstellungen im Zusammenhang mit Bildern oder Assets wie dem Seitenverhältnis und eine Eingabeaufforderung. Die tatsächliche Leistung beginnt mit [Konfigurieren von Führungslinien](/help/user-guide/guidelines/add-guidelines.md).
 
 >[!NOTE]
 >
@@ -57,7 +57,7 @@ GenStudio for Performance Marketing-Richtlinien helfen der generativen KI bei de
 
 ### Strukturierte Eingabeaufforderungen
 
-Bei E-Mails mit mehreren Abschnitten können Sie Aufforderungen strukturieren, um bereichsspezifische Anweisungen zur Generierung variierender Inhalte für jeden Bereich in einer E-Mail bereitzustellen. Strukturierte Eingabeaufforderungen sollten direkt auf [Abschnittsnamen in der E-Mail-Vorlage](/help/user-guide/content/email-template.md#multi-section-emails) verweisen, damit der generierte Inhalt in die entsprechenden Inhaltsplatzhalter eingefügt werden kann.
+Bei mehrteiligen E-Mails können Sie Aufforderungen strukturieren, um bereichsspezifische Anweisungen zur Generierung variierender Inhalte für jeden Bereich in einer [E-Mail](/help/user-guide/create/email-experiences.md) bereitzustellen. Strukturierte Eingabeaufforderungen sollten direkt auf [Abschnittsnamen in der E-Mail-Vorlage](/help/user-guide/content/email-template.md#multi-section-emails) verweisen, damit der generierte Inhalt in die entsprechenden Inhaltsplatzhalter eingefügt werden kann.
 
 Beispielsweise können Sie GenStudio for Performance Marketing anweisen, Inhalte zu erstellen, die ein neues Produkt im ersten Teil einer E-Mail bewerben, und Inhalte zu generieren, die die kostensparenden Vorteile des Produkts im zweiten E-Mail-Abschnitt detailliert beschreiben.
 

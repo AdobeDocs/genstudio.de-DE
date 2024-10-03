@@ -7,16 +7,16 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 06c8884a8e1ac4d02b73931fdc4be3625565c70a
+source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '885'
 ht-degree: 0%
 
 ---
 
 # E-Mail-Erlebnis erstellen
 
-In diesem Tutorial erfahren Sie, wie Sie mit GenStudio für Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) Erlebnisse mit Branding-E-Mails erstellen (Paintbrush-Symbol im linken Navigationsbereich).
+In diesem Tutorial erfahren Sie, wie Sie mit GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich) Erlebnisse mit der Marke [E-Mail-Erlebnisse](/help/user-guide/create/email-experiences.md) generieren.
 
 Um ein effektives E-Mail-Erlebnis zu schaffen, sollten Sie GenStudio Richtlinien für Performance Marketing](/help/user-guide/guidelines/add-guidelines.md) hinzufügen und die [Grundlagen für die Erstellung einer Eingabeaufforderung](/help/user-guide/effective-prompts.md) aufpolieren, bevor Sie beginnen.[
 
@@ -44,8 +44,11 @@ Durch das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview
    Wenn in diesen Menüs keine Marken, Personas oder Produkte verfügbar sind, fügt [Ihrer GenStudio Richtlinien für Performance-Marketing hinzu](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Klicken Sie auf **[!UICONTROL Inhalt auswählen]** , um Inhalte hinzuzufügen, die im Erlebnis *und* verwendet werden sollen, um die Inhaltserstellung zu beeinflussen.
-   * Klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** , um Assets (Bilder) auszuwählen, die bereits in [!DNL Content] veröffentlicht wurden. Verwenden Sie die Filter, um die Suchergebnisse weiter einzugrenzen.
-   * Klicken Sie auf **[!UICONTROL Hochladen]** , um Ihre Dateien zu durchsuchen und Assets zur Verwendung auszuwählen. Neben dem Durchsuchen Ihres Geräts können Sie auch aus Microsoft OneDrive oder Dropbox importieren.
+   * Um Assets (Bilder) aus Ihrem [!DNL Content]-Repository auszuwählen, klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]**. Filtern und wählen Sie ein oder mehrere Bilder aus.
+
+     Um Assets aus einem verbundenen [!DNL AEM Assets Content Hub]-Repository zu verwenden, wählen Sie ein Repository aus dem Dropdown-Menü _Position_ aus. Filtern und wählen Sie ein oder mehrere Bilder aus.
+
+   * Um ein oder mehrere neue Assets hochzuladen, klicken Sie auf **[!UICONTROL Hochladen]**, durchsuchen Sie Ihre Dateien und wählen Sie die Assets aus, die verwendet werden sollen. Neben dem Durchsuchen Ihres Geräts können Sie aus Microsoft OneDrive oder Dropbox importieren. Klicken Sie auf , um die gewünschten Bilder auszuwählen.
    * Ziehen Sie Assets per Drag-and-Drop in den Abschnitt _Inhalt_ .
 1. Klicken Sie auf **[!UICONTROL Use]**.
 
@@ -68,6 +71,8 @@ Weitere Informationen zum Schreiben von Eingabeaufforderungen finden Sie unter [
 
 Standardmäßig werden vier Varianten generiert und auf der Arbeitsfläche angezeigt, die alle durch die Eingabeaufforderung, die Richtlinien und den hinzugefügten Inhalt angeregt werden.
 
+Generierte Inhalte werden progressiv geladen. Da jeder Abschnitt der E-Mail-Erlebnisse generiert wird, erscheinen sie auf der Arbeitsfläche. Unter [E-Mail-Erlebnisse](/help/user-guide/create/meta-experiences.md#progressive-loading) erfahren Sie, wie diese Änderungen auf der Arbeitsfläche geladen werden.
+
 ## Erstellte E-Mails überarbeiten
 
 Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Content] senden möchten, können Sie die E-Mail-Abschnitte bearbeiten oder eine Variante aus dem Satz der generierten E-Mails löschen.
@@ -81,9 +86,7 @@ Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Co
 
 ## Vorschau für Gerät
 
-Bei der Überprüfung und Vorbereitung von E-Mail-Erlebnissen können Sie zwischen der Vorschau für Desktop- und Mobile-Ansichten umschalten, um Kohärenz und visuelle Attraktivität von Entwurfsvarianten sicherzustellen.
-
-Um Varianten für Desktop- und Mobilgeräte in der Vorschau anzuzeigen, schalten Sie in der rechten Menüleiste (Computer- und Telefonsymbol) die Vorschauoption für das Gerät (zwischen **Desktop** und **Mobil**) um, um die Darstellung der Varianten in der Vorschau anzuzeigen.****
+Beim Überarbeiten und Vorbereiten von E-Mail-Erlebnissen können Sie [zwischen der Vorschau für Desktop- und Mobile-Ansichten umschalten](/help/user-guide/create/manage-variants.md#preview-for-device), um Kohärenz und visuelle Anziehungskraft von Entwurfsvarianten sicherzustellen.
 
 ## Markenausrichtung überprüfen
 
