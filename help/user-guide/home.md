@@ -1,14 +1,13 @@
 ---
 title: Adobe GenStudio-Benutzerhandbuch
-description: Erfahren Sie mehr über die Funktionen von Adobe GenStudio for Performance Marketing. Erfahren Sie, wie Sie schnell On-Marke-Assets erstellen, Varianten generieren und Erlebnisse optimieren können.
-source-git-commit: bc509cd9ca144ee41bb0070efef138c1fda9707e
+description: Erfahren Sie mehr über die Funktionen von Adobe GenStudio for Performance Marketing. Erfahren Sie, wie Sie schnell markenkonforme Assets erstellen, Varianten generieren und Erlebnisse optimieren können.
+source-git-commit: fd36f757db18ba688029106a11fdf09df1cf7a9b
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 0%
+source-wordcount: '45'
+ht-degree: 62%
 
 ---
 
-# Adobe GenStudio for Performance Marketing-Benutzerhandbuch
+# Benutzerhandbuch zu Adobe GenStudio for Performance Marketing
 
-Die Produktdokumentation finden Sie [hier](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) .
-
+Dieser Inhalt wurde auf die Dokumentationsseite [GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing) verschoben.
