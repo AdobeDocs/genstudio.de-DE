@@ -14,16 +14,16 @@ ht-degree: 0%
 
 # Meta-Erlebnisse
 
-Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwenden, um die [Erstellung von Meta-Erlebnissen mit hoher Auswirkung](/help/tutorials/create-meta-ad.md) zu optimieren.
+Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwenden, um die [Erstellung wirkungsvoller Meta-Erlebnisse“ zu ](/help/tutorials/create-meta-ad.md).
 
-Mit [!DNL Create] können Ersteller von Inhalten [Führungslinien](/help/user-guide/guidelines/overview.md), Bild-Assets und eine [ gut entwickelte Eingabeaufforderung](/help/user-guide/effective-prompts.md) verwenden, um schnell [Meta-Anzeigenerlebnisse zu erstellen](/help/tutorials/create-meta-ad.md).
+[!DNL Create] ermöglicht es Inhaltserstellern, [Richtlinien](/help/user-guide/guidelines/overview.md) Bild-Assets und eine [gut gestaltete Eingabeaufforderung](/help/user-guide/effective-prompts.md) zu verwenden, um schnell [Meta-Anzeigenerlebnisse zu erstellen](/help/tutorials/create-meta-ad.md).
 
 Zu den bearbeitbaren Abschnitten eines E-Mail-Erlebnisses gehören:
 
 * Überschrift
-* body
+* Textkörper
 * Aktionsaufruf (CTA)
-* Text im Bild
+* Text auf dem Bild
 * Bild
 * Markenlogo
 
@@ -33,22 +33,22 @@ Siehe [Vorlagenelemente](/help/user-guide/content/use-templates.md#template-elem
 
 Content creators and marketers can produce brand-consistent Meta ad experiences in GenStudio for Performance Marketing. -->
 
-## Meta-Anzeigenkanäle
+## Meta-Anzeigen-Kanäle
 
-Beim Erstellen von Meta-Anzeigenerlebnissen können Sie Varianten für Facebook- und Instagram-Kanäle generieren. Wechsel zwischen Facebook- und Instagram-Anzeigen hin und her, um Varianten für jeden Kanal in der Vorschau anzuzeigen.
+Beim Erstellen von Meta-Anzeigen-Erlebnissen können Sie Varianten für Facebook- und Instagram-Kanäle generieren. Wechseln Sie zwischen Facebook- und Instagram-Anzeigen hin und her, um Varianten für jeden Kanal in der Vorschau anzuzeigen.
 
-Siehe [Kanal für Metadatenanzeigen auswählen](/help/tutorials/create-meta-ad.md#choose-meta-ads-channel).
+Siehe [Auswählen des Meta-Anzeigenkanals](/help/tutorials/create-meta-ad.md#choose-meta-ads-channel).
 
 ## Progressives Laden
 
-Wenn der Prozess zur Inhaltserstellung beginnt, wird jeder Abschnitt des generierten Inhalts in Varianten schrittweise auf die Arbeitsfläche geladen. Erlebnisse, Assets sowie Felder und Abschnitte innerhalb von Erlebnissen werden einzeln bei ihrer Erstellung auf der Arbeitsfläche angezeigt.
+Wenn der Inhaltserstellungsprozess beginnt, wird jeder Abschnitt des generierten Inhalts in Varianten schrittweise auf der Arbeitsfläche geladen. Erlebnisse, Assets sowie Felder und Abschnitte in Erlebnissen werden bei ihrer Erstellung einzeln auf der Arbeitsfläche angezeigt.
 
-Wenn Sie auf **[!UICONTROL Erzeugen]** klicken, wird unten auf der Arbeitsfläche eine Ladeanzeige angezeigt, die Sie über den Erstellungsfortschritt informiert.
+Wenn Sie auf **[!UICONTROL Generieren]** klicken, wird unten auf der Arbeitsfläche eine Ladeanzeige angezeigt, die Sie über den Fortschritt der Generierung informiert.
 
-Jedes Feld und jeden Abschnitt der Meta-Werbeinhalte werden in dieser Sequenz progressiv geladen:
+Jedes Feld und jeder Abschnitt der Meta- und -Erlebnisse wird schrittweise in dieser Sequenz geladen:
 
 1. Primärer Text für alle Varianten
 1. Aktionsaufrufe und zugehörige URLs
 1. Überschriften
-1. Text im Bild
-1. Der Prozess zur Markenvalidierung erfolgt und die [_Markenrichtlinien-Prüfung_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) wird für jede Variante ausgefüllt.
+1. Text auf dem Bild
+1. Der Markenvalidierungsprozess wird durchgeführt und die [_Prüfung der Markenrichtlinien_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) wird für jede Variante ausgefüllt.

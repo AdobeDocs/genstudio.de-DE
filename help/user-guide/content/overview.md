@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Adobe GenStudio for Performance Marketing [!DNL Content]
 
-GenStudio for Performance Marketing [!DNL Content] bietet einen zentralen Speicherort zum Speichern, Suchen und Freigeben aller markengenehmigten Assets, Erlebnisse und Vorlagen. Sie können Inhalte bearbeiten und neu mischen, Einblicke in Inhaltsnutzung und Sentiment erhalten und vorhandene Assets mit generativer KI aktualisieren und wiederverwenden.
+GenStudio for Performance Marketing [!DNL Content] bietet einen zentralen Speicherort zum Speichern, Suchen und Freigeben aller markenbestätigten Assets, Erlebnisse und Vorlagen. Sie können Inhalte bearbeiten und neu mischen, Einblicke in die Nutzung von Inhalten und Stimmungen erhalten sowie vorhandene Assets mithilfe generativer KI aktualisieren und wiederverwenden.
 
 ## [!DNL Content]-Anwendungsfälle 
 
@@ -34,13 +34,13 @@ GenStudio for Performance Marketing [!DNL Content] bietet einen zentralen Speich
       </a>
       <p>
          <a href="../content/manage-assets.md">
-         <strong>Hinzufügen von Assets</strong>
+         <strong>Assets hinzufügen</strong>
          </a>
       </p>
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/customize-template.md">
-         <img alt="Blitz auf dem Asset" src="../../assets/icons/icon-template.png">
+         <img alt="Blitzbolzen am Vermögenswert" src="../../assets/icons/icon-template.png">
       </a>
       <p>
          <a href="../content/customize-template.md">
@@ -50,7 +50,7 @@ GenStudio for Performance Marketing [!DNL Content] bietet einen zentralen Speich
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
-         <img alt="Blitz auf Asset mit Pluszeichen" src="../../assets/icons/icon-addTemplate.png">
+         <img alt="Blitzbolzen am Asset mit Pluszeichen" src="../../assets/icons/icon-addTemplate.png">
       </a>
       <p>
          <a href="../content/use-templates.md#upload-a-template">
@@ -60,29 +60,29 @@ GenStudio for Performance Marketing [!DNL Content] bietet einen zentralen Speich
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/asset-details.md#edit-in-express">
-         <img alt="In Adobe Expreß bearbeiten" src="../../assets/icons/icon-editExpress.png">
+         <img alt="Im Adobe Expreß bearbeiten" src="../../assets/icons/icon-editExpress.png">
       </a>
       <p>
          <a href="../content/asset-details.md#edit-in-express">
-         <strong>Bearbeiten von Assets in Adobe Express</strong>
+         <strong>Bearbeiten von Assets im Adobe Expreß </strong>
          </a>
       </p>
    </td>
 </tr>
 </table>
 
-## [!DNL Content] Funktionen
+## [!DNL Content]
 
-GenStudio for Performance Marketing [!DNL Content] vereinfacht die Verwaltung Ihrer genehmigten Assets und beschleunigt den Inhaltslebenszyklus. In **[!UICONTROL [!DNL Content]]** können Sie leistungsstarke Inhalte suchen, suchen und wiederverwenden oder ein Asset oder Erlebnis auswählen, um mit der Erstellung neuer Varianten für eine zeitlose Kampagne zu beginnen.
+Mit GenStudio for Performance Marketing [!DNL Content] können Sie Ihre genehmigten Assets einfach verwalten und den Inhaltslebenszyklus beschleunigen. In **[!UICONTROL [!DNL Content]]** können Sie leistungsstarke Inhalte suchen, suchen und wiederverwenden oder ein Asset oder Erlebnis auswählen, um die Erstellung neuer Varianten für eine zeitlose Kampagne zu starten.
 
 ### Hochladen von Assets
 
-Im Bedienfeld **[!UICONTROL Assets hinzufügen]** können Sie Assets in Ihren lokalen Dateien per Drag-and-Drop verschieben oder nach Assets suchen. Optional können Sie Assets aus einer externen Quelle wie OneDrive oder Dropbox importieren. Ein [!UICONTROL Kampagnen]- oder Projektname ist das einzige erforderliche Detail vor dem Hochladen. Durch die Bereitstellung weiterer Details wie Keywords können alle Mitarbeiter relevante Inhalte schnell identifizieren und abrufen.
+Im Bedienfeld **[!UICONTROL Assets hinzufügen]** können Sie Assets per Drag-and-Drop verschieben oder in Ihren lokalen Dateien nach Assets suchen. Optional können Sie Assets aus einer externen Quelle wie OneDrive oder Dropbox importieren. Ein [!UICONTROL Kampagne] oder Projektname ist das einzige erforderliche Detail vor dem Hochladen. Durch Bereitstellung weiterer Details wie Schlüsselwörter kann jeder in Ihrem Team relevante Inhalte schnell identifizieren und abrufen.
 
-### Suche und Suche nach genehmigten Inhalten
+### Suchen und Auffinden genehmigter Inhalte
 
-Beim Speichern genehmigter Assets behält [!DNL Content] die Rich-Metadaten, den Generierungskontext und den Prüfverlauf bei. Asset-Details helfen, Suchergebnisse mithilfe von Filter- und Suchzeichenfolgen schnell einzuschränken. Die KI von GenStudio for Performance Marketing identifiziert und speichert bestimmte Details, z. B. Farbe, automatisch. Die Suche nach `blue` im Suchfeld schränkt die Inhaltsliste auf Assets ein, die als blau markiert sind.
+Beim Speichern genehmigter Assets verwaltet [!DNL Content] die Rich-Metadaten, den Generierungskontext und den Auditverlauf. Asset-Details helfen, Suchergebnisse mithilfe von Filter- und Suchzeichenfolgen schnell einzugrenzen. Die KI von GenStudio for Performance Marketing identifiziert und speichert automatisch bestimmte Details, z. B. Farbe. Bei der Suche nach `blue` im Suchfeld wird die Inhaltsliste auf Assets eingegrenzt, die als blau gekennzeichnet sind.
 
 ### Arbeiten mit Vorlagen
 
-Vorlagen beschleunigen den Erstellungsprozess, sodass Sie konsistente Inhalte über mehrere Kanäle hinweg generieren können. Laden Sie Ihre benutzerdefinierte Vorlage hoch, um sie als Ausgangspunkt für die Erstellung mit vorkonfigurierten Layouts und Designelementen zu verwenden.
+Vorlagen beschleunigen den Erstellungsprozess, sodass Sie konsistente Inhalte über mehrere Kanäle hinweg generieren können. Laden Sie Ihre benutzerdefinierte Vorlage hoch, damit sie als Ausgangspunkt im Erstellungsprozess mit vorkonfigurierten Layouts und Designelementen verwendet werden kann.

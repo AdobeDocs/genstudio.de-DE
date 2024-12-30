@@ -1,5 +1,5 @@
 ---
-title: Generieren von Varianten von Adobe GenStudio for Performance Marketing-Inhalten
+title: Erzeugen von Varianten von Adobe GenStudio for Performance Marketing-Inhalten
 description: Erfahren Sie, wie Sie Varianten von erstellten Inhalten in Adobe GenStudio for Performance Marketing generieren.
 feature: Content, Brands Service, Variant Generation, Content Generation
 role: User
@@ -12,21 +12,21 @@ ht-degree: 1%
 ---
 
 
-# Generieren von Varianten
+# Varianten erzeugen
 
-Beim Generieren von Varianten haben Sie die Möglichkeit, neue [Führungslinien](/help/user-guide/guidelines/overview.md), Bilder oder [Eingabeaufforderungen](/help/user-guide/effective-prompts.md) hinzuzufügen. Diese Schritte sind optional, wirken sich jedoch auf das neu erstellte Ergebnis basierend auf der gewünschten Änderung aus.
+Beim Generieren von Varianten haben Sie die Möglichkeit, neue [Richtlinien](/help/user-guide/guidelines/overview.md) Bilder oder [Aufforderungen](/help/user-guide/effective-prompts.md) hinzuzufügen. Diese Schritte sind optional, wirken sich aber auf das regenerierte Ergebnis aus, je nachdem, was Sie ändern möchten.
 
 ## E-Mail
 
-Standardmäßig erzeugt GenStudio for Performance Marketing vier E-Mail-Varianten. Sie können manuell geändert oder neu generiert werden, indem Sie eine Mischung aus neuen Eingabeaufforderungen und _Parametern_ verwenden, um stilistische Ziele oder Markenbefolgung zu erreichen.
+Standardmäßig generiert GenStudio for Performance Marketing vier E-Mail-Varianten. Sie können manuell geändert oder regeneriert werden, indem eine Mischung aus neuen Eingabeaufforderungen und _Parametern_ verwendet wird, um stilistische Ziele oder die Markenkonformität zu erreichen.
 
 **So ändern Sie generierte E-Mail-Varianten:**
 
-1. Wenn die generierten E-Mail-Varianten sichtbar sind, klicken Sie auf **[!UICONTROL Öffnen , um die Eingabeaufforderung]** am unteren Rand des Bildschirms anzuzeigen, um die Eingabeaufforderung zu erweitern.
-1. _Parameter_ ändern:
+1. Wenn die generierten E-Mail-Varianten sichtbar sind **[!UICONTROL klicken Sie unten]** Bildschirm auf „Öffnen zur Eingabeaufforderung“, um die Eingabeaufforderungsleiste zu erweitern.
+1. Ändern _Parameter_:
    1. Wählen Sie **[!UICONTROL Marke]**, **[!UICONTROL Persona]** oder **[!UICONTROL Produkt]** [Richtlinien](/help/user-guide/guidelines/overview.md).
-   1. Fügen Sie Bilder im Abschnitt _[!UICONTROL Inhalt]_ hinzu oder löschen Sie sie.
-   1. Geben Sie eine neue Eingabeaufforderung in das Eingabeaufforderungsfeld _&quot;Beschreiben Sie die Erlebnisse, die Sie generieren möchten&quot;_ ein.
+   1. Hinzufügen oder Löschen von Bildern im Abschnitt _[!UICONTROL Inhalt]_.
+   1. Geben Sie eine neue Eingabeaufforderung in das _„Beschreiben der Erlebnisse, die Sie generieren möchten“_ ein.
 1. Klicken Sie auf **[!UICONTROL Generieren]**.
 
-Es werden neue Varianten generiert. Sie können Varianten so lange ändern, generieren und iterieren, bis Sie bereit sind, sie in [!DNL Content] zu veröffentlichen und zur Verwendung zu exportieren.
+Es wird ein neuer Satz von Varianten generiert. Sie können weiterhin Varianten ändern, generieren und iterieren, bis Sie für die Veröffentlichung in [!DNL Content] und den Export zur Verwendung bereit sind.

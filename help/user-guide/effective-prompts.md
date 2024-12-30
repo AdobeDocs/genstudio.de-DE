@@ -14,54 +14,54 @@ ht-degree: 2%
 
 Die Kommunikation mit der generativen KI ist für eine effektive Arbeit in Adobe GenStudio for Performance Marketing unerlässlich.
 
-GenStudio for Performance Marketing bietet eine generative KI-Eingabeaufforderung, sobald es möglich ist, ein Asset zu ändern. Die Komponenten einer effektiven Eingabeaufforderung sollten beschreibende Sprache, Beispiele und Informationen enthalten, die nicht über Ihre konfigurierten Richtlinien bereitgestellt werden.
+GenStudio for Performance Marketing bietet jedes Mal, wenn die Möglichkeit besteht, ein Asset zu ändern, eine generative KI-Eingabeaufforderung. Die Komponenten einer effektiven Eingabeaufforderung sollten eine beschreibende Sprache, Beispiele und Informationen enthalten, die nicht durch Ihre konfigurierten Richtlinien bereitgestellt werden.
 
-Als Best Practice sollten Sie GenStudio for Performance Marketing mit [Richtlinien](/help/user-guide/guidelines/overview.md) mit Ihren Markeninformationen versorgen. Anschließend können Sie die generative KI vollständig nutzen, um markenorientierte Inhaltserlebnisse zu erstellen.
+Geben Sie als Best Practice Ihre Markendaten mithilfe von [Richtlinien](/help/user-guide/guidelines/overview.md) an GenStudio for Performance Marketing weiter und Sie können dann die generative KI vollständig nutzen, um markenorientierte Inhaltserlebnisse zu erstellen.
 
 ## Beschreibende Sprache
 
-Sie können die natürliche Sprache verwenden, um Ihre Ideen zu artikulieren und Erlebnisse zu schaffen. Ihre Eingabeaufforderung leitet die KI, um personalisierte Kanalinhalte und Bilder zu generieren, die Ihre Vision ergänzen. Je mehr Details Sie bereitstellen, desto größer ist die Chance, ein Bild oder Erlebnis zu erzeugen, das Ihren Anforderungen entspricht. Verwenden Sie eine klare und beschreibende Sprache, um so viele Details wie möglich bereitzustellen:
+Man kann natürliche Sprache benutzen, um seine Ideen zu artikulieren, um Erlebnisse zu schaffen. Ihre Eingabeaufforderung leitet die KI an, um personalisierte Kanalinhalte und Bilder zu generieren, die Ihre Vision ergänzen. Je mehr Details Sie angeben, desto größer ist die Chance, ein Bild oder Erlebnis zu erstellen, das Ihren Anforderungen entspricht. Verwenden Sie eine klare und beschreibende Sprache, um so viele Details wie möglich bereitzustellen:
 
-- Verwenden Sie für **Bilder** Wörter, die Ambiance, Stimmung, Farbe, Komposition und Stil beschreiben.
-- Verwenden Sie für **copy** Wörter, die die Zielgruppe, den Zweck, die Beschreibung neuer Funktionen, Beispiele und Aktionen beschreiben.
+- Verwenden **Bilder** Wörter, die Ambiente, Stimmung, Farbe, Komposition und Stil beschreiben.
+- Verwenden Sie für **copy** Wörter, die die Zielgruppe, den Zweck, neue Funktionsbeschreibungen, Beispiele und Aktionen beschreiben.
 
-Im Folgenden finden Sie eine Beispielaufforderung, die Informationen zu Ihrer Absicht, Zielgruppe und Ihrem Stil artikuliert.
+Im Folgenden finden Sie eine Beispielaufforderung, die Informationen zu Ihrer Absicht, Zielgruppe und Ihrem Stil ausgibt.
 
 ```bash
 Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery.
 ```
 
-+++ Beispielergebnisse anzeigen
++++Siehe Beispielergebnisse
 
-![drei generierte E-Mails](/help/assets/sample-email.png)
+![Drei generierte E-Mails](/help/assets/sample-email.png)
 
 +++
 
-## Eingabekriterien
+## Prompt-Kriterien
 
-In GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) können Sie im Eingabebereich **[!UICONTROL Eingabeaufforderungskriterien]** ([_Parameter_](/help/user-guide/create/overview.md#parameters) und eine Eingabeaufforderung) verwenden, um Details durch Auswahl hinzuzufügen und so die KI-Interpretation zu verbessern.
+In GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) können Sie **[!UICONTROL Prompt-Kriterien]** ([_Parameter_](/help/user-guide/create/overview.md#parameters) und eine Eingabeaufforderung) im Eingabeaufforderungsbereich verwenden, um Details durch Auswahl hinzuzufügen und so die KI-Interpretation zu verbessern.
 
-Bei [E-Mails](/help/user-guide/create/email-experiences.md) umfassen die Eingabeaufforderungskriterien möglicherweise das Hinzufügen von [guidelines](/help/user-guide/guidelines/overview.md) in _Parameter_, das Hochladen eines Assets zur Verwendung in den E-Mail-Varianten und eine beschreibende Eingabeaufforderung. Bei einer [Metaanzeige](/help/tutorials/create-meta-ad.md) umfassen die Eingabeaufforderungskriterien möglicherweise eine Markenrichtlinie in _Parameter_, die Auswahl oder den Upload eines vorhandenen Assets, Einstellungen im Zusammenhang mit Bildern oder Assets wie dem Seitenverhältnis und eine Eingabeaufforderung. Die tatsächliche Leistung beginnt mit [Konfigurieren von Führungslinien](/help/user-guide/guidelines/add-guidelines.md).
+Bei [E](/help/user-guide/create/email-experiences.md)Mails) können die Eingabeaufforderungskriterien das Hinzufügen [Richtlinien](/help/user-guide/guidelines/overview.md) in _Parameter_, das Hochladen eines Assets zur Verwendung in den E-Mail-Varianten und eine beschreibende Eingabeaufforderung umfassen. Bei einer [Meta-Anzeige](/help/tutorials/create-meta-ad.md) können die Aufforderungskriterien eine Markenrichtlinie in _Parameter_, die Auswahl oder das Hochladen eines vorhandenen Assets, Einstellungen in Bezug auf Bilder oder Assets wie das Seitenverhältnis und eine Aufforderung umfassen. Die wahre Macht beginnt mit [Konfigurieren von Richtlinien](/help/user-guide/guidelines/add-guidelines.md).
 
 >[!NOTE]
 >
->Wenn in _Parameter_ im Eingabeaufforderungsbereich Richtlinien hinzugefügt werden, müssen Sie in Ihrer Eingabeaufforderung keinen Verweis auf diese einfügen. GenStudio for Performance Marketing nutzt diese [!DNL Brands], [!DNL Products] und [!DNL Personas] bei der Inhaltserstellung.
+>Wenn Richtlinien unter _Parameter_ im Eingabeaufforderungsbereich hinzugefügt werden, müssen Sie in Ihrer Eingabeaufforderung keinen Verweis darauf einfügen. GenStudio for Performance Marketing nutzt diese [!DNL Brands], [!DNL Products] und [!DNL Personas] bei der Inhaltserstellung.
 
 ### Richtlinien
 
-GenStudio for Performance Marketing-Richtlinien helfen der generativen KI bei der Personalisierung Ihrer Asset-Komposition. Wenn Ihnen die Eingabeaufforderungskriterien angezeigt werden, können Sie eine [[!DNL Brand]](/help/user-guide/guidelines/brands.md), eine [[!DNL Persona]](/help/user-guide/guidelines/personas.md) und eine [[!DNL Product]](/help/user-guide/guidelines/products.md) aus Ihren konfigurierten Richtlinien auswählen.
+Die GenStudio for Performance Marketing-Richtlinien helfen der generativen KI bei der Personalisierung Ihrer Asset-Komposition. Bei einer Präsentation mit Eingabeaufforderungskriterien können Sie einen [[!DNL Brand]](/help/user-guide/guidelines/brands.md), ein [[!DNL Persona]](/help/user-guide/guidelines/personas.md) und einen [[!DNL Product]](/help/user-guide/guidelines/products.md) aus Ihren konfigurierten Richtlinien auswählen.
 
 >[!TIP]
 >
->Sie steuern, wie und wann GenStudio for Performance Marketing Ihre [!DNL Brand] -Richtlinien verwendet. Informationen zum Konfigurieren und Verwalten Ihrer Markenrichtlinien finden Sie unter [Richtlinien](/help/user-guide/guidelines/overview.md) .
+>Sie steuern, wie und wann GenStudio for Performance Marketing Ihre [!DNL Brand] Richtlinien verwendet. Unter [Richtlinien](/help/user-guide/guidelines/overview.md) erfahren Sie, wie Sie Ihre Markenrichtlinien konfigurieren und verwalten.
 
 ### Strukturierte Eingabeaufforderungen
 
-Bei mehrteiligen E-Mails können Sie Aufforderungen strukturieren, um bereichsspezifische Anweisungen zur Generierung variierender Inhalte für jeden Bereich in einer [E-Mail](/help/user-guide/create/email-experiences.md) bereitzustellen. Strukturierte Eingabeaufforderungen sollten direkt auf [Abschnittsnamen in der E-Mail-Vorlage](/help/user-guide/content/email-template.md#multi-section-emails) verweisen, damit der generierte Inhalt in die entsprechenden Inhaltsplatzhalter eingefügt werden kann.
+Bei E-Mails mit mehreren Abschnitten können Sie Eingabeaufforderungen strukturieren, um abschnittsspezifische Anweisungen bereitzustellen, mit denen für jeden Abschnitt in einer E-[ variierender Inhalt generiert ](/help/user-guide/create/email-experiences.md). Strukturierte Eingabeaufforderungen sollten direkt auf [Abschnittsnamen in der E-Mail](/help/user-guide/content/email-template.md#multi-section-emails)Vorlage verweisen, damit der generierte Inhalt in die entsprechenden Platzhalter für Inhalte eingefügt werden kann.
 
-Beispielsweise können Sie GenStudio for Performance Marketing anweisen, Inhalte zu erstellen, die ein neues Produkt im ersten Teil einer E-Mail bewerben, und Inhalte zu generieren, die die kostensparenden Vorteile des Produkts im zweiten E-Mail-Abschnitt detailliert beschreiben.
+Sie können beispielsweise GenStudio for Performance Marketing anweisen, im ersten Abschnitt einer E-Mail Inhalte zu generieren, die ein neues Produkt bewerben, und im zweiten E-Mail-Abschnitt Inhalte zu generieren, die die Kosteneinsparungen des Produkts detailliert beschreiben.
 
-Die strukturierte Eingabeaufforderung sollte:
+Die strukturierte Eingabeaufforderung sollte
 
 - Verwenden Sie einen der folgenden Verweise auf den Abschnittsnamen in der E-Mail-Vorlage:
    - Pod
@@ -69,15 +69,15 @@ Die strukturierte Eingabeaufforderung sollte:
    - Abschnitt
    - Modul
 
-  Wenn Ihre Vorlage beispielsweise `moduleA` oder `Group-3` als Abschnittsnamen verwendet, können Sie diese Abschnittsnamen in der Eingabeaufforderung referenzieren.
+  Wenn Ihre Vorlage beispielsweise `moduleA` oder `Group-3` als Abschnittsnamen verwendet, können Sie in der Eingabeaufforderung auf diese Abschnittsnamen verweisen.
 
-- Befolgen Sie die empfohlenen Regeln/Strukturen. Wenn die Eingabeaufforderungsstruktur nicht dem angegebenen Format entspricht, gilt die Eingabeaufforderung für die E-Mail-Abschnitte *Alle* und erleichtert weiterhin die Inhaltserstellung.
-- Verwenden Sie die Abschnittsnamen als [definiert in Ihrer E-Mail-Vorlage](/help/user-guide/content/email-template.md#code-an-email-template). Die Eingabeaufforderungen müssen mit den Abschnittsnamen übereinstimmen, die in Ihrer E-Mail-Vorlage codiert sind.
-- Beachten Sie nicht die Groß-/Kleinschreibung. Sie können beispielsweise `Pod` oder `pod` in Ihrer E-Mail-Vorlage und in der strukturierten Eingabeaufforderung verwenden.
-- Verweisen Sie zuerst auf die generische Benutzeraufforderung und dann auf die bereichsspezifischen Anweisungen.
-- Verwenden Sie einen Doppelpunkt, einen Bindestrich, ein Komma oder eine andere Abgrenzung (`,:;#$!~|@=-%&*^_`) als Trennung zwischen der Referenz zum Abschnittsnamen und der Anweisung. Beispielsweise können Sie Folgendes als eine bereichsspezifische Eingabeaufforderungsanweisung verwenden: `Pod1; Describe how to easily edit text and swap images.`
+- Befolgen Sie die empfohlenen Regeln/Strukturen. Wenn die Eingabeaufforderungsstruktur nicht dem angegebenen Format entspricht, gilt die Eingabeaufforderung für *alle* E-Mail-Abschnitte und erleichtert weiterhin die Inhaltserstellung.
+- Verwenden Sie Abschnittsnamen wie [in Ihrer E-Mail-Vorlage definiert](/help/user-guide/content/email-template.md#code-an-email-template). Eingabeaufforderungsreferenzen müssen mit den in Ihrer E-Mail-Vorlage kodierten Abschnittsnamen übereinstimmen.
+- Achten Sie nicht auf Groß- und Kleinschreibung. Sie können beispielsweise `Pod` oder `pod` in Ihrer E-Mail-Vorlage und in der strukturierten Eingabeaufforderung verwenden.
+- Verweisen Sie zuerst auf die generische Benutzeraufforderung und dann auf die abschnittsspezifischen Anweisungen.
+- Verwenden Sie einen Doppelpunkt, einen Bindestrich, ein Komma oder eine andere Abgrenzung (`,:;#$!~|@=-%&*^_`) als Trennzeichen zwischen dem Abschnittsnamen und der Referenz. Beispielsweise können Sie Folgendes als abschnittsspezifische Eingabeaufforderungsanweisung verwenden: `Pod1; Describe how to easily edit text and swap images.`
 
-Im Folgenden finden Sie eine Beispielaufforderung, die die empfohlene Eingabeaufforderungsstruktur artikuliert und eine E-Mail-Vorlage verwendet, die den Identifizierungsbegriff `Pod` wie in `Pod1`, `Pod2` und `Pod3` verwendet.
+Im Folgenden finden Sie eine Beispielaufforderung, die die empfohlene Aufforderungsstruktur artikuliert und eine E-Mail-Vorlage nutzt, die den Identifizierungsbegriff `Pod` wie in `Pod1`, `Pod2` und `Pod3` verwendet.
 
 ```properties
 Create an exciting multi-pod email focusing on Creative Cloud and its powerful generative AI capabilities.
@@ -95,15 +95,15 @@ Siehe [Vorbereiten einer E-Mail-Vorlage](/help/user-guide/content/email-template
 
 ## Erneut versuchen
 
-Die Eingabeaufforderung ist ein iterativer Prozess. Wenn die Ergebnisse nicht Ihren Erwartungen entsprechen, überprüfen Sie Ihre Eingabeaufforderung und nehmen Sie einige Änderungen vor oder fügen Sie weitere Details hinzu. Sie können auch aus einer Kampagnenbeschreibung Abschnitte einfügen. Sie können sogar anfordern, dass GenStudio for Performance Marketing bestimmte Wörter, Elemente oder Designs vermeidet.
+Die Eingabeaufforderung ist ein iterativer Prozess. Wenn die Ergebnisse nicht Ihren Erwartungen entsprechen, überprüfen Sie Ihre Eingabeaufforderung und nehmen Sie einige Änderungen vor oder fügen Sie weitere Details hinzu. Sie können auch Abschnitte aus einer Kampagnenübersicht einfügen. Sie können GenStudio for Performance Marketing sogar auffordern, bestimmte Wörter, Elemente oder Designs zu vermeiden.
 
 ## Best Practices
 
-Einige einfache Best Practices zum Erstellen effektiver Eingabeaufforderungen:
+Einige einfache Best Practices für die Erstellung effektiver Eingabeaufforderungen:
 
-- Seien Sie spezifisch und geben Sie Details darüber an, was zu tun ist und was nicht.
-- Stellen Sie Kontext mithilfe externer Verweise bereit.
-- Nutzen Sie die GenStudio for Performance Marketing-Richtlinien.
-- Die Richtlinien werden regelmäßig überprüft und angepasst.
-- Iterieren und verfeinern Sie.
-- Lernen Sie durch Experimente.
+- Seien Sie spezifisch und geben Sie Details darüber an, was zu tun und nicht zu tun ist.
+- Kontext mithilfe von externen Referenzen bereitstellen.
+- GenStudio for Performance Marketing-Richtlinien nutzen.
+- Richtlinien regelmäßig überprüfen und anpassen.
+- Iterieren und verfeinern.
+- Lerne durch Experimentieren.

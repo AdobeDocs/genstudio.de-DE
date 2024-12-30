@@ -1,6 +1,6 @@
 ---
 title: GenStudio for Performance Marketing [!DNL Brands]
-description: GenStudio for Performance Marketing [!DNL Brands] ist eine umfassende Sammlung von Marken-Assets - Marketingkopien, Bilder, Erlebnisse und mehr -, die zur Erstellung markenorientierter Inhalte beitragen.
+description: GenStudio for Performance Marketing  [!DNL Brands]  eine umfassende Sammlung von Marken-Assets - Marketing-Kopien, Bilder, Erlebnisse und mehr -, die als Grundlage für die Erstellung markenbezogener Inhalte dienen.
 feature: Brands Service, Guidelines
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
 source-git-commit: bd3c5c9ff12c962d4123ac992fb74cd94e184172
@@ -12,49 +12,49 @@ ht-degree: 1%
 
 # GenStudio for Performance Marketing [!DNL Brands]
 
-Eine Marke unterscheidet eine Organisation, ein Produkt, eine Dienstleistung oder ein Konzept von anderen. Einige Aspekte einer Marke sind objektiv, wie ein Logo, während andere subjektiv sind, wie der Ton der Stimme.
+Eine Marke unterscheidet eine Organisation, ein Produkt, eine Dienstleistung oder ein Konzept von anderen. Einige Aspekte einer Marke sind objektiv, wie ein Logo, während andere subjektiv sind, wie der Tonfall der Stimme.
 
-GenStudio for Performance Marketing nutzt die Vielzahl von Markeninformationen Ihrer Marke, verknüpft diese mit [!DNL Product] - und [!DNL Persona] -Informationen und erstellt eine umfassende Markenidentität. Diese Markenidentität wird verwendet, um die Erstellung von Markeninhalten mithilfe der generativen KI-Technologie von Adobe zu unterstützen.
+GenStudio for Performance Marketing nutzt die Fülle an Markendaten Ihrer Marke, arbeitet mit [!DNL Product] und [!DNL Persona] zusammen und baut eine umfassende Markenidentität auf. Diese Markenidentität wird verwendet, um die Erstellung von markeninternen Inhalten mithilfe der generativen KI-Technologie von Adobe zu informieren.
 
-**So zeigen Sie eine Marke an oder ändern sie**:
+**So zeigen Sie eine Marke an oder ändern diese**:
 
 1. Klicken Sie im linken Navigationsbereich auf **[!UICONTROL [!DNL Brands]]**.
 1. Um die Übersichtsinformationen einer Marke anzuzeigen, klicken Sie auf , um eine definierte Marke zu öffnen.
-1. Um einzelne Details anzuzeigen oder eine Marke zu ändern, klicken Sie oben auf [**[!UICONTROL Markenrichtlinien für Sprachausgabe]**](#brand-voice-guidelines), [**[!UICONTROL Kanalrichtlinien]**](#channel-guidelines), **[!UICONTROL Bildrichtlinien]** oder **[!UICONTROL Logos]** .
+1. Um einzelne Details anzuzeigen oder eine Marke zu ändern, klicken Sie oben auf [**[!UICONTROL Richtlinien für die Markensprache]**](#brand-voice-guidelines), [**[!UICONTROL Kanalrichtlinien]**](#channel-guidelines), **[!UICONTROL Bildrichtlinien]** oder **[!UICONTROL Logos]**.
 
-Sie können Dokumente zu Markenrichtlinien - bis zu drei PDF- oder DOC-Dateien - in GenStudio for Performance Marketing hochladen, um automatisch eine Marke zu erstellen. Unter [Richtlinien hinzufügen](add-guidelines.md) erfahren Sie, wie Sie eine Marke zu GenStudio for Performance Marketing hinzufügen, sie ändern, veröffentlichen und vieles mehr.
+Sie können Dokumente zu Markenrichtlinien - bis zu drei PDF- oder DOC-Dateien - in GenStudio for Performance Marketing hochladen, um automatisch eine Marke zu erstellen. Unter [Richtlinien hinzufügen](add-guidelines.md) erfahren Sie, wie Sie eine Marke zu GenStudio for Performance Marketing hinzufügen, ändern und veröffentlichen und vieles mehr.
 
-## [!DNL Brands] Führungslinien
+## [!DNL Brands]
 
-Richtlinien geben GenStudio for Performance Marketing ein klares Bild Ihres markenspezifischen Ansatzes, Ihres Tons, Ihres visuellen Gefühls und mehr.
+Richtlinien geben GenStudio for Performance Marketing ein klares Bild von Ihrem markenspezifischen Ansatz, Ihrem Ton, Ihrer visuellen Wahrnehmung und mehr.
 
-In den folgenden Richtlinien-Abschnitten werden die einzelnen Richtlinien-Kategorien, Beispielrichtlinien und potenzielle Ergebnisse beschrieben. Die Beispiele für Richtlinien sind Beispieleingaben, die die Ergebnisausgabe gestalten (Beispielergebnisse unten) - sie nutzen sie, um Ihre eigenen Markenrichtlinien zu informieren.
+In den folgenden Abschnitten finden Sie Details zu den einzelnen Richtlinien, Kategorien, Beispielrichtlinien und potenziellen Ergebnissen. Die Richtlinien-Beispiele sind Beispieleingaben, die die Ergebnisausgabe formen (Ergebnisbeispiele unten) - verwenden Sie sie, um Ihre eigenen Markenrichtlinien zu bestimmen.
 
-### Richtlinien für Markenaufzeichnungen
+### Richtlinien für Markenvoreinstellungen
 
-In der folgenden Tabelle sind die einzelnen Kategorien von Sprachleitfäden und Leitlinienbeispielen für die Marke aufgeführt.
+Die folgende Tabelle zeigt die einzelnen Kategorien von Richtlinien und Richtlinien für Markensprachen.
 
-| Führungskategorie | Beschreibung | Best Practices |
+| Richtlinienkategorie | Beschreibung | Best Practices |
 | ------------------| :---------- | :---------- |
-| Ton der Stimme | Persönlichkeit der Marke, ausgedrückt in schriftlicher Kommunikation | Verwenden Sie beschreibende Wörter, um die Emotionen und den Ton der Marke deutlich zu vermitteln. <br>_Beispiele_: &quot;echt&quot;, &quot;spielful&quot;<br><br>Halten Sie sich kurz (3-6 Richtlinien) und konzentrieren Sie sich auf wichtige Markensprachattribute.<br><br>Wählen Sie Wörter/Ausdrücke aus, die über Kommunikationskanäle hinweg konsistent sind, um eine kohärente Markenidentität zu schaffen. |
-| Markenwerte | Grundsätze, die die Markenkultur, das Kundenerlebnis und Geschäftsstrategien vorantreiben | Verwenden Sie beschreibende Wörter, um den Auftrag, die Vision und die Anforderungen der Marke zu vermitteln. <br>_Beispiele_: &quot;Authentizität&quot;, &quot;inspirierend&quot;, &quot;progressiv&quot;<br><br>Halten Sie sich kurz (3-6 Richtlinien) und konzentrieren Sie sich auf zentrale Markenwerte/Themen. |
-| Redaktionelle Richtlinien | Kommunikationsrichtlinien zur Definition von Best Practices für das Erstellen von Marken-Messaging | Verwenden Sie positive Ausdrücke (5-10 Richtlinien), um eine solide Grundlage zu schaffen.<br>_Beispiele_: &quot;Verwenden Sie eine einfache, zugängliche Sprache anstelle von &quot;Vermeiden von Jargon&quot;<br><br>Bieten Sie klare und umsetzbare Anleitungen. <br>_Beispiele_: &quot;Sätze unter 20 Wörtern halten&quot;anstelle von &quot;Präzise sein&quot;<br><br>spiegeln den Stil Ihrer Marke wider, z. B. durch Verwendung bestimmter Syntaxvoreinstellungen. <br>_Beispiele_: &quot;Verwenden Sie einen em-Bindestrich anstelle eines Doppelpunkts&quot;, &quot;Verwenden Sie die Satzschreibweise&quot;<br><br> Präzise Richtlinien erstellen, die für Konsistenz der Ausgaben sorgen. |
-| Redaktionelle Einschränkungen | Kommunikationsrichtlinien zur Vermeidung von Marken-Messaging | Verwenden Sie direkte negative Ausdrücke (5-10 Richtlinien), um festzulegen, was vermieden werden soll. <br>_Beispiel_: &quot;Vermeiden Sie die Verwendung...&quot;<br><br>Stellen Sie klare und umsetzbare Anleitungen bereit. <br>_Beispiel_: &quot;Vermeiden rhetorischer Fragen&quot; |
+| Tonfall | Die Persönlichkeit der Marke, ausgedrückt durch schriftliche Kommunikation | Verwenden Sie beschreibende Wörter, um die Emotion und den Ton der Marke klar zu vermitteln. <br>_Beispiele_: „echt“, „verspielt“<br><br>Präzise (3-6 Richtlinien) und Fokus auf wichtige Markensprachattribute.<br><br>Wählen Sie Wörter/Ausdrücke aus, die über alle Kommunikationskanäle hinweg konsistent sind, um eine kohärente Markenidentität zu schaffen. |
+| Markenwerte | Prinzipien, die die Markenkultur, Kundenerlebnisse und Geschäftsstrategien bestimmen | Verwenden Sie beschreibende Wörter, um die Mission, Vision und Zielgruppenanforderungen der Marke zu vermitteln. <br>_Beispiele_: „Authentizität“, „inspirierend“, „progressiv“<br><br>Präzise (3-6 Richtlinien) und Fokus auf zentrale Markenwerte/-themen. |
+| Redaktionelle Leitlinien | Kommunikationsrichtlinien zur Definition von Best Practices für die Erstellung von Markenbotschaften | Verwenden Sie positive Formulierungen (5-10 Richtlinien), um eine solide Grundlage zu schaffen.<br>_Beispiele_: „Verwenden Sie eine einfache, barrierefreie Sprache“ anstelle von „Verwenden Sie keinen Jargon“<br><br>Geben Sie eine klare und umsetzbare Anleitung. <br>_Beispiele_: „Sätze unter 20 Wörtern beibehalten“ anstelle von „Präzise sein“<br><br> spiegeln den Stil Ihrer Marke wider, z. B. die Verwendung spezifischer Syntaxvoreinstellungen. <br>_Beispiele_: „Verwenden Sie einen AEM-Bindestrich anstelle eines Doppelpunkts“, „Verwenden Sie den Satzfall“<br><br> Erstellen Sie präzise Richtlinien, die die Konsistenz über alle Ausgaben hinweg gewährleisten. |
+| Redaktionelle Einschränkungen | Kommunikationsrichtlinien, die definieren, was in der Markenbotschaft zu vermeiden ist | Verwenden Sie direkte negative Formulierungen (5-10 Richtlinien), um festzulegen, was vermieden werden soll. <br>_Beispiel_: „Vermeiden Sie die Verwendung von…“<br><br>Geben Sie klare und umsetzbare Anleitungen. <br>_Beispiel_: „Rhetorische Fragen vermeiden“ |
 
 ### Kanalrichtlinien
 
-Jeder Kanal verfügt über bestimmte inhärente Richtlinien, die die Kanalasset-Komposition beeinflussen.
+Jeder Kanal verfügt über bestimmte inhärente Richtlinien, die die Zusammensetzung von Kanal-Assets beeinflussen.
 
-Die folgende Tabelle zeigt jeden Kanalabschnitt, die Kanäle, für die er verfügbar ist, eine Beschreibung des Abschnitts, Beispiele für Richtlinien und Beispielergebnisse.
+Die folgende Tabelle zeigt jeden Kanalabschnitt, die Kanäle, für die er verfügbar ist, eine Beschreibung des Abschnitts, Richtlinien-Beispiele und Beispielergebnisse.
 
 | Abschnitte | Kanäle | Beschreibung | Best Practices |
 | ------------------| --------- | --------- | -------- |
-| Allgemein | E-Mail, soziale Anzeigen | Eine zweite Betreffzeile oder E-Mail-Vorschautext | Definieren Sie den allgemeinen Ton/die Emotion, damit sie in allen E-Mails konsistent sind (2-5 Richtlinien).<br>_Beispiele_: &quot;Beibehalten eines freundlichen und verständlichen Tons&quot;, &quot;Überforme Sprache vermeiden&quot;<br><br> |
-| Betreff | email | Ein überzeugender und interessanter Titel, der den Inhalt einer E-Mail zusammenfasst | Spezifische Anleitungen (2-5 Richtlinien) zu Ton, Länge usw. Fügen Sie zuvor erfolgreiche Betreffzeilen im Abschnitt _Beispiele_ hinzu, um eine bessere Qualität der Ausgabe zu erzielen.<br>_Beispiel_: &quot;Betreff mit E-Mail-Text ausrichten&quot; |
-| Preheader | email | Eine zweite Betreffzeile oder E-Mail-Vorschautext | Spezifische Anleitungen (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche Preheader im Abschnitt _Beispiele_ hinzu, um eine bessere Qualität der Ausgabe zu erzielen.<br>_Beispiel_: &quot;Limit auf 60-80 Zeichen&quot; |
-| Überschrift | E-Mail, soziale Anzeigen, Display-Anzeigen | Ein Titel oder eine Wortgruppe, um die Aufmerksamkeit des Lesers zu erregen | Spezifische Anleitungen (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche Überschriften im Abschnitt _Beispiele_ hinzu, um eine bessere Qualität der Ausgabe zu erzielen.<br>_Beispiele_: &quot;Verwenden Sie aussagekräftige Anweisungen, um Aufmerksamkeit zu erregen&quot; |
-| body | E-Mail, soziale Anzeigen, Display-Anzeigen | Marketing-Inhalt mit Nachrichten, Links und Bildern | Spezifische Anleitungen (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie eine zuvor erfolgreiche Kopie zum Abschnitt _Beispiele_ hinzu, um eine bessere Qualität der Ausgabe zu erzielen.<br>_Beispiele_: &quot;Limit auf 80-100 Zeichen&quot;, &quot;Vermeiden Sie übermäßige Abkürzungen&quot; |
-| CTA | E-Mail, soziale Anzeigen, Display-Anzeigen | (Aktionsaufruf) Eine dem Leser erteilte Anweisung, die eine Antwort anregt. Normalerweise ein oder zwei Wörter, z. B. `Get started` | Spezifische Anleitungen (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie eine zuvor erfolgreiche Kopie zum Abschnitt _Beispiele_ hinzu, um eine bessere Qualität der Ausgabe zu erzielen.<br>_Beispiele_: &quot;Verwenden Sie keine Endpunktion&quot; |
+| Allgemein | E-Mail, soziale Anzeigen | Zweite Betreffzeile oder Text für E-Mail-Vorschau | Definieren Sie den allgemeinen Ton/die Emotionen, um in allen E-Mails konsistent zu sein (2-5 Richtlinien).<br>_Beispiele_: „Beibehaltung eines freundlichen und ansprechenden Tons“, „Vermeidung übermäßig formaler Sprache“<br><br> |
+| Betreff | email | Ein überzeugender und interessanter Titel, um den Inhalt einer E-Mail zusammenzufassen | Geben Sie spezifische Leitlinien (2-5 Richtlinien) zu Ton, Länge usw. an. Fügen Sie zuvor erfolgreiche Betreffzeilen im Abschnitt _Beispiele_ hinzu, um eine bessere Ausgabequalität zu erzielen.<br>_Beispiel_: „Betreff an E-Mail-Textkörper ausrichten“ |
+| Preheader | email | Zweite Betreffzeile oder Text für E-Mail-Vorschau | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche Preheader im Abschnitt _Beispiele_ hinzu, um eine qualitativ bessere Ausgabe zu erzielen.<br>_Beispiel_: „Beschränkung auf 60-80 Zeichen“ |
+| Überschrift | E-Mail, Social-Media-Anzeigen, Anzeigen anzeigen | Ein Titel oder Satz, um die Aufmerksamkeit des Lesers zu erregen | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie zuvor erfolgreiche Überschriften im Abschnitt _Beispiele_ hinzu, um die Qualität der Ergebnisse zu verbessern.<br>_Beispiele_: „Verwenden Sie schlagkräftige Aussagen, um Aufmerksamkeit zu erregen“ |
+| Textkörper | E-Mail, Social-Media-Anzeigen, Anzeigen anzeigen | Marketing-Inhalte, einschließlich Nachrichten, Links und Bildern | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie eine zuvor erfolgreiche Kopie zum Abschnitt _Beispiele_ hinzu, um eine qualitativ bessere Ausgabe zu erzielen.<br>_Beispiele_: „Beschränkung auf 80-100 Zeichen“, „Vermeidung übermäßiger Akronyme“ |
+| CTA | E-Mail, Social-Media-Anzeigen, Anzeigen anzeigen | (Aktionsaufruf) Eine Anweisung an den Leser, die zu einer Antwort inspiriert. Normalerweise ein oder zwei Wörter, z. B. `Get started` | Geben Sie eine spezifische Anleitung (2-5 Richtlinien) zu Ton, idealer Länge usw. Fügen Sie eine zuvor erfolgreiche Kopie zum Abschnitt _Beispiele_ hinzu, um eine qualitativ bessere Ausgabe zu erzielen.<br>_Beispiele_: „Verwenden Sie keine Satzzeichen für Enden“ |
 
 <!-- Not in M2.1 // ### Image guidelines
 
@@ -82,6 +82,6 @@ Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
 ## Markenvalidierung
 
-In GenStudio for Performance Marketing spielt die Markenvalidierung im Zusammenhang mit der generativen KI-Funktion von [!DNL Brands], [!DNL Products] und [!DNL Personas] eine entscheidende Rolle. Dadurch wird sichergestellt, dass Ihr gesamter Inhalt mit Ihrer Markenidentität übereinstimmt.
+In GenStudio for Performance Marketing spielt die Markenvalidierung in Verbindung mit den generativen KI-Funktionen von [!DNL Brands], [!DNL Products] und [!DNL Personas] eine entscheidende Rolle. Dadurch wird sichergestellt, dass Ihr gesamter Inhalt mit Ihrer Markenidentität konsistent bleibt.
 
 Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).

@@ -1,6 +1,6 @@
 ---
-title: Erstellen eines Meta-Anzeigenerlebnisses
-description: Erfahren Sie, wie Sie mit Adobe GenStudio for Performance Marketing branchenspezifische Meta-Anzeigenerlebnisse für Facebook oder Instagram erstellen.
+title: Erstellen eines Meta-Anzeigen-Erlebnisses
+description: Erfahren Sie, wie Sie mit Adobe GenStudio for Performance Marketing markeninterne Meta-Anzeigen-Erlebnisse für Facebook oder Instagram erstellen.
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
@@ -14,126 +14,126 @@ ht-degree: 0%
 
 ---
 
-# Erstellen eines Meta-Anzeigenerlebnisses
+# Erstellen eines Meta-Anzeigen-Erlebnisses
 
-In diesem Tutorial erfahren Sie, wie Sie mit GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Paintbrush-Symbol im linken Navigationsbereich) Markenbezeichnungen [Meta-Anzeigenerlebnisse](/help/user-guide/create/meta-experiences.md) erstellen.
+In diesem Tutorial erfahren Sie, wie Sie mit [ GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich) ](/help/user-guide/create/meta-experiences.md) markenspezifische (Meta Anzeigenerlebnisse) generieren können.
 
-Bevor Sie mit der Generierung eines Meta-Anzeigenerlebnisses beginnen, müssen Sie [Führungslinien](/help/user-guide/guidelines/add-guidelines.md) in GenStudio for Performance Marketing integrieren und sich mit den Grundlagen von [Erstellen einer Eingabeaufforderung](/help/user-guide/effective-prompts.md) vertraut machen.
+Bevor Sie mit der Erstellung eines Meta-Anzeigenerlebnisses beginnen, ist es wichtig, [Richtlinien ](/help/user-guide/guidelines/add-guidelines.md) GenStudio for Performance Marketing zu integrieren und sich mit den Grundlagen der [Erstellung einer ](/help/user-guide/effective-prompts.md)&quot; vertraut zu machen.
 
-## Vorlage auswählen
+## Vorlage wählen
 
 Verwenden Sie eine verfügbare Vorlage, um das Framework für Ihre Inhalte bereitzustellen, um mit der Erstellung eines neuen Meta-Anzeigenerlebnisses zu beginnen.
 
-**So wählen Sie eine Meta-Anzeigenvorlage aus**:
+**So wählen Sie eine Meta-Anzeigenvorlage**:
 
-1. Klicken Sie in &quot;_[!DNL Create]_&quot;unter &quot;_&quot;Was möchten Sie heute erstellen, auf &quot;**[!UICONTROL Metaanzeigen]**&quot;.Abschnitt &quot;_&quot;.
-1. Verwenden Sie die Suchoption neben _Filter_ , um eine bestimmte Meta-Anzeigenvorlage zu finden.
-1. Klicken Sie auf , um eine Vorlage auszuwählen, und klicken Sie auf **[!UICONTROL Use]**.
+1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Meta-Anzeigen]**in der_ „Was möchten Sie heute erstellen?“_.
+1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte Meta-Anzeigenvorlage zu finden.
+1. Klicken Sie, um eine Vorlage auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
-   Diese Aktion öffnet die Arbeitsfläche, die zentrale Anlaufstelle für die Inhaltserstellung.
+   Diese Aktion öffnet die Arbeitsfläche, die den zentralen Hub für die Inhaltserstellung darstellt.
 
 ## Parameter hinzufügen
 
-Das Hinzufügen von [Führungslinien](/help/user-guide/guidelines/overview.md) und Assets in _Parameter_ im Eingabeaufforderungsbereich verbessert den Inhaltserstellungsprozess und ist ein wichtiger Schritt bei der Vorbereitung der Generierung einer Metaanzeige.
+Das Hinzufügen [Richtlinien](/help/user-guide/guidelines/overview.md) und Assets in _Parameter_ im Eingabeaufforderungsbereich verbessert den Inhaltserstellungsprozess und ist ein wichtiger Schritt bei der Vorbereitung zum Generieren einer Meta-Anzeige.
 
 **Hinzufügen von Parametern und Assets**:
 
-1. Klicken Sie auf das Symbol _Parameter_ , um den Eingabeaufforderungsbereich zu erweitern.
-1. Wählen Sie im Abschnitt _Parameter_ die Richtlinien [!DNL Brands], [!DNL Personas] und [!DNL Products] aus, um die Inhaltserstellung zu informieren.
+1. Klicken Sie auf _Parameter_, um den Eingabeaufforderungsbereich zu erweitern.
+1. Wählen Sie _Abschnitt_ Parameter“ Richtlinien - [!DNL Brands], [!DNL Personas] und [!DNL Products] - aus, um über die Inhaltserstellung zu informieren.
 
-   Wenn in diesen Menüs keine Marken, Rollen oder Produkte verfügbar sind, fügen Sie Ihrem GenStudio for Performance Marketing ](/help/user-guide/guidelines/add-guidelines.md) Richtlinien hinzu.[
+   Wenn in diesen Menüs keine Marken, Rollen oder Produkte verfügbar sind, [fügen Sie Ihrer GenStudio for Performance Marketing Richtlinien hinzu](/help/user-guide/guidelines/add-guidelines.md).
 
-1. Klicken Sie auf **[!UICONTROL Inhalt auswählen]** , um Inhalte hinzuzufügen, die im Erlebnis *und* verwendet werden sollen, um die Inhaltserstellung zu beeinflussen.
-   * Um bereits in [!DNL Content] veröffentlichte Assets (Bilder) auszuwählen, klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** und klicken Sie auf , um die gewünschten Bilder auszuwählen. Verwenden Sie die Filter, um die Suchergebnisse weiter einzugrenzen.
+1. Klicken Sie auf **[!UICONTROL Inhalt auswählen]**, um Inhalte hinzuzufügen, die in dem Erlebnis verwendet werden sollen *und* um die Inhaltserstellung zu beeinflussen.
+   * Um bereits in [!DNL Content] veröffentlichte Assets (Bilder) auszuwählen, klicken Sie auf **[!UICONTROL Aus Inhalt auswählen]** und klicken Sie auf die gewünschten Bilder. Verwenden Sie die Filter, um Ihre Suchergebnisse weiter einzugrenzen.
 
-     Wenn Sie bereits in einem AEM Content Hub-Repository vorhandene Assets verwenden möchten, wählen Sie den entsprechenden Speicherort aus dem Dropdown-Menü _Position_ aus und klicken Sie auf , um die gewünschten Bilder auszuwählen.
+     Wenn Sie Assets verwenden möchten, die bereits in einem verbundenen AEM Content Hub-Repository vorhanden sind, wählen Sie den entsprechenden Speicherort aus dem Dropdown-Menü _Speicherort_ aus und klicken Sie auf die gewünschten Bilder, um sie auszuwählen.
 
-   * Klicken Sie auf **[!UICONTROL Hochladen]** , um Ihre Dateien zu durchsuchen und Assets zur Verwendung auszuwählen. Neben dem Durchsuchen Ihres Geräts können Sie auch aus Microsoft OneDrive oder Dropbox importieren. Klicken Sie auf , um die gewünschten Bilder auszuwählen.
-   * Ziehen Sie Assets per Drag-and-Drop in den Abschnitt _Inhalt_ .
-1. Klicken Sie auf **[!UICONTROL Use]**.
+   * Klicken Sie **[!UICONTROL Hochladen]**, um Ihre Dateien zu durchsuchen und die zu verwendenden Assets auszuwählen. Neben dem Durchsuchen Ihres Geräts können Sie auch von Microsoft OneDrive oder Dropbox importieren. Klicken Sie auf die gewünschten Bilder, um sie auszuwählen.
+   * Ziehen Sie Assets per Drag-and _Drop in den Abschnitt_ Inhalt“.
+1. Klicken Sie **[!UICONTROL Verwenden]**.
 
-Wenn Sie die Parameter hinzugefügt haben, können Sie den Eingabebereich reduzieren, indem Sie erneut auf das Symbol _Parameter_ klicken.
+Wenn Sie mit dem Hinzufügen von Parametern fertig sind, können Sie den Eingabeaufforderungsbereich reduzieren, indem Sie erneut auf _Parameter_ klicken.
 
 ## Eingabeaufforderung eingeben
 
-Nachdem Richtlinien ausgewählt wurden, erstellen Sie eine Eingabeaufforderung mit natürlicher Sprache, um Inhalte für Ihr neues Meta-Anzeigenerlebnis zu generieren. Detaillierte Eingabeaufforderungen führen zu einer höheren Qualität als vage oder unbeschreibliche Aufforderungen.
+Nachdem Richtlinien ausgewählt wurden, erstellen Sie eine Eingabeaufforderung mit natürlicher Sprache, um mit der Generierung von Inhalten für Ihr neues Meta- und -Erlebnis zu beginnen. Detaillierte Eingabeaufforderungen liefern eine bessere Ausgabe als vage oder unbeschreibende Eingabeaufforderungen.
 
-Weitere Informationen zum Schreiben von Eingabeaufforderungen finden Sie unter [Gültige Eingabeaufforderungen schreiben](/help/user-guide/effective-prompts.md) .
+Weitere [ zu Eingabeaufforderungen finden Sie ](/help/user-guide/effective-prompts.md)Schreiben effektiver Eingabeaufforderungen).
 
 **So geben Sie eine Eingabeaufforderung ein**:
 
-1. Geben Sie in das Eingabeaufforderungsfeld _&quot;Beschreiben Sie die Erlebnisse, die Sie generieren möchten&quot;_ eine Eingabeaufforderung ein.
+1. Geben Sie in das _„Beschreiben der Erlebnisse, die Sie generieren möchten“ eine Eingabeaufforderung_.
 1. Klicken Sie auf **[!UICONTROL Generieren]**.
 
-Standardmäßig werden vier Varianten generiert und auf der Arbeitsfläche angezeigt, die alle durch die Eingabeaufforderung, die Richtlinien und den hinzugefügten Inhalt angeregt werden.
+Standardmäßig werden vier Varianten - alle basierend auf der Eingabeaufforderung, Richtlinien und hinzugefügten Inhalten - generiert und auf der Arbeitsfläche angezeigt.
 
-Generierte Inhalte werden progressiv geladen. Sobald alle Abschnitte der Meta-Erlebnisse generiert werden, werden sie auf der Arbeitsfläche angezeigt. Unter [Meta-Erlebnisse](/help/user-guide/create/meta-experiences.md#progressive-loading) erfahren Sie, wie diese Änderungen auf der Arbeitsfläche geladen werden.
+Erzeugte Inhalte werden progressiv geladen - wenn jeder Abschnitt der Meta-Erlebnisse generiert wird, erscheinen sie auf der Arbeitsfläche. Unter [Meta-Erlebnisse](/help/user-guide/create/meta-experiences.md#progressive-loading) erfahren Sie, wie diese Änderungen auf die Arbeitsfläche geladen werden.
 
-## Kanal &quot;Meta-Anzeigen&quot;auswählen
+## Meta-Anzeigenkanal auswählen
 
-Beim Generieren einer Meta-Anzeige können Sie zwischen Facebook- und Instagram-Anzeigen wählen.
+Beim Generieren einer Meta-Anzeige können Sie zwischen Facebook- oder Instagram-Anzeigen wählen.
 
-Schalten Sie die Option &quot;Kanal für Metaanzeigen&quot;- zwischen **Facebook** und **Instagram** - in der rechten Menüleiste (Symbole für Facebook und Instagram) um, um Varianten für jeden Kanal anzuzeigen und zu verwalten.
+Schalten Sie in der rechten Menüleiste (Facebook- und Instagram-Symbole) die Kanaloption Meta-Anzeigen ein (zwischen **Facebook** und **Instagram**), um Varianten für jeden Kanal anzuzeigen und zu verwalten.
 
-Bei der Änderung von [Meta-Anzeigen](#revise-generated-meta-ads) können Sie das Seitenverhältnis von Facebook- und Instagram-Anzeigen ändern.
+Bei [Überarbeitung der Meta-Anzeigen](#revise-generated-meta-ads) können Sie das Seitenverhältnis von Facebook- und Instagram-Anzeigen ändern.
 
-## Generierte Meta-Anzeigen überarbeiten
+## Überarbeiten generierter Meta-Anzeigen
 
-Bevor Sie auswählen, was Sie zur Genehmigung oder Veröffentlichung an [!DNL Content] senden möchten, können Sie die Meta-Anzeigen bearbeiten oder eine Variante aus dem Satz der generierten Anzeigen löschen.
+Bevor Sie auswählen, was zur Genehmigung oder Veröffentlichung an [!DNL Content] gesendet werden soll, können Sie die Meta-Anzeigen bearbeiten oder eine Variante aus dem Satz der generierten Anzeigen löschen.
 
-**So überarbeiten Sie generierte Varianten**:
+**Überarbeiten generierter Varianten**:
 
-* **Um [den Namen des Meta-Anzeigenentwurfs zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)**, klicken Sie auf den Titel _Unbenannter Entwurf_ oben auf der Arbeitsfläche und geben Sie einen neuen Titel ein.
-* **Um [eine Metadatenanzeige manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)**, doppelklicken Sie auf einen der Anzeigenbereiche (z. B. die Betreffzeile, Kopfzeile oder Textkopie) und bearbeiten Sie ihn nach Bedarf.
-* **Um den Aktionsaufruf zu ändern oder auszuwählen**, klicken Sie auf die Aktionsaufruf-Schaltfläche und wählen Sie aus den verfügbaren Schaltflächen-Textoptionen aus. Geben Sie in _[!UICONTROL Link]_ eine URL für den Text des Aktionsaufrufs ein.
-* **Ändern Sie in [ Größe und Seitenverhältnis der Anzeige.](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** Klicken Sie auf die Schaltfläche _[!UICONTROL Größe ändern]_ (Feld mit einem Schaltflächensymbol auf der linken Seite der Arbeitsfläche) und wählen Sie eine neue Größe und ein neues Seitenverhältnis aus, die auf alle Varianten angewendet werden sollen. Die Varianten werden dupliziert und die Größe wird angepasst.
+* **Um [ Meta-Anzeigenentwurfsnamen zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie oben auf der Arbeitsfläche auf den Titel _Nicht benannter_&quot; und geben Sie einen neuen Titel ein.
+* **Um [eine Meta-Anzeige manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)** doppelklicken Sie auf einen der Anzeigenabschnitte (z. B. die Betreffzeile, die Kopfzeile oder die Textkörper-Kopie) und bearbeiten Sie ihn nach Bedarf.
+* **Um den Aktionsaufruf zu ändern oder auszuwählen** klicken Sie auf die Schaltfläche für den Aktionsaufruf und wählen Sie aus den verfügbaren Textoptionen für die Schaltfläche aus. Geben _[!UICONTROL unter]_ Link“ eine URL für den Text der Aktionsaufforderung ein.
+* **Um [Größe und Seitenverhältnis der Anzeige zu ändern](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** klicken Sie auf die Schaltfläche _[!UICONTROL Größe ändern]_ (Feld mit einem Schaltflächensymbol auf der linken Seite der Arbeitsfläche) und wählen Sie eine neue Größe und ein neues Seitenverhältnis aus, das auf alle Varianten angewendet werden soll. Die Varianten werden dupliziert und in der Größe angepasst.
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
-* **Um [ Bilder zuzuschneiden oder neu zu positionieren](/help/user-guide/create/manage-variants.md#crop-assets)**, bewegen Sie den Mauszeiger über ein Bild, klicken Sie auf das angezeigte Zuschnittsymbol und passen Sie die Bildgröße und -platzierung an.
-* **Um [eine Metaanzeige zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)**, klicken Sie auf den Anzeigentitel (z. B. &quot;Meta 4&quot;) und klicken Sie auf **[!UICONTROL Variante löschen]**.
+* **Um Bilder [zuzuschneiden oder neu zu positionieren](/help/user-guide/create/manage-variants.md#crop-assets)** bewegen Sie den Mauszeiger über ein Bild, klicken Sie auf das angezeigte Zuschnittssymbol und passen Sie die Bildgröße und -platzierung an.
+* **Um [Meta-Anzeige zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)** klicken Sie auf den Anzeigentitel (z. B. „Meta 4„) und anschließend auf **[!UICONTROL Variante löschen]**.
 
-## Feedback zur Sendegenerierung
+## Feedback zur Senden-Generierung
 
-Um [Feedback zur Qualität der Generierungsausgabe zu senden](/help/user-guide/create/manage-variants.md#generation-feedback), klicken Sie auf das Optionssymbol (drei Punkte) und wählen Sie **[!UICONTROL Gute Ausgabe]** oder **[!UICONTROL Schlechte Ausgabe]** aus.
+Um [Feedback](/help/user-guide/create/manage-variants.md#generation-feedback) zur Qualität der Generierungsausgabe zu senden, klicken Sie auf das Optionssymbol (drei Punkte) und wählen Sie **[!UICONTROL Gute Ausgabe]** oder **[!UICONTROL Schlechte Ausgabe]**.
 
 ## Markenausrichtung überprüfen
 
-Um die generierten Anzeigen zu optimieren und die strikte Einhaltung der Markenidentität sicherzustellen, nutzen Sie die Leistungsfähigkeit des [_Markenrichtlinien-Kontrollkästchens_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - eine Zusammenfassung der Markenausrichtung für eine Variante - und des [_Bedienfelds zur Markenvalidierung_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) -, das umfassende Details zur Markenvalidierung anzeigt und Verbesserungsbereiche beleuchtet.
+Um die generierten Anzeigen zu optimieren und die strikte Einhaltung der Markenidentität sicherzustellen, nutzen Sie die Leistungsfähigkeit der [_Prüfung der Markenrichtlinien_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - mit einer Zusammenfassung der Markenausrichtung für eine Variante - und des Bedienfelds [_Markenvalidierung_, ](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) umfassende Details zur Markenvalidierung und aufschlussreiche Verbesserungsbereiche anzeigt.
 
-**Überprüfen der Markenausrichtung**:
+**So überprüfen Sie die Markenausrichtung**:
 
-1. Klicken Sie auf das Symbol [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) für eine Variante und sehen Sie sich eine Zusammenfassung der Leistung dieser Variante an, wenn sie mit Ihrer Marke verglichen wird.
-1. Um die Details der Abschnitte und Richtlinien abzurufen, die verbessert werden müssen, klicken Sie auf **[!UICONTROL Überprüfen]** _oder_ und klicken Sie auf das Symbol für die Markenvalidierung in der oberen Menüleiste, um das [_Bedienfeld für die Markenvalidierung_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) zu öffnen.
+1. Klicken Sie auf das Symbol [**[!UICONTROL [!DNL Brand] Richtlinien]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check), um eine Variante zu überprüfen und eine Zusammenfassung der Leistung dieser Variante anzuzeigen, wenn sie gegen Ihre Marke geprüft wird.
+1. Um Details zu den Abschnitten und Richtlinien zu erhalten, die verbessert werden müssen, klicken Sie auf **[!UICONTROL Überprüfen]** _oder_ klicken Sie auf das Symbol für die Markenvalidierung in der oberen Menüleiste, um das Bedienfeld [_Markenvalidierung_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) zu öffnen.
 
-1. Schalten Sie durch die einzelnen Anzeigen, um zu sehen, wie Sie den generierten Inhalt verbessern können, um markengerechter zu werden.
-1. [Überarbeiten Sie Anzeigen manuell](#revise-generated-meta-ads), um sicherzustellen, dass Ihre Anzeigen eng mit Ihrer Marke abgestimmt sind.
+1. Schalten Sie durch jede Anzeige, um zu sehen, wie Sie die generierten Inhalte verbessern können, um sie markenorientierter zu gestalten.
+1. [Überarbeiten Sie die Anzeigen ](#revise-generated-meta-ads), um sicherzustellen, dass Ihre Anzeigen eng mit Ihrer Marke abgestimmt sind.
 
 Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).
 
-## Prüfungen und Genehmigungen abrufen
+## Abrufen von Bewertungen und Genehmigungen
 
-Verwenden Sie das Bedienfeld Genehmigungen , auf das Sie in der oberen Menüleiste der Arbeitsfläche zugreifen können, um Bewertungen zu erhalten, Kommentare zu Überprüfungen zu verfolgen und Genehmigungen von Interessenträgern zu erhalten.
+Verwenden Sie das Bedienfeld Genehmigungen , auf das über die obere Menüleiste der Arbeitsfläche zugegriffen werden kann, um Überprüfungen abzurufen, Kommentare zu überprüfen und Genehmigungen von Stakeholdern abzurufen.
 
-**So rufen Sie Bewertungen und Genehmigungen ab**:
+**Um Bewertungen und Genehmigungen zu erhalten**:
 
-1. [Starten Sie eine Genehmigungsanfrage](/help/user-guide/approvals/request-review.md), um eine [Genehmigung der entworfenen Meta-Anzeigenerlebnisse zu erhalten.](/help/user-guide/approvals/approve-content.md)
-1. [Entfernen oder fügen Sie während des Überprüfungsprozesses Überprüfer hinzu](/help/user-guide/approvals/review-and-edit.md#manage-approvals).
-1. [Greifen Sie auf den Inhalt für die Überprüfung zu](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) und zeigen Sie die Anforderungen für die Überarbeitung an.
-1. Bearbeiten Sie die Entwürfe pro Prüfungskommentar und [veröffentlichen Sie Ihre Metadaten-Anzeigenerlebnisse](#publish-and-export-experience).
+1. [eine Genehmigungsanfrage starten](/help/user-guide/approvals/request-review.md) um eine [Genehmigung entworfener Meta-Anzeigen-Erlebnisse“ ](/help/user-guide/approvals/approve-content.md).
+1. [Entfernen oder Hinzufügen von Reviewern](/help/user-guide/approvals/review-and-edit.md#manage-approvals) während des Überprüfungsprozesses
+1. [Zugriff auf den Inhalt zur Überprüfung](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) und Anzeigen der Überarbeitungsanfragen.
+1. Bearbeiten Sie die Entwürfe pro Überprüfungskommentar und [veröffentlichen Sie Ihre Meta-Anzeigen-Erlebnisse](#publish-and-export-experience).
 
-Weitere Informationen finden Sie unter [Überprüfungen und Genehmigungen](/help/user-guide/approvals/overview.md) .
+Weitere Informationen finden [ unter ](/help/user-guide/approvals/overview.md) und Genehmigungen .
 
-## Publish- und Exporterlebnis
+## Publish und Exporterlebnis
 
-Um die generierten Metadatenanzeigen für die aktuelle und zukünftige Verwendung verfügbar zu machen, veröffentlichen Sie sie in [!UICONTROL Inhalt] und exportieren Sie sie zur Verwendung in Ihren Marketing-Kampagnen.
+Um die generierten Meta-Anzeigen für die aktuelle und zukünftige Verwendung verfügbar zu machen, veröffentlichen Sie sie in [!UICONTROL Inhalt] und exportieren Sie sie zur Verwendung in Ihren Marketing-Kampagnen.
 
-1. **Klicken Sie in der oberen Symbolleiste auf**[!UICONTROL  Publish ]**, um Ihre neuen Meta-Anzeigenerlebnisse** zu veröffentlichen.
-1. **Klicken Sie in der oberen Symbolleiste auf**[!UICONTROL  Exportieren ]**, um Ihre neuen Meta-Anzeigenerlebnisse zu exportieren.**
-   1. Wählen Sie das Format - CSV und Bilder oder nur HTML - und klicken Sie auf **[!UICONTROL Exportieren]**.
+1. **Um Ihre neue(n) Meta-Anzeige-Erlebnis(se** zu veröffentlichen, klicken Sie in der oberen ]**auf**[!UICONTROL  Publish.
+1. **Um Ihre neue(n) Meta-Anzeige(**) zu exportieren, klicken Sie **[!UICONTROL der oberen Symbolleiste auf]** Exportieren“.
+   1. Wählen Sie das Format aus (nur CSV und Bilder oder HTML) und klicken Sie auf **[!UICONTROL Exportieren]**.
 
 Weitere Informationen finden Sie unter [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content) .
 
-## Meta verbinden
+## Connect Meta
 
-Sie können GenStudio for Performance Marketing mit Meta verbinden, um erweiterte Analysen und [Einblicke](/help/user-guide/insights/overview.md) in die Inhaltsleistung zu erhalten.
+Sie können GenStudio for Performance Marketing mit Meta verbinden, um erweiterte Analysen und [Einblicke](/help/user-guide/insights/overview.md) in die Content-Performance zu erhalten.
 
-Weitere Informationen finden Sie unter [Kanalkonto verbinden](/help/user-guide/insights/connect-channel.md) .
+Weitere Informationen finden [ unter &quot;](/help/user-guide/insights/connect-channel.md)-Kanalkonto verbinden“.

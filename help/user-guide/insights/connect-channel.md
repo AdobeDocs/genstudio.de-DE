@@ -1,6 +1,6 @@
 ---
 title: Kanalkonto verbinden
-description: Verbinden Sie ein Kanalkonto, um Ihre Adobe GenStudio for Performance Marketing-Marketingkampagnen und die Asset-Leistung zu überwachen.
+description: Ein Kanalkonto verbinden, um Ihre Adobe GenStudio for Performance Marketing-Marketing-Kampagnen und die Asset-Leistung zu überwachen.
 level: Intermediate
 feature: Insights, Channels
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
@@ -11,46 +11,46 @@ ht-degree: 0%
 
 ---
 
-# Kanalanzeigenkonto verbinden
+# Kanal und Konto verbinden
 
-Wenn Sie [!DNL Insights] zum ersten Mal öffnen, wird möglicherweise ein Banner angezeigt, das Sie dazu führt, Adobe GenStudio for Performance Marketing mit Ihren Kanalkonten zu verbinden.
+Wenn Sie [!DNL Insights] zum ersten Mal öffnen, wird Ihnen möglicherweise ein Banner angezeigt, das Sie anleitet, Adobe GenStudio for Performance Marketing mit Ihren Kanalkonten zu verbinden.
 
-Diese Verbindung ermöglicht es GenStudio for Performance Marketing, statistische Daten aus Ihren aktiven Marketingkampagnen, Assets und Erlebnissen zu erhalten. Zunächst nimmt GenStudio for Performance Marketing die Daten der letzten sechs Monate auf, sodass Sie über die Tools verfügen, die neuesten Daten zu analysieren und Maßnahmen zu ergreifen.
+Diese Verbindung ermöglicht es GenStudio for Performance Marketing, statistische Daten aus Ihren aktiven Marketing-Kampagnen, Assets und Erlebnissen zu erhalten. Zunächst nimmt GenStudio for Performance Marketing die Daten der letzten 6 Monate auf, damit Sie über die Tools verfügen, um die neuesten Daten zu analysieren und Maßnahmen zu ergreifen.
 
 >[!BEGINSHADEBOX]
 
-**Datenerfassungs- und Aufbewahrungsrichtlinie**
+**Richtlinie zur Datenaufnahme und -speicherung**
 
-GenStudio for Performance Marketing bewahrt Kanaldaten für einen Zeitraum von 13 Monaten auf. Dazu gehört ein anfänglicher Lookback-Zeitraum von 6 Monaten, der eine umfassende Analyse und Berichterstellung historischer Daten gewährleistet.
+GenStudio for Performance Marketing bewahrt Kanaldaten für einen Zeitraum von 13 Monaten auf. Dazu gehört ein erster Rückblickzeitraum von 6 Monaten, der eine umfassende historische Datenanalyse und -berichterstattung gewährleistet.
 
 >[!ENDSHADEBOX]
 
-## Verbindung von Meta-Anzeigen
+## Meta-Anzeigen verbinden
 
 >[!BEGINSHADEBOX]
 
 **Voraussetzungen**:
 
-- Facebook/Meta-Anzeigen-Konto
-- Zugriff auf das Meta-Anzeigen-Konto mit `View performance` Berechtigungsstufe für den Zugriff auf Berichte und Anzeigen
+- Facebook-/Meta-Werbekonto
+- Zugriff auf das Meta-Anzeigen-Konto mit `View performance` Berechtigungsstufe für den Zugriff auf Berichte und das Anzeigen von Anzeigen
 
 >[!ENDSHADEBOX]
 
-**So verbinden Sie ein Metadatenanzeigenkonto in GenStudio for Performance Marketing**:
+**So verbinden Sie ein Meta Ads-Konto in GenStudio for Performance Marketing**:
 
-1. Klicken Sie in _[!DNL Insights]_auf **[!UICONTROL Ein Kanalkonto verbinden]**.
+1. Klicken Sie _[!DNL Insights]_auf **[!UICONTROL Kanalkonto verbinden]**.
 
    >[!INFO]
    >
-   >Sie können angewiesen werden, sich bei Facebook anzumelden. Facebook ist derzeit die einzige verfügbare Option.
+   >Sie werden möglicherweise zur Anmeldung bei Facebook weitergeleitet. Facebook ist derzeit die einzige verfügbare Option.
 
 1. Melden Sie sich bei Ihrem Facebook-Konto an.
 
-1. Überprüfen Sie im Popup &quot;_[!UICONTROL Verbindung neu herstellen]_&quot;(Meta-Adobe-Symbol) die Kontoinformationen und klicken Sie auf &quot;**[!UICONTROL Neu verbinden]**&quot;.
+1. Adobe Überprüfen _[!UICONTROL im Popup]_ Erneut verbinden) die Kontoinformationen und klicken Sie auf **[!UICONTROL Erneut verbinden]**.
 
-   Durch die Wiederanbindung wird GenStudio for Performance Marketing wieder in den Blickpunkt gerückt.
+   Erneut verbinden bringt GenStudio for Performance Marketing wieder zum Vorschein.
 
-1. Wählen Sie in der Ansicht _[!UICONTROL Konto für Metadatenanzeigen verbinden]_ mindestens ein Werbekonto aus und klicken Sie auf **[!UICONTROL Konto verbinden]**.
+1. Wählen _[!UICONTROL in der Ansicht Verbinden eines Meta]_ Werbekontos eines oder mehrere Ihrer Werbekonten aus und klicken Sie auf **[!UICONTROL Konto verbinden]**.
 <!--
 >[!INFO]
 >
