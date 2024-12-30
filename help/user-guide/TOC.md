@@ -10,9 +10,9 @@ ht-degree: 73%
 ---
 
 
-# Adobe GenStudio for Performance Marketing-Anleitung {#user-guide}
+# Handbuch zu Adobe GenStudio for Performance Marketing {#user-guide}
 
-+ [GenStudio for Performance Marketing-Anleitung](home.md)
++ [Handbuch zu GenStudio for Performance Marketing](home.md)
 
 <!-- + Release notes {#release-notes}
   + [Beta release notes](beta-release-notes.md)

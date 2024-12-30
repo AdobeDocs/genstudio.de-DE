@@ -9,21 +9,21 @@ ht-degree: 0%
 ---
 
 
-# Themenaktualisierung
+# Themen-Update
 
 <!-- Add link to topic. -->
 
-## Das Problem beschreiben
+## Beschreiben des Problems
 
 <!-- (REQUIRED) Describe the missing or incorrect content. What needs clarification? What needs a correction? Provide as much detail and resources as you can. -->
 
-Stellen Sie Folgendes sicher:
+Achten Sie auf Folgendes:
 
 - [ ] Screenshots hinzufügen
-- [ ] Beschreibung der falschen oder fehlenden Informationen
+- [ ] Beschreiben Sie die falschen oder fehlenden Informationen
 - [ ] Links zu Quellen bereitstellen
 
-## Lösung vorschlagen
+## Vorschlagen einer Lösung
 
 <!-- (OPTIONAL) Describe your solution for this issue. -->
 

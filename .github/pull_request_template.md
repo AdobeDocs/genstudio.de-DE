@@ -5,9 +5,9 @@ source-wordcount: '17'
 ht-degree: 0%
 
 ---
-# Zweck dieser Pull-Anforderung
+# Zweck dieser Pull-Anfrage
 
-Diese Pull-Anforderung ...
+Diese Pull-Anfrage …
 
 ## Zusätzlicher Kontext
 

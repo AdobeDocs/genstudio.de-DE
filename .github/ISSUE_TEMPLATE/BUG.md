@@ -10,17 +10,17 @@ ht-degree: 0%
 ---
 
 
-# Den Fehler beschreiben
+# Beschreiben Sie den Fehler
 
 <!-- (REQUIRED) What is the issue? Describe your experience with the current behavior. Provide as much detail and resources as you can. -->
 
-Stellen Sie Folgendes sicher:
+Achten Sie auf Folgendes:
 
 - [ ] Links zu betroffenen Inhalten bereitstellen
 - [ ] Screenshots hinzufügen
 - [ ] Beschreibung des erwarteten Ergebnisses
 
-## Lösung vorschlagen
+## Vorschlagen einer Lösung
 
 <!-- (OPTIONAL) Describe your solution for this issue. -->
 

@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Vorbereiten der Meta-Anzeigenvorlage für Adobe GenStudio for Performance Marketing
 
-Das Erstellen einer Meta-Anzeigenvorlage umfasst einen strukturierten Ansatz, der auf Social Media zugeschnitten ist. Nachdem eine Meta-Anzeigenvorlage entworfen und getestet wurde, können Sie sie für den Upload und die Verwendung in GenStudio for Performance Marketing vorbereiten.
+Das Erstellen einer Meta-Anzeigenvorlage umfasst einen strukturierten Ansatz, der auf die sozialen Medien zugeschnitten ist. Nachdem eine Meta-Anzeigenvorlage entworfen und getestet wurde, können Sie sie für das Hochladen und die Verwendung in GenStudio for Performance Marketing vorbereiten.
 
 ## Richtlinien hinzufügen
 
-Bevor Sie eine Meta-Anzeigenvorlage vorbereiten, stellen Sie sicher, dass Sie Ihrer GenStudio for Performance Marketing [Führungslinien](/help/user-guide/guidelines/overview.md) hinzugefügt und umfassende Informationen für relevante Marken bereitgestellt haben. Die [Markenrichtlinien](/help/user-guide/guidelines/brands.md) beeinflussen den generierten Inhalt direkt.
+Bevor Sie eine Meta-Anzeigenvorlage vorbereiten, stellen Sie sicher, dass Sie [Richtlinien](/help/user-guide/guidelines/overview.md) zu Ihrer GenStudio for Performance Marketing hinzugefügt und diese mit umfassenden Informationen zu den entsprechenden Marken ausgefüllt haben. Die [Markenrichtlinien](/help/user-guide/guidelines/brands.md) beeinflussen direkt generierte Inhalte.
 
-**Beispiel**: Wenn der Hauptteil einer Meta-Anzeigenvorlage nicht größer als 500 Zeichen sein soll, fügen Sie diese Anforderung den [Kanalrichtlinien](/help/user-guide/guidelines/brands.md#channel-guidelines) für das Feld &quot;Hauptteil&quot;hinzu.
+**Beispiel**: Wenn der Text einer Meta-Anzeigenvorlage nicht größer als 500 Zeichen sein soll, fügen Sie diese Anforderung zu den [Kanal-Richtlinien](/help/user-guide/guidelines/brands.md#channel-guidelines) für das Feld „Hauptteil“ hinzu.
 
 Wenn GenStudio for Performance Marketing keine Richtlinien hinzugefügt werden, werden Standardwerte verwendet.
 
-## Erstellen einer Vorlage
+## Entwerfen einer Vorlage
 
 In der Regel erstellt ein Designer das visuelle Design einer Vorlage in einem Designprogramm wie Adobe XD.
 
 Siehe [Vorlagenelemente](use-templates.md#template-elements) und [Vorlagenbeispiele](/help/user-guide/content/customize-template.md#template-examples).
 
-### Anzeigenspezifikationen
+### Spezifikationen hinzufügen
 
 GenStudio for Performance Marketing unterstützt diese Seitenverhältnisse für Meta-Anzeigen:
 
@@ -37,33 +37,33 @@ GenStudio for Performance Marketing unterstützt diese Seitenverhältnisse für 
 * Vertikal (4:5): 1080 x 1350 Pixel
 * Story (9:16): 1080 x 1920 Pixel
 
-Wenn die Anzeige nicht in einem dieser Seitenverhältnisse erstellt wurde, schneidet GenStudio for Performance Marketing das Bild automatisch in die entsprechende Größe ab.
+Wenn die Anzeige nicht in einem dieser Seitenverhältnisse entworfen wurde, schneidet GenStudio for Performance Marketing das Bild automatisch in die entsprechende Größe zu.
 
 ## Testen einer Meta-Anzeigenvorlage
 
-Testen Sie Ihre Vorlage mit dem Creative Hub von Meta, um zu sehen, wie die Anzeige an verschiedenen Positionen aussieht, z. B. in einem Feed oder als Geschichte.
+Testen Sie Ihre Vorlage mit dem Creative Hub von Meta, um zu sehen, wie die Anzeige in verschiedenen Platzierungen wie in einem Feed oder als Story aussieht.
 
-Verwenden Sie Ihre E-Mail-Versand- oder Testplattform, um Ihre E-Mail zu testen und sicherzustellen, dass sie über verschiedene E-Mail-Clients und -Geräte hinweg ordnungsgemäß dargestellt wird.
+Verwenden Sie Ihre E-Mail-Versand- oder Proofing-Plattform, um Ihre E-Mail zu testen und sicherzustellen, dass sie auf verschiedenen E-Mail-Clients und Geräten ordnungsgemäß gerendert wird.
 
-## Definieren generierter Inhaltsbereiche
+## Definieren der generierten Inhaltsbereiche
 
 Definieren Sie die Bereiche in Ihrer E-Mail-Vorlage, die dynamisch mit Inhalten aus GenStudio for Performance Marketing gefüllt werden sollen.
 
 So definieren Sie generierte Inhaltsbereiche:
 
-* Identifizieren Sie die Textelemente in der Vorlage, die von GenStudio for Performance Marketing automatisch generiert werden sollen, z. B. die Überschrift oder CTA.
-* Passen Sie Ihre HTML-Vorlage an, indem Sie mithilfe der Handlebars-Syntax Platzhalter darin einfügen.
+* Identifizieren Sie die Textelemente in der Vorlage, die GenStudio for Performance Marketing automatisch generieren soll, z. B. die Überschrift oder CTA.
+* Passen Sie Ihre HTML-Vorlage an, indem Sie Platzhalter mithilfe der Handlebars-Syntax darin einfügen.
 
-Siehe [Platzhalter für Inhalte](/help/user-guide/content/customize-template.md#content-placeholders).
+Siehe [Inhalts-Platzhalter](/help/user-guide/content/customize-template.md#content-placeholders).
 
 ## Vorschau der Vorlage
 
-Mit integrierten Helfern können Sie die Sichtbarkeit bestimmter Inhaltsbereiche steuern. Fügen Sie beispielsweise Tracking-Parameter zu Links in einer exportierten Vorlage hinzu, während Sie saubere Vorschaulinks beibehalten.
+Steuern der Sichtbarkeit bestimmter Inhaltsbereiche mit integrierten Helfern. Fügen Sie beispielsweise Tracking-Parameter zu Links in eine exportierte Vorlage ein, während Sie saubere Vorschau-Links beibehalten.
 
-Siehe [Vorlagenvorschau](/help/user-guide/content/customize-template.md#template-preview).
+Siehe [Vorlagenansicht](/help/user-guide/content/customize-template.md#template-preview).
 
-## Hochladen und Verwenden von Vorlagen
+## Hochladen und Verwenden der Vorlage
 
-Laden Sie die Vorlage, nachdem sie entworfen, codiert, getestet und in der Vorschau angezeigt wurde, in GenStudio for Performance Marketing hoch, um neue Marketinginhalte zu generieren.
+Laden Sie Ihre Vorlage, nachdem sie entworfen, codiert, getestet und in der Vorschau angezeigt wurde, in GenStudio for Performance Marketing hoch, um sie für die Erstellung brandneuer Marketing-Inhalte zu verwenden.
 
 Siehe [Arbeiten mit Vorlagen](use-templates.md).

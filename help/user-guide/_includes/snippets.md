@@ -5,4 +5,4 @@ source-wordcount: '5'
 ht-degree: 0%
 
 ---
-# GenStudio for Performance Marketing-Snippets
+# GenStudio for Performance Marketing Snippets

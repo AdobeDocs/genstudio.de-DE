@@ -35,7 +35,7 @@ Die Projektbetreuer sind für die Erläuterung der Standards akzeptablen Verhalt
 
 Die Projektbetreuer haben das Recht und die Verantwortung, Kommentare, Zusagen, Code, Wiki-Bearbeitungen, Probleme und andere Beiträge, die nicht mit diesem Verhaltenskodex im Einklang stehen, zu entfernen, zu bearbeiten oder abzulehnen. Ferner haben die Projektbetreuer das Recht, Beitragende vorübergehend oder dauerhaft wegen etwaiger anderer Verhaltensweisen zu sperren, die sie für unangemessen, bedrohlich, beleidigend oder schädlich erachten.
 
-## Geltungsbereich
+## Umfang
 
 Dieser Verhaltenskodex gilt sowohl innerhalb der Projekträume als auch in öffentlichen Bereichen, in denen eine Person das Projekt oder dessen Community repräsentiert. Beispiele für die Präsentation eines Projekts oder einer Community sind die Verwendung einer offiziellen Projekt-E-Mail-Adresse, das Posten über ein offizielles Social-Media-Konto oder die Funktion als bestellter Vertreter bei einer Online- oder Offline-Veranstaltung. Die Repräsentation eines Projekts kann von den Projektbetreuern weiter definiert und erläutert werden.
 
@@ -45,6 +45,6 @@ Fälle von Missbrauch, Belästigung oder anderweitig inakzeptablem Verhalten kö
 
 Projektbetreuer, die den Verhaltenskodex nicht in gutem Glauben befolgen oder umsetzen, haben mit vorübergehenden oder dauerhaften Konsequenzen zu rechnen, die von anderen Mitgliedern der Projektleitung bestimmt werden.
 
-## Quelle
+## Attribution
 
 Dieser Verhaltenskodex ist eine abgeänderte Version des [Contributor Covenant](https://contributor-covenant.org), Version 1.4, der unter [https://www.contributor-covenant.org/de/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/de/version/1/4/code-of-conduct.html) abrufbar ist.

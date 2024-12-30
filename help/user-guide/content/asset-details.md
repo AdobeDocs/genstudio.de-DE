@@ -1,60 +1,60 @@
 ---
 title: Asset-Details
-description: Adobe GenStudio for Performance Marketing speichert genehmigte Inhalte mit Rich-Metadaten, um die Suche und das Performance-Tracking zu ermöglichen.
+description: Adobe GenStudio for Performance Marketing speichert genehmigte Inhalte mit Rich-Metadaten, um die Suche und die Leistung zu verfolgen.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
 source-git-commit: bd3c5c9ff12c962d4123ac992fb74cd94e184172
 workflow-type: tm+mt
 source-wordcount: '681'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
 # Asset-Details
 
-Adobe GenStudio for Performance Marketing speichert genehmigte Inhalte mit Rich-Metadaten für die Erkennung und das Leistungstracking.
+Adobe GenStudio for Performance Marketing speichert genehmigte Inhalte mit Rich-Metadaten für die Auffindbarkeit und das Performance-Tracking.
 
-Jedes Asset (einschließlich Erlebnissen und Vorlagen) verfügt über zugewiesene _Details_ (Metadaten), die Ihnen helfen, die Inhaltsleistung zu identifizieren, zu verfolgen, zu verwenden und daraus zu lernen.
+Jedes Asset (einschließlich Erlebnissen und Vorlagen) verfügt über zugehörige _Details_ (Metadaten), die dabei helfen, die Content-Performance zu identifizieren, zu verfolgen, zu verwenden und aus ihr zu lernen.
 
-**So zeigen Sie Asset-Details an**:
+**Anzeigen von Asset-Details**:
 
-1. Wählen Sie in _[!DNL Content]_ein Asset, Erlebnis oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine fokussierte Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_ein Asset, ein Erlebnis oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
-1. Überprüfen Sie in der Asset-Ansicht den Abschnitt _[!UICONTROL Details]_ auf der rechten Seite.
+1. Gehen Sie in der Asset-Ansicht zum Abschnitt _[!UICONTROL Details]_ auf der rechten Seite.
 
    >[!TIP]
    >
-   >Wenn der Abschnitt _[!UICONTROL Details]_ nicht angezeigt wird, klicken Sie auf das Symbol **[!UICONTROL Informationen]** (i).
+   >Wenn der Abschnitt _[!UICONTROL Details]_ nicht sichtbar ist, klicken Sie auf das Symbol **[!UICONTROL Information]** (i).
 
-   Asset-Details umfassen Metadaten, die während des Erstellungs- oder Upload-Prozesses angewendet werden. Asset-Metadatentypen umfassen [Systemmetadaten](#system-metadata) und [benutzerdefinierte Metadaten](#user-defined-metadata).
+   Asset-Details enthalten Metadaten, die während des Erstellungs- oder Upload-Prozesses angewendet wurden. Asset-Metadatentypen umfassen [Systemmetadaten](#system-metadata) und [benutzerdefinierte Metadaten](#user-defined-metadata).
 
 >[!NOTE]
 >
->Assets aus AEM Repositorys zeigt unterschiedliche Metadaten an. Informationen zum Konfigurieren von [!DNL AEM Assets Content Hub] Asset-Details finden Sie unter [Konfigurieren der Asset-Sichtbarkeit](connect-aem-repo.md#step-4-configure-asset-visibility) .
+>Assets aus AEM-Repositorys zeigt verschiedene Metadaten an. Unter [Asset-Sichtbarkeit konfigurieren](connect-aem-repo.md#step-4-configure-asset-visibility) erfahren Sie, wie Sie [!DNL AEM Assets Content Hub] Asset-Details konfigurieren.
 
 ## In Express bearbeiten
 
-Sie können Bild-Assets (JPG oder PNG) direkt in GenStudio for Performance Marketing mit Adobe Express bearbeiten. Die Arbeitsfläche _[!UICONTROL Powered by Adobe Expreß]_ bietet praktische Funktionen zur Verbesserung Ihrer Bilder, ohne die GenStudio-Anwendung verlassen zu müssen. Sie können einfach Hintergründe entfernen, generative Füllungen anwenden, Effekte anpassen und Bilder zuschneiden.
+Sie können Bild-Assets (JPG oder PNG) mit dem Adobe Expreß direkt in GenStudio for Performance Marketing bearbeiten. Die _[!UICONTROL Powered by Adobe Expreß]_-Arbeitsfläche bietet praktische Funktionen, um Ihre Bilder zu verbessern, ohne das GenStudio-Programm verlassen zu müssen. Sie können auf einfache Weise Hintergründe entfernen, generative Füllungen anwenden, Effekte anpassen und Bilder zuschneiden.
 
-1. Wählen Sie in _[!DNL Content]_ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine fokussierte Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
-1. Klicken Sie in der Asset-Ansicht oben rechts auf das Symbol **[!UICONTROL Im Adobe Expreß bearbeiten]** .
+1. Klicken Sie in der Asset **[!UICONTROL Ansicht oben rechts auf]** Symbol „Bearbeiten im Adobe Expreß&quot;.
 
-1. Verwenden Sie in der Arbeitsfläche _[!UICONTROL Powered by Adobe Expreß]_ die Express-Steuerelemente im linken Bereich, um Ihr Bild zu verbessern.
+1. Verwenden Sie auf der _[!UICONTROL Powered by Adobe Expreß]_-Arbeitsfläche die Express-Steuerelemente im linken Bereich, um Ihr Bild zu verbessern.
 
-1. Wenn Sie mit dem aktualisierten Bild zufrieden sind, klicken Sie oben rechts auf **[!UICONTROL Kopie speichern]** .
+1. Wenn Sie mit dem aktualisierten Bild zufrieden sind, klicken **[!UICONTROL oben rechts auf]** Kopie speichern“.
 
-1. Wählen Sie das Dateiformat - JPG oder PNG - aus und klicken Sie auf **[!UICONTROL Kopie speichern]**.
+1. Wählen Sie das Dateiformat JPG oder PNG aus und klicken Sie auf **[!UICONTROL Kopie speichern]**.
 
-1. Aktualisieren Sie im Popup _[!UICONTROL Speichern einer Kopie des Assets]_ den **[!UICONTROL Asset-Namen]**.
+1. Aktualisieren _[!UICONTROL im Popup Kopie des Assets]_ den **[!UICONTROL Asset-Namen]**.
 
-   - Wählen Sie **[!UICONTROL Gleiche Details wie das ursprüngliche Asset]** aus, um die Asset-Details in das neue Bild zu übertragen.
+   - Wählen Sie **[!UICONTROL Wie Original-Asset]** aus, um die Asset-Details auf das neue Bild zu übertragen.
 
-   - Erweitern Sie den Abschnitt **[!UICONTROL Mehr Details]** , um die Kampagnen, Richtlinien und andere Metadaten zu aktualisieren.
+   - Erweitern Sie den Abschnitt **[!UICONTROL Weitere Details]**, um die Kampagne, die Richtlinien und andere Metadaten zu aktualisieren.
 
    >[!TIP]
    >
-   >Je mehr Details Sie bereitstellen, umso mehr erleben Sie die robusten Funktionen von GenStudio for Performance Marketing. Wählen Sie eine oder mehrere Details aus der Liste aus oder geben Sie ggf. eine neue ein, z. B. mit Suchbegriffen. Alle hinzugefügten Details werden unter der Liste angezeigt. Klicken Sie auf **`x`** , um ein Detail zu entfernen.
+   >Je mehr Details Sie angeben, desto zuverlässiger werden die Funktionen von GenStudio for Performance Marketing. Wählen Sie ein oder mehrere Details aus der Liste aus oder geben Sie gegebenenfalls ein neues ein, z. B. mit Schlüsselwörtern. Jedes hinzugefügte Detail wird unter der Liste angezeigt. Klicken Sie auf **`x`** , um ein Detail zu entfernen.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
@@ -64,21 +64,21 @@ Einige Asset-Metadaten werden beim Hochladen eines Assets automatisch erfasst. S
 
 Zu den Standardmetadaten, die für ein Asset gespeichert und erfasst werden, gehören der Name, die Dimensionen, die Quelle und mehr der Datei.
 
-### Generierte Tags
+### Erzeugte Tags
 
-Wenn Sie ein genehmigtes Asset in [!DNL Content] speichern, verwendet GenStudio for Performance Marketing Adobe AI- und maschinelles Lernen, um das Asset zu untersuchen und Tags anzuwenden, die auf den Asset-Funktionen basieren. Ein Bild einer Katze kann beispielsweise zu Attribut-Tags wie `pet photography` oder `cat` und Farb-Tags führen, die dominante Farben im Bild identifizieren. Tags können nicht bearbeitet werden.
+Wenn Sie ein genehmigtes Asset in [!DNL Content] speichern, verwendet GenStudio for Performance Marketing die KI-Funktion und maschinelle Lernfunktionen von Adobe, um das Asset zu untersuchen und Tags basierend auf den Asset-Funktionen anzuwenden. Beispielsweise kann ein Bild einer Katze zu Attribut-Tags wie `pet photography` oder `cat` und Farb-Tags führen, die dominante Farben im Bild identifizieren. Tags können nicht bearbeitet werden.
 
-Siehe [Insights-Attribute](/help/user-guide/insights/attributes.md).
+Siehe [Insights-](/help/user-guide/insights/attributes.md).
 
-### Generierte Inhaltsmetadaten
+### Erzeugte Inhaltsmetadaten
 
-Die Informationen, die zum Generieren eines neuen Assets oder Erlebnisses verwendet werden, werden zu Metadaten, wie z. B. der verwendeten Eingabeaufforderung. Sie können die Eingabeaufforderung nach Genehmigung des Inhalts nicht mehr bearbeiten, sondern sie als Ausgangspunkt für die Generierung neuer Elemente verwenden.
+Die Informationen, die zum Generieren eines neuen Assets oder Erlebnisses verwendet werden, werden zu Metadaten, wie z. B. die Eingabeaufforderung, die verwendet wurde. Sie können die Eingabeaufforderung nach der Genehmigung des Inhalts nicht mehr bearbeiten, sondern sie als Ausgangspunkt für die Erstellung neuer Inhalte verwenden.
 
 ## Benutzerdefinierte Metadaten
 
-Benutzerdefinierte Metadaten fügen Marketingkontext zum Inhalt des Assets hinzu, sodass Marketing-Experten verstehen können, wie das Asset verwendet und genutzt werden kann.
+Benutzerdefinierte Metadaten fügen dem Inhalt des Assets Marketing-Kontext hinzu, sodass Marketing-Fachleute verstehen können, wie das Asset verwendet und mit ihm interagiert wird.
 
-Wenn Sie [ ein Asset hochladen](/help/user-guide/content/manage-assets.md#add-assets), können Sie einen Satz optionaler Asset-Details definieren, die in GenStudio for Performance Marketing als Metadaten vorhanden sind. Durch die Aufnahme weiterer Details kann die Asset-Identifizierung bei Suchvorgängen und Filtern verbessert werden.
+Beim [Hochladen eines Assets](/help/user-guide/content/manage-assets.md#add-assets) können Sie eine Reihe optionaler Asset-Details definieren, die in GenStudio for Performance Marketing als Metadaten vorhanden sind. Das Einschließen weiterer Details kann die Asset-Identifizierung bei Suchen und Filtern verbessern.
 
 ### Metadatendetails
 
@@ -90,11 +90,11 @@ In der folgenden Tabelle sind die Metadaten (Asset-Details) aufgeführt, die Sie
 | [!DNL Brands] | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) wurde zu GenStudio for Performance Marketing hinzugefügt und zur Verwendung veröffentlicht |
 | [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) zur Verwendung zu GenStudio for Performance Marketing hinzugefügt |
 | [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) zur Verwendung zu GenStudio for Performance Marketing hinzugefügt |
-| Kanäle | Inhaltstypen in GenStudio for Performance Marketing, für die das Asset verwendet wird, z. B. E-Mail- und Metadatenanzeigen |
-| Zeitrahmen | Zeitraum, für den das Asset verwendet wurde, z. B. Quartal, Saison, Jahr usw. Beispiel: `Winter 2023` |
+| Kanäle | Inhaltstypen in GenStudio for Performance Marketing, für die das Asset verwendet wird, z. B. E-Mail- und Meta-Anzeigen |
+| Zeitrahmen | Zeitrahmen, für den das verwendete Asset verwendet wird, z. B. Quartal, Saison, Jahr usw. Beispiel: `Winter 2023` |
 | Region | Regionen, für die das Asset verwendet wird. Beispiele: `North America`, `APAC`, `Italy` |
 | Sprache | Sprachen, für die das Asset verwendet wird. Beispiel: `Spanish` |
-| Keywords | Schlüsselwörter, die zur weiteren Identifizierung von Asset-Eigenschaften und -Zweck verwendet werden |
+| Keywords | Schlüsselwörter zur weiteren Identifizierung von Asset-Merkmalen und -Zweck |
 
 <!-- ## History
 

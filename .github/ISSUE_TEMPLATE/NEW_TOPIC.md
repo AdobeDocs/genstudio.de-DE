@@ -12,18 +12,18 @@ ht-degree: 0%
 
 # Neues Thema
 
-Titel des Vorschlags: ...
-Geplantes Inhaltsverzeichnis: ...
+Vorgeschlagener Titel: …
+Vorgeschlagener Speicherort des Inhaltsverzeichnisses: …
 
-## Das neue Thema beschreiben
+## Beschreiben des neuen Themas
 
 <!-- (REQUIRED) Describe the new content. Provide as much detail and as many resources as you can. -->
 
-Fügen Sie Folgendes hinzu:
+Folgendes einschließen:
 
-- [ ] Das Thema erläutert, wie ____ funktioniert.
-- [ ] Das Thema enthält Schritte für ____.
-- [ ] Das Thema enthält Code-Beispiele, die _____ zeigen.
+- [ ] In diesem Thema wird erläutert, wie ____ funktioniert.
+- [ ] Das Thema enthält Schritte zur ____.
+- [ ] Das Thema enthält Codebeispiele, die ____ zeigen.
 - [ ] Sonstige (bitte angeben):
 
 <!-- Thank you for taking the time to report the issue. -->
