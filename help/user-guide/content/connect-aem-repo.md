@@ -41,7 +41,7 @@ Genehmigen von Assets für die Verwendung in [!DNL AEM Assets Content Hub], wodu
 
 ## Schritt 4: Asset-Sichtbarkeit konfigurieren
 
-Überprüfen Sie unter _[!DNL AEM Assets Content Hub]_Konfigurationsoptionen jeden Satz von Konfigurationsoptionen für Filter, Asset-Details, Suche und Branding. Siehe [Konfigurieren der Benutzeroberfläche von Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options) in der Dokumentation zu_ AEM as a Cloud Service _.
+Überprüfen Sie unter _[!DNL AEM Assets Content Hub]_&#x200B;Konfigurationsoptionen jeden Satz von Konfigurationsoptionen für Filter, Asset-Details, Suche und Branding. Siehe [Konfigurieren der Benutzeroberfläche von Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options) in der Dokumentation zu_ AEM as a Cloud Service _.
 
 ## Schritt 5: Verbindung überprüfen
 

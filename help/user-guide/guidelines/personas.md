@@ -21,7 +21,7 @@ GenStudio for Performance Marketing nutzt die Leistungsfähigkeit von Richtlinie
 **So zeigen Sie eine Rolle an oder ändern sie**:
 
 1. Klicken Sie im linken Navigationsbereich auf &quot;**[!UICONTROL &quot;]**.
-1. Um [einzelne Details anzuzeigen oder eine Rolle zu ändern](add-guidelines.md#manage-personas) klicken Sie auf das Menü _[!DNL Personas]_Aktion und wählen Sie **Öffnen**aus.
+1. Um [einzelne Details anzuzeigen oder eine Rolle zu ändern](add-guidelines.md#manage-personas) klicken Sie auf das Menü _[!DNL Personas]_&#x200B;Aktion und wählen Sie **Öffnen**&#x200B;aus.
 1. Sie können die Richtlinien für Personas überarbeiten, indem Sie in das Textfeld für eine Richtlinienkategorie klicken.
 
 Unter [Richtlinien hinzufügen](add-guidelines.md) erfahren Sie, wie Sie eine Rolle in GenStudio for Performance Marketing hinzufügen oder ändern.

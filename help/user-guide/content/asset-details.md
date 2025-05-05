@@ -18,7 +18,7 @@ Jedes Asset (einschließlich Erlebnissen und Vorlagen) verfügt über zugehörig
 
 **Anzeigen von Asset-Details**:
 
-1. Wählen Sie _[!DNL Content]_ein Asset, ein Erlebnis oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_&#x200B;ein Asset, ein Erlebnis oder eine Vorlage aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
 1. Gehen Sie in der Asset-Ansicht zum Abschnitt _[!UICONTROL Details]_ auf der rechten Seite.
 
@@ -36,7 +36,7 @@ Jedes Asset (einschließlich Erlebnissen und Vorlagen) verfügt über zugehörig
 
 Sie können Bild-Assets (JPG oder PNG) mit dem Adobe Expreß direkt in GenStudio for Performance Marketing bearbeiten. Die _[!UICONTROL Powered by Adobe Expreß]_-Arbeitsfläche bietet praktische Funktionen, um Ihre Bilder zu verbessern, ohne das GenStudio-Programm verlassen zu müssen. Sie können auf einfache Weise Hintergründe entfernen, generative Füllungen anwenden, Effekte anpassen und Bilder zuschneiden.
 
-1. Wählen Sie _[!DNL Content]_ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
+1. Wählen Sie _[!DNL Content]_&#x200B;ein Bild-Asset aus. Durch Klicken auf ein Asset wird eine zielgerichtete Ansicht des Assets geöffnet.
 
 1. Klicken Sie in der Asset **[!UICONTROL Ansicht oben rechts auf]** Symbol „Bearbeiten im Adobe Expreß&quot;.
 

@@ -93,7 +93,7 @@ Verwenden [ „Vorlagen anpassen](customize-template.md) als Anleitung beim Vorb
 
 **So fügen Sie eine Vorlage**:
 
-1. Wählen Sie _[!DNL Content]_den Abschnitt **[!UICONTROL Vorlagen]**aus.
+1. Wählen Sie _[!DNL Content]_&#x200B;den Abschnitt **[!UICONTROL Vorlagen]**&#x200B;aus.
 
 1. Klicken Sie **[!UICONTROL Vorlage hinzufügen]**.
 
@@ -126,7 +126,7 @@ Suchen und verwenden Sie eine vorhandene Vorlage in GenStudio for Performance Ma
 
 **So erstellen Sie ein Erlebnis mit einer Vorlage**:
 
-1. Wählen Sie _[!DNL Content]_den Abschnitt **[!UICONTROL Vorlagen]**aus.
+1. Wählen Sie _[!DNL Content]_&#x200B;den Abschnitt **[!UICONTROL Vorlagen]**&#x200B;aus.
 
    ![Liste der Inhaltsvorlagen](../../assets/content-templates.png){width="650" zoomable="yes"}
 

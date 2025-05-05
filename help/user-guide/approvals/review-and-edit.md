@@ -36,7 +36,7 @@ Sie können Inhalte genehmigen, wenn Sie eine E-Mail erhalten haben, in der Sie 
 
 1. Verwenden Sie den Link in Ihrer Produktionsbenachrichtigung oder E-Mail, um zum Inhalt zu navigieren, der überprüft werden soll. Die Arbeitsfläche wird geöffnet.
 
-1. Die Arbeitsfläche enthält oben ]**die Schaltfläche**[!UICONTROL &#x200B;Überprüfen und bestätigen“. Klicken Sie auf diese Schaltfläche, um das Bedienfeld _Genehmigungen_ für dieses Asset zu öffnen.
+1. Die Arbeitsfläche enthält oben **die Schaltfläche**&#x200B;Überprüfen und bestätigen“. Klicken Sie auf diese Schaltfläche, um das Bedienfeld _Genehmigungen_ für dieses Asset zu öffnen.
 
 ## Änderungen anfordern
 

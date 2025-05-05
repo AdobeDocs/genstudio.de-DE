@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Erstellen eines Meta-Anzeigen-Erlebnisses
 
-In diesem Tutorial erfahren Sie, wie Sie mit [ GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich) ](/help/user-guide/create/meta-experiences.md) markenspezifische (Meta Anzeigenerlebnisse) generieren können.
+In diesem Tutorial erfahren Sie, wie Sie mit [&#128279;](/help/user-guide/create/meta-experiences.md) GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich)  markenspezifische (Meta Anzeigenerlebnisse) generieren können.
 
 Bevor Sie mit der Erstellung eines Meta-Anzeigenerlebnisses beginnen, ist es wichtig, [Richtlinien ](/help/user-guide/guidelines/add-guidelines.md) GenStudio for Performance Marketing zu integrieren und sich mit den Grundlagen der [Erstellung einer ](/help/user-guide/effective-prompts.md)&quot; vertraut zu machen.
 
@@ -26,7 +26,7 @@ Verwenden Sie eine verfügbare Vorlage, um das Framework für Ihre Inhalte berei
 
 **So wählen Sie eine Meta-Anzeigenvorlage**:
 
-1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL Meta-Anzeigen]**in der_ „Was möchten Sie heute erstellen?“_.
+1. Klicken Sie _[!DNL Create]_&#x200B;auf **[!UICONTROL Meta-Anzeigen]**&#x200B;in der_ „Was möchten Sie heute erstellen?“_.
 1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte Meta-Anzeigenvorlage zu finden.
 1. Klicken Sie, um eine Vorlage auszuwählen, und klicken Sie auf **[!UICONTROL Verwenden]**.
 
@@ -126,7 +126,7 @@ Weitere Informationen finden [ unter ](/help/user-guide/approvals/overview.md) u
 
 Um die generierten Meta-Anzeigen für die aktuelle und zukünftige Verwendung verfügbar zu machen, veröffentlichen Sie sie in [!UICONTROL Inhalt] und exportieren Sie sie zur Verwendung in Ihren Marketing-Kampagnen.
 
-1. **Um Ihre neue(n) Meta-Anzeige-Erlebnis(se** zu veröffentlichen, klicken Sie in der oberen ]**auf**[!UICONTROL  Publish.
+1. **Um Ihre neue(n) Meta-Anzeige-Erlebnis(se** zu veröffentlichen, klicken Sie in der oberen **auf** Publish.
 1. **Um Ihre neue(n) Meta-Anzeige(**) zu exportieren, klicken Sie **[!UICONTROL der oberen Symbolleiste auf]** Exportieren“.
    1. Wählen Sie das Format aus (nur CSV und Bilder oder HTML) und klicken Sie auf **[!UICONTROL Exportieren]**.
 

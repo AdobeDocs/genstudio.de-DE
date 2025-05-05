@@ -44,7 +44,7 @@ Beim Hinzufügen von Assets zu [!DNL Content] werden diese standardmäßig im `G
 
 **Hinzufügen von Assets**:
 
-1. Klicken Sie _[!DNL Content]_auf **[!UICONTROL Assets hinzufügen]**.
+1. Klicken Sie _[!DNL Content]_&#x200B;auf **[!UICONTROL Assets hinzufügen]**.
 
 1. Legen Sie in _Ansicht „Genehmigte Assets hinzufügen_ eine oder mehrere Dateien im Ablagebereich ab. Optional können Sie mit „Durchsuchen“ aus lokalen Dateien **[!UICONTROL oder]** Dateien von Dropbox oder Microsoft OneDrive importieren.
 
@@ -78,7 +78,7 @@ Bei der Suche nach _Erlebnissen_ können Sie den Filter **[!UICONTROL Erstellt v
 
 **So suchen Sie nach wiederzuverwendenden Inhalten**:
 
-1. Wählen Sie in _[!DNL Content]_den Abschnitt **[!UICONTROL Assets]**aus.
+1. Wählen Sie in _[!DNL Content]_&#x200B;den Abschnitt **[!UICONTROL Assets]**&#x200B;aus.
 
 1. Wählen Sie ein Asset-Repository aus der **[!UICONTROL Speicherort]**-Liste aus oder stellen Sie sicher, dass Sie das richtige Asset-Repository verwenden. `GenStudio assets` ist das Standard-Repository.
 

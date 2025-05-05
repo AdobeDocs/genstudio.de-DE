@@ -40,7 +40,7 @@ Die [!DNL Insights] Ansicht _[!UICONTROL Kanäle]_ ist die Standardansicht und z
 
 ### Erlebnisse
 
-Die [!DNL Insights] Ansicht _[!UICONTROL Erlebnisse]_ konzentriert sich auf die Bewertung der Effektivität eines Erlebnisses. Mit [!UICONTROL  Ansicht ]Erlebnisse“ können Sie die Metriken eines Erlebnisses basierend auf seiner Anzeigenplatzierung innerhalb eines bestimmten Datumsbereichs analysieren. Durch Klicken auf einen _[!UICONTROL Anzeigenamen]_ können Sie die Anzeigenleistungsmetriken, die Leistung nach Anzeigenplatzierung und die Attribute anzeigen.
+Die [!DNL Insights] Ansicht _[!UICONTROL Erlebnisse]_ konzentriert sich auf die Bewertung der Effektivität eines Erlebnisses. Mit [!UICONTROL &#x200B; Ansicht &#x200B;]Erlebnisse“ können Sie die Metriken eines Erlebnisses basierend auf seiner Anzeigenplatzierung innerhalb eines bestimmten Datumsbereichs analysieren. Durch Klicken auf einen _[!UICONTROL Anzeigenamen]_ können Sie die Anzeigenleistungsmetriken, die Leistung nach Anzeigenplatzierung und die Attribute anzeigen.
 
 ### Assets
 

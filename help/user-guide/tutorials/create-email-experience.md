@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # E-Mail-Erlebnis erstellen
 
-In diesem Tutorial erfahren Sie, wie Sie mit [ GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich](/help/user-guide/create/email-experiences.md) markenspezifische E-Mail-Erlebnisse generieren können.
+In diesem Tutorial erfahren Sie, wie Sie mit [&#128279;](/help/user-guide/create/email-experiences.md) GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich markenspezifische E-Mail-Erlebnisse generieren können.
 
 Um ein effektives E-Mail-Erlebnis zu schaffen, wird empfohlen, dass Sie [Richtlinien zu GenStudio for Performance Marketing hinzufügen](/help/user-guide/guidelines/add-guidelines.md) und die [Grundlagen der Erstellung einer Eingabeaufforderung) ](/help/user-guide/effective-prompts.md), bevor Sie beginnen.
 
@@ -26,7 +26,7 @@ Um ein neues E-Mail-Erlebnis zu erstellen, verwenden Sie eine verfügbare Vorlag
 
 **So wählen Sie eine E-Mail-Vorlage aus**:
 
-1. Klicken Sie _[!DNL Create]_auf **[!UICONTROL E-Mail]**in der_ „Was möchten Sie heute erstellen?“_.
+1. Klicken Sie _[!DNL Create]_&#x200B;auf **[!UICONTROL E-Mail]**&#x200B;in der_ „Was möchten Sie heute erstellen?“_.
 1. Verwenden Sie die Suchoption neben _Filter_, um eine bestimmte E-Mail-Vorlage zu finden.
 1. Wählen Sie eine E-Mail-Vorlage aus und klicken Sie auf **[!UICONTROL Verwenden]**.
 
@@ -124,7 +124,7 @@ Weitere Informationen finden [ unter ](/help/user-guide/approvals/overview.md) u
 
 Um die generierten E-Mails für die aktuelle und zukünftige Verwendung verfügbar zu machen, veröffentlichen Sie sie in [!UICONTROL Inhalt] und exportieren Sie sie zur Verwendung in Ihren Marketing-Kampagnen.
 
-1. **Um Ihre neuen E-Mail-Erlebnisse zu veröffentlichen** klicken Sie in der oberen ]**auf**[!UICONTROL  Publish.
+1. **Um Ihre neuen E-Mail-Erlebnisse zu veröffentlichen** klicken Sie in der oberen **auf** Publish.
 1. **Um Ihre neuen E-Mail-Erlebnisse zu exportieren** klicken Sie in der oberen Symbolleiste **[!UICONTROL Exportieren]**.
    1. Wählen Sie das Format aus (nur CSV und Bilder oder HTML) und klicken Sie auf **[!UICONTROL Exportieren]**.
 

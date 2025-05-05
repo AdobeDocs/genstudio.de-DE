@@ -38,7 +38,7 @@ GenStudio for Performance Marketing bewahrt Kanaldaten für einen Zeitraum von 1
 
 **So verbinden Sie ein Meta Ads-Konto in GenStudio for Performance Marketing**:
 
-1. Klicken Sie _[!DNL Insights]_auf **[!UICONTROL Kanalkonto verbinden]**.
+1. Klicken Sie _[!DNL Insights]_&#x200B;auf **[!UICONTROL Kanalkonto verbinden]**.
 
    >[!INFO]
    >

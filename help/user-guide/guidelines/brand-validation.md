@@ -65,7 +65,7 @@ Um die Effektivität der generierten Inhalte zu maximieren und eine konsistente 
 
 **So verbessern Sie die Markenausrichtung für generierte Inhaltsvarianten**:
 
-1. Klicken Sie für eine einzelne Variante auf ]**Häkchen für die**[!UICONTROL [!DNL Brand].
+1. Klicken Sie für eine einzelne Variante auf **Häkchen für die**&#x200B;[!DNL Brand].
 
    Hier finden Sie eine Zusammenfassung, wie viele Markenrichtlinien der Markenvalidierung entsprachen oder mehr Aufmerksamkeit erfordern.
 
@@ -85,7 +85,7 @@ Um die Effektivität der generierten Inhalte zu maximieren und eine konsistente 
 
 1. Fahren Sie mit der Überarbeitung der Abschnitte fort, um sicherzustellen, dass die gesamte Variante die Markenvalidierung besteht.
 
-   Navigieren Sie mithilfe der Schaltflächen **[!UICONTROL Weiter _und_Zurück]** zwischen Richtlinien im Bereich „Markenvalidierung ]****[!UICONTROL .
+   Navigieren Sie mithilfe der Schaltflächen **[!UICONTROL Weiter _und_Zurück]** zwischen Richtlinien im Bereich „Markenvalidierung **&#x200B;**.
 
 1. Navigieren Sie durch jede Variante mithilfe der Pfeile neben einer einzelnen Variante auf der Arbeitsfläche. Verwenden Sie beispielsweise den Pfeil, um von `Email 1/4` zu `Email 2/4` zu wechseln.
 1. Fahren Sie mit der Überarbeitung der Abschnitte fort, um Ihrer Marke besser gerecht zu werden.
