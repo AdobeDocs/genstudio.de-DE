@@ -53,7 +53,7 @@ Verfügbare Entwurfsstatus:
 
 Produktinterne GenStudio for Performance Marketing-Benachrichtigungen aktualisieren genehmigende Personen und Inhaltseditoren in Echtzeit von Asset-Statusänderungen und `@mention`. Benachrichtigungen unterstützen eine schnelle Iteration durch die verschiedenen Überprüfungs-, Bearbeitungs- und Genehmigungszyklen.
 
-Bearbeiter und genehmigende Personen können sich für den Erhalt dieser Benachrichtigungen auf Slack anmelden. Siehe [Abonnieren von Diensten auf Experience Cloud](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#slack).
+Bearbeiter und genehmigende Personen können sich für den Erhalt dieser Benachrichtigungen auf Slack anmelden. Siehe [Abonnieren von Diensten auf Experience Cloud](https://experienceleague.adobe.com/de/docs/core-services/interface/features/account-preferences#slack).
 
 Von den Genehmigungsteilnehmern durchgeführte Aktionen Trigger für automatische produktinterne Benachrichtigungen und E-Mail-Benachrichtigungen. Wenn Sie einen Genehmigungsprozess starten, erhalten designierte genehmigende Personen sowohl E-Mail- als auch produktinterne Benachrichtigungen. Sie werden mit Produkt- und E-Mail-Benachrichtigungen auf dem Laufenden gehalten, wenn eine genehmigende Person `@mention` Kommentare hinzufügt oder eine Entscheidung trifft. Benachrichtigungen enthalten Links zum Inhaltsentwurf.
 

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Inhalt genehmigen
 
-Genehmigende Personen erhalten produktinterne Benachrichtigungen, E-Mails und, falls aktiviert, Slack-Benachrichtigungen, wenn ihre Überprüfung und Genehmigung erforderlich ist. Benachrichtigungen enthalten einen Link zur Arbeitsfläche, auf der der zu überprüfende Inhalt angezeigt wird. Informationen [ Verwalten Ihrer Benachrichtigungen finden Sie ](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) „Kontovoreinstellungen und Benachrichtigungen“.
+Genehmigende Personen erhalten produktinterne Benachrichtigungen, E-Mails und, falls aktiviert, Slack-Benachrichtigungen, wenn ihre Überprüfung und Genehmigung erforderlich ist. Benachrichtigungen enthalten einen Link zur Arbeitsfläche, auf der der zu überprüfende Inhalt angezeigt wird. Informationen [ Verwalten Ihrer Benachrichtigungen finden Sie ](https://experienceleague.adobe.com/de/docs/core-services/interface/features/account-preferences) „Kontovoreinstellungen und Benachrichtigungen“.
 
 Wenn der Inhaltsentwurf den Standards Ihres Unternehmens und Ihren Erwartungen entspricht, können Sie den Entwurf genehmigen.
 
