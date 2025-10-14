@@ -22,7 +22,7 @@ Vom [!DNL Insights]-Dashboard aus haben Sie folgende Möglichkeiten:
 
 >[!TIP]
 >
->GenStudio for Performance Marketing Anweisungen zum [ von Daten aus Ihren aktuellen Marketing](connect-channel.md)Kampagnen, Assets und Erlebnissen finden Sie unter „Connect Channel Account .
+>GenStudio for Performance Marketing Anweisungen zum [&#x200B; von Daten aus Ihren aktuellen Marketing](connect-channel.md)Kampagnen, Assets und Erlebnissen finden Sie unter „Connect Channel Account .
 
 ## Dashboard
 

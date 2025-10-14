@@ -17,7 +17,7 @@ Dieses Projekt unterliegt dem [Verhaltenskodex](code-of-conduct.md) von Adobe. D
 
 ## Dokumentation zum Handbuch für Mitwirkende
 
-Weitere Informationen finden Sie [ „Contributor Guide for Adobe Documentation](https://experienceleague.adobe.com/de/docs/contributor/contributor-guide/introduction).
+Weitere Informationen finden Sie [&#x200B; „Contributor Guide for Adobe Documentation](https://experienceleague.adobe.com/de/docs/contributor/contributor-guide/introduction).
 
 ## Haben Sie eine Frage?
 
@@ -42,4 +42,4 @@ Wir lieben Beiträge von der Community! Wenn Sie ein Betreuer mit vollem Schreib
 
 ## Sicherheitsprobleme
 
-Sicherheitsprobleme sollten nicht über diese Problemverfolgung gemeldet werden. Stattdessen [ein Problem an Adobe-Sicherheitsexperten ](https://helpx.adobe.com/de/security/alertus.html).
+Sicherheitsprobleme sollten nicht über diese Problemverfolgung gemeldet werden. Stattdessen [ein Problem an Adobe-Sicherheitsexperten &#x200B;](https://helpx.adobe.com/de/security/alertus.html).

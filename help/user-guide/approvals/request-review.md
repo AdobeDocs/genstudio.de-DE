@@ -33,4 +33,4 @@ Nachdem Sie Ihre Inhaltsvarianten generiert haben, können Sie eine Überprüfun
 
 Wenn Sie der Ersteller von Inhalten sind, zeigt Ihre Arbeitsfläche für Entwürfe die Schaltfläche **[!UICONTROL Genehmigungen verwalten]** an. Verwenden Sie diese Schaltfläche, um ein Popup zu öffnen, aus dem Sie Genehmigende Personen während des Überprüfungs- und Genehmigungsprozesses entfernen oder hinzufügen können.
 
-In dieser Ansicht werden die Namen von genehmigenden Personen nach dem Start der Genehmigungsanfragen mit dem Status [!DNL Notified] aufgeführt. Eine Übersicht [ GenStudio for Performance Marketing](./approve-content.md)Genehmigungsaufgaben finden Sie unter „Inhalt genehmigen“.
+In dieser Ansicht werden die Namen von genehmigenden Personen nach dem Start der Genehmigungsanfragen mit dem Status [!DNL Notified] aufgeführt. Eine Übersicht [&#x200B; GenStudio for Performance Marketing](./approve-content.md)Genehmigungsaufgaben finden Sie unter „Inhalt genehmigen“.

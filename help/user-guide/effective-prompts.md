@@ -57,7 +57,7 @@ Die GenStudio for Performance Marketing-Richtlinien helfen der generativen KI be
 
 ### Strukturierte Eingabeaufforderungen
 
-Bei E-Mails mit mehreren Abschnitten können Sie Eingabeaufforderungen strukturieren, um abschnittsspezifische Anweisungen bereitzustellen, mit denen für jeden Abschnitt in einer E-[ variierender Inhalt generiert ](/help/user-guide/create/email-experiences.md). Strukturierte Eingabeaufforderungen sollten direkt auf [Abschnittsnamen in der E-Mail](/help/user-guide/content/email-template.md#multi-section-emails)Vorlage verweisen, damit der generierte Inhalt in die entsprechenden Platzhalter für Inhalte eingefügt werden kann.
+Bei E-Mails mit mehreren Abschnitten können Sie Eingabeaufforderungen strukturieren, um abschnittsspezifische Anweisungen bereitzustellen, mit denen für jeden Abschnitt in einer E-[&#x200B; variierender Inhalt generiert &#x200B;](/help/user-guide/create/email-experiences.md). Strukturierte Eingabeaufforderungen sollten direkt auf [Abschnittsnamen in der E-Mail](/help/user-guide/content/email-template.md#multi-section-emails)Vorlage verweisen, damit der generierte Inhalt in die entsprechenden Platzhalter für Inhalte eingefügt werden kann.
 
 Sie können beispielsweise GenStudio for Performance Marketing anweisen, im ersten Abschnitt einer E-Mail Inhalte zu generieren, die ein neues Produkt bewerben, und im zweiten E-Mail-Abschnitt Inhalte zu generieren, die die Kosteneinsparungen des Produkts detailliert beschreiben.
 

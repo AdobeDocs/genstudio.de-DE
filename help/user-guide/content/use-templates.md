@@ -89,7 +89,7 @@ Sie [Ihre Vorlage](customize-template.md) zur Verwendung in GenStudio for Perfor
 
 ## Hochladen einer Vorlage
 
-Verwenden [ „Vorlagen anpassen](customize-template.md) als Anleitung beim Vorbereiten einer Vorlage für GenStudio for Performance Marketing. Eine Anleitung [ Bereitstellung eines besseren Erlebnisses für alle Zielgruppen finden Sie unter ](accessibility-for-templates.md)Barrierefreiheitsrichtlinien für Vorlagen“.
+Verwenden [&#x200B; „Vorlagen anpassen](customize-template.md) als Anleitung beim Vorbereiten einer Vorlage für GenStudio for Performance Marketing. Eine Anleitung [&#x200B; Bereitstellung eines besseren Erlebnisses für alle Zielgruppen finden Sie unter &#x200B;](accessibility-for-templates.md)Barrierefreiheitsrichtlinien für Vorlagen“.
 
 **So fügen Sie eine Vorlage**:
 

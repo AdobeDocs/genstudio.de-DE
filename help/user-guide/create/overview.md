@@ -94,7 +94,7 @@ GenStudio for Performance Marketing führt eine Markenvalidierung zu verschieden
 
 ### Überprüfungen und Genehmigungen
 
-Fragen Sie während des Erstellungsprozesses mit der integrierten Funktion „Überprüfungen und Genehmigungen“ [ Überprüfungen und Kommentare ](/help/user-guide/approvals/overview.md) und erhalten Sie Genehmigungen.
+Fragen Sie während des Erstellungsprozesses mit der integrierten Funktion „Überprüfungen und Genehmigungen“ [&#x200B; Überprüfungen und Kommentare &#x200B;](/help/user-guide/approvals/overview.md) und erhalten Sie Genehmigungen.
 
 Nachdem Sie die Generierung von Inhaltsvarianten abgeschlossen haben, senden Sie Ihre Entwürfe zur Genehmigung durch die Stakeholder, damit sie in [!DNL Content] gespeichert und in Marketing-Maßnahmen implementiert werden können.
 

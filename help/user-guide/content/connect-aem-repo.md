@@ -37,7 +37,7 @@ Fügen Sie in der [!DNL Admin Console] GenStudio-Benutzende oder -Benutzergruppe
 
 ## Schritt 3: Assets genehmigen
 
-Genehmigen von Assets für die Verwendung in [!DNL AEM Assets Content Hub], wodurch sie in GenStudio for Performance Marketing verfügbar werden. Siehe [Genehmigen von Assets im Experience Manager AEM as a Cloud Services ](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in der Dokumentation zu __.
+Genehmigen von Assets für die Verwendung in [!DNL AEM Assets Content Hub], wodurch sie in GenStudio for Performance Marketing verfügbar werden. Siehe [Genehmigen von Assets im Experience Manager AEM as a Cloud Services &#x200B;](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in der Dokumentation zu __.
 
 ## Schritt 4: Asset-Sichtbarkeit konfigurieren
 

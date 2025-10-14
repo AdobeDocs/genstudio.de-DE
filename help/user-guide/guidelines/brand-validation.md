@@ -61,7 +61,7 @@ Im Bedienfeld _Markenvalidierung_ können Sie filtern, welche Richtlinien angeze
 
 ## Verbesserung der Markenausrichtung
 
-Um die Effektivität der generierten Inhalte zu maximieren und eine konsistente Markenidentität zu gewährleisten, verwenden Sie die _Prüfung der Markenrichtlinien_ und das Bedienfeld _Markenvalidierung_. Sie können bestimmte Abschnitte manuell ändern, um sie an Ihre [Markenrichtlinien“ ](brands.md).
+Um die Effektivität der generierten Inhalte zu maximieren und eine konsistente Markenidentität zu gewährleisten, verwenden Sie die _Prüfung der Markenrichtlinien_ und das Bedienfeld _Markenvalidierung_. Sie können bestimmte Abschnitte manuell ändern, um sie an Ihre [Markenrichtlinien“ &#x200B;](brands.md).
 
 **So verbessern Sie die Markenausrichtung für generierte Inhaltsvarianten**:
 
@@ -90,4 +90,4 @@ Um die Effektivität der generierten Inhalte zu maximieren und eine konsistente 
 1. Navigieren Sie durch jede Variante mithilfe der Pfeile neben einer einzelnen Variante auf der Arbeitsfläche. Verwenden Sie beispielsweise den Pfeil, um von `Email 1/4` zu `Email 2/4` zu wechseln.
 1. Fahren Sie mit der Überarbeitung der Abschnitte fort, um Ihrer Marke besser gerecht zu werden.
 
-   Weitere Informationen [ berücksichtigten Richtlinien finden Sie ](/help/user-guide/guidelines/brands.md#brand-voice-guidelines) „Richtlinien für Markensprache“.
+   Weitere Informationen [&#x200B; berücksichtigten Richtlinien finden Sie &#x200B;](/help/user-guide/guidelines/brands.md#brand-voice-guidelines) „Richtlinien für Markensprache“.

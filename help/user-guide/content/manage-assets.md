@@ -28,9 +28,9 @@ Standardmäßig werden Assets, die Sie [!DNL Content] über den [!DNL Create] od
 
 Die **[!UICONTROL Standort]**-Liste über der Galerie auf der rechten Seite ermöglicht die Auswahl aus verbundenen Adobe Experience Manager (AEM) [!DNL Assets Content Hub] Repositorys. Wenn Sie ein AEM-Repository auswählen, zeigt die Galerie ein Inventar der Assets aus diesem Repository an, sodass Sie genehmigte Assets aus diesen Repositorys als Eingaben für die Inhaltserstellung nutzen können. Die Filteroptionen ändern sich entsprechend den in [!DNL AEM Assets Content Hub] konfigurierten Kategorien.
 
-Das AEM-Repository ist schreibgeschützt, d. h. Sie können keine Entwürfe, neuen Assets oder Metadaten im AEM-Repository speichern. Alle Entwürfe und endgültigen Aktualisierungen für Assets, Erlebnisse und Vorlagen werden mit neuen [Systemmetadaten“ im `GenStudio assets`-Repository ](asset-details.md#system-metadata).
+Das AEM-Repository ist schreibgeschützt, d. h. Sie können keine Entwürfe, neuen Assets oder Metadaten im AEM-Repository speichern. Alle Entwürfe und endgültigen Aktualisierungen für Assets, Erlebnisse und Vorlagen werden mit neuen [Systemmetadaten“ im `GenStudio assets`-Repository &#x200B;](asset-details.md#system-metadata).
 
-AEM Anleitungen [ Hinzufügen Ihres-Repositorys ](connect-aem-repo.md) GenStudio for Performance Marketing finden Sie unter „Verbinden eines [!DNL AEM Assets Content Hub]-Repositorys“.
+AEM Anleitungen [&#x200B; Hinzufügen Ihres-Repositorys &#x200B;](connect-aem-repo.md) GenStudio for Performance Marketing finden Sie unter „Verbinden eines [!DNL AEM Assets Content Hub]-Repositorys“.
 
 ## Verwaltung von Assets
 

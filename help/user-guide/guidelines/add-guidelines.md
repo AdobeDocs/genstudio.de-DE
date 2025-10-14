@@ -50,7 +50,7 @@ Ein Popup erinnert Sie daran, den extrahierten Inhalt zu überprüfen, bevor Sie
 
 ### Marke manuell hinzufügen
 
-Sie können Markendetails manuell hinzufügen, anstatt vorhandene Markendokumente hochzuladen, um eine neue [Marke“ ](brands.md).
+Sie können Markendetails manuell hinzufügen, anstatt vorhandene Markendokumente hochzuladen, um eine neue [Marke“ &#x200B;](brands.md).
 
 **So fügen Sie eine Marke manuell hinzu**:
 
@@ -204,7 +204,7 @@ Siehe [[!DNL Personas]](/help/user-guide/guidelines/personas.md).
 
 ### Persona manuell hinzufügen
 
-Sie können persönliche Details manuell hinzufügen, anstatt vorhandene persönliche Dokumente hochzuladen, um eine neue [Rolle“ ](personas.md).
+Sie können persönliche Details manuell hinzufügen, anstatt vorhandene persönliche Dokumente hochzuladen, um eine neue [Rolle“ &#x200B;](personas.md).
 
 **So fügen Sie manuell eine Rolle hinzu**:
 

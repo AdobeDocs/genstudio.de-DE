@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In diesem Tutorial erfahren Sie, wie Sie mit [&#128279;](/help/user-guide/create/meta-experiences.md) GenStudio for Performance Marketing-[[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich)  markenspezifische (Meta Anzeigenerlebnisse) generieren können.
 
-Bevor Sie mit der Erstellung eines Meta-Anzeigenerlebnisses beginnen, ist es wichtig, [Richtlinien ](/help/user-guide/guidelines/add-guidelines.md) GenStudio for Performance Marketing zu integrieren und sich mit den Grundlagen der [Erstellung einer ](/help/user-guide/effective-prompts.md)&quot; vertraut zu machen.
+Bevor Sie mit der Erstellung eines Meta-Anzeigenerlebnisses beginnen, ist es wichtig, [Richtlinien &#x200B;](/help/user-guide/guidelines/add-guidelines.md) GenStudio for Performance Marketing zu integrieren und sich mit den Grundlagen der [Erstellung einer &#x200B;](/help/user-guide/effective-prompts.md)&quot; vertraut zu machen.
 
 ## Vorlage wählen
 
@@ -58,7 +58,7 @@ Wenn Sie mit dem Hinzufügen von Parametern fertig sind, können Sie den Eingabe
 
 Nachdem Richtlinien ausgewählt wurden, erstellen Sie eine Eingabeaufforderung mit natürlicher Sprache, um mit der Generierung von Inhalten für Ihr neues Meta- und -Erlebnis zu beginnen. Detaillierte Eingabeaufforderungen liefern eine bessere Ausgabe als vage oder unbeschreibende Eingabeaufforderungen.
 
-Weitere [ zu Eingabeaufforderungen finden Sie ](/help/user-guide/effective-prompts.md)Schreiben effektiver Eingabeaufforderungen).
+Weitere [&#x200B; zu Eingabeaufforderungen finden Sie &#x200B;](/help/user-guide/effective-prompts.md)Schreiben effektiver Eingabeaufforderungen).
 
 **So geben Sie eine Eingabeaufforderung ein**:
 
@@ -83,7 +83,7 @@ Bevor Sie auswählen, was zur Genehmigung oder Veröffentlichung an [!DNL Conten
 
 **Überarbeiten generierter Varianten**:
 
-* **Um [ Meta-Anzeigenentwurfsnamen zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie oben auf der Arbeitsfläche auf den Titel _Nicht benannter_&quot; und geben Sie einen neuen Titel ein.
+* **Um [&#x200B; Meta-Anzeigenentwurfsnamen zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie oben auf der Arbeitsfläche auf den Titel _Nicht benannter_&quot; und geben Sie einen neuen Titel ein.
 * **Um [eine Meta-Anzeige manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)** doppelklicken Sie auf einen der Anzeigenabschnitte (z. B. die Betreffzeile, die Kopfzeile oder die Textkörper-Kopie) und bearbeiten Sie ihn nach Bedarf.
 * **Um den Aktionsaufruf zu ändern oder auszuwählen** klicken Sie auf die Schaltfläche für den Aktionsaufruf und wählen Sie aus den verfügbaren Textoptionen für die Schaltfläche aus. Geben _[!UICONTROL unter]_ Link“ eine URL für den Text der Aktionsaufforderung ein.
 * **Um [Größe und Seitenverhältnis der Anzeige zu ändern](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** klicken Sie auf die Schaltfläche _[!UICONTROL Größe ändern]_ (Feld mit einem Schaltflächensymbol auf der linken Seite der Arbeitsfläche) und wählen Sie eine neue Größe und ein neues Seitenverhältnis aus, das auf alle Varianten angewendet werden soll. Die Varianten werden dupliziert und in der Größe angepasst.
@@ -97,7 +97,7 @@ Um [Feedback](/help/user-guide/create/manage-variants.md#generation-feedback) zu
 
 ## Markenausrichtung überprüfen
 
-Um die generierten Anzeigen zu optimieren und die strikte Einhaltung der Markenidentität sicherzustellen, nutzen Sie die Leistungsfähigkeit der [_Prüfung der Markenrichtlinien_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - mit einer Zusammenfassung der Markenausrichtung für eine Variante - und des Bedienfelds [_Markenvalidierung_, ](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) umfassende Details zur Markenvalidierung und aufschlussreiche Verbesserungsbereiche anzeigt.
+Um die generierten Anzeigen zu optimieren und die strikte Einhaltung der Markenidentität sicherzustellen, nutzen Sie die Leistungsfähigkeit der [_Prüfung der Markenrichtlinien_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - mit einer Zusammenfassung der Markenausrichtung für eine Variante - und des Bedienfelds [_Markenvalidierung_, &#x200B;](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) umfassende Details zur Markenvalidierung und aufschlussreiche Verbesserungsbereiche anzeigt.
 
 **So überprüfen Sie die Markenausrichtung**:
 
@@ -105,7 +105,7 @@ Um die generierten Anzeigen zu optimieren und die strikte Einhaltung der Markeni
 1. Um Details zu den Abschnitten und Richtlinien zu erhalten, die verbessert werden müssen, klicken Sie auf **[!UICONTROL Überprüfen]** _oder_ klicken Sie auf das Symbol für die Markenvalidierung in der oberen Menüleiste, um das Bedienfeld [_Markenvalidierung_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) zu öffnen.
 
 1. Schalten Sie durch jede Anzeige, um zu sehen, wie Sie die generierten Inhalte verbessern können, um sie markenorientierter zu gestalten.
-1. [Überarbeiten Sie die Anzeigen ](#revise-generated-meta-ads), um sicherzustellen, dass Ihre Anzeigen eng mit Ihrer Marke abgestimmt sind.
+1. [Überarbeiten Sie die Anzeigen &#x200B;](#revise-generated-meta-ads), um sicherzustellen, dass Ihre Anzeigen eng mit Ihrer Marke abgestimmt sind.
 
 Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).
 
@@ -115,12 +115,12 @@ Verwenden Sie das Bedienfeld Genehmigungen , auf das über die obere Menüleiste
 
 **Um Bewertungen und Genehmigungen zu erhalten**:
 
-1. [eine Genehmigungsanfrage starten](/help/user-guide/approvals/request-review.md) um eine [Genehmigung entworfener Meta-Anzeigen-Erlebnisse“ ](/help/user-guide/approvals/approve-content.md).
+1. [eine Genehmigungsanfrage starten](/help/user-guide/approvals/request-review.md) um eine [Genehmigung entworfener Meta-Anzeigen-Erlebnisse“ &#x200B;](/help/user-guide/approvals/approve-content.md).
 1. [Entfernen oder Hinzufügen von Reviewern](/help/user-guide/approvals/review-and-edit.md#manage-approvals) während des Überprüfungsprozesses
 1. [Zugriff auf den Inhalt zur Überprüfung](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) und Anzeigen der Überarbeitungsanfragen.
 1. Bearbeiten Sie die Entwürfe pro Überprüfungskommentar und [veröffentlichen Sie Ihre Meta-Anzeigen-Erlebnisse](#publish-and-export-experience).
 
-Weitere Informationen finden [ unter ](/help/user-guide/approvals/overview.md) und Genehmigungen .
+Weitere Informationen finden [&#x200B; unter &#x200B;](/help/user-guide/approvals/overview.md) und Genehmigungen .
 
 ## Publish und Exporterlebnis
 
@@ -136,4 +136,4 @@ Weitere Informationen finden Sie unter [[!DNL Content]](/help/user-guide/content
 
 Sie können GenStudio for Performance Marketing mit Meta verbinden, um erweiterte Analysen und [Einblicke](/help/user-guide/insights/overview.md) in die Content-Performance zu erhalten.
 
-Weitere Informationen finden [ unter &quot;](/help/user-guide/insights/connect-channel.md)-Kanalkonto verbinden“.
+Weitere Informationen finden [&#x200B; unter &quot;](/help/user-guide/insights/connect-channel.md)-Kanalkonto verbinden“.

@@ -27,7 +27,7 @@ GenStudio for Performance Marketing nutzt die Leistungsfähigkeit generativer KI
 
 Beginnen Sie damit, GenStudio for Performance Marketing effektiv in den Branding-, Kunden- und Produktbeschreibungen Ihres Unternehmens mithilfe der leistungsstarken Funktion „Markenrichtlinien“ zu schulen.
 
-Informationen zum Vorbereiten und Hochladen [ Richtlinien finden ](../user-guide/guidelines/overview.md) unter „Richtlinien - Übersicht“.
+Informationen zum Vorbereiten und Hochladen [&#x200B; Richtlinien finden &#x200B;](../user-guide/guidelines/overview.md) unter „Richtlinien - Übersicht“.
 
 ## Inhaltslebenszyklus
 

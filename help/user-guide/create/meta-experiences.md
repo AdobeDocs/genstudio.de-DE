@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Meta-Erlebnisse
 
-Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwenden, um die [Erstellung wirkungsvoller Meta-Erlebnisse“ zu ](/help/tutorials/create-meta-ad.md).
+Mit Adobe GenStudio for Performance Marketing können Sie generative KI verwenden, um die [Erstellung wirkungsvoller Meta-Erlebnisse“ zu &#x200B;](/help/tutorials/create-meta-ad.md).
 
 [!DNL Create] ermöglicht es Inhaltserstellern, [Richtlinien](/help/user-guide/guidelines/overview.md) Bild-Assets und eine [gut gestaltete Eingabeaufforderung](/help/user-guide/effective-prompts.md) zu verwenden, um schnell [Meta-Anzeigenerlebnisse zu erstellen](/help/tutorials/create-meta-ad.md).
 

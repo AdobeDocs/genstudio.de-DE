@@ -29,11 +29,11 @@ Die Detailansicht enthält eine Metrik zur gesamten `click-through rate`, `cost 
 
 ### Textattribute
 
-Unter der Erlebnisvorschau befindet sich eine Liste mit [!UICONTROL Textattributen] die mit der Anzeige verknüpft sind. Wenn Assets und Erlebnisse in [!DNL Content] genehmigt und gespeichert werden, generiert GenStudio for Performance Marketing Tags basierend auf ihren inhärenten Funktionen. Weitere [ zu Systemmetadaten finden Sie ](../content/asset-details.md#system-metadata) „Asset-Details“.
+Unter der Erlebnisvorschau befindet sich eine Liste mit [!UICONTROL Textattributen] die mit der Anzeige verknüpft sind. Wenn Assets und Erlebnisse in [!DNL Content] genehmigt und gespeichert werden, generiert GenStudio for Performance Marketing Tags basierend auf ihren inhärenten Funktionen. Weitere [&#x200B; zu Systemmetadaten finden Sie &#x200B;](../content/asset-details.md#system-metadata) „Asset-Details“.
 
 ### Platzierungen hinzufügen
 
-Zum Zeitpunkt der Erstellung einer Kampagne mit Meta-Anzeigen haben Sie möglicherweise anhand des Kampagnenziels ausgewählt[ wo Ihre Anzeigen geschaltet ](channels.md#objectives). Anzeigenplatzierungen erweitern die Reichweite der Zielgruppe für Ihre Anzeige.
+Zum Zeitpunkt der Erstellung einer Kampagne mit Meta-Anzeigen haben Sie möglicherweise anhand des Kampagnenziels ausgewählt[&#x200B; wo Ihre Anzeigen geschaltet &#x200B;](channels.md#objectives). Anzeigenplatzierungen erweitern die Reichweite der Zielgruppe für Ihre Anzeige.
 
 GenStudio for Performance Marketing unterstützt Anzeigenformate wie Asset-Feeds, Link-Anzeigen und Einzelbilder oder Videos. Im Folgenden finden Sie eine Liste der Anzeigenformate nach Plattform:
 

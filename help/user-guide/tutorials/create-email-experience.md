@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In diesem Tutorial erfahren Sie, wie Sie mit [&#128279;](/help/user-guide/create/email-experiences.md) GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (Pinselsymbol im linken Navigationsbereich markenspezifische E-Mail-Erlebnisse generieren können.
 
-Um ein effektives E-Mail-Erlebnis zu schaffen, wird empfohlen, dass Sie [Richtlinien zu GenStudio for Performance Marketing hinzufügen](/help/user-guide/guidelines/add-guidelines.md) und die [Grundlagen der Erstellung einer Eingabeaufforderung) ](/help/user-guide/effective-prompts.md), bevor Sie beginnen.
+Um ein effektives E-Mail-Erlebnis zu schaffen, wird empfohlen, dass Sie [Richtlinien zu GenStudio for Performance Marketing hinzufügen](/help/user-guide/guidelines/add-guidelines.md) und die [Grundlagen der Erstellung einer Eingabeaufforderung) &#x200B;](/help/user-guide/effective-prompts.md), bevor Sie beginnen.
 
 ## Vorlage wählen
 
@@ -62,7 +62,7 @@ Wenn Sie mit dem Hinzufügen von Parametern fertig sind, können Sie den Eingabe
 
 Nachdem Richtlinien ausgewählt wurden, erstellen Sie eine Eingabeaufforderung mit natürlicher Sprache, um mit der Generierung von Inhalten für Ihr neues E-Mail-Erlebnis zu beginnen. Detaillierte Eingabeaufforderungen liefern eine bessere Ausgabe als vage oder unbeschreibende Eingabeaufforderungen.
 
-Weitere [ zu Eingabeaufforderungen finden Sie ](/help/user-guide/effective-prompts.md)Schreiben effektiver Eingabeaufforderungen).
+Weitere [&#x200B; zu Eingabeaufforderungen finden Sie &#x200B;](/help/user-guide/effective-prompts.md)Schreiben effektiver Eingabeaufforderungen).
 
 **So geben Sie eine Eingabeaufforderung ein**:
 
@@ -79,8 +79,8 @@ Bevor Sie auswählen, was zur Genehmigung oder Veröffentlichung an [!DNL Conten
 
 **Überarbeiten generierter Varianten**:
 
-* **Um [ E-Mail-Entwurfsnamen zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie auf den Titel _Nicht benannter_&quot; oben auf der Arbeitsfläche und geben Sie einen neuen Titel ein.
-* **Um [ E-Mail manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)** doppelklicken Sie in eines der bearbeitbaren Textfelder (z. B. Betreffzeile, Kopfzeile oder Textkörper) und bearbeiten Sie sie nach Bedarf
+* **Um [&#x200B; E-Mail-Entwurfsnamen zu bearbeiten](/help/user-guide/create/manage-variants.md#change-draft-name)** klicken Sie auf den Titel _Nicht benannter_&quot; oben auf der Arbeitsfläche und geben Sie einen neuen Titel ein.
+* **Um [&#x200B; E-Mail manuell zu bearbeiten](/help/user-guide/create/manage-variants.md#manually-edit-text)** doppelklicken Sie in eines der bearbeitbaren Textfelder (z. B. Betreffzeile, Kopfzeile oder Textkörper) und bearbeiten Sie sie nach Bedarf
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
 * **Um [Bilder in einer Variante hinzuzufügen oder auszutauschen](/help/user-guide/create/manage-variants.md#swap-image)** klicken Sie auf ein Bild-Asset (oder den Bereich des Bild-Assets, wenn derzeit kein Bild vorhanden ist) und klicken Sie auf **[!UICONTROL Aus Inhalt auswählen/]** oder **[!UICONTROL Neues Bild hochladen]**, um ein Bild in einer einzelnen Variante hinzuzufügen oder auszutauschen.
 * **Um [E-Mail zu löschen](/help/user-guide/create/manage-variants.md#delete-variant)** klicken Sie auf , um den E-Mail-Titel auszuwählen (z. B. „E-Mail 1/4„), und klicken Sie dann auf **[!UICONTROL Variante löschen]**.
@@ -95,7 +95,7 @@ Beim Überarbeiten und Vorbereiten von E-Mail-Erlebnissen können Sie [zwischen 
 
 ## Markenausrichtung überprüfen
 
-Um die generierten E-Mails zu optimieren und die strikte Einhaltung der Markenidentität sicherzustellen, nutzen Sie die Leistungsfähigkeit der [_Prüfung der Markenrichtlinien_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - mit einer Zusammenfassung der Markenausrichtung für eine Variante - und des [_Bedienfelds Markenvalidierung_, ](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) umfassende Details zur Markenvalidierung und aufschlussreiche Bereiche für die Verbesserung anzuzeigen.
+Um die generierten E-Mails zu optimieren und die strikte Einhaltung der Markenidentität sicherzustellen, nutzen Sie die Leistungsfähigkeit der [_Prüfung der Markenrichtlinien_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - mit einer Zusammenfassung der Markenausrichtung für eine Variante - und des [_Bedienfelds Markenvalidierung_, &#x200B;](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) umfassende Details zur Markenvalidierung und aufschlussreiche Bereiche für die Verbesserung anzuzeigen.
 
 **So überprüfen Sie die Markenausrichtung**:
 
@@ -103,7 +103,7 @@ Um die generierten E-Mails zu optimieren und die strikte Einhaltung der Markenid
 1. Um Details zu den Abschnitten und Richtlinien zu erhalten, die verbessert werden müssen, klicken Sie auf **[!UICONTROL Überprüfen]** _oder_ klicken Sie auf das Symbol für die Markenvalidierung in der oberen Menüleiste, um das Bedienfeld [_Markenvalidierung_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) zu öffnen.
 
 1. Schalten Sie durch jede E-Mail, um zu sehen, wie Sie die generierten Inhalte verbessern können, um sie markenorientierter zu gestalten.
-1. [Überarbeiten Sie E-Mails ](#revise-generated-emails), um sicherzustellen, dass Ihre E-Mails eng an Ihre Marke angepasst sind.
+1. [Überarbeiten Sie E-Mails &#x200B;](#revise-generated-emails), um sicherzustellen, dass Ihre E-Mails eng an Ihre Marke angepasst sind.
 
 Siehe [Markenvalidierung](/help/user-guide/guidelines/brand-validation.md).
 
@@ -113,12 +113,12 @@ Verwenden Sie das Bedienfeld Genehmigungen , auf das über die obere Menüleiste
 
 **Um Bewertungen und Genehmigungen zu erhalten**:
 
-1. [eine Genehmigungsanfrage starten](/help/user-guide/approvals/request-review.md) um eine [Genehmigung entworfener E-Mail-Erlebnisse“ ](/help/user-guide/approvals/approve-content.md).
+1. [eine Genehmigungsanfrage starten](/help/user-guide/approvals/request-review.md) um eine [Genehmigung entworfener E-Mail-Erlebnisse“ &#x200B;](/help/user-guide/approvals/approve-content.md).
 1. [Entfernen oder Hinzufügen von Reviewern](/help/user-guide/approvals/review-and-edit.md#manage-approvals) während des Überprüfungsprozesses
 1. [Zugriff auf den Inhalt zur Überprüfung](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) und Anzeigen der Überarbeitungsanfragen.
 1. Bearbeiten Sie die Kommentare zu Entwürfen pro Überprüfung und [veröffentlichen Sie Ihre E-Mail-Erlebnisse](#publish-and-export-experience).
 
-Weitere Informationen finden [ unter ](/help/user-guide/approvals/overview.md) und Genehmigungen .
+Weitere Informationen finden [&#x200B; unter &#x200B;](/help/user-guide/approvals/overview.md) und Genehmigungen .
 
 ## Publish und Exporterlebnis
 
